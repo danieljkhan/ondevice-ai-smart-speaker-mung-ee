@@ -1,0 +1,418 @@
+{
+  "schema_version": 2,
+  "doc_hash": "094a5d521df25c0b",
+  "source_file": "eh_r0352_0010.pdf",
+  "title": "개항기 서양의 침략을 막아낸 강화도 유적",
+  "kind": "artifact",
+  "era": "근대",
+  "era_source": "keyword",
+  "scene_count": 15,
+  "section_count": 7,
+  "image_count": 14,
+  "est_total_ms": 735100,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "조선, 프랑스와 미국에 맞서 싸우다",
+      "scene_indices": [
+        0,
+        1,
+        2
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3
+      ],
+      "image_captions": [
+        "강화도 광성보의 용두돈대(인천 강화군)",
+        "강화도에 상륙하는 미군(강화역사박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        3
+      ],
+      "scene_seq": [
+        4
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "초지진",
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "한성을 지키던 한강의 관문, 문수산성",
+      "scene_indices": [
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "문수산성 장대에서 바라본 강화도(김포문화재단)",
+        "정족산성 남문",
+        "초지진의 초지돈대",
+        "초지진과 상처 입은 소나무"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        9,
+        10
+      ],
+      "scene_seq": [
+        10,
+        11
+      ],
+      "image_captions": [
+        "강화방어지도(1876) 속 광성보(대한민국역사박물관)"
+      ],
+      "is_infographic": true
+    },
+    {
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 연무당과 조선의 개항",
+      "scene_indices": [
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "운요호 모형(전쟁기념관)",
+        "연무당 옛터(독립기념관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": null,
+      "scene_indices": [
+        14
+      ],
+      "scene_seq": [
+        15
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "조선, 프랑스와 미국에 맞서 싸우다",
+      "narration": "개항기 서양의 침략을 막아낸 강화도 유적\n“우리 함대에 포를 쏜다는 것은 전쟁을 하자는 것인가?”\n“우리 바다를 허락 없이 넘어온 것은 그대들이 아닌가?”\n조선 말기 서양의 여러 나라가 조선에 함포로 무장한 배를 보내 무역 협상을 요구했어요. 조선은 아시아의 여러 나라를 무력으로 개항시킨 서양을 믿지 않았어요.\n서양은 왜 배와 대포를 앞세워 무역을 요구했을까요? 조선은 서양의 위협에 어떻게 대처했을까요?\n조선, 프랑스와 미국에 맞서 싸우다\n유럽과 미국을 비롯한 서양 여러 나라는 발전된 과학기술을 바탕으로 대양을 건너 아시아 여러 나라로 나아갔어요. 인도를 비롯해 아시아 여러 나라에 도착한 서양은 강력한 무기를 앞세워 통상을 요구하였어요.\n그들의 뜻이 받아들여지지 않으면 대포를 쏘고 육지에 상륙해 죄 없는 백성들을 죽이기도 하였어요.",
+      "est_speech_ms": 60000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "강화도 광성보의 용두돈대(인천 강화군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_001.jpg",
+          "caption": "강화도 광성보의 용두돈대(인천 강화군)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "조선, 프랑스와 미국에 맞서 싸우다",
+      "narration": "맞서 싸울 힘이 약한 나라는 식민지가 되었어요. 강제로 중국과 일본을 먼저 개항시킨 서양은 조선에도 관심을 가졌어요.\n조선에 가장 먼저 관심을 가진 나라는 프랑스였어요. 1866년 프랑스는 흥선대원군의 천주교 박해를 이유로 조선에 군함을 보내 강압적으로 조약 체결을 요구했어요. 조선은 서양의 의도를 믿을 수 없어 조약 체결을 거부하였죠.\n그러자 프랑스는 군대를 강화도에 상륙시켜 강화성을 점령해 버렸어요. 강한 군사력을 앞세우면 조선 정부가 포기하고 협상에 나설 것이라 생각한 것이에요.\n프랑스의 예상과 달리 조선 정부는 강화도 건너편에 있던 문수산성에 군사를 보내 프랑스군에 맞섰어요. 프랑스군은 문수산성의 조선군을 물리치면 조선 정부가 반드시 협상에 나설 거라 생각했어요.",
+      "est_speech_ms": 56600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "조선, 프랑스와 미국에 맞서 싸우다",
+      "narration": "프랑스군은 곧 문수산상의 조선군을 공격했지만, 거꾸로 조선군의 기습 공격에 패하여 다시 강화성으로 돌아갔어요.\n문수산성에서 프랑스군을 물리치고 사기가 오른 조선군은 은밀하게 강화도 남쪽으로 상륙해 정족산성에서 전투를 준비했어요. 프랑스군은 조선군이 정족산성에 상륙했다는 정보를 듣고 150여 명의 군대를 보내 정족산성의 조선군을 강화도에서 몰아내고자했어요.\n프랑스군이 산성에 접근하자 조선군은 화승총을 쏘며 공격을 했어요. 프랑스군은 우수한 무기를 앞세워 정족산성을 공격했지만, 조선군의 저항에 많은 병사가 죽거나 다쳤어요.\n정족산성을 점령하기 힘들자 프랑스군은 결국 강화성으로 돌아갔어요. 그리고 힘으로 조선과 협상할 수 없음을 깨닫고 청으로 돌아갔어요.",
+      "est_speech_ms": 56600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "강화도에 상륙하는 미군(강화역사박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_018.jpg",
+          "caption": "강화도에 상륙하는 미군(강화역사박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "이 사건이 바로 병인양요에요.\n병인년에 서양에 의해 발생한 소란이라는 뜻이지요.\n전투가 치러지는 동안 프랑스군은 강화도 외규장각에 보관된 책과 보물을 훔쳐가기도 했어요. 이 책들의 일부는 2011년에 프랑스가 빌려주는 형식으로 우리나라에 돌아왔어요.\n프랑스가 물러나고 얼마 되지 않은 1871년에는 미국이 함대를 강화도에 보냈어요. 미국은 함포를 쏘아 일본 정부를 굴복시키고, 조약을 체결한 경험이 있었어요. 미국은 똑같은 방법으로 조선을 개항시키려고 했어요.\n강화도 앞바다에 나타난 미국 함대는 함포를 쏘며 조선 정부를 협박했지요. 하지만 조선은 이전에 프랑스군을 물리친 경험이 있었어요. 이번에도 미국 함대의 무력에 쉽게 굴복하지 않고 맞서 싸우는 선택을 했어요.",
+      "est_speech_ms": 55800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "초지진",
+      "narration": "미국 함대는 함포로 미리 초지진의 성벽을 파괴하고 병사들을 상륙시켜 점령했어요. 그리고 함대와 함께 해안을 따라 올라가며 조선군의 요새들을 하나씩 점령해 갔어요.\n미군의 거센 공격으로 여러 요새를 잃은 조선군은 광성보에서 최후의 전투를 준비했어요. 광성보에는 돌로 쌓은 여러 요새와 많은 화포가 준비되어 있었어요.\n광성보에 도착한 미국 군함은 함포로 수많은 포탄을 쏘았어요. 손돌목돈대를 비롯해 여러 성벽이 파괴되자 미군은 병사들을 작은 배에 태워 광성보에 상륙시켰어요. 조선군은 상륙한 미군에 맞서 끝까지 싸웠으나 결국 미군에게 광성보를 빼앗기고 말았어요.",
+      "est_speech_ms": 46800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "초지진",
+      "narration": "광성보 전투 이후에도 조선 정부는 끝까지 협상을 거부했어요. 더 큰 피해가 생길 것을 걱정한 미국도 프랑스처럼 함대를 돌려 강화도에서 물러났어요. 이 사건은 신미년에 벌어졌다고 해서 신미양요라고 불러요.\n프랑스와 미국의 침략을 막아낸 조선! 외적에 맞서 조선군이 활약한강화도의 여러 유적들을 살펴보아요.\n개항기 서양의 침략을 막아낸 강화도 유적",
+      "est_speech_ms": 28600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_040.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_041.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.25
+        },
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_042.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_045.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.75
+        },
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_046.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "한성을 지키던 한강의 관문, 문수산성",
+      "narration": "한성을 지키던 한강의 관문, 문수산성\n김포에서 제일 높은 문수산은 한강을 사이에 두고 강화도와 마주하고 있어요. 이 곳은 한강과 황해가 만나기도 하는 곳이어서 한성으로 가는 한강의 뱃길을 한눈에 내려다볼 수 있는 요새이지요.\n문수산성의 가장 높은 곳에 만든 장대(將臺)에서 강화도와 한강의 모습을 훤히 볼 수 있답니다. 문수산성 아래 갑곶나루는 강화도로 들어가는 배들의 나루터로 강화대교가 지어지기 전까지 사용되었어요.\n병인양요 당시 조선군은 무기나 병력이 부족했지만, 위치상 방어하기에 유리한 문수산성에 의지해 프랑스군을 공격하여 물리쳤어요.",
+      "est_speech_ms": 45400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "문수산성 장대에서 바라본 강화도(김포문화재단)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_047.jpg",
+          "caption": "문수산성 장대에서 바라본 강화도(김포문화재단)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "한성을 지키던 한강의 관문, 문수산성",
+      "narration": "정족산성\n정족산성은 단군의 아들이 만들었다는 이야기가 전해질 만큼 아주 오래된 성이에요. 강화도 남쪽에 위치한 이 산성은 고려시대에는 바다에서 개경으로 들어오는 입구를 방어하는 중요한 성이었어요.\n정족산성은 산의 능선과 계곡을 따라서 돌을 쌓아 만들었어요. 산성의 3면은 높은 산에 의지해 돌을 쌓아 접근하기가 어렵고, 남문은 계곡을 따라 가장 낮은 곳에 만들었어요.\n조선 시대에는 정족산성에 사고를 지어 조선왕조실록과 같은 왕실의 중요한 서책들을 보관하였어요. 이것은 정족산성이 다른 장소보다 중요한 물건을 보관하기에 알맞은 곳이라 생각했던 것 같아요.",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정족산성 남문"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_054.jpg",
+          "caption": "정족산성 남문",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "한성을 지키던 한강의 관문, 문수산성",
+      "narration": "병인양요 당시 조선군은 프랑스군에 맞서 정족산성의 남문과 동문에서 큰 전투를 치렀어요.\n이 전투에서 양헌수 장군을 비롯한 조선군들은 우수한 무기를 가진 프랑스군에 맞서 싸워 이겼고, 프랑스군은 결국 조선을 떠나게 되었어요. 프랑스군의 침략으로 약탈당한 문화유산도 있지만 정족산성에서의 승리로 조선왕조실록 같은 중요한 서책들을 보호할 수 있었어요.\n초지진\n강화도에 방어시설인 진과 보가 만들어지기 시작한 것은 고려 몽골 침략 시기였어요. 강화도로 천도한 고려 조정은 해안을 따라 성벽을 쌓아 몽골군의 상륙을 막고자했어요. 성벽의 사이사이에 군사들이 거주하는 ‘진’을 만들고, 진과 진 사이에 ‘보’를, 진과 보 사이에 규모가 작은 ‘돈대’ 여러 개를 만들었어요.",
+      "est_speech_ms": 54000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "초지진의 초지돈대",
+        "초지진과 상처 입은 소나무"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_064.jpg",
+          "caption": "초지진의 초지돈대",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_069.jpg",
+          "caption": "초지진과 상처 입은 소나무",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "조선 시대에도 한성의 입구인 강화도를 방어하기 위해 여러 시설을 수리하여 지금의 모습을 갖추었어요. 현재 강화도에는 5진 7보 53개의 돈대가 있어요.\n여러 방어시설 중 초지진은 강화도의 남쪽 끝에 있었어요. 그래서 서해를 거쳐 강화도로 들어오는 서양 함대의 침략을 가장 먼저 막는 곳이 되었어요. 병인양요와 신미양요 당시 첫 전투가 벌어진 곳도 초지진이었고, 나 중에 조선 개항의 빌미가 된 운요호 사건에서도 초지진은 첫 공격 대상이 되어 큰 피해를 입었어요.\n현재 초지돈대 옆에 서 있는 소나무에는 그때 생긴 포탄 자국이 그대로 남아 있어요. 외세의 침략에 맞서 목숨을 바쳐 치열하게 싸웠던 조상들의 모습을 소나무는 지금도 말해주고 있어요.",
+      "est_speech_ms": 52400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "광성보\n광성보는 손돌목 주변을 지키던 요새에요. 손돌목은 폭이 좁고 구부러져 있어 물살이 빠르게 흐르는 곳이에요.\n이곳을 지키던 광성보는 뱃길로 강화도 앞바다에서 한성의 마포나루까지 올라갈 때 반드시 거쳐야 하는 곳이었죠. 광성보는 평상시에는 한성으로 곡식을 운반하는 뱃길로, 전쟁 때는 적의 함선을 방어하는 요새로 사용되었어요.\n광성보의 가장 높은 곳에는 손돌목돈대가 있어 주변 일대를 감시할 수 있었어요. 해안으로는 용두돈대와 여러 포대가 설치되어 강화도의 여러 요새 중 가장 강력한 방어시설이었어요.",
+      "est_speech_ms": 42200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "강화방어지도(1876) 속 광성보(대한민국역사박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_078.jpg",
+          "caption": "강화방어지도(1876) 속 광성보(대한민국역사박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 연무당과 조선의 개항",
+      "narration": "신미양요 당시 미군도 광성보를 공격해 점령했지만, 조선군의 강한 저항에 많은 피해를 입었어요. 광성보 전투는 미군이 조선에서 물러나는 계기가 되었어요.\n역사 속 작은 이야기: 연무당과 조선의 개항\n프랑스와 미국의 함대를 강화도에서 물리친 조선은 1875년 일본의 침략을 받았어요.\n1854년 미국 함대에 의해 강제로 개항을 한 일본은 빠르게 서양을 닮아 갔어요. 서양으로부터 우수한 함선과 무기를 수입한 일본은 자신들이 당한 그대로 조선을 위협해 조약을 맺으려했어요.\n일본의 첫 공격 목표도 프랑스나 일본처럼 배를 통해 한성(서울)으로 들어갈 수 있는 길목인 강화도였어요. 일일본은 증기선 운요호를 초지진에 보냈어요. 그리고 물을 구한다는 핑계를 대고 접근했어요. 낯선 배에 조선군이 당황하고 있을 때 운요호는 초지진에 함포를 쏘았어요.",
+      "est_speech_ms": 60800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "운요호 모형(전쟁기념관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_088.jpg",
+          "caption": "운요호 모형(전쟁기념관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 연무당과 조선의 개항",
+      "narration": "조선군도 반격하며 포를 쏘았어요. 다음날 초지진에 상륙한 일본군과 조선군 사이에 치열한 전투가 벌어졌어요. 일본군은 초지진을 파괴하고 다시 영종도를 공격하였어요. 영종도에서도 조선은 큰 피해를 입었어요.\n다음 해 일본은 군함 3척을 몰고 강화도에 다시 나타났어요. 곧이어 강화성 서문 옆의 연무당에서 운요호 사건을 처리하기 위한 협상이 벌어졌어요.",
+      "est_speech_ms": 29000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 연무당과 조선의 개항",
+      "narration": "“일본 국기를 단 배에 포를 쏘아 피해를 주었으니 손해 배상을 하시오!”\n“무슨 소리요! 당신들의 포격으로 초지진과 영종도의 많은 조선 백성이 죽었소. 손해 배상은 일본이 해야 할 것이오.”\n연무당에서는 운요호 사건으로 많은 피해를 입었다고 억지를 부리는 일본 대표와 이를 막으려는 조선 대표의 회의가 계속되었어요. 일본은 연무당 주변에 무장한 병사와 캐틀링포를 배치하고 조선 대표를 위협했어요.\n개항의 필요성을 느끼고 있던 조선은 결국 1876년 2월 일본과 강화도 조약으로도 불리는 ‘조일수호조규’를 체결했어요.",
+      "est_speech_ms": 41800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "연무당 옛터(독립기념관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/094a5d521df25c0b/fig_097.jpg",
+          "caption": "연무당 옛터(독립기념관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "강화도 조약은 세계 여러 나라에 조선의 항구를 연 첫 근대적 조약이었어요. 하지만 조약의 내용에는 조선의 산업을 지킬 수 있는 관세에 대한 내용도 없고, 범죄를 저지른 일본인을 조선이 처벌할 수도 없는 불평등한 조약이었어요.\n개항기 프랑스와 미국에 맞서 싸워 이겨낸 조선은 일본의 힘에 밀려 불평등한 조약을 맺으며 개항을 했어요. 불평등한 조건에서 시작한 일들은 조선의 국력을 약하게 만들었고, 결국 나라를 잃는 결과를 낳았어요.\n지금은 세계의 모든 나라와 경쟁도 하고 협력도 하는 세상이 되었어요. 치열하게 경쟁하고 있는 세계 속에 우리가 당당하게 살기 위해 어떤 노력을 해야 할지 강화도의 여러 사건을 되짚어 생각해 보아요.",
+      "est_speech_ms": 51000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "schema_version": 2,
+  "doc_hash": "7b0cde2efac5289b",
+  "source_file": "eh_n0580_0010.pdf",
+  "title": "김만덕, 제주도 백성을 구하다",
+  "kind": "people",
+  "era": "조선",
+  "era_source": "docnum",
+  "scene_count": 9,
+  "section_count": 7,
+  "image_count": 4,
+  "est_total_ms": 383100,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "“아이고, 우린 죄다 굶어 죽게 생겼네.”",
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "김만덕기념관(제주 제주시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "“어찌 지금까지 양민의 딸이 기생으로 살아왔는가?”",
+      "scene_indices": [
+        1
+      ],
+      "scene_seq": [
+        2
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "신분을 되찾은 김만덕은 새로운 도전에 나섰어요.",
+      "scene_indices": [
+        2
+      ],
+      "scene_seq": [
+        3
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "김만덕은 이런 세상의 변화를 실감하면서 장사에 나섰어요.",
+      "scene_indices": [
+        3
+      ],
+      "scene_seq": [
+        4
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "제주도 사람들의 목숨을 구하다",
+      "scene_indices": [
+        4
+      ],
+      "scene_seq": [
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "“어쩌면 이런 날을 위해 내가 그리 열심히 살았는지도 모르겠네.”",
+      "scene_indices": [
+        5
+      ],
+      "scene_seq": [
+        6
+      ],
+      "image_captions": [
+        "백성들에게 곡식을 나워주는 김만덕"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "이를 전해들은 김만덕은 이야기했어요.",
+      "scene_indices": [
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "정조를 만나는 김만덕",
+        "금강산을 여행하는 김만덕"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "“아이고, 우린 죄다 굶어 죽게 생겼네.”",
+      "narration": "김만덕, 제주도 백성을 구하다\n“아이고, 우린 죄다 굶어 죽게 생겼네.”\n“하늘도 무심하지 어떻게 이런 일이 있나.”\n“어쩌다 이런 일이 생겼는지……”\n몇 년째 가뭄이 들어 살기가 어려웠는데 큰 태풍까지 불어닥치는 바람에 제주도 사람들은 맥이 빠졌어요. 그때 이런 위기를 극복하게 도와 준 사람이 있었어요. 과연 그 사람은 누구일까요?\n어려운 환경을 딛고 일어서다.\n제주도의 위기를 극복하게 도와 준 사람은 바로 김만덕이에요. 사실 김만 덕은 넉넉한 환경에서 자란 부자가 아니었어요.",
+      "est_speech_ms": 37400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "김만덕기념관(제주 제주시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/7b0cde2efac5289b/fig_001.jpg",
+          "caption": "김만덕기념관(제주 제주시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "“어찌 지금까지 양민의 딸이 기생으로 살아왔는가?”",
+      "narration": "오히려 12세에 부모를 잃고 외삼촌의 집에서 살다가, 기녀의 집에 맡겨졌어요. 이후 김만덕은 기생의 집에서 더부살이를 하다가 양민에서 기생이 되었어요. 하지만 김만덕은 용기를 잃지 않고 차근차근 신분을 되찾기 위해 준비하였어요. 20세가 된 김만덕은 제주도를 다스리는 관리를 찾아갔어요.\n“저는 원래 양민의 딸로 태어났습니다. 부디 저를 기생의 신분에서 벗어나 양민으로 살아가게 해 주시옵소서.”\n“어찌 지금까지 양민의 딸이 기생으로 살아왔는가?”\n김만덕은 자신이 살아온 이야기를 하면서 신분을 되돌려 달라고 했어요. 관리는 용감하게 자신의 이야기를 한 김만덕의 사정을 듣고 소원대로 신분을 되찾도록 도와주었어요.",
+      "est_speech_ms": 50600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 2,
+      "section_title": "신분을 되찾은 김만덕은 새로운 도전에 나섰어요.",
+      "narration": "신분을 되찾은 김만덕은 새로운 도전에 나섰어요.\n꾸준히 일을 하며 모은 돈을 가지고 김만덕은 장사를 시작했어요. 김만덕은 곡식은 육지에서 사고 수산물과 귤 등 특산물을 내다파는 제주도의 특징을 눈여겨보면서 오래전부터 장사 준비를 해 왔어요.\n장사로 큰 부자가 되다.\n처음 장사를 시작한 김만덕은 상인들을 통해 장사하는 방법을 배웠어요.\n처음에는 장사가 쉽지 않았어요. 하지만 김만덕은 달라지는 당시 조선 후기의 변화를 온몸으로 익히면서 차츰 장사에 소질을 드러내기 시작했어요.\n조선 후기에는 사회가 크게 변했어요. 조선 후기 모내기법이 널리 퍼지면서 쌀 수확량이 크게 늘었어요. 또한 다른 나라에서 감자, 고추 등 새로운 농작물이 들어와 먹을거리가 넉넉해지고, 인삼과 담배 등을 재배하고 이를 사고팔면서 곳곳에 장이 들어서고 상업이 발달했어요.",
+      "est_speech_ms": 61200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 3,
+      "section_title": "김만덕은 이런 세상의 변화를 실감하면서 장사에 나섰어요.",
+      "narration": "김만덕은 이런 세상의 변화를 실감하면서 장사에 나섰어요.\n제주도에서 나는 생선과 전복 등 특산물을 육지에 팔고, 육지에서 나온 곡식이 나 상품 등을 제주도에 파는 장사를 통해 큰 부자가 되었어요. 하지만 그녀는 부자가 되었다고 해서 변하지 않고 어려운 시절을 떠올리며 검소하게 살았어요.",
+      "est_speech_ms": 23400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 4,
+      "section_title": "제주도 사람들의 목숨을 구하다",
+      "narration": "제주도 사람들의 목숨을 구하다\n김만덕이 제주도에서 큰 상인으로 자리 잡아가고 있던 1795년 엄청난 태풍이 제주도를 휩쓸고 지나갔어요. 태풍 때문에 제주도에서는 집들이 무너지고, 농부들이 열심히 가꾼 곡식들은 다 쓰러졌어요. 결국 마을 곳곳에서 먹을 것이 없어 많은 사람들이 굶주렸어요.\n정조 임금은 제주도 사람들을 도우라고 명을 내렸어요. 그런데 하필이면 이 때 태풍이 불어닥쳐 임금이 보낸 곡식 2만 섬을 실은 배들이 부서져 그만 그 많은 곡식들은 제주도에 제대로 도착하지 못했어요. 이로 인해 제주도 사람들은 큰 어려움에 처했어요.",
+      "est_speech_ms": 44200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 5,
+      "section_title": "“어쩌면 이런 날을 위해 내가 그리 열심히 살았는지도 모르겠네.”",
+      "narration": "“여태까지 그렇게 고생해서 모은 전 재산을 이렇게 내어놓으면 어떻게 합니까?”\n“아닐세. 재산을 모으는 것도 중요하지만, 진짜 필요할 때는 아낌없이 써야 하는 법이네.”\n“제대로 된 옷도 없고, 늘 소박한 음식만 드셨는데.. 전 재산을 내어 놓다니요?”\n“어쩌면 이런 날을 위해 내가 그리 열심히 살았는지도 모르겠네.”\n김만덕은 허허 웃으며 자신의 전 재산을 어려움에 빠진 제주도 사람들을 위해 내놓으며 굶주리는 사람들을 도왔어요. 많은 사람들이 김만덕의 은혜를 칭송했어요.\n“우리를 살려준 김만덕의 은혜를 잊지 말자.”\n임금인 정조는 이 소식을 듣고 분부했어요.\n“만덕에게 소원을 묻고 그것을 들어주거라.”",
+      "est_speech_ms": 47000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "백성들에게 곡식을 나워주는 김만덕"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/7b0cde2efac5289b/fig_033.jpg",
+          "caption": "백성들에게 곡식을 나워주는 김만덕",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 6,
+      "section_title": "이를 전해들은 김만덕은 이야기했어요.",
+      "narration": "이를 전해들은 김만덕은 이야기했어요.\n“서울에 가서 임금이 계신 곳을 바라보고, 금강산에 가서 말로만 듣던 일만 이천 봉을 구경할 수 있다면 여한이 없겠습니다.”\n당시 조선 사회에서는 제주도의 여인이 바다를 건너는 것을 금지했어요. 하지만 정조는 특별히 김만덕을 내의원의녀로 삼아서 궁궐에 올 수 있도록 했어요.\n“고개를 들라. 과인은 그대에게 큰 상을 내리고 싶다. 어찌 그 많은 재산을 다 나눠줄 수 있었는가?” “소인은 그저 사람으로서 할 도리를 했을 따름입니다.”\n“허허, 그 마음 또한 기특하도다.”\n정조는 김만덕에게 소원이라고 했던 금강산을 둘러볼 수 있게 해주었어요. 덕분에 김만덕은 아름다운 금강산에 직접 다녀올 수 있었어요.",
+      "est_speech_ms": 50200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정조를 만나는 김만덕",
+        "금강산을 여행하는 김만덕"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/7b0cde2efac5289b/fig_043.jpg",
+          "caption": "정조를 만나는 김만덕",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/7b0cde2efac5289b/fig_052.jpg",
+          "caption": "금강산을 여행하는 김만덕",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 6,
+      "section_title": "이를 전해들은 김만덕은 이야기했어요.",
+      "narration": "이후 수많은 관리와 선비들은 서울에 온 김만덕을 직접 만나보고 싶어했어요. 당시 영의정 채제공과 정약용을 비롯한 많은 사람들은 김만덕을 만나고 그 기록을 남겼어요.\n사람들은 김만덕의 큰 인품을 칭찬하며 시를 짓고 그녀를 칭찬했어요. 이런 내용은 채제공이 김만덕을 만나 그녀의 이야기를 기록한 만덕전을 통해 널리 알려지게 되었어요.\n이후 김만덕은 제주도에서 열심히 살아가다가 73세에 세상을 떠났어요. 김만덕은 금강산 여행을 떠올리면서 행복하게 눈을 감았다고 해요.\n김만덕이 숨을 거둔 이후 제주도로 온 추사 김정희는 ‘은혜로운 빛이 여러 세대로 이어진다’는 글을 쓰며 김만덕에게 감사한 마음을 표시했어요.",
+      "est_speech_ms": 50200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 6,
+      "section_title": "이를 전해들은 김만덕은 이야기했어요.",
+      "narration": "지금도 제주도에서는 ‘만덕상’을 만들어 해마다 김만덕처럼 아름답게 산 사람들에게 상을 주고 있어요. 김만덕이 펼친 나눔을 통해 진정한 부자는 어떤 사람인지 함께 생각해볼까요?",
+      "est_speech_ms": 14400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+LANGUAGE RULES (highest priority):
+- Respond only in simple English.
+- NEVER use Chinese characters (e.g. 汉, 字, 猫), Japanese kana (e.g. あ, ア), Korean Hangul, or any other non-Latin scripts.
+- Before outputting, self-check that every character is either a Latin letter, a digit, standard punctuation, or whitespace.
+- If you would otherwise use a non-English word, use the English equivalent instead.

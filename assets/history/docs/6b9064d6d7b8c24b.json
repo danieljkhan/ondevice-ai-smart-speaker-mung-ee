@@ -1,0 +1,505 @@
+{
+  "schema_version": 2,
+  "doc_hash": "6b9064d6d7b8c24b",
+  "source_file": "eh_r0185_0010.pdf",
+  "title": "조선의 전통을 간직하고 있는 하회마을과 양동마을",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 20,
+  "section_count": 11,
+  "image_count": 12,
+  "est_total_ms": 914900,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "하회 마을(경북 안동시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "조선 시대 마을로 떠나는 여행",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        4
+      ],
+      "scene_seq": [
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "풍산 류씨 가문이 꽃을 피운 하회 마을",
+      "scene_indices": [
+        5
+      ],
+      "scene_seq": [
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "류씨 가문의 상징, 대종택 양진당",
+      "scene_indices": [
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "양진당과 충효당(경북 안동시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "류성룡이 살았던 곳에 지어진 충효당",
+      "scene_indices": [
+        9,
+        10
+      ],
+      "scene_seq": [
+        10,
+        11
+      ],
+      "image_captions": [
+        "충효당(경북 안동시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "가난한 양반과 평민의 소박한 공간, 초가집",
+      "scene_indices": [
+        11,
+        12
+      ],
+      "scene_seq": [
+        12,
+        13
+      ],
+      "image_captions": [
+        "하회 마을의 초가집(경북 안동시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "조선 시대 가장 큰 집성촌 양동 마을과 서백당",
+      "scene_indices": [
+        13
+      ],
+      "scene_seq": [
+        14
+      ],
+      "image_captions": [
+        "□자 모양의 서백당 안채(경북 경주시)",
+        "서백당의 마당(경북 경주시)",
+        "서백당의 디딜방아채(경북 경주시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 8,
+      "section_title": "조선 시대 양반집의 특징을 간직한 여러 건물들",
+      "scene_indices": [
+        14,
+        15
+      ],
+      "scene_seq": [
+        15,
+        16
+      ],
+      "image_captions": [
+        "무첨당 별채(경북 경주시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 9,
+      "section_title": "역사 속 작은 이야기: 하회 별신굿 탈놀이",
+      "scene_indices": [
+        16,
+        17
+      ],
+      "scene_seq": [
+        17,
+        18
+      ],
+      "image_captions": [
+        "관가정(경주시청)",
+        "하회 별신굿 놀이(안동하회별신굿보존회)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 10,
+      "section_title": "양반: 아니, 팔대부? 팔대부는 또 뭐야?",
+      "scene_indices": [
+        18,
+        19
+      ],
+      "scene_seq": [
+        19,
+        20
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "조선의 전통을 간직하고 있는 하회마을과 양동마을\n“안동 하회마을은 어떠한 이유로 유네스코 세계유산이 될 수 있었나요?”\n“조선시대 마을의 특징이 가장 잘 남아 있기 때문이지요.”\n우리나라에서 조선시대 전통을 가장 잘 간직하고 있는 마을은 어디일까요?\n바로 안동 하회마을과 경주 양동마을이에요.\n두 마을은 마을이 자리한 위치를 비롯해 기와집, 초가집, 서원 등 여러 건물 등에서 조선 시대의 전통이 잘 보존되고 있다는 평가를 받고 있어요. 그래서 두 마을 모두 2010년에 유네스코 세계유산으로 지정되었어요..\n지금부터 조선시대 전통미를 느낄 수 있는 두 마을로 여행을 떠나볼까요?",
+      "est_speech_ms": 46800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "하회 마을(경북 안동시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6b9064d6d7b8c24b/fig_001.jpg",
+          "caption": "하회 마을(경북 안동시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "조선 시대 마을로 떠나는 여행",
+      "narration": "조선 시대 마을로 떠나는 여행\n하회마을과 양동마을은 같은 성씨를 가진 사람들끼리 수백 년 동안 모여 살고 있는 곳이에요.\n이처럼 오랜 세월에 걸쳐 같은 성씨를 사용하는 사람들이 모여 살면서 전통문화를 지켜 온 마을은 세계적으로도 흔하지 않아요.\n같은 성씨를 가진 사람들이 모여 사는 마을을 집성촌이라고 해요.\n혈연으로 맺어진 친척들이 모여 농사를 짓고 학문을 배우고 연구하며 수백 년 동안 마을을 지키고 있지요.\n두 마을은 모두 이름난 정치가와 학자들을 배출한 곳으로도 유명해요.\n하회마을에는 임진왜란 당시 큰 공을 세우고 최고 벼슬인 영의정까지 지낸 류성룡이 있으며, 양동마을에는 조선 중종 때의 학자 이언적이 있어요.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "조선 시대 마을로 떠나는 여행",
+      "narration": "이언적의 성리학 연구는 나중에 이황에게 계승되었지요.\n두 마을이 집성촌을 이루게 된 과정은 조금 달라요.\n하회마을은 새로운 정착지를 찾아 이주해 온 사람들이 만든 마을이지만, 양동마을은 서로 다른 두 집안이 결혼을 통해 이룬 마을이에요. 하지만 두 곳 모두 조선의 유교적 전통을 잘 유지하고 있는 대표적인 마을이라는 공통점이 있지요.\n경북 안동에 있는 하회 마을은 지형이 특이해요.\n나지막한 산으로 둘러싸여 있고 낙동강이 S자 모양으로 마을을 휘감아 흐르고 있지요.\n‘하회(河回)’라는 마을 이름도 낙동강이 마을을 휘어 돌아간다는 뜻에서 유래되었다고 해요.\n원래 하회마을에는 김해 허씨와 광주 안씨가 모여 살고 있었어요.\n이후 고려 말에 이르러 하회마을 근처인 풍산 상리에 살던 풍산 류씨 가문이 들어오게 되었어요.",
+      "est_speech_ms": 57900,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "조선 시대 마을로 떠나는 여행",
+      "narration": "풍산 류씨는 하회마을에 들어온 세 번째 가문인 셈이지요.\n그런데 류씨 가문이 마을에 들어왔을 때는 살기 좋은 장소는 없고 나무가 울창한 늪지대밖에 없었다고 해요. 류씨 일가는 숲을 베어 내고 흙을 다져 터전을 마련했는데, 오늘날 양진당이 그 중심지였어요.\n경북 경주에 있는 양동마을은 언제부터 사람이 살기 시작했는지 정확히 알려져 있지 않아요.\n그러나 근처에서 발굴된 백여 기의 돌널무덤과 이웃 안계리 마을에서 발견된 고분군으로 볼 때 최소한 삼국 시대부터 부족 단위의 마을이 있었다는 것을 짐작할 수 있지요.",
+      "est_speech_ms": 41600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "원래 양동 마을에는 여강 이씨 가문이 살았다고 전하는데, 이후 결혼을 통해 풍덕류씨와 경주(월성) 손씨도 함께 살게 되었다고 해요.\n조선 시대 양반 마을은 일반적으로 제사를 받드는 큰아들이 중심이 되어 집성촌을 이루고 있는데, 양동마을은 사위가 처가에 들어와 집성촌을 발전시켰다는 점이 특징이라고 할 수 있어요.\n하회마을의 경우 원래 살았던 허씨와 안씨는 떠났지만, 양동마을은 처음부터 살았던 여강 이씨 가문과 사위로 들어온 풍덕류씨 가문 및 경주 (월성) 손씨 가문이 지금까지 함께 살고 있어요.\n이런 경우는 우리나라에서 양동 마을이 대표적인 예라고 해요.\n이제부터 두 마을의 구석구석을 살펴볼까요?",
+      "est_speech_ms": 48800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/6b9064d6d7b8c24b/fig_045.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6b9064d6d7b8c24b/fig_046.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "풍산 류씨 가문이 꽃을 피운 하회 마을",
+      "narration": "풍산 류씨 가문이 꽃을 피운 하회마을\n현재 하회마을에는 백여 가구의 주민들이 살고 있어요. 이 중 70%가 넘는 주민이 풍산 류씨이지요. 같은 조상을 모시는 주민들이 함께 사는 마을이 라고 할 수 있어요.\n하회마을에 풍산 류씨가 많이 살게 된 것은 기존에 살던 김해 허씨와 광주 안씨 가문이 조선 후기에 다른 곳으로 이주했기 때문이에요. 허씨와 안씨가문이 류씨에 비해 위세가 약해지면서 이들 가문에 속한 사람들 다수가 마을을 떠났다고 해요.\n결국 류씨 가문이 하회 마을을 대표하는 가문으로 자리 잡게 되었고 지금까지 이어지고 있지요.",
+      "est_speech_ms": 42800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 4,
+      "section_title": "류씨 가문의 상징, 대종택 양진당",
+      "narration": "한편, 광복 이전까지 전통을 유지하던 하회마을은 1960년대 이후의 산업화 과정에서 젊은이들이 일자리를 찾아 도시로 떠나면서 주민이 급격하게 줄어들었어요. 하지만 1984년 중요 민속자료 마을로 지정되고, 1999년 영국 엘리자베스 2세 여왕이 이곳을 방문하면서 세계적인 명소로서 거듭나게 되었어요.\n류씨 가문의 상징, 대종택 양진당\n하회마을을 대표하는 곳은 풍산 류씨 대종택인 보물 306호 양진당이에요. 대종택이란 가문의 제사를 주관하는 손위의 맏아들이 사는 집으로 가문의 가장 큰집을 의미해요.\n이 양진당은 풍산 류씨 가문을 이끌고 하회로 들어온류종혜가 처음 세운 곳으로 하회 마을에서 가장 오래된 건물이지요.",
+      "est_speech_ms": 52000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "양진당과 충효당(경북 안동시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6b9064d6d7b8c24b/fig_053.jpg",
+          "caption": "양진당과 충효당(경북 안동시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "류씨 가문의 상징, 대종택 양진당",
+      "narration": "이후류종혜의 5대 후손에 의해 99칸짜리 대저택으로 완성되었어요. 세월이 흐르면서 일부가 파손되어 지금은 53칸만 남아 있어요.\n양진당은 전형적인 조선시대 양반가의 건축물이에요.",
+      "est_speech_ms": 15400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "류씨 가문의 상징, 대종택 양진당",
+      "narration": "ㅁ자형 마당을 중심으로 남자들이 머무는 사랑채와 여자들의 생활 공간인 안채, 그리고 문간채와 마구간, 사당 등의 부속건물들로 이루어져 있어요.\n겉으로 보면 각각 독립된 건물로 보이지만 사랑채와 안채가 마루로 연결되어 있지요. 양진당 사랑채에는 ‘양진당(養眞堂)’이라는 현판 외에도 여러 현판이 걸려 있어요.\n양진당이란 글자는 ‘기를 양(養)’, ‘참 진(眞)’, ‘집 당(堂)’으로, 참다운 정신을 기르는 집이라는 뜻이에요. 학문을 잘 닦아 진리를 실천하는 학자들을 키우겠다는 의지가 담겨 있다고 할 수 있지요.",
+      "est_speech_ms": 39200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 5,
+      "section_title": "류성룡이 살았던 곳에 지어진 충효당",
+      "narration": "류성룡이 살았던 곳에 지어진 충효당\n양진당 건너편에는 류성룡의 종갓집이라고 알려진 충효당이 있어요. 종갓집이란 가문의 제사를 지내는 맏이와 그 가족이 사는 집을 의미해요.\n류성룡의 종갓집이라고 하지만 그는 지금의 충효당이 지어지기 이전의 집에서 어린 시절을 보냈고, 낡은 초가에서 세상을 떠났어요.\n현재 충효당 건물은 류성룡이 세상을 떠난 뒤 제자들과 후손들이 힘을 합쳐 세운 건물이에요.\n충효당도 양반집에서 볼 수 있는 문간채, 사랑채, 안채, 사당, 마당 등으로 이루어져 있어요. 전체적인 구조는 조선시대 여느 양반집과 비슷하지만 독특하게도 사랑채와 안채가 일직선으로 연결되어 있어요.",
+      "est_speech_ms": 48600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "충효당(경북 안동시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6b9064d6d7b8c24b/fig_068.jpg",
+          "caption": "충효당(경북 안동시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "류성룡이 살았던 곳에 지어진 충효당",
+      "narration": "충효당으로 들어서면 가장 먼저 눈에 들어오는 것이 ‘충효당(忠孝堂)’이라고 쓰인 현판이에요. 조선시대 명필가로 이름난 허목의 글씨로, 글씨 자체가 하나의 예술 작품이라는 극찬을 받고 있어요.",
+      "est_speech_ms": 15400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 6,
+      "section_title": "가난한 양반과 평민의 소박한 공간, 초가집",
+      "narration": "사랑채 대청 뒤편에는 후원이 있어요. 아담한 규모의 후원은 아주 넓지도 않고 화려하지도 않지만 소박한 아름다움을 느낄 수 있지요. 계절마다 다채로운 색깔의 꽃이 피는 안뜰과 후원을 갖추고 있어 아늑함과 푸근함이 느껴지는 곳이에요.\n충효당에는 류성룡과 관련된 각종 자료와 책을 보관하고 전시하는 영모 각이란 건물이 있어요. 영모각은 1975년에 지은 건물이에요.\n가난한 양반과 평민의 소박한 공간, 초가집\n하회마을에는 양반들이 주로 살았던 기와집이 많지만, 평민들이 살았던 초가집도 여러 채 남아있어요. 작은 초가집부터 헛간과 마당이 있는 조금 큰 초가집까지 다양한 초가집들을 볼 수 있답니다. 하회마을 초가집에는 오늘날에도 마을 주민들이 살고 있어요.",
+      "est_speech_ms": 54000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 6,
+      "section_title": "가난한 양반과 평민의 소박한 공간, 초가집",
+      "narration": "초가집은 일반적으로 부엌을 중심으로 오른쪽에 사랑채가 있고 왼쪽에 안채가 배치되어 있어요. 간혹 부엌이 왼쪽에 있는 경우도 있는데 이런 집은 부엌 옆에 안채가 있고 그 옆으로 사랑채가 있지요.\n양반이 살았던 초가집은 마루와 부속 건물을 갖춘 곳도 있지만, 대부분 부엌과 작은 문만 달린 방이 전부이지요. 주로 흙으로 지었고, 지붕도 농사짓는 과정에서 나온 볏짚으로 덮었어요.\n초가집은 규모도 작고 문의 높이도 낮아 고개를 숙여야 들어갈 수 있어요. 초가집이 이런 구조를 갖추게 된 것은 가난한 사람들이 추운 겨울에 대비하기 위해서였어요. 주거 공간으로서 최소한의 요건만 갖춘 건물이었지요.\n초가집은 우리 조상 중에 가난한 사람들이 어떤 곳에서 살았는지 잘 보여 주는 생활 문화유산이라고 할 수 있지요.",
+      "est_speech_ms": 57000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "하회 마을의 초가집(경북 안동시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6b9064d6d7b8c24b/fig_081.jpg",
+          "caption": "하회 마을의 초가집(경북 안동시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 7,
+      "section_title": "조선 시대 가장 큰 집성촌 양동 마을과 서백당",
+      "narration": "조선 시대 가장 큰 집성촌 양동 마을과 서백당\n양동마을은 우리나라에 남아 있는 집성촌 가운데 가장 규모가 큰 곳이 에요. 약 150여 가구의 기와집과 초가집이 있어요.\n마을을 대표하는 건물은 경주 손씨 대종택인 서백당이에요. 서백당은 조선 초기의 한 공신이 세운 건물이에요.\n5백여 년 전에 지었다는 사실이 의심스러울 정도로 보존 상태가 뛰어나지요. 서백당은 ㅡ 자형 문간채와 사랑채, □자형 안채, 사당, 디딜방아채 등으로 구성되어 있어요.\n서백당의 북쪽으로 길게 지어진 사랑채와 사랑대청을 보노라면 이곳에 살았던 주인들의 단아한 성품을 느낄 수 있지요.\n서백당은 매우 아름다운 마당을 가진 곳으로도 유명해요. 수백 년의 수령을 자랑하는 향나무를 중심으로 나무와 꽃이 어우러져 완벽한 조화를 이루고 있지요. 안채 북쪽에는 디딜방아채라는 곳도 있어요.",
+      "est_speech_ms": 61000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "□자 모양의 서백당 안채(경북 경주시)",
+        "서백당의 마당(경북 경주시)",
+        "서백당의 디딜방아채(경북 경주시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6b9064d6d7b8c24b/fig_089.jpg",
+          "caption": "□자 모양의 서백당 안채(경북 경주시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6b9064d6d7b8c24b/fig_096.jpg",
+          "caption": "서백당의 마당(경북 경주시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.6
+        },
+        {
+          "path": "assets/history/images/6b9064d6d7b8c24b/fig_098.jpg",
+          "caption": "서백당의 디딜방아채(경북 경주시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 8,
+      "section_title": "조선 시대 양반집의 특징을 간직한 여러 건물들",
+      "narration": "디딜방아채에는 각종 양념류와 음식 재료를 직접 만들던 디딜방아가 보존되어 있어요.\n종가 여성들에게 전해 내려오는 손맛의 비결이 숨어 있는 곳이랍니다.\n그리고 서백당의 가장 높은 지점에는 조상을 모신 사당이 있어요. 사당에 는 나무와 꽃이 가득하여서백당 주인이 조상을 모시는 일에 얼마나 노력과 정성을 기울이는지 느낄 수 있지요.\n조선 시대 양반집의 특징을 간직한 여러 건물들\n양동마을의 대표적인 건물은 무첨당, 향단, 관가정이에요. 보물 411호로 지정된 무첨당은 간결미와 세련미를 갖춘 양반집의 특징이 드러나 있는 주택이에요. 여강 이씨의 종갓집으로 본채와 별채로 구성되어 있지요.",
+      "est_speech_ms": 48400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 16,
+      "section_index": 8,
+      "section_title": "조선 시대 양반집의 특징을 간직한 여러 건물들",
+      "narration": "특히 손님을 맞고 독서를 즐기던 별채가 아름답기로 유명해요.\n무첨당은 ‘조상에게 욕됨이 없게 한다.’라는 뜻을 담고 있어요. 마루에는 무첨당을 찾았던 흥선대원군이 써 준 ‘좌해금서(左海琴書)’라는 액자가 걸려 있어요.\n좌해금서는 ‘영남 지방의 풍류와 학문’이란 의미이지요.\n무첨당 서쪽에는 향단이란 멋진 건축물이 있어요. 보물 412호인 향단은 이언적이 경상 감사로 있을 때 어머니 병간호를 하도록 중종 임금이 특별히 지어준 건물이에요.\n마당을 중심으로 사랑채, 안채, 행랑채 등이 한자 ‘흥(興)’ 자 모양을 띠는 독특한 구조로 되어 있어요. 향단은 처음 지어진 1543년(중종 38)에는 99칸이었으나 지금은 56칸만 남아 있어요.",
+      "est_speech_ms": 50400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "무첨당 별채(경북 경주시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6b9064d6d7b8c24b/fig_111.jpg",
+          "caption": "무첨당 별채(경북 경주시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 17,
+      "section_index": 9,
+      "section_title": "역사 속 작은 이야기: 하회 별신굿 탈놀이",
+      "narration": "마을 서쪽 끝자락에는 관가정이 있어요.\n관가정은 ‘곡식이 자라는 것을 보듯이 자손들이 커 가는 모습을 본다.’라는 뜻을 담고 있어요.이 건물은 조선 성종 때 이조판서를 지낸 손중돈의 집인데, 마을 주변의 들판을 비롯하여 산과 강을 훤히 내려다볼 수 있는 전망 좋은 곳에 자리 잡고 있어요.\n역사 속 작은 이야기: 하회 별신굿 탈놀이\n하회마을에서 만날 수 있는 또 하나의 흥미로운 문화재가 바로 중요 무형문화재 69호로 지정된 하회 별신굿 탈놀이인데요.\n하회 별신굿 탈놀이는 마을의 안녕과 풍년을 기원하는 행사였어요.",
+      "est_speech_ms": 41200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "관가정(경주시청)",
+        "하회 별신굿 놀이(안동하회별신굿보존회)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6b9064d6d7b8c24b/fig_119.jpg",
+          "caption": "관가정(경주시청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6b9064d6d7b8c24b/fig_126.jpg",
+          "caption": "하회 별신굿 놀이(안동하회별신굿보존회)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 18,
+      "section_index": 9,
+      "section_title": "역사 속 작은 이야기: 하회 별신굿 탈놀이",
+      "narration": "사람들이 풍요롭기를 기원하는 굿을 하면서 노래 부르고 춤을 추는 행사라고 할 수 있지요.\n하회 별신굿 탈놀이는 고려 시대인 12세기 중엽부터 시작된 것으로 추정하고 있어요. 당시는 지금처럼 과학이 발달하지 못했지요.\n따라서 홍수나 가뭄으로 흉년이 들거나 전염병이 퍼지면 많은 사람이 죽기도 했어요. 사람들은 재해가 일어나는 원인이 신의 노여움에서 비롯된다고 생각했지요.\n그래서 신의 노여움을 풀어 주기 위한 의식을 치렀는데, 하회 별신굿 탈놀이도 그런 의식의 하나였어요.",
+      "est_speech_ms": 39000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 19,
+      "section_index": 10,
+      "section_title": "양반: 아니, 팔대부? 팔대부는 또 뭐야?",
+      "narration": "양반: 나는 사대부의 자손일세.\n선비: 아니뭐라꼬, 사대부? 나는 팔대부의 자손일세.\n양반: 아니, 팔대부? 팔대부는 또 뭐야?\n선비: 팔대부는 사대부의 갑절이지.\n- 안동 하회 별신굿 탈놀이 대사 중에서 -\n하회 별신굿 탈놀이는 마을의 안녕과 풍년을 기원하는 내용이 대부분이었지만 시간이 흐르면서 사회를 풍자하는 내용이 추가되었어요.\n조선 후기에 신분 질서가 흔들리면서 평민들의 의식이 높아졌고, 그들은 기존의 불합리한 제도들에 반발하기도 했지요. 이러한 사회 모습은 전통 있는 하회마을에서도 나타났으리라 짐작이 돼요. 그래서 하회마을에서도 양반의 위선을 풍자하고, 하층민들의 애환을 담은 하회 별신굿 탈놀이가 유행하게 되었던 거예요.",
+      "est_speech_ms": 51400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 20,
+      "section_index": 10,
+      "section_title": "양반: 아니, 팔대부? 팔대부는 또 뭐야?",
+      "narration": "하회 별신굿 탈놀이를 주도한 평민이나 천민들은 삶의 애환을 직접적으로 표현하는 대신 해학적으로 풍자했어요.\n모두 10개 마당으로 진행되는 별신굿 탈놀이는 하회마을의 대표적인 무형문화재로 매년 3월부터 12월까지 하회 별신굿 탈놀이 전수관에서 상설 공연되고 있어요.\n조선 시대 양반 문화는 물론 양반을 풍자하는 서민들의 삶까지 느껴보고 싶다면 안동 하회마을과 경주 양동마을을 가보기 바래요.\n두 마을에서 한국 전통문화를 직접 눈으로 보고 체험하다 보면 어느덧 여러분들도 조선시대 마을의 주민이 되어 있을 거예요.",
+      "est_speech_ms": 43200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

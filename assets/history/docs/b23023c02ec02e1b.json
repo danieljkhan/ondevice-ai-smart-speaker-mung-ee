@@ -1,0 +1,383 @@
+{
+  "schema_version": 2,
+  "doc_hash": "b23023c02ec02e1b",
+  "source_file": "eh_r0400_0010.pdf",
+  "title": "이승만 독재를 무너뜨린 4·19 혁명 유적",
+  "kind": "artifact",
+  "era": "현대",
+  "era_source": "keyword",
+  "scene_count": 13,
+  "section_count": 7,
+  "image_count": 12,
+  "est_total_ms": 584300,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "4·19 혁명 초등학생 시위(4·19혁명기념회)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "4·19 혁명이 일어나다",
+      "scene_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "image_captions": [
+        "대학 교수단 시위 모습대학 교수단 시위 모습"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "국회 의사당에서 고려대 학생들이 시위를 벌이다",
+      "scene_indices": [
+        5,
+        6
+      ],
+      "scene_seq": [
+        6,
+        7
+      ],
+      "image_captions": [
+        "경무대 앞에서 시위를 진압하는 모습"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "수송초등학교 학생이 경찰의 총에 맞다",
+      "scene_indices": [
+        7
+      ],
+      "scene_seq": [
+        8
+      ],
+      "image_captions": [
+        "4·19 혁명 당시 첫 발포가 이루어진 옛 경무대 앞 표지석(서울 종로구)",
+        "마로니에 공원(서울 종로구)"
+      ],
+      "is_infographic": true
+    },
+    {
+      "section_index": 4,
+      "section_title": "시민의 힘이 이승만을 이화장으로 내쫓다",
+      "scene_indices": [
+        8
+      ],
+      "scene_seq": [
+        9
+      ],
+      "image_captions": [
+        "전한승의 영정 사진이 놓여 있는 수송초등학교 졸업식\ne영상역사관(한국정책방송원)",
+        "초등학생들이 시위에 참여했던 수송초등학교가 있던 자리(현 종로구청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "4·19 혁명 때 희생당한 분들이 잠들어 있는 국립 4·19 민주 묘지",
+      "scene_indices": [
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "4·19 혁명 기념탑과 4·19 혁명 때 희생당한 분들이 묻힌 묘역(서울 강북구)",
+        "버스에서 구호를 외치는 진영숙 학생의 모습"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": null,
+      "scene_indices": [
+        12
+      ],
+      "scene_seq": [
+        13
+      ],
+      "image_captions": [
+        "4·19 혁명 관련 조형물이 있는 곳"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "이승만 독재를 무너뜨린 4·19 혁명 유적\n“부정 선거 다시 하라!”\n“이승만은 물러나라!”\n1960년 전국 곳곳의 거리에서 수많은 학생과 시민들이 목 놓아 외쳤어요. 4·19 혁명이 일어난 거예요.\n도대체 이승만 정권은 무엇 때문에 부정 선거를 한 것일까요?\n4·19 혁명으로 어떤 일이 생겼을까요?",
+      "est_speech_ms": 23200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "4·19 혁명 초등학생 시위(4·19혁명기념회)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b23023c02ec02e1b/fig_001.jpg",
+          "caption": "4·19 혁명 초등학생 시위(4·19혁명기념회)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "4·19 혁명이 일어나다",
+      "narration": "4·19 혁명이 일어나다\n1960년 3월 15일 국민들의 투표로 대통령과 부통령을 뽑는 선거가 있었어요.\n대통령이었던 이승만이 소속된 자유당은 이승만과 이기붕을 각각 대통령과 부통령 후보로 내세웠지요.\n당시 야당인 민주당의 대통령 후보였던 조병옥이 갑자기 죽자 이승만의 대통령 당선은 크게 어렵지 않은 것처럼 보였어요.\n하지만 자유당은 대통령뿐 아니라 부통령도 자신들의 후보를 당선시키려고 했어요. 80세가 넘은 이승만이 혹시 건강에 이상이 생기면 부통령이 대통령을 대신하여 대통령 업무를 보아야 했기 때문이에요.",
+      "est_speech_ms": 43600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "4·19 혁명이 일어나다",
+      "narration": "당시 자유당은 선거에서 승리하기 위해 여러 가지 부정을 저질렀어요.\n미리 투표하기, 3인조 또는 5인조 짝을 지어 공개 투표하기, 개표하면서 야당을 찍은 투표지에 인주를 묻혀 무효로 만들기 등 갖가지 방법을 동원했지요.\n3월 15일의 선거에서도 공공연히 불법 부정선거가 이루어졌어요, 이날 오후 마산과 광주에서는 학생, 시민들이 선거의 무효를 요구하는 시위를 벌였어요.\n시위는 전국으로 퍼져나갔어요 그런데 3월 15일의 시위에서 마산의 고등학생이었던 김주열이 최루탄에 맞아 숨지는 일이 벌어졌어요.\n경찰은 이를 감추기 위해 마산 앞바다에 그의 시신을 몰래 빠뜨렸지요.",
+      "est_speech_ms": 47200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대학 교수단 시위 모습대학 교수단 시위 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b23023c02ec02e1b/fig_022.jpg",
+          "caption": "대학 교수단 시위 모습대학 교수단 시위 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "4·19 혁명이 일어나다",
+      "narration": "4월 11일 한쪽 눈에 최루탄이 박힌 김주열의 처참한 시신이 떠올랐고, 시민들은 크게 분노했지요.\n서울을 비롯한 전국 각지에서 학생들은 물론 시민들이 거리로 나와 이승만 정권의 부정 선거를 항의하는 시위를 벌였어요.\n바로 4·19 혁명이 일어난 거예요.\n이승만 독재 정권은 잘못을 인정하기는커녕 경찰은 물론 정치깡패들까지 동원해 시위를 진압했어요. 심지어 시민들을 향해 총을 쏘아댔지요. 그러던 중 초등학생까지 총에 맞아 죽는 일이 벌어졌어요.\n시민들의 분노는 하늘을 찌를 듯했어요. 대학교수단이 선언문을 발표하고 시위에 참여하였고, 초등학생들도 경찰의 무자비한 공격에 항의하는 시위를 벌였어요. 국민들의 거센 저항에 직면한 이승만은 결국 대통령직에서 물러나겠다고 발표했어요.",
+      "est_speech_ms": 56600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "4·19 혁명이 일어나다",
+      "narration": "학생들과 시민들이 힘을 합쳐서 이승만 독재를 무너뜨린 것이지요.\n학생들과 시민의 힘으로 독재 정치를 끝내려고 했던 4·19 혁명은 이후 우리나라 민주주의 발전에 기초가 되었어요.\n지금부터 4·19 혁명 유적지를 따라 가며 당시 어떤 일들이 있었는지 조금 더 구체적으로 알아볼까요.\n또한 그곳에서 수많은 학생과 시민들이 목 놓아 외쳤던 민주주의 정신을 다시 한 번 되새겨 보아요.",
+      "est_speech_ms": 30800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/b23023c02ec02e1b/fig_040.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "국회 의사당에서 고려대 학생들이 시위를 벌이다",
+      "narration": "국회 의사당에서 고려대 학생들이 시위를 벌이다\n서울에서는 4월 18일 3,000여 명의 고려대학교 대학생들이 성명서를 발표하고 거리에서 시위를 벌였어요. 그런데 평화롭게 시위를 마치고 학교로 돌아가는 도중 정치 깡패들에게 학생들이 몽둥이로 두들겨 맞아 부상을 당하는 사건이 벌어졌어요.\n고려대학교 학생들의 부상 소식이 언론에 보도되면서 4월 19일에는 서울 시내 대학생들이 일제히 거리로 나섰고 중고등학생들도 동참했어요. 전국 주요 도시에서도 분노한 시민들이 떨쳐 일어났어요.\n경무대 앞에서 시민들을 향해 총을 쏘다",
+      "est_speech_ms": 44000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "국회 의사당에서 고려대 학생들이 시위를 벌이다",
+      "narration": "4·19 혁명 당시 경찰이 처음으로 시위대를 향해 총을 쏜 곳은 어디일까요?\n바로 대통령이 머물고 있는 경무대(청와대 옛 이름)앞이었어요. 당시 거리로 쏟아져 나온 시위대 중 일부는 경무대로 몰려가서 이승만에게 면담을 요청하려했어요.\n그러자 경찰이 이를 막으며 학생과 시민들에게 총을 겨누었어요. 그 결과 20여 명의 무고한 시민이 죽고 170여 명이 크게 다쳤어요.\n서울 시내에서도 ‘3·15 부정 선거 다시 하라’, ‘1인 독재 물러가라!’ 등의 구호를 외치는 시민들과 이를 진압하는 경찰들이 맞서는 상황이 벌어졌어요.\n역시 이 과정에서 많은 사람들이 희생되었지요.",
+      "est_speech_ms": 45400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "경무대 앞에서 시위를 진압하는 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b23023c02ec02e1b/fig_048.jpg",
+          "caption": "경무대 앞에서 시위를 진압하는 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "수송초등학교 학생이 경찰의 총에 맞다",
+      "narration": "“학생들이 흘린 피에 보답하라”고 마로니에 공원에서 외치다\n학생들이 민주주의를 외치며 피를 흘리자이를 보고만 있을 수 없었던 교수들도 거리로 나섰어요. 부정 선거를 비판하며 선거를 다시 하라는 선언문을 발표하고, ‘학생의 피에 보답하라’라는 구호가 적힌 플래카드를 들고 시위를 벌였지요.\n4월 25일 교수단의 시위가 시작된 곳이 바로 서울 종로의 마로니에 공원이 에요. 당시 이곳에는 서울대학교가 있었어요.\n수송초등학교 학생이 경찰의 총에 맞다\n4·19 혁명 당시 사람들의 눈을 의심하게 하는 일이 벌어졌어요.\n초등학생들까지 거리로 나와 시위를 벌였거든요. 어린 학생들이 왜 거리로 나오게 된 것일까요?\n그것은 친구의 죽음 때문이었어요.",
+      "est_speech_ms": 52200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "4·19 혁명 당시 첫 발포가 이루어진 옛 경무대 앞 표지석(서울 종로구)",
+        "마로니에 공원(서울 종로구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b23023c02ec02e1b/fig_056.jpg",
+          "caption": "4·19 혁명 당시 첫 발포가 이루어진 옛 경무대 앞 표지석(서울 종로구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/b23023c02ec02e1b/fig_062.jpg",
+          "caption": "마로니에 공원(서울 종로구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "시민의 힘이 이승만을 이화장으로 내쫓다",
+      "narration": "수송초등학교 6학년에 재학 중인 전한승 학생이 집으로 돌아가는 길에 광화문 근처에서 시민들의 시위를 구경하던 도중 경찰이 쏜 총에 맞아 사망했어요.\n이 소식을 전해들은 수송초등학교 어린이들은 ‘우리 부모형제들에게 총부리를 대지 말라!’는 글이 적힌 플래카드를 들고 거리로 나와 한승이를 살려내라며 울부짖었답니다.\n시민의 힘이 이승만을 이화장으로 내쫓다\n국민들의 계속된 시위에 놀란 이승만 정권은 다급하게 계엄령을 선포했어요.\n계엄령이란 국가 비상사태 때 군대가 사회 질서를 유지하도록 한 법령을 말해요. 그럼에도 시민들의 시위가 꺾이지 않자, 결국 4월 26일 이승만은 대통령직에서 물러날 것을 발표하고, 자신의 집인 이화장으로 돌아와야 했지요.",
+      "est_speech_ms": 54000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "전한승의 영정 사진이 놓여 있는 수송초등학교 졸업식\ne영상역사관(한국정책방송원)",
+        "초등학생들이 시위에 참여했던 수송초등학교가 있던 자리(현 종로구청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b23023c02ec02e1b/fig_070.jpg",
+          "caption": "전한승의 영정 사진이 놓여 있는 수송초등학교 졸업식\ne영상역사관(한국정책방송원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/b23023c02ec02e1b/fig_075.jpg",
+          "caption": "초등학생들이 시위에 참여했던 수송초등학교가 있던 자리(현 종로구청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 5,
+      "section_title": "4·19 혁명 때 희생당한 분들이 잠들어 있는 국립 4·19 민주 묘지",
+      "narration": "그는 얼마 후 미국으로 망명했어요. 시민의 힘으로 독재를 무너뜨린 거지요.\n이승만 대통령이 물러나고 새로 윤보선이 대통령이 되면서 사람들은 민주화에 대한 기대를 키웠어요.\n하지만 1년이 채 못 되어 박정희를 비롯한 군인들이 군사 정변을 일으켜 권력을 차지하는 바람에 민주주의를 꽃피우려는 시민들의 꿈은 깨지고 말았지요.\n4·19 혁명 때 희생당한 분들이 잠들어 있는 국립 4·19 민주 묘지\n4·19 혁명 당시 얼마나 많은 사람들이 희생당했을까요?\n184명이 사망하고 6000여 명이 부상을 입었다고 해요. 서울특별시 강북구 수유리에 있는 국립 4·19 민주 묘지는 당시 죽어간 사람들의 영혼이 깃들어 있는 곳이랍니다.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "4·19 혁명 기념탑과 4·19 혁명 때 희생당한 분들이 묻힌 묘역(서울 강북구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b23023c02ec02e1b/fig_087.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/b23023c02ec02e1b/fig_088.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "4·19 혁명 때 희생당한 분들이 잠들어 있는 국립 4·19 민주 묘지",
+      "narration": "민주 묘지 중앙에 4·19 혁명 기념탑이 있어요. 기념탑 뒤편에는 4·19 혁명 때 희생된 분들을 모셔놓은 묘역이 있지요.\n이곳에는 전한승, 김주열의 묘도 있답니다. 묘역을 지나 계단을 올라가면 당시 희생된 분들의 사진을 모아둔 유영봉안소가 있어요.\n봉안소에서는 어린아이부터 교복 입은 학생, 나이 많은 노인까지 민주주의를 외치다 쓰러져간 많은 분들을 만날 수 있어요.\n이곳을 둘러보다 보면 그들의 숭고한 희생 앞에 저절로 고개가 숙여진답니다.",
+      "est_speech_ms": 36000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "4·19 혁명 때 희생당한 분들이 잠들어 있는 국립 4·19 민주 묘지",
+      "narration": "역사 속 작은 이야기: 편지를 남기고 4·19 혁명에 참여한 중학생 진영숙\n이 편지는 한성여중 2학년에 재학 중이던 진영숙 학생이 시위에 나가기 전 어머니에게 남긴 편지에요. 안타깝게도 이 편지는 유서가 돼버렸지요.\n1960년 4월 19일 오후 4시, 학교를 마치고 집으로 돌아온 진영숙 학생은 장사를 하러 가신 어머니를 뵙지 못한 게 마음에 걸려 편지를 남기고 시위를 하러 나갔어요. 편지 내용을 보면 죽음을 각오하고 시위에 나간 것 같아요.\n진영숙 학생은 거리로 나가 시위대가 타고 있는 버스에 올라탔어요.",
+      "est_speech_ms": 41000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "버스에서 구호를 외치는 진영숙 학생의 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b23023c02ec02e1b/fig_099.jpg",
+          "caption": "버스에서 구호를 외치는 진영숙 학생의 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "미아리 고개에서 차창 밖으로 고개를 내밀고, 구호를 외치고 있는 그때, 어디선가 총탄이 날아왔어요. 한 파출소에서 시위대를 향해 쏜 총탄이었지요.\n머리에 총탄을 맞은 진영숙 학생은 끝내 숨을 거두고 말았어요.\n4·19 혁명 당시 많은 시민과 학생들이 진영숙 학생처럼 억울한 죽음을 당했어요. 국립 4·19 민주 묘지에는 그분들이 잠들어 있답니다.\n4·19 혁명 유적을 돌아보고, 어린 학생들의 안타까운 희생을 살펴보니 당시 상황이 생생히 느껴지나요?\n4·19 혁명 유적을 돌아보며 우리 헌법에도 담겨 있는 4·19 혁명 정신을 되새겨 보세요. 또 당시 피 흘리며 희생당한 분들이 바라던 민주화된 사회를 만들기 위해 앞으로 어떤 노력이 필요한지도 생각해 보세요.",
+      "est_speech_ms": 53000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "4·19 혁명 관련 조형물이 있는 곳"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b23023c02ec02e1b/fig_114.jpg",
+          "caption": "4·19 혁명 관련 조형물이 있는 곳",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

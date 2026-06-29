@@ -1,0 +1,266 @@
+{
+  "schema_version": 2,
+  "doc_hash": "bc289db3acb03492",
+  "source_file": "eh_n0280_0010.pdf",
+  "title": "의천, 불교 통합을 꿈꾸다",
+  "kind": "people",
+  "era": "고려",
+  "era_source": "keyword",
+  "scene_count": 11,
+  "section_count": 5,
+  "image_count": 6,
+  "est_total_ms": 507500,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "선암사(전남 순천시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "하루는 문종이 왕자들을 불렀어요.",
+      "scene_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "“아우의 뜻이 그렇다면 내 한번 생각해 보겠소.”",
+      "scene_indices": [
+        5,
+        6
+      ],
+      "scene_seq": [
+        6,
+        7
+      ],
+      "image_captions": [
+        "계룡과 알영"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "의천이 고려로 돌아오자 왕은 성대하게 환영 잔치를 열어주었지요.",
+      "scene_indices": [
+        7,
+        8
+      ],
+      "scene_seq": [
+        8,
+        9
+      ],
+      "image_captions": [
+        "의천의 불교 통합"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "화폐를 만들자고 했어요",
+      "scene_indices": [
+        9,
+        10
+      ],
+      "scene_seq": [
+        10,
+        11
+      ],
+      "image_captions": [
+        "고려시대의 여러 화폐(한국은행 화폐박물관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "의천, 불교 통합을 꿈꾸다\n“저는 송으로 가 불교에 대해 더 공부하고 싶습니다.”\n“왕자의 몸으로 외국에 나가겠다고? 절대 그럴 수 없다.”\n고려 문종은 승려가 된 아들의천의 말에 깜짝 놀랐어요. 결코 있을 수 없는 일이라며 거세게 반대했지요.\n왜 왕자인 의천이 승려가 된 것일까요? 의천은 송으로 유학을 갈 수 있었을까요?\n왕자의 신분으로 승려가 되다\n“왕자 아기씨가 태어나셨습니다.”\n1055년, 고려 11대 왕인 문종은 넷째 아들이 태어났다는 소식에 기쁨을 감추지 못했어요. 문종은 아이의 이름을 ‘후’라고 지었어요.",
+      "est_speech_ms": 40400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "선암사(전남 순천시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/bc289db3acb03492/fig_001.jpg",
+          "caption": "선암사(전남 순천시)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "하루는 문종이 왕자들을 불렀어요.",
+      "narration": "그가 바로 고려의 이름난 승려의천이에요. 자라면서 여기저기서 총명하고 지혜롭다는 소리를 들었지요. 책을 보는 것을 좋아했고, 글도 잘 지었어요.\n하루는 문종이 왕자들을 불렀어요.\n“너희들 중 누가 승려가 되어 부처를 공양하여 복을 받겠느냐?”\n“제가 하겠습니다. 평소 저는 승려가 될 뜻을 품고 있었으니 아버님의 뜻을 따르겠습니다.”\n문종의 말을 듣자마자 의천은 스스로 승려가 되겠다고 했어요. 그때의천의 나이 11살이었지요.\n고려는 불교의 나라라고 부를 정도로 불교를 중요시하고 또한 많은 사람들이 믿었지요. 승려를 대상으로 실시한 과거 시험인 승과도 있었지요. 그만큼 승려는 사회적으로 인정받았고, 사람들로부터 존경받았기에 많은 사람들이 승려가 되려고 했어요. 의천과 같이 왕자도 승려가 되었고, 귀족 집안에서 도 이름 높은 승려들이 많이 나왔어요.",
+      "est_speech_ms": 61200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "하루는 문종이 왕자들을 불렀어요.",
+      "narration": "머리를 깎고 승려가 된 의천은 절에 들어가 불교 경전을 공부했어요. 늦은 밤까지 환하게 밝히며 쉬지 않고 열심히 공부했지요. 불교에 관한 책뿐 아니라, 유교 관련 책들도 두루 읽으며 점점 학문의 깊이를 더해갔지요.\n승려가 된지 2년 만에 의천은 교종의 최고 지위인 승통이 되었어요. 그는 어떻게 어린 나이에 이렇듯 높은 자리에 오를 수 있었던 것일까요? 의천 스스로 학문이 높았기 때문이기도 하지만, 아버지 문종이 불교 세력을 통제할 수 있도록 의천을 승통 자리에 앉혔던 거예요.\n송으로 몰래 유학을 떠나다",
+      "est_speech_ms": 40400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "하루는 문종이 왕자들을 불렀어요.",
+      "narration": "의천은 다양한 책을 읽고, 학자들과 스님들을 만나 두루 공부도 했어요. 하지만 무언가 답답함이 해결되지 않았어요. 그럴수록 불교에 대해 더 공부하고 싶은 마음이 깊어갔지요.\n마침내 그는 고려를 떠나 송으로 가 불교에 대해 더 깊이 공부하기로 마음먹었어요.\n“송에 가서 배워야만 어두운 눈을 밝게 할 수 있을 거야.”",
+      "est_speech_ms": 24800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "하루는 문종이 왕자들을 불렀어요.",
+      "narration": "의천은 송에서 학문이 높은 승려로 유명한 정원 법사와 여러 차례 편지를 주고받았어요. 그리고 송에서 유학하며 불교에 대해 더 공부하고 싶다는 편지를 썼어요. 얼마 후 정원 법사에게서 승낙의 답장이 왔지요.\n마음을 굳힌 의천은 아버지 문종을 찾아갔어요. 하지만 허락을 얻지 못했지요. 의천은 어쩔 수 없이 뜻을 꺾고 때를 기다리기로 했어요. 문종이 죽고 큰 형인 순종에 이어 둘째 형인 선종이 왕위에 오르자 다시 송으로 가겠다고 청했어요.\n“형님, 저 하나만을 위해 송에 가겠다는 것이 아닙니다. 송에 가 불교를 제대로 공부하고 불교 경전을 수집해 오도록 하겠습니다.”",
+      "est_speech_ms": 45000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "“아우의 뜻이 그렇다면 내 한번 생각해 보겠소.”",
+      "narration": "“아우의 뜻이 그렇다면 내 한번 생각해 보겠소.”\n하지만 신하들이 이를 받아들이지 않았어요.\n“왕의 동생이 외국에 나가다니요? 너무 위험합니다.”\n당시 고려, 송, 거란의 관계는 외교적으로 민감했어요. 고려는 거란(요)의 눈치를 살피느라 송과는 공식적인 외교를 하지 않았어요.\n왕의 동생이 송으로 유학 간다면 거란(요)은 고려와 송이 친해질까 봐 탐탁해하지 않을 테니, 신하들은 당연히 반대할 수밖에 없었겠지요?\n하지만 불교의 진리를 공부하고 싶다는 의천의 마음을 아무도 막을 수는 없었어요. 그는 31세에 제자를 데리고 몰래 송으로 가는 장사배에 몸을 실었어요. 평범한 승려 차림으로 말이에요.",
+      "est_speech_ms": 47200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "“아우의 뜻이 그렇다면 내 한번 생각해 보겠소.”",
+      "narration": "고려의 왕자가 유학을 왔다는 소식을 뒤늦게 전해들은 송나라 황제는 그를 극진히 대우하며 유학 생활을 도와주었어요. 송 황제는 고려의 왕자를 잘 대우해 주어 고려와 좋은 관계를 유지하려했지요. 그래야 고려를 이용해 경쟁 관계에 있는 거란을 견제할 수 있을 테니 말이에요.\n의천은 송에 있는 14개월 동안 학문이 높은 승려들을 만나 부처의 가르침에 대한 이야기를 들었어요. 정원 법사도 만날 수 있었고요. 불교의 진리를 깨치기 위해 두루 공부했어요.\n시간이 흘러 고려왕이 송 황제에게 의천이 고려로 돌아올 수 있게 해달라고 청했어요. 황제의 허락을 받은 의천은 송에서 모은 1천여 권의 책을 가지고 돌아왔어요.",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "계룡과 알영"
+      ],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "의천이 고려로 돌아오자 왕은 성대하게 환영 잔치를 열어주었지요.",
+      "narration": "교장도감을 설치하고, 천태종을 창시하다\n의천이 고려로 돌아오자 왕은 성대하게 환영 잔치를 열어주었지요.\n“이제 송에서의 배움을 바탕으로 고려 발전을 위해 힘써 주시오.”\n“폐하, 그리 말씀해 주시니 성은이 망극하옵니다.”\n이후 흥왕사를 책임지는 주지 스님이 된 의천은 함께 일할 승려들을 불러 모았어요. 의천은 많은 승려들과 함께 고려는 물론 송, 거란, 일본에 있는 수천 권의 불교 서적들을 수집했지요.\n의천의 요청으로 1086년 흥왕사에 교장도감이라는 관청이 설치되었어요. 이후의천은 이곳을 중심으로 불교 서적 목록을 정리하고 부처의 말씀이 담긴 경전에 대해 연구하고 해설한 글을 모은 교장도 편찬했어요.",
+      "est_speech_ms": 49400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "의천이 고려로 돌아오자 왕은 성대하게 환영 잔치를 열어주었지요.",
+      "narration": "불교를 널리 전하는데 대장경에 대한 연구서가 꼭 필요했기에 교장을 펴낸 거예요. 무려 10여 년에 걸쳐 진행된 일로, 동아시아 각국의 대장경 연구서를 모두 모은 어마어마한 규모의 작업이었어요.\n이후의천은 국청사 주지 스님이 되었어요. 그의 말씀을 듣기 위해 수 천 명의 승려들이 국청사로 몰려들었어요. 의천은 이곳에서 고려의 천태종을 창시했어요. 천태종은 중국 불교 종파의 하나예요.\n당시 고려의 불교는 불교 경전 공부를 더 중요시한 교종과 마음의 수양을 더 중요시한 선종으로 나뉘어져 갈등하고 대립했어요. 의천은 천태종을 창시해 두 종파를 통합하려했지요.\n불교 경전 공부뿐만 아니라, 깨달음을 얻기 위해 마음의 수양도 함께 해야 한다고 주장했어요. 의천은 둘로 나뉘어져 대립하던 불교를 하나로 통합해 고려 불교 발전에 큰 역할을 했던 거예요.",
+      "est_speech_ms": 60800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "의천의 불교 통합"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/bc289db3acb03492/fig_052.jpg",
+          "caption": "의천의 불교 통합",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "화폐를 만들자고 했어요",
+      "narration": "화폐를 만들자고 했어요\n의천은 송의 여러 도시를 다니며 느낀 것이 많았어요. 도시의 거리는 사람들로 붐볐어요. 시장은 물건을 사고파느라 활기가 넘쳤고요.\n일반 서민들까지 돈으로 물건을 사고파는 모습은 본의천은 무언가 깨달음을 얻었어요.\n“고려도 발전하려면 돈을 만들어 사용하도록 해야겠군.”\n고려로 돌아온 의천은 셋째 형인 숙종 임금에게 금속 화폐를 만들자는 의견을 내놓았어요.\n“화폐는 쌀이나 베에 비해 운반하기도 편리하고, 보관하기도 편리합니다. 뿐만 아니라 세금을 낼 때, 쌀에 다른 것을 섞어 속이는 일이 없을 것이고, 관리들 봉급 주기도 편리합니다.”",
+      "est_speech_ms": 45200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "고려시대의 여러 화폐(한국은행 화폐박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/bc289db3acb03492/fig_064.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/bc289db3acb03492/fig_065.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.25
+        },
+        {
+          "path": "assets/history/images/bc289db3acb03492/fig_066.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/bc289db3acb03492/fig_068.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.75
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "화폐를 만들자고 했어요",
+      "narration": "숙종은 의천의 주장을 적극적으로 받아들였어요. 화폐를 만드는 관청을 설치하고 여러 가지 화폐를 만들도록 했어요. 화폐 사용은 여러 모로 편리하고, 세금도 제대로 걷혀 국가의 살림이 탄탄해지니 환영할 일이었지요.\n의천은 이처럼 고려의 발전을 위한 여러 가지 일들을 했어요. 숙종은 그가 세상을 떠난 뒤 그를 기려 ‘대각국사’라고 불렀지요.\n의천은 왕자 신분이었음에도 불교를 널리 퍼뜨리는 일에 일생을 바쳤어요. 이러한 그의 노력 덕분에 고려 불교는 한층 발전할 수 있었답니다.",
+      "est_speech_ms": 38400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

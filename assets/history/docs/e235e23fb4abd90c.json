@@ -1,0 +1,213 @@
+{
+  "schema_version": 2,
+  "doc_hash": "e235e23fb4abd90c",
+  "source_file": "eh_n0010_0010.pdf",
+  "title": "단군왕검, 아사달에 나라를 세우다",
+  "kind": "people",
+  "era": "고조선",
+  "era_source": "keyword",
+  "scene_count": 7,
+  "section_count": 4,
+  "image_count": 6,
+  "est_total_ms": 224499,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "마니산 참성대(인천 강화도)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "환웅, 하늘에서 내려오다",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [
+        "하늘에서 내려오는 환웅",
+        "환웅을 만나는 곰과 범"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "단군이 태어나다",
+      "scene_indices": [
+        3,
+        4
+      ],
+      "scene_seq": [
+        4,
+        5
+      ],
+      "image_captions": [
+        "단군왕검의 탄생",
+        "아사달로 이주하는 단군왕검"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "단군 신화, 어떻게 볼까요",
+      "scene_indices": [
+        5,
+        6
+      ],
+      "scene_seq": [
+        6,
+        7
+      ],
+      "image_captions": [
+        "고조선의 문화 범위"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "단군왕검, 아사달에 나라를 세우다\n“개천절은 무엇을 기념하는 날인가요?”\n“우리나라 최초의 국가인 고조선의 건국을 축하하는 날이에요.”\n“고조선은 세운 사람은 누구일까?”\n고조선은 우리 민족 최초의 국가에요. 단군이라는 분이 세웠지요.\n단군이 고조선을 세우는 모습은 고려 시대에 일연 스님이 쓴 삼국유사에 잘 나와 있어요. 지금부터 일연이 전해준 건국 신화 이야기를 들어볼까요?",
+      "est_speech_ms": 30199,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "마니산 참성대(인천 강화도)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/e235e23fb4abd90c/fig_001.jpg",
+          "caption": "마니산 참성대(인천 강화도)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "환웅, 하늘에서 내려오다",
+      "narration": "환웅, 하늘에서 내려오다\n아득한 옛날 하늘의 왕 환인에게는 아들 환웅이 있었어요. 그런데 환웅은 아래 세상을 내려다보며 사람들을 널리 이롭게 할 뜻을 품고 있었지요.\n아들의 뜻을 알게 된 환인은 환웅을 아래 세상으로 내려 보내기로 결심을 하고, 하늘의 왕권을 상징하는 세 가지 보물을 환웅에게 주었어요. 환웅은 바람, 구름, 비를 관장하는 신하와 무리 삼천 명을 거느리고 태백산 신단수 아래에 내려와 인간 사회를 다스렸어요.\n곰과 범이 찾아오다\n환웅이 세상을 다스리던 때였어요. 곰 한 마리와 범 한 마리가 같은 동굴에 살고 있었어요. 곰과 범은 늘 신령스러운 환웅에게 사람으로 변하게 해 달라고 빌었어요.",
+      "est_speech_ms": 48400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "하늘에서 내려오는 환웅",
+        "환웅을 만나는 곰과 범"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/e235e23fb4abd90c/fig_011.jpg",
+          "caption": "하늘에서 내려오는 환웅",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/e235e23fb4abd90c/fig_018.jpg",
+          "caption": "환웅을 만나는 곰과 범",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "환웅, 하늘에서 내려오다",
+      "narration": "어느 날 환웅은 곰과 범에게 신비한 쑥 한 줌과 마늘 스무 개를 주면서 이것을 먹고 백일 동안 햇빛을 보지 않는다면 사람이 될 것이라고 말하였어요.",
+      "est_speech_ms": 11600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "단군이 태어나다",
+      "narration": "단군이 태어나다\n곰과 범은 이것을 받아 함께 먹었어요. 그러나 범은 견디지 못하고 동굴을 뛰쳐나가 사람이 되지 못하였고, 곰은 21일 만에 여자로 다시 태어났어요. 그리고 그 이름을 웅녀라고 하였지요.\n웅녀는 혼인할 사람이 없었어요. 웅녀는 많은 날을 신단수 아래로 찾아와 아이를 갖게 해 달라고 빌었어요. 웅녀의 간절한 기도를 들은 환웅은 잠시 사람으로 변하여 그녀와 혼인을 하였어요. 그리고 환웅과 웅녀 사이에서 아들이 태어났어요. 그가 바로 ‘단군왕검’이랍니다.\n단군, 나라를 세우고 조선이라 하다\n기원전 2333년에 단군왕검은 평양성에 나라를 세우고 나라 이름을 ‘조선’이라고 하였어요. 단군왕검은 얼마 후에 다시 도읍을 백악산 아사달로 옮겼지요.",
+      "est_speech_ms": 53000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "단군왕검의 탄생",
+        "아사달로 이주하는 단군왕검"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/e235e23fb4abd90c/fig_024.jpg",
+          "caption": "단군왕검의 탄생",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/e235e23fb4abd90c/fig_030.jpg",
+          "caption": "아사달로 이주하는 단군왕검",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "단군이 태어나다",
+      "narration": "단군왕검은 그곳에서 1,500년 동안 나라를 평화롭게 다스렸지요.\n이후 아사달에 들어가 산신이 되었는데 나이가 1,908세였다고 해요.",
+      "est_speech_ms": 11400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "단군 신화, 어떻게 볼까요",
+      "narration": "단군 신화, 어떻게 볼까요\n단군 신화 속 환웅은 다른 곳에서 이주해 온, 하늘을 숭배하던 부족을 나타내고, 곰과 범은 각각 한반도와 만주에 살고 있던 곰과 범을 숭배하던 부족을 나타냅니다. 단군 신화는 이주해 온 환웅 부족이 원주민이었던 곰부족과 결합하여 고조선을 세웠다는 걸 상징적으로 알려주고 있지요.\n그런데 단군 신화에서는 단군이 무려 1,500년 동안 나라를 다스렸다고 해요. 한 임금이 그렇게 오래 동안 나라를 다스릴 수는 없겠지요. 단군과 그 후손인 2세단군, 3세단군 등 고조선의 왕을 모두 단군이라고 부른 것으로 보여요. 고조선의 모든 왕이 다스린 기간을 합하면 1,500년이라는 뜻이지요.",
+      "est_speech_ms": 48800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "단군 신화, 어떻게 볼까요",
+      "narration": "우리 민족은 나라가 어려울 때마다 단군의 건국 신화를 생각하며 마음을 하나로 뭉쳐 어려움을 이겨 냈어요. 여러분도 인간을 존중하고 도우라는 고조선 건국의 의미를 되새기며 우리 역사를 꼼꼼하게 살펴보면 어떨까요?",
+      "est_speech_ms": 17600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "고조선의 문화 범위"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/e235e23fb4abd90c/fig_043.jpg",
+          "caption": "고조선의 문화 범위",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

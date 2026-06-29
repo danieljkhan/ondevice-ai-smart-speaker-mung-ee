@@ -1,0 +1,286 @@
+{
+  "fixture_name": "20260520_session56_anchor",
+  "generated_at_utc": "2026-05-20T07:31:41+00:00",
+  "tts_provider": "Typecast",
+  "tts_model": "ssfm-v30",
+  "tts_emotion": "normal",
+  "ko_voice": {
+    "id": "tc_5ffda49bcba8f6d3d46fc447",
+    "name": "Hobin",
+    "gender": "male",
+    "age": "child"
+  },
+  "en_voice": {
+    "id": "tc_62fb679683a541c351dc7c3a",
+    "name": "Ella",
+    "gender": "female",
+    "age": "child"
+  },
+  "purpose": "Session 56 anchor-focused E2E test — confirmable-fact grounding production validation post-Session 55 default flip. EN topics restricted to universal animal/geography facts (no Korean-cultural topics) per user direction 2026-05-20.",
+  "entries": [
+    {
+      "id": 1,
+      "lang": "ko",
+      "voice": "Hobin",
+      "voice_id": "tc_5ffda49bcba8f6d3d46fc447",
+      "text": "뭉이야, 우리 몸에 뼈가 몇 개야?",
+      "expected_topic": "bone_count_adult",
+      "expected_fact": "성인의 뼈는 206개이고, 신생아는 약 270개",
+      "wav_file": "query_01_ko.wav",
+      "sha256": "94db0a240741f2888ab97e4d3823f253359a8c70ac27c406d979545e7ae66871"
+    },
+    {
+      "id": 2,
+      "lang": "ko",
+      "voice": "Hobin",
+      "voice_id": "tc_5ffda49bcba8f6d3d46fc447",
+      "text": "조선 왕은 몇 명이야?",
+      "expected_topic": "joseon_kings",
+      "expected_fact": "조선의 왕은 모두 27명이야.",
+      "wav_file": "query_02_ko.wav",
+      "sha256": "8a77fd7e5ca15fece729a42ad8025c8aadcbbfaf825e9b56b56f6055359f5230"
+    },
+    {
+      "id": 3,
+      "lang": "ko",
+      "voice": "Hobin",
+      "voice_id": "tc_5ffda49bcba8f6d3d46fc447",
+      "text": "한글 누가 만들었어?",
+      "expected_topic": "sejong_made_hangul",
+      "expected_fact": "한글은 조선의 세종대왕이 만들었어.",
+      "wav_file": "query_03_ko.wav",
+      "sha256": "2226d530474eb5674006da77188f5ed35c22159532c16f5946d8baf880e9ba88"
+    },
+    {
+      "id": 4,
+      "lang": "ko",
+      "voice": "Hobin",
+      "voice_id": "tc_5ffda49bcba8f6d3d46fc447",
+      "text": "한글날 언제야?",
+      "expected_topic": "hangeul_day",
+      "expected_fact": "한글날은 10월 9일이야.",
+      "wav_file": "query_04_ko.wav",
+      "sha256": "85bb808626077e26639966e1148bbadfef843e8ef7af863bb73cdae16dd058ee"
+    },
+    {
+      "id": 5,
+      "lang": "ko",
+      "voice": "Hobin",
+      "voice_id": "tc_5ffda49bcba8f6d3d46fc447",
+      "text": "조선 세워진 게 언제야?",
+      "expected_topic": "joseon_founding_year",
+      "expected_fact": "조선은 1392년에 세워졌어.",
+      "wav_file": "query_05_ko.wav",
+      "sha256": "528d226f32230a77a271e7e276573c1d44bb675595df8d832e40b3947881dc5f"
+    },
+    {
+      "id": 6,
+      "lang": "ko",
+      "voice": "Hobin",
+      "voice_id": "tc_5ffda49bcba8f6d3d46fc447",
+      "text": "고려 세워진 게 언제야?",
+      "expected_topic": "goryeo_founding_year",
+      "expected_fact": "고려는 918년에 세워졌어.",
+      "wav_file": "query_06_ko.wav",
+      "sha256": "796905a772c81dbac97a8ff2b69a81b19cd5c4ebe3aa8c25b78374ae50be0b34"
+    },
+    {
+      "id": 7,
+      "lang": "ko",
+      "voice": "Hobin",
+      "voice_id": "tc_5ffda49bcba8f6d3d46fc447",
+      "text": "어른 이빨 개수 알려줘.",
+      "expected_topic": "tooth_count_adult",
+      "expected_fact": "성인의 영구치는 사랑니까지 세면 32개야.",
+      "wav_file": "query_07_ko.wav",
+      "sha256": "5bc869748bcee46857c234b373fb14b881bf0f41eea81d4e29ac4af183352485"
+    },
+    {
+      "id": 8,
+      "lang": "ko",
+      "voice": "Hobin",
+      "voice_id": "tc_5ffda49bcba8f6d3d46fc447",
+      "text": "물은 몇 도에서 끓어?",
+      "expected_topic": "water_boiling",
+      "expected_fact": "물은 해수면의 1기압 기준에서 100도에 끓어.",
+      "wav_file": "query_08_ko.wav",
+      "sha256": "6d214bc93b2d1b038699b1add75ba69d5fff306c41dd937119977218f288c5bb"
+    },
+    {
+      "id": 9,
+      "lang": "ko",
+      "voice": "Hobin",
+      "voice_id": "tc_5ffda49bcba8f6d3d46fc447",
+      "text": "무지개 색깔이 뭐야?",
+      "expected_topic": "rainbow_colors",
+      "expected_fact": "무지개는 보통 빨주노초파남보의 7가지 색.",
+      "wav_file": "query_09_ko.wav",
+      "sha256": "d3a16786146fd6617835aa76bc78545fe4233341272ead5e3cd81336b8c9bcc9"
+    },
+    {
+      "id": 10,
+      "lang": "ko",
+      "voice": "Hobin",
+      "voice_id": "tc_5ffda49bcba8f6d3d46fc447",
+      "text": "미국 수도가 어디야?",
+      "expected_topic": "usa_capital",
+      "expected_fact": "미국의 수도는 워싱턴 D.C.야.",
+      "wav_file": "query_10_ko.wav",
+      "sha256": "db4279927c4b80e6b9b6c8993de34421aa2ab23c80fcdaa6bb28356cb0d80eab"
+    },
+    {
+      "id": 11,
+      "lang": "ko",
+      "voice": "Hobin",
+      "voice_id": "tc_5ffda49bcba8f6d3d46fc447",
+      "text": "우리나라 수도 알려줘.",
+      "expected_topic": "korea_capital",
+      "expected_fact": "대한민국의 수도는 서울이야.",
+      "wav_file": "query_11_ko.wav",
+      "sha256": "1d21e78c7ebc7a21b35f26325320a7348943ebb413cbc078cead2e4c68939e38"
+    },
+    {
+      "id": 12,
+      "lang": "ko",
+      "voice": "Hobin",
+      "voice_id": "tc_5ffda49bcba8f6d3d46fc447",
+      "text": "거미는 다리가 몇 개야?",
+      "expected_topic": "spider_legs",
+      "expected_fact": "거미의 다리는 8개야.",
+      "wav_file": "query_12_ko.wav",
+      "sha256": "3997c92b5a397d98f718226ed7ba4061e9aa09057f82d2475e1827f2c617b4bb"
+    },
+    {
+      "id": 13,
+      "lang": "en",
+      "voice": "Ella",
+      "voice_id": "tc_62fb679683a541c351dc7c3a",
+      "text": "Moong-ee, tell me about spider legs!",
+      "expected_topic": "spider_legs",
+      "expected_fact": "A spider has 8 legs.",
+      "wav_file": "query_13_en.wav",
+      "sha256": "dc2bb5cd711530aa968341ed308ce2b311f47be544df501c2db0ed1892d22bad"
+    },
+    {
+      "id": 14,
+      "lang": "en",
+      "voice": "Ella",
+      "voice_id": "tc_62fb679683a541c351dc7c3a",
+      "text": "Hey Moong-ee, tell me about insect legs.",
+      "expected_topic": "insect_legs",
+      "expected_fact": "An insect has 6 legs.",
+      "wav_file": "query_14_en.wav",
+      "sha256": "ccfa5d88b446066d4295fcce97c3261d1358d331cc64db09cffafbdfbf40da0b"
+    },
+    {
+      "id": 15,
+      "lang": "en",
+      "voice": "Ella",
+      "voice_id": "tc_62fb679683a541c351dc7c3a",
+      "text": "Tell me about octopus arms.",
+      "expected_topic": "octopus_arms",
+      "expected_fact": "An octopus has 8 arms.",
+      "wav_file": "query_15_en.wav",
+      "sha256": "f531065bef24370c3fa7cec6d3950de9b4a794083c9ccf35299a84d903577a1e"
+    },
+    {
+      "id": 16,
+      "lang": "en",
+      "voice": "Ella",
+      "voice_id": "tc_62fb679683a541c351dc7c3a",
+      "text": "Tell me about octopus hearts.",
+      "expected_topic": "octopus_hearts",
+      "expected_fact": "An octopus has 3 hearts.",
+      "wav_file": "query_16_en.wav",
+      "sha256": "ae824d5d8665b46e477bd43500feaf1bb6816fd49dc8069aa15b3c3585477daa"
+    },
+    {
+      "id": 17,
+      "lang": "en",
+      "voice": "Ella",
+      "voice_id": "tc_62fb679683a541c351dc7c3a",
+      "text": "Tell me about starfish arms.",
+      "expected_topic": "starfish_arms",
+      "expected_fact": "A starfish usually has 5 arms.",
+      "wav_file": "query_17_en.wav",
+      "sha256": "74af0e0fcd180e3bbff3ed13f99393f892e3ae990febf1ca77df8b593ed67f54"
+    },
+    {
+      "id": 18,
+      "lang": "en",
+      "voice": "Ella",
+      "voice_id": "tc_62fb679683a541c351dc7c3a",
+      "text": "Tell me about kangaroo pouch.",
+      "expected_topic": "kangaroo_pouch",
+      "expected_fact": "A kangaroo raises its baby in a pouch on its belly.",
+      "wav_file": "query_18_en.wav",
+      "sha256": "d7e6290b6050b06af9ea0e0ef023f69c5c0817c9eb71b2d9dda869034991766c"
+    },
+    {
+      "id": 19,
+      "lang": "en",
+      "voice": "Ella",
+      "voice_id": "tc_62fb679683a541c351dc7c3a",
+      "text": "Tell me about hummingbird smallest bird.",
+      "expected_topic": "hummingbird_smallest_bird",
+      "expected_fact": "The hummingbird is the smallest bird in the world.",
+      "wav_file": "query_19_en.wav",
+      "sha256": "4c15ee767e2107f68b9ff9140488c649eca55f714b636528d902e0f8eb99ac1e"
+    },
+    {
+      "id": 20,
+      "lang": "en",
+      "voice": "Ella",
+      "voice_id": "tc_62fb679683a541c351dc7c3a",
+      "text": "What is the capital of south korea?",
+      "expected_topic": "korea_capital",
+      "expected_fact": "The capital of South Korea is Seoul.",
+      "wav_file": "query_20_en.wav",
+      "sha256": "cba722601a2c755db6ae8d11ba2131cb40e283344f643716764a84c22b1ac35e"
+    },
+    {
+      "id": 21,
+      "lang": "en",
+      "voice": "Ella",
+      "voice_id": "tc_62fb679683a541c351dc7c3a",
+      "text": "Tell me about blue whale largest.",
+      "expected_topic": "blue_whale_largest",
+      "expected_fact": "The blue whale is the largest animal on Earth.",
+      "wav_file": "query_21_en.wav",
+      "sha256": "b8788c79b5a64997752c8ae45c4aecd60d98d5b668220abcca2b505d3e016d99"
+    },
+    {
+      "id": 22,
+      "lang": "en",
+      "voice": "Ella",
+      "voice_id": "tc_62fb679683a541c351dc7c3a",
+      "text": "Tell me about cheetah fastest.",
+      "expected_topic": "cheetah_fastest",
+      "expected_fact": "The cheetah is the fastest land animal.",
+      "wav_file": "query_22_en.wav",
+      "sha256": "80515441c177f0cf1c7dde14383cdeb745596dbe616665c76324a67d84fe367b"
+    },
+    {
+      "id": 23,
+      "lang": "en",
+      "voice": "Ella",
+      "voice_id": "tc_62fb679683a541c351dc7c3a",
+      "text": "Tell me about penguin cannot fly.",
+      "expected_topic": "penguin_cannot_fly",
+      "expected_fact": "A penguin is a bird that cannot fly but swims well.",
+      "wav_file": "query_23_en.wav",
+      "sha256": "410d1fb877bd41967e7d2e35ed2a54989897cdbb5b644c640457368ffdd9e039"
+    },
+    {
+      "id": 24,
+      "lang": "en",
+      "voice": "Ella",
+      "voice_id": "tc_62fb679683a541c351dc7c3a",
+      "text": "Tell me about panda eats bamboo.",
+      "expected_topic": "panda_eats_bamboo",
+      "expected_fact": "A panda mostly eats bamboo.",
+      "wav_file": "query_24_en.wav",
+      "sha256": "904b26e67de2005fe730efed1a51c01eb512e7d94e3f6d1be6fae072eec02551"
+    }
+  ]
+}

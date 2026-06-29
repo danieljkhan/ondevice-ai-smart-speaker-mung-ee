@@ -1,0 +1,362 @@
+{
+  "schema_version": 2,
+  "doc_hash": "dd0bb5a3f8aefb34",
+  "source_file": "eh_r0300_0010.pdf",
+  "title": "병자호란의 아픔을 간직한 남한산성과 삼전도비",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 15,
+  "section_count": 7,
+  "image_count": 8,
+  "est_total_ms": 639200,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "광해군과 인조의 서로 다른 외교정책",
+      "scene_indices": [
+        0,
+        1,
+        2
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3
+      ],
+      "image_captions": [
+        "남한산성 남문(경기 광주시), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        3,
+        4
+      ],
+      "scene_seq": [
+        4,
+        5
+      ],
+      "image_captions": [
+        "정묘호란과 병자호란 침입도",
+        "남한산성으로 피난 가는 왕과 신하들의 모습"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "한양 도성의 방어를 위해 지었던 남한산성",
+      "scene_indices": [
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8
+      ],
+      "image_captions": [
+        "남한산성(유네스코 한국위원회)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "47일간 인조가 머물렀던 남한산성 행궁",
+      "scene_indices": [
+        8
+      ],
+      "scene_seq": [
+        9
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "가장 높은 곳에서 군사를 지휘할 수 있었던 수어장대",
+      "scene_indices": [
+        9
+      ],
+      "scene_seq": [
+        10
+      ],
+      "image_captions": [
+        "남한산성 행궁(경기문화포털)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "치욕의 역사를 기억하게 하는 삼전도비",
+      "scene_indices": [
+        10,
+        11
+      ],
+      "scene_seq": [
+        11,
+        12
+      ],
+      "image_captions": [
+        "수어장대(문화재청)",
+        "삼전도비(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 끝까지 청에 맞서 싸울 것을 주장했던 삼학사",
+      "scene_indices": [
+        12,
+        13,
+        14
+      ],
+      "scene_seq": [
+        13,
+        14,
+        15
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "광해군과 인조의 서로 다른 외교정책",
+      "narration": "병자호란의 아픔을 간직한 남한산성과 삼전도비\n“나라님이 피난을 가셨다는군!”\n“어디로 가셨단 말인가?”\n“남한산성으로 가셨다네. 그나저나 우리 백성들은 어찌해야 한단 말인가?”\n1636년 병자호란이 일어나자 인조와 소현세자, 그리고 신하들까지 남한산성으로 급히 피난을 갔어요. 이들이 피난을 갔던 남한산성은 어떤 성이었을 까요? 그곳에는 어떤 특별한 시설들이 있었을까요?\n광해군과 인조의 서로 다른 외교정책\n광해군이 왕위에 있던 시기 중국 대륙에 큰 변화가 일어났어요. 명나라가 힘을 잃어가고 만주족이 세운 후금이 점점 세력을 키워가고 있었지요.",
+      "est_speech_ms": 44800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "남한산성 남문(경기 광주시), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/dd0bb5a3f8aefb34/fig_001.jpg",
+          "caption": "남한산성 남문(경기 광주시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "광해군과 인조의 서로 다른 외교정책",
+      "narration": "그러던 중 명과 후금 두 나라가 전쟁을 벌이게 되었어요. 이때 명은 조선에 지원군을 보내 달라고 요청했지요.\n광해군은 깊은 고민에 빠졌어요. 명을 도와 군사를 보내자니 후금의 공격을 받을 것 같았어요. 반면, 군사를 보내지 않으면 명나라에게 거센 외교적 압박을 받을 가능성이 높았거든요.\n자칫 잘못 판단하면 조선의 앞날이 위험해질 수도 있는 상황이었지요. 광해군은 일단 지원군을 보내기로 결정했어요. 하지만 강홍립 장군에게 전투 상황에 따라 행동하라는 비밀 명령을 내렸어요.\n강홍립은 광해군의 명령대로 처음에는 명을 도와 후금에 맞서 싸웠어요. 하지만 명이 불리해지자 후금에 항복을 하고 후금과 싸울 뜻이 없음을 전했지요.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "광해군과 인조의 서로 다른 외교정책",
+      "narration": "신하들 중에는 광해군의 이러한 대응을 비판하는 사람들이 있었어요. 당시 명은 조선보다 강국이었고, 조선은 그러한 명을 오랫동안 섬겨 왔어요.\n또한 임진왜란 때 명은 조선을 도와 군대를 보내줬어요. 신하들은 명에 대한 의리를 저버렸다고 하면서 광해군을 거세게 비판했어요.\n결국 인목대비를 폐위시키고 인목대비가 나은 영창대군을 끔찍하게 죽였다는 것을 이유로 들어 광해군을 끌어내리고 인조를 왕으로 세웠지요.\n왕이 된 인조는 광해군과는 다른 외교 정책을 취했어요. 여진족이 세운 후 금을 ‘오랑캐의 나라’라고 멀리하고, 명을 받들며 친하게 지냈지요. 그러자 후금은 1627년 조선에 쳐들어왔어요. 이를 정묘호란이라고 해요.",
+      "est_speech_ms": 51000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "두 나라는 형제처럼 지내자는 약속을 하고 전쟁을 끝냈지요. 이후 후금은 더욱 강성해졌어요. 민족 이름을 여진족에서 만주족으로 바꾸고, 나라 이름도 후금에서 청으로 바꿨어요.\n청은 조선에 무리한 요구를 했어요. 형제관계에서 임금과 신하 관계의 예를 갖추라고 했어요. 청의 태도를 놓고 신하들 간에 의견이 나뉘었어요. 청과 전쟁이라도 벌여야 한다는 사람들과 외교적으로 잘 해결해야 한다고 주장하는 신하들이 대립했지요.\n조선이 청의 요구를 들어주지 않자 1636년 12월, 청은 12만여 명의 군대를 이끌고 조선에 쳐들어왔어요. 병자호란이 일어난 거에요. 청의 군대는 압록강을 건넌지 며칠 만에 한성 가까이 들이닥쳤어요.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "이 소식을 들은 인조와 신하들은 강화도로 피난을 가려했어요. 하지만 이 미 강화도로 가는 길목이 막혀 있는 상황이었지요.\n인조와 신하들은 찬바람을 맞아가며 남한산성으로 옮겨가야 했어요. 그리고 청군에 맞서 싸웠지요.\n지금부터 남한산성을 돌아보며 병자호란과 관련된 이야기를 자세히 알아 볼까요?",
+      "est_speech_ms": 24400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정묘호란과 병자호란 침입도",
+        "남한산성으로 피난 가는 왕과 신하들의 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/dd0bb5a3f8aefb34/fig_026.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/dd0bb5a3f8aefb34/fig_032.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.75
+        },
+        {
+          "path": "assets/history/images/dd0bb5a3f8aefb34/fig_038.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "한양 도성의 방어를 위해 지었던 남한산성",
+      "narration": "한양 도성의 방어를 위해 지었던 남한산성\n조선은 한양 도성 방어를 위해 북한산성과 남한산성을 쌓았어요. 남한산성은 해발 500m 가량의 청량산을 중심으로 주변의 여러 봉우리를 연결해 쌓은 성이에요. 안쪽은 경사가 완만하고 평평한데, 성 밖은 가파르고 험해 적들이 쉽게 공격하기 힘든 곳이지요.\n남한산성은 1624년 인조 때 지어졌어요. 임진왜란을 겪으면서 한양 도성을 방어하는 성을 쌓아야한다는 이야기가 이어졌지요. 하지만 실행되지는 못했어요. 그러다 후금의 위협이 거세지면서 남한산성을 쌓기 시작했어요.",
+      "est_speech_ms": 42300,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "한양 도성의 방어를 위해 지었던 남한산성",
+      "narration": "그런데 남한산성을 발굴하고 복원하는 과정에서 놀라운 사실이 확인되었어요. 성곽 아래에서 통일신라 성의 흔적과 유물들이 발굴되었거든요.\n삼국사기에 등장하는 신라 주장성이 이곳에 있었다고 추정되고 있어요. 이후 고려와 조선시대에 농사를 짓고 살았던 흔적도 발견되었어요.\n남한산성은 외적의 공격에 대비하기 위한 여러 가지 시설을 가장 잘 갖췄어요.\n관아 건물을 비롯해 동, 서, 남, 북 4곳에 문이 있고, 16개의 비밀 문인 암문, 포를 쏠 수 있는 시설, 군인들이 머물던 곳, 식량과 무기 창고 등이 있었어요.",
+      "est_speech_ms": 40600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "남한산성(유네스코 한국위원회)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/dd0bb5a3f8aefb34/fig_046.jpg",
+          "caption": "남한산성(유네스코 한국위원회)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "한양 도성의 방어를 위해 지었던 남한산성",
+      "narration": "무엇보다 왕이 머물 수 있는 행궁이 있어 남한산성이 임시 수도 역할을 담당할 수 있도록 했어요.\n다양한 시설을 가장 잘 갖추었다고 손꼽히는 남한산성은 역사적·문화적 가치를 인정받아 2014년 유네스코 세계유산으로 선정되었답니다.",
+      "est_speech_ms": 19200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "47일간 인조가 머물렀던 남한산성 행궁",
+      "narration": "47일간 인조가 머물렀던 남한산성 행궁\n병자호란 때 남한산성으로 피난 간 인조는 어디에 머물렀을까요?\n바로 행궁이랍니다. 행궁은 왕이 지내던 궁 밖으로 나가게 될 때 임시로 머물던 궁을 말해요. 남한산성 행궁은 조선의 행궁 중 규모가 가장 컸어요.\n나라에 전쟁이나 내란 같은 어려움이 닥쳤을 때 왕이 머물면서 나랏일을 볼 수 있도록 만들었어요. 종묘의 위패를 보관하던 좌전과 사직의 역할을 하는 우실도 갖추었어요.\n인조는 행궁에 47일간 머물며 청과 맞섰어요. 평소에 전쟁을 대비해 무기와 식량을 준비해 둔 남한산성이기에 짧은 기간은 버틸 수 있었어요. 하지만 혹독한 추위 속에 군사들이 버티는 일은 쉽지 않았어요.",
+      "est_speech_ms": 50000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "가장 높은 곳에서 군사를 지휘할 수 있었던 수어장대",
+      "narration": "눈보라를 피할 옷도, 굶주림을 면할 식량도 넉넉하지 않았으니까요.\n훗날 남한산성 일대는 일제강점기 의병들의 근거지가 되기도 했던 곳이에요. 그러자 일제는 남한산성 행궁을 불태우고 남한산성을 파괴해 버렸지요.\n1998년부터 10여 년간 복원 공사를 한 결과, 남한산성 행궁이 100여 년 만에 옛 모습을 드러냈답니다.\n가장 높은 곳에서 군사를 지휘할 수 있었던 수어장대\n남한산성에는 5개의 장대가 있었어요. 장대는 성에서 가장 높은 곳에 지었지요. 장수들이 군대를 지휘하거나 주변 상황을 관찰하기가 유리했거든요.\n남한산성 장대 중 유일하게 남아 있는 것이 바로 수어장대예요\n원래는 서쪽에 있어서장대라고 불렸지요.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "남한산성 행궁(경기문화포털)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/dd0bb5a3f8aefb34/fig_061.jpg",
+          "caption": "남한산성 행궁(경기문화포털)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "치욕의 역사를 기억하게 하는 삼전도비",
+      "narration": "이곳에서는 맑은 날엔 멀리 인천까지도 보인다고 해요. 병자호란 당시 인조는 직접 수어장대에 올라 군사를 지휘하며 청에 맞섰다고 해요.\n원래는 1층이었던 것을 병자호란 이후 100여 년이 지난 영조 때 2층으로 올려지었어요. 2층 바깥에는 수어장대, 안쪽에는 무망루라는 이름을 붙였어요.\n무망루는 병자호란 때 청으로 끌려갔다 돌아와 북벌을 추진했던 효종의 원통한 마음을 잊지 말자는 뜻에서 지은 이름이랍니다.\n치욕의 역사를 기억하게 하는 삼전도비\n병자호란 때 청은 점점 더 많은 군사들을 동원하며 남한산성에 있는 조선 사람들을 압박했어요. 사실상 밖으로 나갈 수 없는 고립된 상황이었어요.",
+      "est_speech_ms": 48600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "수어장대(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/dd0bb5a3f8aefb34/fig_071.jpg",
+          "caption": "수어장대(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "치욕의 역사를 기억하게 하는 삼전도비",
+      "narration": "청 태종은 조선의 임금이 신하의 예를 갖추고 항복할 것을 요구했어요.\n이때 김상헌 등은 청군에 끝까지 맞서 싸워야 한다고 주장했어요. 반면 최명길 등은 현실을 받아들여 청의 요구대로 화해를 해야 한다고 주장했지요.\n결국 인조는 청에 항복하기로 결정했어요. 인조는 매서운 바람이 부는 날, 청의 군대가 있는 한강 삼전도(삼전나루, 지금의 잠실 석촌호수 지역)로 나갔어요. 그리고 높이 쌓은 단 위에 의기양양 앉아있는 청 황제를 향해 세 번 절하고, 아홉 번 고개를 땅에 조아리며 항복의 뜻을 전했어요.\n이후 청을 임금의 나라로 섬기기로 했고요. 참으로 굴욕적인 항복이었지요.\n청 황제는 병자호란 승리의 공덕을 기리기 위해 삼전도비를 세웠어요. 이 비석은 ‘청황제공덕비’라고도 불러요.",
+      "est_speech_ms": 54400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "삼전도비(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/dd0bb5a3f8aefb34/fig_079.jpg",
+          "caption": "삼전도비(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 끝까지 청에 맞서 싸울 것을 주장했던 삼학사",
+      "narration": "몽골어, 만주어, 한자로 그 내용이 기록되어 있어요. 조선은 청에 항복한 이후 소현세자와 봉림대군을 비롯해서 끝까지 싸우자고 주장했던 신하들을 청에 인질로 보내야했답니다.\n역사 속 작은 이야기: 끝까지 청에 맞서 싸울 것을 주장했던 삼학사\n병자호란 때 인조가 청 황제에게 항복하려고 하자 가장 적극적으로 반대한 사람들이 있어요. 바로 윤집, 오달제, 홍익한이지요.\n이들을 가리켜 ‘삼학사’라고 불러요.\n병자호란이 일어나기 이전 청나라는 조선에 사신을 보내 ‘임금과 신하의 관계’라는 말도 안 되는 요구를 해왔지요.",
+      "est_speech_ms": 41200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 끝까지 청에 맞서 싸울 것을 주장했던 삼학사",
+      "narration": "이에 대해 삼학사는 청의 사신을 죽여 청과 맞서야 한다고 주장했어요.\n병자호란이 끝난 후 청은 눈에 가시 같던 삼학사를 인질로 끌고 갔어요. 청의 수도인 심양까지 끌려간 그들은 갖은 어려움을 겪었지요.\n청의 장수 용골대는 삼학사에게 가족과 함께 청에 살 것을 제안하며 회유를 하기도 했어요. 그러나 삼학사는 단호하게 거절했지요.\n결국 삼학사는 처형되었어요. 삼학사는 죽기 전에 자신들이 정당하다는 것을 한 치의 떨림도 없이 당당하게 주장했고 청 황제가 그 모습에 감탄했다는 이야기가 전해지고 있어요.\n남한산성을 돌아보며 병자호란에 대해 자세히 알게 되었나요?",
+      "est_speech_ms": 45800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 끝까지 청에 맞서 싸울 것을 주장했던 삼학사",
+      "narration": "남한산성에 있는 특별한 문화유산들을 돌아보며 세계유산에 등재된 이유도 알게 되었을 거예요. 또한 삼전도비에 새겨진 치욕의 역사는 지워야할 역사가 아니라, 그것까지도 기억해야 할 역사임을 알면 좋겠어요.",
+      "est_speech_ms": 17000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

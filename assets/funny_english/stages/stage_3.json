@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "stage": 3,
+  "title": "Word pairs",
+  "cards": [
+    {
+      "schema_version": 1,
+      "card_id": "fe_s3_ship",
+      "stage": 3,
+      "type": "word",
+      "text": "ship",
+      "tokens": [
+        "ship"
+      ],
+      "ko_gloss": "배",
+      "syllables": [
+        "s",
+        "h",
+        "i",
+        "p"
+      ],
+      "first_sound": "s",
+      "image": "assets/funny_english/images/fe_s3_ship.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s3_ship.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "ship"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "ship",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s3_fish",
+      "stage": 3,
+      "type": "word",
+      "text": "fish",
+      "tokens": [
+        "fish"
+      ],
+      "ko_gloss": "물고기",
+      "syllables": [
+        "f",
+        "i",
+        "s",
+        "h"
+      ],
+      "first_sound": "f",
+      "image": "assets/funny_english/images/fe_s3_fish.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s3_fish.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "fish"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "fish",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s3_star",
+      "stage": 3,
+      "type": "word",
+      "text": "star",
+      "tokens": [
+        "star"
+      ],
+      "ko_gloss": "별",
+      "syllables": [
+        "s",
+        "t",
+        "a",
+        "r"
+      ],
+      "first_sound": "s",
+      "image": "assets/funny_english/images/fe_s3_star.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s3_star.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "star"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "star",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s3_tree",
+      "stage": 3,
+      "type": "word",
+      "text": "tree",
+      "tokens": [
+        "tree"
+      ],
+      "ko_gloss": "나무",
+      "syllables": [
+        "t",
+        "r",
+        "e",
+        "e"
+      ],
+      "first_sound": "t",
+      "image": "assets/funny_english/images/fe_s3_tree.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s3_tree.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "tree"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "tree",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    }
+  ]
+}

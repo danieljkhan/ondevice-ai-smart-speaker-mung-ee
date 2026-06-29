@@ -1,0 +1,383 @@
+{
+  "schema_version": 2,
+  "doc_hash": "7cf933e9438012be",
+  "source_file": "eh_r0012_0010.pdf",
+  "title": "청동기 시대 생활 터전, 부여 송국리 유적",
+  "kind": "artifact",
+  "era": "선사",
+  "era_source": "keyword",
+  "scene_count": 16,
+  "section_count": 7,
+  "image_count": 9,
+  "est_total_ms": 686800,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "부여 송국리 유적(충남 부여군)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "부여 송국리 유적, 청동기 시대 마을을 담다",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "집의 크기가 커지고 울타리도 만들다",
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "주거지(문화재청)",
+        "둥근 모양의 움집과 네모 모양의 움집(문화재청)",
+        "목책(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "송국리형 토기라 불리는 민무늬 토기",
+      "scene_indices": [
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "민무늬 토기(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "돌로 무덤을 만들다",
+      "scene_indices": [
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "돌널무덤(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 청동기 시대 유적지에 왜 간석기가 발견될까",
+      "scene_indices": [
+        12,
+        13,
+        14
+      ],
+      "scene_seq": [
+        13,
+        14,
+        15
+      ],
+      "image_captions": [
+        "부여 송국리 유적 출토 유물(문화재청)\n비파형 청동검뿐 아니라 간돌검, 옥으로 만든 장신구가 나왔다."
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": null,
+      "scene_indices": [
+        15
+      ],
+      "scene_seq": [
+        16
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "청동기 시대 생활 터전, 부여 송국리 유적\n“자네, 빗살무늬 새겨 넣지 않나? 그렇지 않으면 나중에 토기가 깨져 쓸모가 없다네.”\n“자네, 아직 모르는군. 이제 빗살무늬를 일부러 새겨 넣을 필요가 없다네. 그렇게 하지 않아도 훨씬 튼튼한 토기를 만들 수 있다네.”\n부여 송국리 유적지에 가면 청동기 시대 사람들의 생활 모습을 알 수 있는 유적과 유물이 있어요. 과연 청동기 시대 사람들은 어떻게 생활했을까요? 우리 함께 부여 송국리 유적으로 떠나볼까요?",
+      "est_speech_ms": 34800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "부여 송국리 유적(충남 부여군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/7cf933e9438012be/fig_001.jpg",
+          "caption": "부여 송국리 유적(충남 부여군)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "부여 송국리 유적, 청동기 시대 마을을 담다",
+      "narration": "부여 송국리 유적, 청동기 시대 마을을 담다\n충청남도 부여 송국리 유적에 가면 청동기 시대 사람들의 생활 모습을 알 수 있어요. 금강 유역에 있는 부여 송국리 유적은 낮은 구릉 지대로 주변에는 넓은 평야 지대가 펼쳐져 있지요.\n이 유적은 1975년 국립중앙박물관의 발굴조사로 알려졌어요.\n1997년까지 여러 차례의 발굴조사가 이루어진 결과 다수의 집터와 무덤들이 발견되었어요. 이 유적에서 조사된 움집은 평평하고 네모난 모양의 얕은 움집과 평평하고 동그란 모양의 깊은 움집이었어요. 또 이곳은 나무 울타리나 도랑으로 둘러싸여 있었지요.",
+      "est_speech_ms": 44200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "부여 송국리 유적, 청동기 시대 마을을 담다",
+      "narration": "이것으로 보아 이곳은 청동기 시대 사람들이 집단으로 생활하였던 비교적 규모가 큰 마을이었음을 알 수 있었어요.\n부여 송국리 유적에서는 여러 가지 토기와 석기가 출토되었어요. 토기로는 민무늬 토기가 많이 나왔고, 붉은 간토기나 검은 간토기 등도 있었어요.\n석기로는 여러 가지 종류의 반달돌칼과 돌화살촉, 간돌검, 가락바퀴, 돌도끼 등이 있어요.\n또 비파형동검이 돌널무덤에서 출토되었어요. 비파형동검이 한반도 남쪽에서 출토되었다는 점은 특별한 의미를 갖지요. 덧붙여 부채꼴 모양의 청동 도끼 거푸집도 출토되었어요.\n오늘날 부여 송국리 유적은 청동기 시대 사람들이 집단으로 생활한 마을 유적으로 청동기 시대 생활상을 연구하는 데 귀중한 자료로 평가받고 있어요.",
+      "est_speech_ms": 54200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/7cf933e9438012be/fig_023.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "집의 크기가 커지고 울타리도 만들다",
+      "narration": "집의 크기가 커지고 울타리도 만들다\n신석기 시대 사람들은 강가에 움집을 짓고 살았어요. 이와는 달리 청동기 시대 사람들은 언덕에 집을 짓고 살기 시작했어요.\n바닥의 흙은 불에 태워 단단하게 만들고, 짚으로 엮어 만든 자리나 나무 껍질, 널빤지 등을 깔아 그 위에서 생활하였지요.\n흙바닥이 아닌 ‘방바닥’이 생긴 셈이에요. 벽에는 널빤지를 둘러 세우거나 나무껍질을 대어 습기를 막았어요.\n부여 송국리 청동기 마을 유적에는 둥근 모양의 집터와 네모난 모양의 집터가 있어요. 둥근 모양의 집터는 바닥을 깊이 파서 만들었어요. 특이 하게 그 구덩이의 양쪽 끝에 기둥 구멍이 하나씩 나 있어요. 바닥 가운데에는 타원형의 저장용 구덩이를 파고 그 구덩이 안에 몇 개의 둥근 구덩이를 만들었어요.",
+      "est_speech_ms": 54600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "집의 크기가 커지고 울타리도 만들다",
+      "narration": "네모난 모양의 집터는 바닥을 얕게 파서 땅바닥에 가깝게 만들었어요. 기둥 구멍은 없으나, 주춧돌이 있는 발달한 집 형태를 하고 있지요.",
+      "est_speech_ms": 10800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "주거지(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/7cf933e9438012be/fig_032.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/7cf933e9438012be/fig_033.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "집의 크기가 커지고 울타리도 만들다",
+      "narration": "부여 송국리 청동기 마을은 언덕 위에 세워졌어요. 마을이 언덕 위에 있으면 멀리까지 내다보이기 때문에 사방을 경계하기 좋지요. 마을 주변에는 나무로 높은 울타리를 쌓고 울타리 곳곳에 망루를 세워 누가 쳐들어오지 않는지 망을 보도록 했어요.\n청동기 시대에 들어오면서 인구가 늘어나고 마을도 많이 생겨났어요. 그러나 한편으로 집단 사이에 경쟁 관계가 생겨나 전쟁도 자주 일어났지요.\n마을들 사이에 긴장이 흐르면서 다른 마을 사람이 침입하지 못하도록 방비해야 했어요. 그래서 적의 침입에 대비해 마을을 빙 둘러 도랑을 파고, 나무로 울타리(성벽)를 세웠지요. 이런 나무 울타리를 목책이라고 해요. 마을은 살기에 편하면서도 안전해야 했어요.",
+      "est_speech_ms": 51800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "둥근 모양의 움집과 네모 모양의 움집(문화재청)",
+        "목책(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/7cf933e9438012be/fig_037.jpg",
+          "caption": "둥근 모양의 움집과 네모 모양의 움집(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/7cf933e9438012be/fig_040.jpg",
+          "caption": "목책(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "송국리형 토기라 불리는 민무늬 토기",
+      "narration": "송국리형 토기라 불리는 민무늬 토기\n부여 송국리 유적 집터에서 민무늬 토기가 출토되었어요. 청동기 시대 부여 송국리 사람들은 민무늬 토기를 만들어 사용하였어요. 민무늬 토기는 겉면에 빗살무늬를 새기는 대신 아무 무늬도 넣지 않고 밋밋하게 만들었다고 해서 붙여진 이름이에요. 빗살무늬를 새긴 빗살무늬 토기와 비교되지요.\n빗살무늬 토기는 토기를 굽는 도중에 표면이 갈라져 터지는 것을 막기 위해 빗살무늬를 새겨 만들었어요. 민무늬 토기는 이제 굳이 빗살무늬를 새기지 않아도 갈라져 터지지 않을 만큼 높은 온도에서 토기를 굽는 기술을 터득했다는 것을 의미하지요.",
+      "est_speech_ms": 46400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "민무늬 토기(문화재청)"
+      ],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "송국리형 토기라 불리는 민무늬 토기",
+      "narration": "또 민무늬 토기의 바닥은 빗살무늬 토기와 달리 평평하게 만들었어요. 신석기 시대에는 주로 강가나 바닷가 모래밭에 지은 움집에서 살았지만, 청동기 시대에는 들판이나 언덕에 집을 지었어요.\n따라서 집안 바닥은 모래가 아니라 딱딱하게 굳은 땅이었지요. 그러다 보니 이제 토기 바닥도 평평해야 했던 것이지요.\n또한 민무늬 토기는 위아래를 좁혀 멋도 냈어요. 민무늬 토기는 빗살무늬 토기보다 두께가 얇아졌는데도 훨씬 단단했어요. 이처럼 청동기 시대 민무늬 토기는 기술이 발달하고 생활 환경이 이전보다 좋아졌다는 사실을 보여 주고 있지요.",
+      "est_speech_ms": 43600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/7cf933e9438012be/fig_054.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "송국리형 토기라 불리는 민무늬 토기",
+      "narration": "그런데 부여 송국리 유적에서 출토된 민무늬 토기는 다른 청동기 시대 민무늬 토기와 모양이 조금 달랐어요. 바닥은 평평하고 무늬가 없는 민무늬 토기인데, 배가 부르고 입이 밖으로 바라진 항아리 모양의 것이 주류를 이루고 있었어요.\n이러한 특징 때문에 부여 송국리 유적에서 출토된 민무늬 토기는 특별히 이 지역의 이름을 따서 '송국리형 토기'로 부르게 되었어요.",
+      "est_speech_ms": 29000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "돌로 무덤을 만들다",
+      "narration": "돌로 무덤을 만들다\n만약 고대 사람들의 무덤이 지금까지 전해지지 못했다면 어땠을까요?\n아마도 삼국 시대 이전 우리 역사를 거의 알지 못했을지 몰라요. 삼국 시대 이전의 역사를 알려주는 기록은 매우 적기 때문이지요.\n이 땅에 살았던 고대의 사람들도 지금 우리처럼 기뻐하고 사랑하며 또 갈등을 빚고 슬퍼하며 살았을 텐데 말이지요.\n옛날의 무덤은 묻히는 사람뿐만 아니라 그 사람이 쓰던 물건들과 무덤에 넣으려고 만든 특별한 물건들을 함께 묻었어요. 그래서 우리는 무덤 속 유물들을 통해 무덤의 주인공과 그 사람이 살았던 시대의 모습을 함께 상상해 볼 수 있어요. 고대의 무덤은 당시의 역사를 생생하게 느낄 수 있는 보물 창고라 할 수 있지요.",
+      "est_speech_ms": 51400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "돌로 무덤을 만들다",
+      "narration": "부여 송국리 일대의 낮은 산에서 고대의 무덤이 발견되었어요. 바로 돌을 상자처럼 짜서 관을 만든 돌널무덤이에요. 돌널무덤은 고인돌과 같은 시기에 유행한 청동기 시대의 무덤이에요.\n땅을 판 뒤 두께가 5센티미터 정도인 얇은 판돌로 긴 네모꼴 상자 모양을 만들고, 그 위에 역시 두께 5센티미터 정도 되는 판돌을 덮은 형태이지요.\n돌널무덤이 있는 곳에는 고인돌도 있는 경우가 많았다고 해요. 그러나 돌널무덤은 고인돌에 비해 그 수가 적고, 무덤 안에 껴묻은 물건으로는 청동기보다 돌검이나 돌화살촉이 많았어요.",
+      "est_speech_ms": 41200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "돌널무덤(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/7cf933e9438012be/fig_066.jpg",
+          "caption": "돌널무덤(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "돌로 무덤을 만들다",
+      "narration": "그런데 부여 송국리에서는 부근에 고인돌이 없고 돌널무덤만 만들어졌어요. 그리고 이 무덤 안에서 비파형동검 등의 청동기가 껴묻거리로 발견되었지요.\n이것은 이 지역에 전에 없던 정치적인 지배자가 등장했다는 사실을 뜻해요.",
+      "est_speech_ms": 18400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 청동기 시대 유적지에 왜 간석기가 발견될까",
+      "narration": "부여 송국리에서는 비파형 청동검이 출토되어 일찍부터 우리 땅에서도 청동기 문화가 발달했음을 알 수 있게 되었어요.\n유적지는 당시 사람들이 살았던 흔적들을 담고 있어요. 그래서 그곳에 가면 당시 사람들의 생활 모습과 분위기를 느낄 수 있지요.\n부여 송국리 마을에 가면 청동기 시대 사람들의 생활 모습을 잘 알 수 있어요. 이번 우리학교 현장 체험 학습을 부여 송국리 유적지로 가 보면 어떨까요?\n역사 속 작은 이야기: 청동기 시대 유적지에 왜 간석기가 발견될까\n충청남도 부여 송국리 유적은 청동기 시대 사람들이 살았던 마을이에요. 그런데 이 유적지에서 출토되는 유물에는 청동기만 있는 게 아니고 다양한 종류의 간석기도 함께 발견되고 있어요. 왜 그럴까요?",
+      "est_speech_ms": 52800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "부여 송국리 유적 출토 유물(문화재청)\n비파형 청동검뿐 아니라 간돌검, 옥으로 만든 장신구가 나왔다."
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/7cf933e9438012be/fig_075.jpg",
+          "caption": "부여 송국리 유적 출토 유물(문화재청)\n비파형 청동검뿐 아니라 간돌검, 옥으로 만든 장신구가 나왔다.",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 청동기 시대 유적지에 왜 간석기가 발견될까",
+      "narration": "오랫동안 사람들은 돌과 나무, 짐승과 생선의 뼈로 도구를 만들어 사용하였어요. 도구를 만드는 솜씨는 점점 발달하고, 지식은 점점 쌓여 갔지요.\n그러다 마침내 사람들은 금속을 발견했어요. 어느 순간 우연히 금속이 불에 녹는다는 사실을 알게 되고 그러면 어떤 모양이 만들어지고, 다시 그것을 식혀 모양을 굳힐 수 있다는 사실도 알게 되었지요. 그러자 사람들은 금속으로 도구를 만들기 시작했어요.\n첫 번째 금속은 구리였어요. 그러나 구리는 너무 물러서 그다지 쓸모가 없었어요. 그런데 이 구리에 주석이나 납, 아연을 약간 섞어 보았더니 매우 단단해졌어요. 청동의 발견이에요.\n청동으로 만든 도구들은 나무나 돌로 만든 것과 달랐어요.",
+      "est_speech_ms": 50400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 청동기 시대 유적지에 왜 간석기가 발견될까",
+      "narration": "잘 부러지지 않는 데다가 도구의 날은 날카롭게 번쩍였지요. 맘에 들었어요. 특히 부족의 우두머리가 특별한 힘을 과시하기에 더없이 좋았어요.\n그런데 장인들만이 만들 수 있는 청동 검이나 거울은 아무나 쉽게 가질 수 있는 것이 아니었어요. 제사장을 비롯해 지위가 높은 사람들만이 지닐 수 있는 물건이었어요. 청동기 시대의 우두머리는 부족장이자 제사장이었지요.\n제사장은 마을에서 하늘과 자연에 지내는 제사를 이끄는 사람이라 그 권위가 매우 높았지요.\n그렇기 때문에 아무리 청동기 시대이지만 청동으로 만든 농기구나 생활용품이 드물었어요. 청동은 귀해서 누구나 써야 하는 쟁기나 낫 등의 농기구를 모두 청동으로 만들 수는 없었지요.",
+      "est_speech_ms": 51400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 16,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "때문에 농사를 짓는 데는 여전히 돌로 만든 도구가 더 쓸모가 많았어요. 더구나 청동기가 돌처럼 잘 깨지지는 않는다고 해도, 돌만큼 단단하지는 않았지요. 이런 이유로 청동기 시대이지만 더욱 정교하게 발달한 간석기가 더욱 많이 사용되었지요.\n청동기 시대라고 해서 청동기만 쓰지 않았어요. 오히려 이전 시대의 도구들을 더욱 발전시켜 사용했어요.\n석기 시대에 청동기는 없었지만, 청동기 시대에 석기는 있답니다. 간혹 시대를 잘못 이해하는 경우가 있어요.\n역사에서 어떤 물건이나 생각 따위가 한순간 생겼다가 모두 없어지거나 하지는 않는답니다.",
+      "est_speech_ms": 43800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "schema_version": 2,
+  "doc_hash": "0c0e22a97b923a13",
+  "source_file": "eh_r0311_0010.pdf",
+  "title": "조선 시대 사람들의 삶을 보여 주는 풍속화",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 14,
+  "section_count": 6,
+  "image_count": 11,
+  "est_total_ms": 618600,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "김홍도 필 풍속도 화첩 중 씨름(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "역사 속 사람들의 생활 모습을 보여 주는 풍속화",
+      "scene_indices": [
+        1
+      ],
+      "scene_seq": [
+        2
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "다양한 풍속화가 그려진 조선 시대",
+      "scene_indices": [
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        3,
+        4,
+        5
+      ],
+      "image_captions": [
+        "농경문 청동기(국립중앙박물관)",
+        "호조낭관계회도",
+        "호조낭관계회도 부분(국립중앙박물관)",
+        "나물 캐기"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "서민의 삶을 잘 그려낸 풍속화가, 김홍도",
+      "scene_indices": [
+        5,
+        6
+      ],
+      "scene_seq": [
+        6,
+        7
+      ],
+      "image_captions": [
+        "김홍도 필 풍속화첩 중 서당(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "여인의 모습을 많이 그린 화가, 신윤복",
+      "scene_indices": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "김홍도 필 풍속화첩 중 고누놀이(문화재청)",
+        "미인도(문화재청)",
+        "단오풍정(문화재청)",
+        "단오풍정",
+        "쌍검대무와 연소답청(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": null,
+      "scene_indices": [
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        12,
+        13,
+        14
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "조선 시대 사람들의 삶을 보여 주는 풍속화\n“30점의 이 그림들은 사만 원에 드릴 수 있습니다.”\n“이만 원 이상은 드릴 수 없습니다. 아쉽지만 그림을 본 것에 만족하고 돌아갔겠습니다.”\n“그럼 서로 양보해서 가격을 정합시다.”\n“현금으로 이만 오천 원을 드리겠습니다.”\n전형필이 일본에서 이만 오천 원을 주고 산 것은 신윤복의 화첩(그림집) 이에요. 신윤복은 조선 후기에 풍속화를 그린 대표적인 화가이고요. 그렇다면 풍속화란 무엇이고 조선 후기에 그려진 풍속화에는 어떤 것들이 있을까요?",
+      "est_speech_ms": 38200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "김홍도 필 풍속도 화첩 중 씨름(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0c0e22a97b923a13/fig_001.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/0c0e22a97b923a13/fig_002.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "역사 속 사람들의 생활 모습을 보여 주는 풍속화",
+      "narration": "역사 속 사람들의 생활 모습을 보여 주는 풍속화\n여러분은 ‘풍속화’라는 단어를 들으면 무엇이 떠오르나요? 김홍도와 신윤복의 그림이 떠오른다고요? 맞아요. 두 사람은 조선 후기 풍속화를 그린 대표적 사람으로 손꼽히거든요. 그런데 한 가지 주의할 점이 있어요. 두 사람이 그린 그림만 풍속화가 아니라는 것이지요.\n그렇다면 풍속화는 무엇일까요? 풍속화는 일반적으로 사람들의 생활 모습을 그림으로 표현한 것이라 할 수 있어요. 우리는 풍속화를 통해 그 시대 사람들이 살아가던 모습을 쉽게 알 수 있지요.\n그래서 풍속화에 대해 연구하는 분들이 우리나라는 선사 시대부터 풍속화가 있었다고 말해요. 대표적인 것이 청동기 시대 유물인 ‘농경문 청동기’이에요.",
+      "est_speech_ms": 52200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 2,
+      "section_title": "다양한 풍속화가 그려진 조선 시대",
+      "narration": "‘농경문 청동기’에는 따비라는 농기구로 밭을 가는 사람의 모습이 새겨져 있어요. 그래서 우리는 이 유물을 통해 청동기 시대에 농경이 이루어졌음을 알 수 있지요. 이렇듯 청동기 시대의 생활을 알 수 있으니 넓은 의미에서 풍속화라 할 수 있는 거죠.\n그래도 일반적으로 사람들은 풍속화하면 조선시대를 떠올려요. 그 이유는 뭘까요? 조선 시대는 이전과 달리 다양한 풍속화가 그려졌어요. 그래서 현재 남아 있는 그림의 수도 많답니다.\n다양한 풍속화가 그려진 조선시대\n조선시대 풍속화는 대체로 양반들의 모습을 그린 그림과 서민들의 모습을 그린 그림으로 나눌 수 있어요.\n양반들의 모습을 그린 풍속화로는 계회도가 있어요. 계회도는 양반들이 여러 목적으로 개최한 계모임을 기념해서 그려진 그림이에요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "농경문 청동기(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0c0e22a97b923a13/fig_017.jpg",
+          "caption": "농경문 청동기(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "다양한 풍속화가 그려진 조선 시대",
+      "narration": "양반들의 계모임은 나랏일을 같이 하는 사람의 모임, 과거 시험에 같이 합격한 사람들의 모임 등 아주 다양했어요. 현재 남아 있는 계회도 중 대표적인 것으로 호조낭관계회도를 들 수 있어요.\n는 나라의 세금과 재정을 담당하던 부서인 호조의 관리들이 모임을 하고 이를 기념해서 그린 풍속화에요.\n이러한 계회도에는 모임 장면이 그려져 있고, 참석한 사람들의 이름이 적혀 있어요. 그림을 여러 점 그려서 참석한 사람들이 나누어 가졌다고 해요.\n우리가 일반적으로 아는 풍속화는 서민이 주인공이지요. 일반 백성의 삶을 그린 풍속화는 조선 후기부터 그려지기 시작했어요. 서민을 주인공으로 그림을 그린 사람으로 윤두서를 꼽을 수 있어요.",
+      "est_speech_ms": 50600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "호조낭관계회도",
+        "호조낭관계회도 부분(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0c0e22a97b923a13/fig_028.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "다양한 풍속화가 그려진 조선 시대",
+      "narration": "라는 그림을 보면, 봄날에 들에 나가 나물을 캐는 두 아낙네의 모습이 소박하게 담겨 있어요. 윤두서는 조선시대 주요 학문인 성리학뿐만 아니라 천문, 수학, 의학 등 여러 면에서 훌륭한 학식을 갖춘 선비 화가였어요.\n윤두서가 선비 출신의 화가라면, 도화서 출신 화원으로 풍속화를 그린 사람들도 있어요. 바로 김홍도와 신윤복이죠.\n자! 지금부터 그들이 그린 풍속화를 통해 조선 후기 사람들의 삶의 모습이 어떠했는지 살펴볼까요?",
+      "est_speech_ms": 33800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "나물 캐기"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0c0e22a97b923a13/fig_041.jpg",
+          "caption": "나물 캐기",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "서민의 삶을 잘 그려낸 풍속화가, 김홍도",
+      "narration": "서민의 삶을 잘 그려낸 풍속화가, 김홍도\n김홍도의 호는 단원으로, 조선 후기에 활동한 화가예요. 그는 시와 글, 그림을 잘 그렸던 강세황의 집에 드나들며 그림을 배웠어요. 강세황이 쓴 단원기라는 글에는 김홍도의 남다른 재주를 다음과 같이 적고 있어요.\n“단원은 어릴 적부터 그림을 공부하여 못하는 것이 없었다. 인물, 산수, 신선, 불화, 꽃과 과일, 새와 벌레, 물고기와 게 등에 이르기까지 모두가 정교한 작품으로 옛사람과 비교할지라도 그와 대항할 자가 거의 없었다.”\n김홍도는 자라서 궁궐의 화원이 되었어요. 그리고 29살 되던 해에 영조 임금 어진을 그렸으며, 훗날 정조가 되는 왕세손 이산의 초상화를 그리는 데에도 참여하며 이름을 날렸어요.",
+      "est_speech_ms": 51000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "서민의 삶을 잘 그려낸 풍속화가, 김홍도",
+      "narration": "김홍도는 다양한 분야의 그림에 뛰어났지만, 서민들의 생활을 담은 풍속화가 가장 유명해요. 그가 그린 풍속화를 살펴볼까요?\n먼저 서당의 모습을 그린 그림이 있습니다.\n이 그림은 여러분도 많이 알고 있지요? 가운데에 울면서 앉아 있는 아이가 있네요. 아마도 무언가 잘못하여 훈장님께 야단을 맞은 것 같아요. 야단친 훈장님도 마음이 편치 않은 듯 걱정스럽게 학생을 바라보고 있네요.\n그런데 주변에 있는 학생들은 저마다 다른 표정으로 야단맞는 학생을 바라보고 있어요. 웃고 있는 학생도 있는걸요. 이 그림에서 서당의 모습이 생생하게 전해지지 않나요?",
+      "est_speech_ms": 44000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "김홍도 필 풍속화첩 중 서당(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0c0e22a97b923a13/fig_048.jpg",
+          "caption": "김홍도 필 풍속화첩 중 서당(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "여인의 모습을 많이 그린 화가, 신윤복",
+      "narration": "이 그림은 고누놀이를 하는 사람들을 그렸어요. 고누놀이는 특별한 도구가 없어도 땅바닥에 줄을 그어 놀이판을 만들고 주변에서 구할 수 있는 돌멩이나 나뭇가지를 말로 삼아 할 수 있는 놀이에요.\n이때 자신의 말을 이용해 상대방의 말을 잡거나 움직이지 못하게 하면 이기죠.\n그림 속 사람들은 지게에 나무를 한가득 지고 오다가 잠깐 쉬면서 고누 놀이를 하고 있네요. 날씨가 무척 더운 여름인가 봐요.\n놀이에 집중해서 열이 오르는지 웃옷을 풀어헤친 사람들이 보이네요.\n여인의 모습을 많이 그린 화가, 신윤복\n신윤복의 호는 혜원이에요. 김홍도와 마찬가지로 도화서의 화원이었어요. 그의 아버지신한평도 화원으로 집안 대대로 그림을 그렸어요.\n신윤복은 많은 풍속화를 남겼는데, 대체로 양반의 이중적인 모습을 꼬집는 다거나 여인들의 자유로운 모습들을 그렸어요.",
+      "est_speech_ms": 61000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "김홍도 필 풍속화첩 중 고누놀이(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0c0e22a97b923a13/fig_055.jpg",
+          "caption": "김홍도 필 풍속화첩 중 고누놀이(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "여인의 모습을 많이 그린 화가, 신윤복",
+      "narration": "신윤복의 미인도라는 그림이 있어요. 이 그림은 간송 전형필의 노력이 없었다면 일본인 손에 넘어가 영영 우리나라로 돌아올 수 없었을지도 몰라요.\n전형필은 이 그림을 포함한 화첩인 혜원전신첩을 일본인이 가지고 있다는 소식을 듣고 직접 일본까지 갔어요. 그리고 이 화첩을 이만 오천 원이라는 많은 돈을 주고 샀어요. 얼마나 많은 돈이었냐구요? 당시 이만 오천 원으로 기와집 25채를 살 수 있었다고 해요.\n신윤복의 풍속화는 조선시대 여인들의 모습을 그린 것이 많아요.\n그리고 노란색, 파란색, 붉은색 등 선명한 색칠을 해 그림의 색채감이 매우 아름다워요.",
+      "est_speech_ms": 44400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "미인도(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0c0e22a97b923a13/fig_067.jpg",
+          "caption": "미인도(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "여인의 모습을 많이 그린 화가, 신윤복",
+      "narration": "여러분은 단오에 대해 들어본 적이 있나요? 단오는 우리 조상들이 지내던 명절 중 하나로 ‘수릿날’이라고도 불렀어요.\n해마다 음력 5월 5일이 되면 여자들은 창포로 머리를 감고, 그네뛰기를 했어요. 이러한 모습이 잘 그려진 풍속화가 있어요. 바로 신윤복이 그린 단오풍정이지요.",
+      "est_speech_ms": 22000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "여인의 모습을 많이 그린 화가, 신윤복",
+      "narration": "그림의 오른쪽 위에는 빨간 치마를 입은 여인이 막 그네뛰기를 하려고 왼발을 그네 위에 올리고 있어요. 그 앞에 물가에는 여인들이 모여 머리를 감고 있어요. 왼쪽 위 바위 사이로 여인들의 모습을 몰래 훔쳐보는 동자승(어린 승려)의 모습도 보이네요.\n오른쪽 아래에는 홀로 단오놀이를 즐기지 못하는 아낙도 있어요. 힘겹게 머리에 지고 온 짐꾸러미 안에는 음식이 들었을 것 같아요.\n신윤복이 그린 또 다른 그림을 살펴볼까요?",
+      "est_speech_ms": 33400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "단오풍정(문화재청)",
+        "단오풍정",
+        "쌍검대무와 연소답청(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0c0e22a97b923a13/fig_078.jpg",
+          "caption": "단오풍정(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/0c0e22a97b923a13/fig_084.jpg",
+          "caption": "단오풍정",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.75
+        },
+        {
+          "path": "assets/history/images/0c0e22a97b923a13/fig_085.jpg",
+          "caption": "쌍검대무와 연소답청(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "위에 있는 쌍검대무라는 그림에서는 악기를 연주하는 악공과 칼춤을 추는 여인들이 그려져 있어요. 쌍검을 들고 춤을 추는 여인들에게서 묘한 긴장감이 느껴지지 않나요?\n아니면 힘찬 북소리와 아름다운 칼춤이 잘 어울리지 않나요? 여기서 춤을 추는 여성들은 기생이에요. 당시 기생들은 예술에 엄청 뛰어났답니다.\n아래에 있는 것은 연소답청이란 그림이에요. 그림 제목이 좀 어렵죠? 한자를 풀이하면 그 뜻은 ‘젊은이들의 봄나들이’에요.\n그림 속에는 봄나들이 가는 양반 자제들과 기생들이 그려져 있어요. 그런데 한가지 이상한 것이 있어요. 신분이 높은 양반 자제들은 말을 타지 않고 걸어서 가고 신분이 낮은 기생들은 말을 타고 가고 있어요.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "신분제 사회였던 조선시대에 이런 모습이 있었다니 조금은 신기하지요. 이렇듯 신윤복의 그림에서는 조선 후기 여인들의 생활을 엿볼 수 있어요.\n역사 속 작은 이야기: 일본에도 풍속화가 있다구요?\n일본에도 우리나라처럼 풍속화가 있어요. 일본은 임진왜란 이후에도 막부가 세워져요. 에도 막부 시대에 서민 문화가 발달하면서 유행한 풍속화를 ‘우키요에’라고 해요.\n일본의 풍속화 ‘우키요에’는 우리나라의 풍속화와 다른 점이 있어요.\n우리나라는 김홍도, 신윤복과 같은 화가들이 붓으로 그림을 그리고 색칠을 했다면 ‘우키요에’는 목판에 새겨서 찍어낸다는 것이에요. 그래서 똑같은 그림을 여러 장 찍어낼 수 있었어요.",
+      "est_speech_ms": 49000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "우리는 풍속화를 살펴보면서 조선 후기 사람들이 어떤 모습으로 생활했는지 조금이나마 알 수 있었어요. 이렇듯 풍속화는 문자로 된 기록 못지않게 그 시대의 역사를 알려주는 사료의 역할을 톡톡히 할 수 있어요.\n그렇다면 여러분도 미래의 사람들이 지금 이 시대를 이해할 수 있도록 풍속화를 그려보는 것은 어떨까요?",
+      "est_speech_ms": 25200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

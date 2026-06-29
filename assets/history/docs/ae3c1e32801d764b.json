@@ -1,0 +1,292 @@
+{
+  "schema_version": 2,
+  "doc_hash": "ae3c1e32801d764b",
+  "source_file": "eh_r0116_0010.pdf",
+  "title": "삼국의 한강유역 쟁탈한반도의 중심, 한강을 차지하라!",
+  "kind": "artifact",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 11,
+  "section_count": 5,
+  "image_count": 8,
+  "est_total_ms": 505300,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "고구려, 한강 유역을 차지하다",
+      "scene_indices": [
+        0,
+        1
+      ],
+      "scene_seq": [
+        1,
+        2
+      ],
+      "image_captions": [
+        "온달산성(충북 단양군)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "백제, 신라와 연합하여 한강을 되찾다",
+      "scene_indices": [
+        2
+      ],
+      "scene_seq": [
+        3
+      ],
+      "image_captions": [
+        "단양 적성에서 바라 본 소백산맥과 죽령"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "신라, 나제동맹을 깨고 한강을 모두 차지하다",
+      "scene_indices": [
+        3,
+        4
+      ],
+      "scene_seq": [
+        4,
+        5
+      ],
+      "image_captions": [
+        "충주 고구려비, 단양 신라 적성비, 서울 북한산 신라 진흥왕 순수비\n(문화재청, 국립중앙박물관)",
+        "보은 삼년산성(한국문화원연합회)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "한강을 차지한 신라, 삼국을 통일하다",
+      "scene_indices": [
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8
+      ],
+      "image_captions": [
+        "7세기 초 삼국의 영토"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "야단성을 공격하는 온달 장군"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "고구려, 한강 유역을 차지하다",
+      "narration": "삼국의 한강유역 쟁탈한반도의 중심, 한강을 차지하라!\n“신라가 한강 이북의 우리 땅을 빼앗아 다스리니 백성들이 울분에 차 있습니다.” “신라가 기세등등하여 우리 고구려를 압박하니 이를 어찌한단 말인가?” “대왕께서 저를 어리석다 여기지 마시고 군사를 주신다면 한걸음에 나아가 우리 고구려 땅을 다시 찾아오겠습니다.”\n온달 장군은 죽령 서쪽 땅을 되찾지 않으면 돌아오지 않겠다고 임금께 맹세하고 남쪽으로 출전하였어요.\n온달 장군이 말한 죽령 서쪽 땅은 어디일까요? 고구려는 왜 이곳을 되찾으려했을까요?\n고구려, 한강 유역을 차지하다\n475년, 고구려 장수왕은 백제의 첫 수도인 한성을 공격해 차지하였어요.",
+      "est_speech_ms": 49000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "온달산성(충북 단양군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ae3c1e32801d764b/fig_001.jpg",
+          "caption": "온달산성(충북 단양군)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "고구려, 한강 유역을 차지하다",
+      "narration": "당시 백제 개로왕은 고구려의 공격을 피해 달아났다가 고구려군에게 잡혀 아차산 아래로 끌려가 죽임을 당했어요. 백제의 수도를 차지한 고구려군은 남한강을 이용해 남쪽으로 계속 나아갔어요.\n현재충주고구려비라는 비석이 남아 있는데, 이를 보면 당시 고구려가 남한강 주변 지역까지 차지했음을 알 수 있어요.\n백제는 한성을 빼앗기고 웅진(공주)으로 수도를 옮겼어요. 금강을 이용해 고구려군을 막았지요.\n신라도 험준한 소백산맥을 방패로 삼아 강성한 고구려에 맞섰어요. 그러나 결국 위기에 빠진 백제와 신라는 군사 동맹을 맺어야 했지요. 백제와 신라가 힘을 합쳐서 맞서자 고구려도 남쪽으로 더 내려오지는 못했어요.",
+      "est_speech_ms": 49800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "백제, 신라와 연합하여 한강을 되찾다",
+      "narration": "백제와 신라의 군사 동맹은 100년이 넘게 계속되었어요. 고구려의 진격을 막은 백제와 신라는 안으로 나라를 정비하고, 백성들의 생활을 안정시키며 국력을 키워나갔어요.\n백제, 신라와 연합하여 한강을 되찾다\n강성했던 고구려는 왕의 자리를 놓고 귀족들이 다툼을 벌이면서 흔들리기 시작했어요. 편을 나눠 싸우고, 이긴 편이 진 편의 무리를 없애버리곤했어요.\n고구려 국내 정치가 혼란한 틈을 타 신라는 죽령을 넘어 지금의 단양과 충주 지역을 차지했어요. 새로 차지한단양의 적성에 비석을 세워 이 지역이 신라 땅임을 세상에 알렸어요. 그리고 남한강을 따라 북쪽으로 계속 나아갔어요.",
+      "est_speech_ms": 47000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "단양 적성에서 바라 본 소백산맥과 죽령"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ae3c1e32801d764b/fig_017.jpg",
+          "caption": "단양 적성에서 바라 본 소백산맥과 죽령",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "신라, 나제동맹을 깨고 한강을 모두 차지하다",
+      "narration": "백제도 그 기회를 틈타 한강 지역을 되찾기 위해 북쪽으로 군대를 보냈어요. 백제와 신라의 동맹군은 고구려군과의 싸움에서 계속 승리하였지요.\n그 결과 백제는 한강 하류 6개 군을, 신라는 한강 상류 10개 군을 차지했어요. 고구려군은 한강 북쪽으로 크게 밀려났어요. 하지만 고구려는 북쪽 국경에 촉각을 세워야 해서 바로 반격할 수가 없었어요.\n신라, 나제동맹을 깨고 한강을 모두 차지하다\n백제는 고구려의 공격으로 수도 한성을 빼앗겼던 치욕을 당했기 때문에 옛 수도와 한강 지역을 되찾는 일이 매우 중요했지요. 백제는 신라, 가야와 동맹을 맺고 꾸준히 국력을 키웠고, 고구려의 혼란은 한반도 남쪽 여러 나라에 게 절호의 기회가 되었어요. 그러나 한강 상류를 차지한 신라는 백제와의 동맹을 깨버렸어요.",
+      "est_speech_ms": 56400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "충주 고구려비, 단양 신라 적성비, 서울 북한산 신라 진흥왕 순수비\n(문화재청, 국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ae3c1e32801d764b/fig_025.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/ae3c1e32801d764b/fig_026.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/ae3c1e32801d764b/fig_027.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "신라, 나제동맹을 깨고 한강을 모두 차지하다",
+      "narration": "553년 신라 진흥왕은 한강 전체를 차지할 욕심에 동맹을 깨고 백제군을 공격하였어요. 갑작스러운 공격에 백제군은 한강 하류 지역을 모두 잃었어요.\n신라의 배신에 분노한 백제 성왕은 태자를 총사령관으로 삼아 신라를 공격하게 했어요. 백제군과 신라군은 지금의 충청북도 옥천에 있던 관산성에서 만났어요.\n관산성은 남쪽으로 추풍령이라는 고개만 넘으면 신라 수도 금성(경주)으로 갈 수 있는 곳으로 군사적 요충지였죠. 그곳에서 두 나라는 일진일퇴를 반복하며 치열한 전투를 벌였어요.",
+      "est_speech_ms": 39400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "보은 삼년산성(한국문화원연합회)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ae3c1e32801d764b/fig_034.jpg",
+          "caption": "보은 삼년산성(한국문화원연합회)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "한강을 차지한 신라, 삼국을 통일하다",
+      "narration": "백제 성왕은 계속된 전투에 지친 군사들을 위로하고 응원하기 위해 약간의 호위병만 거느리고 관산성으로 갔어요. 그런데 삼년산성에 있던 신라군이 이를 눈치채고 기습하여 성왕을 사로잡았어요.\n안타깝게도 성왕은 목숨을 잃고 말았어요. 왕을 잃은 백제군은 관산성에서 크게 패하였고, 한강 하류 지역도 신라의 땅이 되었어요. 한강을 모두 차지한 신라 진흥왕은 크게 기뻐하며 북한산에 순수비를 세웠어요. 이 비석을 세워 한강 지역이 신라의 땅임을 확실히 증명하려는 것이었지요.\n한강을 차지한 신라, 삼국을 통일하다\n진흥왕 이후 신라는 귀족들의 권력 다툼과 자연재해로 국력이 약해지고 있었어요. 한편, 신라의 배신으로 영토와 왕을 잃은 백제는 울분에 차 있었지요. 그래서 백제는 고구려와 손을 잡고 신라를 공격하였어요. 신라는 더욱 어려운 처지에 놓이게 되었어요.",
+      "est_speech_ms": 61800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "한강을 차지한 신라, 삼국을 통일하다",
+      "narration": "관산성에서 크게 패한 후 백제의 국력은 약해졌지만, 무왕의 노력으로 빠르게 회복되었어요. 의자왕 때는 소백산맥을 넘어 대야성을 비롯한 수십 개의 성을 빼앗기도 했지요.",
+      "est_speech_ms": 13800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "7세기 초 삼국의 영토"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ae3c1e32801d764b/fig_047.jpg",
+          "caption": "7세기 초 삼국의 영토",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "한강을 차지한 신라, 삼국을 통일하다",
+      "narration": "그리고 고구려도 군대를 정비하여 동쪽의 많은 땅을 되찾기도 했어요. 결국 백제와 고구려의 협공으로 신라는 큰 위험에 빠졌어요.\n신라는 바람 앞의 등불처럼 위태로운 상황에서 당과의 연합을 추진했어요. 선덕여왕의 명을 받은 김춘추는 한강 하류의 당항성을 통해 바다를 건너 당으로 갔어요. 김춘추는 신라와 당의 연합을 이루어 냈지요.\n이에 660년 신라군과 당나라군은 백제의 수도 사비(부여)를 공격했고, 나당 연합군의 공격을 이겨내지 못한 백제는 결국 멸망하고 말았어요.\n지금까지의 이야기를 들어보면, 고구려, 백제, 신라 삼국 간의 전쟁에서 아주 중요했던 지역을 떠올릴 수 있지요? 바로 한강입니다. 한강은 한반도의 중심에 있는 큰 강이지요. 지금 서울 중심부를 흐르고 있지요.",
+      "est_speech_ms": 54800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "이 한강과 그 주변 지역은 역사적으로 매우 중요한 곳이에요. 넓은 강 유역은 농사짓기에도 좋았고, 북한강과 남한강에 연결되어 교통로 역할도 했지요.\n삼국 시대에는 한강 유역을 어느 나라가 차지했는지가 국력에 큰 영향을 주었답니다. 결국 신라는 한강을 차지하면서 삼국을 통일할 수 있었지요.\n역사 속 작은 이야기: 온달 장군은 어디서 전사했을까?\n왕의 허락을 받은 온달 장군은 군대를 이끌고 죽령의 서쪽 땅을 되찾으러 떠났어요. 그리고 아단성 아래에서 용맹하게 싸우다가 날아온 화살에 맞아 전사했어요.\n전사한 온달 장군을 백성들이 모셔 장사지내려했으나 관이 바닥에 붙어 움직이지 않았어요. 이때 소식을 듣고 달려온 평강공주가 관을 어루만지면 말했어요.",
+      "est_speech_ms": 53200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "“삶과 죽음이 이미 결정되었으니 편히 돌아가세요.”\n평강공주의 말이 끝나자 관이 움직여 장사를 지낼 수 있었어요. 이로써 한강을 되찾으려던 온달 장군의 노력은 끝이 났어요.\n고구려 온달 장군이 전사한 아단성은 과연 어디일까요? 그 위치를 둘러싸고 서로 다른 주장이 있어요.\n첫 번째는 온달산성이라는 주장이에요.",
+      "est_speech_ms": 25000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "온달 장군이 죽령 서쪽 땅을 되찾기 위해 출전하였는데, 죽령 근처의 산성 이 름이 고구려 때 ‘을아단(乙阿旦)’이라고 불렸대요. 그래서 온달산성이 아단성이라고 주장하고 있어요.\n두 번째는 아차성이라는 주장이에요. 고구려와 신라는 주로 한강 하류 지역에서 전투를 벌였기 때문에 남한강의 온달산성은 너무 거리가 멀어 온달 장군의 접근이 어려웠으리라 추측하고 있어요. 한자도 아차성(阿且城)과 아단성(阿旦城)이 매우 비슷하고요.\n삼국사기 ‘온달전’ 속 이야기는 당시 한강 지역을 둘러싼 고구려와 신라의 치열했던 대결을 담고 있어요. 온달산성처럼 고구려, 백제, 신라가 나라의 운명을 걸고 대결했던 장소를 또 찾아보아요.",
+      "est_speech_ms": 49600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "야단성을 공격하는 온달 장군"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ae3c1e32801d764b/fig_067.jpg",
+          "caption": "야단성을 공격하는 온달 장군",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

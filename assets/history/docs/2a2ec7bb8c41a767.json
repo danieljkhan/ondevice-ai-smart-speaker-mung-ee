@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "doc_hash": "2a2ec7bb8c41a767",
+  "source_file": "eh_n0090_0010.pdf",
+  "title": "이사부, 우산국을 정복하다",
+  "kind": "people",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 6,
+  "section_count": 3,
+  "image_count": 4,
+  "est_total_ms": 289400,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "남양항 사자바위 투구바위(경북 울릉도)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "지증왕, 신라의 기틀을 잡다",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [
+        "사로국과 주변의 작은 나라들"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "우산국을 정벌하다",
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "울릉도",
+        "이사부의 우산국 정복"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "이사부, 우산국을 정복하다\n“신라에서 아주 크고 포악한 동물을 끌고 우리에게 오고 있다합니다.”\n“우산국 사람들 중에 큰 동물을 본 사람도 거의 없을텐데....”\n“신라와 맞서 싸우겠는가? 항복할 것인가?”\n신라의 군선들이 우산국을 정벌하기 위해 몰려오고 있어요.\n이때 우산국은 어떤 선택을 했을까요? 신라는 동해 바다 한가운데 멀리 있는 우산국을 왜 정벌하고자했을까요?",
+      "est_speech_ms": 28800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "남양항 사자바위 투구바위(경북 울릉도)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/2a2ec7bb8c41a767/fig_001.jpg",
+          "caption": "남양항 사자바위 투구바위(경북 울릉도)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "지증왕, 신라의 기틀을 잡다",
+      "narration": "지증왕, 신라의 기틀을 잡다\n신라는 진한의 12개 작은 나라 중 하나인 사로국에서 시작했어요. 사로국은 주변의 작은 나라들을 통합하며 점차 힘센 국가로 발전해 나갔어요. 사로국이 고대 국가로 나라의 기틀을 잡은 것은 지증왕 때였어요.\n지증왕은 64세의 늦은 나이에 마립간이 되었어요.\n즉위하자 지증왕은 왕의 호칭을 지증마립간에서 지증왕으로 바꾸었어요. 신라의 옛 이름인 사로국에서는 ‘왕’이라는 호칭 대신 귀한 사람을 뜻하는 ‘거서간’, 무당 또는 제사장을 뜻하는 ‘차차웅’, 연장자를 뜻하는 ‘이사금’, 대군장을 뜻하는 ‘마립간’ 등 신라 특유의 호칭을 사용하고 있었어요.",
+      "est_speech_ms": 45800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "사로국과 주변의 작은 나라들"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/2a2ec7bb8c41a767/fig_011.jpg",
+          "caption": "사로국과 주변의 작은 나라들",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "지증왕, 신라의 기틀을 잡다",
+      "narration": "지증왕은 이를 중국식 호칭인 왕으로 바꾼 것이에요. 이것은 신라가 작은 부족 국가들이 연합해 만든 힘없는 나라가 아니라, 강력한 왕이 모든 곳을 다스리는 중앙집권 국가로 일어설 준비를 갖추었다는 것을 뜻해요.\n지증왕은 왕의 호칭뿐만 아니라 나라의 기틀을 다지기 위해 여러 정책을 실시하였어요. 죽은 주인을 따라 노예들을 함께 묻던 순장 풍습도 금지하였고, 농업 생산량을 늘리기 위해 소를 농사에 이용하게 하였지요.\n그리고 나라 이름도 “왕의 덕업이 나날이 새로워지고, 사방의 영역을 두루 망라 한다”는 뜻을 지닌 ‘신라’로 바꾸었지요. 나라의 이름을 바꾼 건 이제 신라의 힘이 사방으로 뻗어나갈 수 있다는 자신감의 표현이었어요.\n행정구역과 여러 제도도 정비하여 왕권을 강화하였어요. 나라의 기틀이 안정되자 지증왕은 영토 확장에도 관심을 가졌어요.",
+      "est_speech_ms": 60600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "우산국을 정벌하다",
+      "narration": "특히 지증왕은 동해 바다 한가운데에 있던 우산국을 주목했어요. 당시 우산국은 많은 토산물을 생산했을 뿐만 아니라 고구려와 왜의 교역 항로에서 요충지였기 때문에 우산국을 항복시키면 동해의 제해권을 장악할 수 있었거든요.\n우산국을 정벌하다\n우산국은 지금의 울릉도로, 동해에 있는 아주 작은 왕국이었지요. 크기는 사방이 1백리 정도였고, 대부분 경사가 급한 지형으로 이루어진 매우 험준한 섬이었어요.\n위치도 육지에서 배를 타고 이틀은 가야 도달할 만큼 먼 거리에 있었어요. 그러한 지리적 특성 때문에 우산국은 신라의 영향에서 자유로울 수 있었고 오랫동안 항복하지 않고 있었어요.",
+      "est_speech_ms": 47600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "우산국을 정벌하다",
+      "narration": "지증왕이 우산국을 정벌하려고 계획하던 때 이사부가 하슬라주(지금의 강릉 지역)의 군주가 되었어요. 왕의 명을 받은 이사부는 군사와 군선을 준비하였어요.\n“우산국 사람들은 성질이 우둔하고도 사납소이다. 그래서 그들을 무조건 힘으로 이기기는 어려울 것이오. 그러니 계책을 세워서 그들을 항복시켜야 하오.”\n이사부는 곧 나무로 가짜 사자를 만들게 했어요. 그리고 나무로 만든 사자상을 군선에 나누어 실었지요.\n이사부가 이끄는 군선이 우산국의 해안에 도착하였을 때, 이사부는 거짓으로 이렇게 말하였어요.\n“우산국 사람들아. 만약 너희들이 항복하지 않는다면 이 맹수들을 풀어 너희들을 밟아 죽이겠다.”\n사자를 처음 본 우산국 사람들은 두려움에 떨었고, 결국 우산국의 우해왕은 쓰고 있던 투구를 벗어던지고 곧 항복하였지요.",
+      "est_speech_ms": 58200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "울릉도"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/2a2ec7bb8c41a767/fig_030.jpg",
+          "caption": "울릉도",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "우산국을 정벌하다",
+      "narration": "이사부는 계략을 써서 큰 저항없이 우산국을 신라의 영토로 만들었고, 이후 우산국은 해마다 신라에 토산물을 바쳤어요.\n이사부는 지증왕을 비롯해 법흥왕과 진흥왕을 모셨어요. 지증왕의 명으로 우산국을 정벌하였고, 법흥왕 시기에는 가야를 정벌했으며, 진흥왕 시기에는 한강 유역을 차지하기 위한 고구려와의 전투에서도 큰 역할을 했지요.\n진흥왕 시기 신라는 가장 넓은 영토를 차지하였는데, 이러한 신라의 발전에는 이사부의 끊임없는 노력이 바탕이 되었답니다. 여러 왕을 모시며 신라의 전성기를 열었던 이사부는 어떤 신념으로 여러 힘든 전쟁을 이겨 냈을까요?",
+      "est_speech_ms": 45400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "이사부의 우산국 정복"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/2a2ec7bb8c41a767/fig_039.jpg",
+          "caption": "이사부의 우산국 정복",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

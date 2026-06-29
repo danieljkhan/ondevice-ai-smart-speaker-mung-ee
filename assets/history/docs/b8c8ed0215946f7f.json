@@ -1,0 +1,419 @@
+{
+  "schema_version": 2,
+  "doc_hash": "b8c8ed0215946f7f",
+  "source_file": "eh_r0410_0010.pdf",
+  "title": "세계가 인정한 시민의 힘, 5·18 민주화 운동 유적",
+  "kind": "artifact",
+  "era": "현대",
+  "era_source": "keyword",
+  "scene_count": 15,
+  "section_count": 7,
+  "image_count": 13,
+  "est_total_ms": 654000,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "광주에서 민주화 운동이 일어나다",
+      "scene_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "5·18 민주평화기념관(전남 광주시)",
+        "전남도청 앞 광장에 모인 광주 시민들(5·18기념재단)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        4,
+        5,
+        6
+      ],
+      "scene_seq": [
+        5,
+        6,
+        7
+      ],
+      "image_captions": [
+        "광주의 상황을 찍고 있는 위르겐 힌츠페터"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "시민군의 근거지가 되었던 옛 전남도청",
+      "scene_indices": [
+        7
+      ],
+      "scene_seq": [
+        8
+      ],
+      "image_captions": [
+        "전남대학교 정문 앞에서 계엄군과 대치 중인 학생들",
+        "전남대학교 정문"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "계엄군에 맞서 싸웠던 금남로 거리",
+      "scene_indices": [
+        8
+      ],
+      "scene_seq": [
+        9
+      ],
+      "image_captions": [
+        "5·18 민주평화기념관(옛 전남도청)",
+        "금남로 일대에서 시위를 벌이는 시민군(5·18기념재단)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "시민들에게 주먹밥을 만들어 나누어 주던 양동시장",
+      "scene_indices": [
+        9
+      ],
+      "scene_seq": [
+        10
+      ],
+      "image_captions": [
+        "현재 금남로 일대",
+        "주먹밥을 하고 있는 아주머니들",
+        "양동시장"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "희생자들이 잠들어 있는 국립 5·18 민주묘지",
+      "scene_indices": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "국립 5·18 민주묘지(국립 5.18 민주묘지 관리소)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": null,
+      "scene_indices": [
+        14
+      ],
+      "scene_seq": [
+        15
+      ],
+      "image_captions": [
+        "윤상원과 박기순 묘 앞에서 사람들이 임을 위한 행진곡을 부르는 모습"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "광주에서 민주화 운동이 일어나다",
+      "narration": "세계가 인정한 시민의 힘, 5·18 민주화 운동 유적\n“탕!탕!탕!”\n“전재수, 얼른 피해! 군인들이 총을 쏘나봐.”\n“알았어. 그런데 엄마가 생일 선물로 사주신 신발이 벗겨졌어. 잠깐만!”\n“탕!탕!탕!”\n초등학교 4학년이었던 전재수는 5·18 민주화 운동 당시 계엄군이 쏜 총에 맞아 세상을 떠났어요. 도대체 왜 어린아이가 이런 비극적인 일을 겪은 것일까요? 나라를 지키고 국민을 지키는 군인들이 어째서 시민들에게 총을 쏘아 댄 것일까요?\n광주에서 민주화 운동이 일어나다\n1979년 10월 26일 독재 정치를 하던 박정희 대통령이 국가 최고 정보기관이었던 중앙정보부 부장 김재규의 총에 맞아서 죽임을 당했어요. 광주 시민들을 비롯한 온 국민들이 이제 독재가 끝나고 민주화가 이루어질 거라 는 희망에 들떠 있었어요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "5·18 민주평화기념관(전남 광주시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_001.jpg",
+          "caption": "5·18 민주평화기념관(전남 광주시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "광주에서 민주화 운동이 일어나다",
+      "narration": "하지만 전두환과 노태우가 중심이 된 새로운 군인 세력(신군부)이 군대를 이끌고 반란을 일으키는 바람에 그 꿈은 곧 깨지고 말았어요.\n그들은 국가 비상사태 때 군인들로 질서를 유지하도록 한 법령인 비상계엄령을 통해 정권을 차지하기 위한 준비를 해나갔어요.\n“비상계엄 해제하라!”\n“군인들은 물러가라!”\n이에 맞서 서울, 부산 등 전국의 주요 도시에서 시위가 이어졌지요.\n1980년 5월 18일 일요일, 광주의 전남대학교 교문 앞에서는 학생들과 계엄군들이 서로 맞서고 있었어요. “비상계엄 해제하라!”는 구호를 외치는 학생들에게 군인들이 곤봉을 마구 휘두르며, 그들을 잡아갔어요.",
+      "est_speech_ms": 46400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "광주에서 민주화 운동이 일어나다",
+      "narration": "이 소식을 전해 들은 광주 시민들은 분노에 차 전남도청 앞 광장으로 하나둘 모여들었어요. 계엄군들은 평화적 시위를 벌이는 시민들을 향해 무자비한 탄압을 저질렀어요.\n길 가던 죄 없는 시민들을 곤봉으로 때리고, 심지어 총을 쏘아대기 시작했지요. 심지어 전재수 어린이처럼 앞동산이나 저수지에서 놀다 아무 이유도 모른 채 죽은 어린이들도 있었지요. 장갑차가 도로에 가득했고, 탱크 부대도 동원되었어요.\n광주 시민들이 계엄군에게 하나둘 쓰러져 가자, 어른들뿐만 아니라 고등 학생들도 시민군이 되어 총을 들었어요. 자발적으로 모인 광주 시민들은 모두 힘을 모아 하나가 되었어요. 그들의 바람은 계엄군에 맞서 광주를 지키고 민주화를 이루겠다는 것 오직 하나였어요.",
+      "est_speech_ms": 53800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "전남도청 앞 광장에 모인 광주 시민들(5·18기념재단)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_020.jpg",
+          "caption": "전남도청 앞 광장에 모인 광주 시민들(5·18기념재단)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 0,
+      "section_title": "광주에서 민주화 운동이 일어나다",
+      "narration": "광주에서 이렇게 끔찍하고 힘겨운 일이 벌어지고 있는데도, 다른 지역에서는 이에 대해 제대로 알지 못했어요. 계엄군이 광주 지역을 둘러쌓고, 아무도 들어갈 수 없게 했거든요.",
+      "est_speech_ms": 14000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "뉴스에서는 폭도들에 의해 광주에서 폭동이 일어났다는 가짜 뉴스만 흘러나왔고요. 광주 시민들은 큰 어려움 속에서 외로운 싸움을 해야 했지만, 결코 의지를 꺾지 않고 끝까지 저항했어요.\n10여 일간 지속된 민주화 운동 과정에서 무려 200여 명에 가까운 시민들이 죽고, 많은 이들이 다치고 실종되었어요.\n결국 무자비한 계엄군에게 시민군은 진압되었고, 5·18 민주화 운동도 그렇게 막을 내리는 듯했어요.\n1980년 이후 광주 시민들은 두려움과 공포 속에서 살아야 했지만 결코 그날을 잊지 않고 조금이라도 진실을 알리기 위해 노력했어요.",
+      "est_speech_ms": 43800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "다행히 5·18 민주화 운동의 진실이 점차 조금씩 사람들에게 알려졌어요.\n당시 삼엄한 경비를 뚫고 광주 시내로 들어가 당시 상황을 사진과 영상으로 담아낸 독일인 기자인 위르겐 힌츠페터와 같은 사람도 진실을 알리는데 큰 역할을 했어요.\n세월이 흘러 진실이 밝혀지고, 1993년 문민정부 출범 이후 5·18 민주화 운동에 대한 재평가가 이루어지기 시작했어요. 그 결실로 1997년 5월 ‘5·18 민주화 운동 기념일’이 법정 국가 기념일이 되었어요.\n1995년 전두환과 노태우는 5·18 민주화 운동 당시 계엄군을 동원해 광주 시민들을 무력으로 탄압하는 등 민주주의를 훼손한 혐의로 법정에 섰어요. 전두환은 무기 징역을, 노태우는 17년형을 선고받았지요.",
+      "est_speech_ms": 53400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "광주의 상황을 찍고 있는 위르겐 힌츠페터"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_035.jpg",
+          "caption": "광주의 상황을 찍고 있는 위르겐 힌츠페터",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "지금도 매년 5월 18일이 되면 유가족과 정부의 주요 인사들이 참여하는 기념식이 광주에서 열립니다. 5·18 민주화 운동 당시 숭고한 죽음을 맞은 수많은 사람들의 넋을 기리면서요.\n지금부터 아픈 역사의 현장을 돌아보며 민주화를 위해 계엄군에 맞서 처절하게 싸웠던 광주 시민들의 심정을 느껴보세요. 또 5·18 민주화 운동은 어떤 의미가 있고, 어떤 평가를 받고 있는지도 알아보아요.",
+      "est_speech_ms": 31200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_045.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "시민군의 근거지가 되었던 옛 전남도청",
+      "narration": "학생들이 계엄군과 맞섰던 전남대학교\n1980년 5월 18일, 민주화 운동이 시작된 전남대학교 교문 앞이에요.\n당시 계엄군들과 전남대학교 학생들이 이곳에서 대치하고 있었지요.\n“계엄령을 즉각 해제하라! 전두환은 물러가라!”\n학생들이 구호를 외치며 저항하자 군인들이 학생들을 무자비하게 탄압했어요. 그러면서 5·18 민주화 운동이 시작된 거예요.\n시민군의 근거지가 되었던 옛 전남도청\n10여 일 가까이 계속된 5·18 민주화 운동 당시 수많은 시민군들이 옛 전남도청을 근거지로 계엄군에 맞서 싸웠어요.\n마지막까지 도청을 지키며 계엄군에 저항했던 시민들은 결국 포승줄에 묶여 끌려 나왔어요. 시민군 대변인이었던 윤상원 등 많은 청년들은 싸늘한 시체가 되었지요.",
+      "est_speech_ms": 54600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "전남대학교 정문 앞에서 계엄군과 대치 중인 학생들",
+        "전남대학교 정문"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_047.jpg",
+          "caption": "전남대학교 정문 앞에서 계엄군과 대치 중인 학생들",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_054.jpg",
+          "caption": "전남대학교 정문",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "계엄군에 맞서 싸웠던 금남로 거리",
+      "narration": "옛 전남도청은 현재 5·18 민주평화기념관이 되었어요. 이곳에는 5·18 민주화 운동에 대한 자료와 기록물이 전시되어 당시의 모습을 엿볼 수 있지요.\n계엄군에 맞서 싸웠던 금남로 거리\n광주의 금남로 거리는 5·18 민주화 운동 당시 시민들이 계엄군에 맞서 싸웠던 곳이에요. 당시 30여 만 명의 광주 시민들은 목숨을 걸고 이 거리로 나왔어요.\n여러 대의 버스에 탄 시민군이 계엄군과 맞서고 있는 모습이 당시 상황을 짐작할 수 있게 해 주지요.\n거리에 모인 시민들은 “전두환은 물러가라!” “민주주의를 지켜내자!”라고 목 놓아 외쳤어요. 이 과정에서 수많은 사람들이 피를 흘리기도 했어요.",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "5·18 민주평화기념관(옛 전남도청)",
+        "금남로 일대에서 시위를 벌이는 시민군(5·18기념재단)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_062.jpg",
+          "caption": "5·18 민주평화기념관(옛 전남도청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_067.jpg",
+          "caption": "금남로 일대에서 시위를 벌이는 시민군(5·18기념재단)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "시민들에게 주먹밥을 만들어 나누어 주던 양동시장",
+      "narration": "시민들에게 주먹밥을 만들어 나누어 주던 양동시장\n5·18 민주화 운동은 수많은 사람들이 힘을 모아 신군부에 대항한 민주화 운동이에요. 시민군은 버스에 나누어 타고 거리를 내달리며 계엄군에 맞섰어요. 택시들은 환자들을 병원으로 실어 날랐고요.\n전남대학교병원을 비롯한 여러 병원에는 피 흘리는 시민들로 가득했어요. 피가 부족하다는 소식에 너도나도 헌혈을 하겠다고 줄을 섰지요.\n아주머니들은 집에서 가마솥을 들고나와 밥을 짓고, 주먹밥을 만들어 시민군에게 건네주었어요. 주먹밥을 만들어 나누어 주던 곳이 바로 양동시장이에요. 나눔의 정신이 담긴 주먹밥은 이후 5·18 민주화 운동의 상징이 되었어요.",
+      "est_speech_ms": 49800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "현재 금남로 일대",
+        "주먹밥을 하고 있는 아주머니들",
+        "양동시장"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_074.jpg",
+          "caption": "현재 금남로 일대",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_081.jpg",
+          "caption": "주먹밥을 하고 있는 아주머니들",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.75
+        },
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_083.jpg",
+          "caption": "양동시장",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "희생자들이 잠들어 있는 국립 5·18 민주묘지",
+      "narration": "희생자들이 잠들어 있는 국립 5·18 민주묘지\n5·18 민주화 운동 당시 죽어간 사람들의 시신들이 거리에 나뒹굴었어요. 차마 눈뜨고 볼 수 없는 끔찍한 모습이었지요. 5월 29일 광주 시민들은 망월동( 구묘역)에서 합동 장례식을 치렀어요. 그리고 그곳에 그들을 묻어주었지요.\n이후 1993년 5·18 민주화 운동에 대한 새로운 평가가 이루어지면서 광주광역시 북구 운정동에 새로운 묘역이 만들어지고 민주화의 성지로 조성되었지요.\n지금 이곳에는 5·18 민주화 운동 당시 희생된 680여 명의 묘와 1987년 6월 민주 항쟁 등 민주화 운동 과정에서 희생당한 분들의 묘가 있어요.",
+      "est_speech_ms": 47200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "국립 5·18 민주묘지(국립 5.18 민주묘지 관리소)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_087.jpg",
+          "caption": "국립 5·18 민주묘지(국립 5.18 민주묘지 관리소)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "희생자들이 잠들어 있는 국립 5·18 민주묘지",
+      "narration": "유네스코 세계 기록유산이 된 5·18 민주화 운동 기록물들\n5·18 민주화 운동 과정에서 수많은 기록물들이 쏟아져 나왔지요.\n병원 진료 기록, 기자들이 찍은 사진 필름, 학생들의 일기장...\n유네스코는 2011년 5·18 민주화 운동 기록물을 세계 기록 유산으로 등재한다고 발표했어요. 국가 폭력에 저항하며 인권과 민주주의를 지키기 위해 노력한 광주 시민들의 희생과 그 가치를 국제 사회가 인정한 것이지요.\n무엇보다 여러 기록물 중 눈에 띄는 것은 한국판 ‘안네의 일기’로 이야기되는 주소연 학생의 일기예요.",
+      "est_speech_ms": 40800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "희생자들이 잠들어 있는 국립 5·18 민주묘지",
+      "narration": "주소연 학생은 당시 광주여고 3학년 재학생이었지요.\n누군가 기록하지 않으면 역사는 제대로 전달되지 않기에 무섭고 힘든 상황에 서도 그날의 일들을 기록했던 거지요.\n민주화에 성공한 시민들의 기록물이 세계유산으로 인정받은 것은 찾아보기 힘든 경우예요. 광주시는 이를 기념하기 위해 구도청 앞~금남공원 사거리(518m)를 ‘유네스코민주인권로’로 정하였답니다.",
+      "est_speech_ms": 29700,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": "희생자들이 잠들어 있는 국립 5·18 민주묘지",
+      "narration": "역사 속 작은 이야기: 기념식 때 불리고 있는 노래 ‘임을 위한 행진곡’\n5·18 민주화 운동 기념식 때 불리는 노래가 있어요.\n바로 ‘임을 위한 행진곡’이에요.\n1984년 5·18 민주화 운동 당시 시민군의 대변인이었던 윤상원과 들불 야학에서 활동했던 노동 운동가인 박기순의 영혼결혼식이 있었어요.\n이때 사용하려고 만들어진 추모곡이 바로 ‘임을 위한 행진곡’이에요. 소설가 황석영이 백기완의 시 뫼빗나리의 일부를 고쳐 노랫말을 만들었지요.\n사람들은 이 노래를 세상에서 가장 슬픈 결혼식 축가라고 이야기해요.\n현재 ‘임을 위한 행진곡’은 5·18 민주화 운동 기념식 때 불리고 있답니다.",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "5·18 민주화 운동 현장을 돌아보니 당시의 공포스러웠던 모습과 계엄군에 맞서 하나 되어 싸웠던 광주 시민들의 모습이 떠오르지요.\n또한 그들이 목숨 걸고 지키려고 했던 민주주의와 평화, 인권이 얼마나 소중한 것인지 다시 한번 느낄 수 있지요.\n우리는 앞으로도 그들의 희생과 바람을 기억하고 기념해야 해요.\n또 광주 시민들이 소망했던 민주주의를 발전시켜 나가기 위해 더 많은 노력을 기울여야 한답니다.",
+      "est_speech_ms": 32600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "윤상원과 박기순 묘 앞에서 사람들이 임을 위한 행진곡을 부르는 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b8c8ed0215946f7f/fig_112.jpg",
+          "caption": "윤상원과 박기순 묘 앞에서 사람들이 임을 위한 행진곡을 부르는 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

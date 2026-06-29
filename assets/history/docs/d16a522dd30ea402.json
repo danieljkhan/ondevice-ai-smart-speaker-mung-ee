@@ -1,0 +1,382 @@
+{
+  "schema_version": 2,
+  "doc_hash": "d16a522dd30ea402",
+  "source_file": "eh_r0112_0010.pdf",
+  "title": "불교가 융성했던 삼국 시대의 탑",
+  "kind": "artifact",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 16,
+  "section_count": 5,
+  "image_count": 11,
+  "est_total_ms": 749100,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "불교가 융성했던 삼국 시대의 탑",
+      "scene_indices": [
+        0,
+        1,
+        2
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3
+      ],
+      "image_captions": [
+        "미륵사지 석탑(전북 익산시)",
+        "황룡사 목탑(상상도)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "미륵사지 석탑",
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "미륵사(상상도)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "image_captions": [
+        "미륵사지 석탑의 보수 공사 전과 후의 모습(국립문화재연구소)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": null,
+      "scene_indices": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "부여 정림사지 5층 석탑(충남 부여군), 문화재청",
+        "‘정림사(定林寺)’라는 글자가 거꾸로 새겨진 기와 조각(국립문화재연구소)",
+        "경주 분황사 모전 석탑(경북 경주시), 문화재청",
+        "복원 공사 중에 발견된 익산 미륵사지 석탑 사리장엄구와 금제 사리봉안기(국립문화재연구소)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        14,
+        15
+      ],
+      "scene_seq": [
+        15,
+        16
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "불교가 융성했던 삼국 시대의 탑",
+      "narration": "불교가 융성했던 삼국 시대의 탑\n“폐하! 이곳 연못가에 큰 절을 세워주십시오. 제 소원입니다.”\n“왕비의 소원을 내가 들어주리다. 여봐라! 이 연못을 흙으로 메운 뒤 큰 절을 짓도록 하여라.”\n전라북도 익산에 있는 미륵사는 백제 무왕이 왕비의 소원을 들어주기 위해 세웠다고 전해요. 미륵사는 현재 남아있는 건물은 없지만, 동쪽과 서쪽에서 큰 석탑을 볼 수 있습니다. 두 탑은 언제 만들어졌을까요? 미륵사에 남아 있는 석탑을 비롯해 삼국 시대에 세워진 여러 탑을 살펴보겠습니다.\n부처님의 무덤, 탑\n절(사찰)에 가면 부처님을 모신 건물 앞마당에 탑이 세워져 있는 것을 볼 수 있어요. 절에는 왜 탑이 세워져 있을까요?",
+      "est_speech_ms": 47600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "미륵사지 석탑(전북 익산시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/d16a522dd30ea402/fig_001.jpg",
+          "caption": "미륵사지 석탑(전북 익산시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "불교가 융성했던 삼국 시대의 탑",
+      "narration": "탑은 불교에서 어떤 의미가 있을까요?\n탑이라는 말은 원래 우리말이 아니라 인도에서 무덤을 의미하는 ‘스투파’에서 나왔어요.\n석가모니에 의해 창시된 불교가 전파되는 과정에서 ‘스투파’가 ‘타파’라는 말이 되고, 그 말이 줄어서 ‘탑’이 된 거예요.\n불교에서 탑은 석가모니, 즉 부처님의 몸속에서 나온 구슬 모양의 사리를 모신 불교식 무덤이에요.\n인도에서는 석가모니가 태어난 곳, 진리를 깨달은 곳, 진리를 가르친 곳, 돌아가신 곳 등에 탑을 세웠어요.\n그 후 불교가 중국, 우리나라, 일본 등 여러 나라로 전해지면서 탑이 함께 만들어졌어요.\n탑은 재료에 따라 전탑(벽돌을 쌓아 올린 탑), 석탑(돌로 만든 탑), 목탑 (나무로 만든 탑)으로 나누어지는데, 전탑은 중국에서, 석탑은 우리나라 에서, 목탑은 일본에서 많이 만들어졌어요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "황룡사 목탑(상상도)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/d16a522dd30ea402/fig_019.jpg",
+          "caption": "황룡사 목탑(상상도)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "불교가 융성했던 삼국 시대의 탑",
+      "narration": "탑이 처음 만들어질 때는 부처님의 사리를 나누어 넣었다고 해요. 하지만 부처님의 사리가 한정되어 있어서 그 이후에는 불교 경전이나 부처님의 물건처럼 부처님을 상징하는 것들을 대신 넣게 되었어요.\n이처럼 탑은 부처님의 몸이 묻힌 불교식 무덤에서 부처님을 상징하는 기념물로 그 의미가 확대되었지요. 또 탑은 단순히 종교적 목적뿐만 아니라, 각 시대의 미의식과 건축 기술을 반영하는 뛰어난 예술 작품이라고 할 수 있어요.\n삼국은 영토를 넓히고 왕권을 강화하는 과정에서 불교를 받아들였어요. 그렇게 해서 지방 세력을 포용하고 백성의 사상을 통합하고자하였어요.",
+      "est_speech_ms": 45800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "미륵사지 석탑",
+      "narration": "불교는 특히 왕실에서 적극적으로 수용하였고, 점차 백성에게 전해졌어요.\n불교가 전해진 뒤 삼국에서는 불교 예술이 발달하였어요. 삼국은 많은 절 (사찰)과 탑을 세우고, 불상을 만들었지요.\n신라 진흥왕 때 세운 황룡사와 백제 무왕 때 세운 미륵사가 대표적인 절 (사찰)이지만, 현재는 터만 남아 있어요.\n절(사찰)에는 탑을 세웠는데, 초기에는 목탑을 많이 만들다가 점차 석탑을 만들었어요. 백제의 탑은 익산 미륵사지 석탑과 부여 정림사지 5층 석탑이 남아 있어요.\n신라는 황룡사 9층 목탑을 세웠으나 불에 타 남아 있지 않으며, 경주 분황사 모전석탑이 남아 있어요. 안타깝게도 고구려의 탑은 현재 남아 있는 것이 없답니다.\n지금부터 백제와 신라에 남아 있는 탑들의 모습과 특징을 살펴볼까요?",
+      "est_speech_ms": 54600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/d16a522dd30ea402/fig_037.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "미륵사지 석탑",
+      "narration": "미륵사지 석탑\n백제 무왕 때 세워졌다고 전하는 미륵사는 현재 건물은 없고 그 터에 탑이 남아 있어요. 그래서 미륵사 터에 있는 탑이라는 뜻으로 미륵사지 탑이라고 이름이 붙여졌어요.\n미륵사는 3개의 금당(불상을 모셔 놓은 건물)이 나란히 늘어서고 금당마다 탑이 하나씩 있도록 설계되었어요.\n3개의 절이 모여 하나의 큰 절을 이루는 형식처럼 지어진 대규모 사찰이었지요. 또 3개의 금당(동원, 중원, 서원)은 각기 긴 회랑(건물에서 지붕이 딸린 복도)으로 구획되어 독립된 공간을 이루고 있으며, 북쪽으로는 1동의 큰 강당 터로 연결됩니다.",
+      "est_speech_ms": 42800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": "미륵사지 석탑",
+      "narration": "당 북쪽에는 인공 물길 위에 두 개의 다리를 놓아 뒤편의 후원 지역으로 연결했어요. 다음 그림은 미륵사의 옛 모습을 상상하여 그린 것이에요.\n사실 미륵사지 석탑은 슬픈 과거가 있습니다. 이 석탑은 조선 중기인 16세기를 전후해 미륵사가 문을 닫으면서 상당 부분이 훼손된 채 방치되어 있었어요.\n이후 일제 강점기에 조선총독부는 문화재 보전에 대한 기본 지식 없이 미륵사지에 대해 날림으로 발굴 조사를 했어요.\n특히 1915년 벼락에 맞아 무너져버린 서탑에 대해 옛 기록이나 건축 양식에 대해 사전에 연구하지 않은 채 성급하게 보수 공사를 하기로 결정했어요. 이에 따라 무려 185t에 이르는 콘크리트를 서탑에 들이부었습니다.\n콘크리트는 탄산칼슘 등의 성분으로 인해 백화현상과 풍화작용을 촉진하는 치명적인 약점을 가지고 있어요.",
+      "est_speech_ms": 59700,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "미륵사(상상도)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/d16a522dd30ea402/fig_045.jpg",
+          "caption": "미륵사(상상도)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "일본의 졸속한 복원 공사가 오히려 문화재를 크게 훼손하는 결과를 가져온 것입니다. 게다가 덕지덕지 발라놓은 콘크리트는 1000년이 넘는 역사를 간직한 미륵사지 석탑을 그저 흉측한 몰골의 돌덩어리로 둔갑시켜 버렸어요.\n사진을 통해 콘크리트를 발라 놓은 미륵사지 석탑의 옛 모습을 확인할 수 있어요.\n한편, 터만 남아 있던 미륵사지 석탑의 동탑은 4년간의 공사를 거쳐 1993년 복원 완료했어요. 그런데, 이 복원 사업은 나쁜 문화재 복원 사례로 평가 받고 있어요. 왜냐하면 충분한 조사를 하지 않은 채 단순히 서탑의 형태를 모방해서 만들었기 때문이죠.",
+      "est_speech_ms": 45000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "동탑과 서탑이 같은 형태인지, 또 같은 층수인지에 대한 자세한 연구 없이 복원 사업이 이루어졌기 때문에 많은 비판을 받았어요.\n그래서 1998년에 해체ㆍ보수가 결정된 익산 미륵사지 석탑의 서탑은 동탑에서의 실수를 되풀이하지 않으려고 신중하게 보수 공사를 진행했어요.\n또 확실하지 않은 상태에서 무리하게 복원하지 않고, 남아 있는 돌들을 이용해 확실한 부분까지만 보수 공사를 하기로 했어요.\n2000년부터 국립문화재연구소가 익산 미륵사지 석탑에 대한 대대적인 보수 공사를 시작해 20년 만인 2019년에 일반에 공개하게 되었어요.",
+      "est_speech_ms": 44400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "부여 정림사지 5층 석탑\n백제를 멸망시킨 당나라 군대는 사비성 한가운데에 있는 절을 점령한 뒤, 그곳에 있는 빼어난 모양의 석탑에 자신들이 백제를 멸망시켰다고 자랑하는 글을 새겼어요.\n나라를 잃은 백제 사람들은 이것을 보고 얼마나 큰 슬픔과 모욕감을 느꼈을까요?당시 아시아에서 으뜸가는 문화 대국을 자부하던 당나라는, 자기네가 정복한 나라의 귀중한 문화재를 훼손하는 야만적인 행동을 서슴지 않았던 것이에요.",
+      "est_speech_ms": 34000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "미륵사지 석탑의 보수 공사 전과 후의 모습(국립문화재연구소)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/d16a522dd30ea402/fig_060.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/d16a522dd30ea402/fig_062.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "이 탑은 소정방이 새긴 글로 인해 한때 ‘백제를 평정하고 세운 탑’이라는 뜻의 ‘평제탑’이라고 불리기도 했습니다.\n옛날 사람들은 이 탑을 소정방이 세운 전승기념물로 알고 있었던 것이지요.\n그런데, 1942년에 절터 발굴 과정에서 ‘정림사’라는 글귀가 새겨진 기와 조각이 발견되어 정림사지 5층 석탑으로 불리게 되었습니다. 오랫동안 잃어버렸던 자신의 이름을 드디어 찾은 셈이지요.\n보통 석탑은 커다란 돌을 사용하는 경우가 많아요. 하지만 정림사지 5층 석탑은 무려 149개나 되는 돌을 이용해서 만들었답니다. 마치 목재를 짜 맞추듯이 말이에요.",
+      "est_speech_ms": 44000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "겉으로 보기에는 석탑 같지만, 탑을 만드는 방식은 목탑의 양식을 활용했어요. 불교가 전해진 초기에는 목탑이 많이 만들어진 것으로 보이는 데, 정림사지 5층 석탑은 목탑에서 석탑으로 발전하는 과정을 보여주는 소중한 유물이랍니다.",
+      "est_speech_ms": 18800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "부여 정림사지 5층 석탑(충남 부여군), 문화재청",
+        "‘정림사(定林寺)’라는 글자가 거꾸로 새겨진 기와 조각(국립문화재연구소)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/d16a522dd30ea402/fig_075.jpg",
+          "caption": "부여 정림사지 5층 석탑(충남 부여군), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/d16a522dd30ea402/fig_077.jpg",
+          "caption": "‘정림사(定林寺)’라는 글자가 거꾸로 새겨진 기와 조각(국립문화재연구소)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "경주 분황사 모전석탑\n삼국 시대에 불교가 전래되었던 초기에는 나무로 탑을 만들었어요. 그런데 나무로 만든 목탑은 불에 타 버리기 쉬워서 점차 불에 강한 돌로 탑을 만들게 되었지요. 7세기 신라 선덕여왕 때 만들어진 경주 분황사 모전석탑은 당시 중국에서 유행하던 벽돌탑을 모방해서 만들었어요.\n진짜 벽돌은 아니고 돌을 벽돌처럼 깎아서 쌓아 올린 탑이지요.\n그래서 모방한다는 뜻의 ‘모(模)’, 벽돌이라는 뜻의 ‘전(塼)’자를 넣어 탑의 이름이 붙여졌어요.\n경주 분황사 모전석탑은 일제강점기인 1915년에 일본인들이 해체 수리를 한 적이 있어요. 현재의 모습은 그 때의 모습대로 복원해놓은 것이랍니다. 원래는 7층으로 추정되지만, 현재는 3층만 남아 있어요.",
+      "est_speech_ms": 52800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "경주 분황사 모전 석탑(경북 경주시), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/d16a522dd30ea402/fig_081.jpg",
+          "caption": "경주 분황사 모전 석탑(경북 경주시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "역사 속 작은 이야기: 미륵사를 지어달라고 무왕에게 요청한 왕비는 누구일까?\n미륵사지 석탑의 서탑을 해체ㆍ수리하던 2009년 1월, 역사학계를 크게 흥분시킨 일이 일어났어요.\n미륵사지 석탑 1층 심초석(탑의 중앙 기둥을 받치는 돌) 내부에서 석탑건립당시묻었던금동제사리외호와 금제사리내호, 유리제사리병, 금제 사리봉안기, 칼, 유리판 등 사리장엄구가 발견되었던 것이에요.\n사리장엄구는 불탑에 사리를 넣을 때 함께 넣은 용기나 공예품 등을 총칭해서 나타내는 말이에요.",
+      "est_speech_ms": 38600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "그중에서도 금으로 제작된 사리봉안기에는 미륵사를 창건해 달라고 요청한 사람의 이름이 쓰여 있어서 세상을 깜짝 놀라게 했답니다.\n사리봉안기가 발견되기 전까지 사람들은 삼국유사의 내용을 바탕으로 백제 무왕에게 시집온 신라의 선화공주가 미륵사를 지어달라고 무왕에게 요청했었다고 생각해 왔어요.\n그런데, 금으로 제작된 사리봉안기에는 ‘사택적덕의 딸’이 백제 무왕의 왕비이자 미륵사를 창건해달라고 요청한 주인공이라고 적혀 있었던 것이에요.\n이 발견으로 인해 역사학계는 발칵 뒤집혔답니다. 지금까지 알고 있던 사실이 완전히 틀린 내용으로 판명 났기 때문이었죠.",
+      "est_speech_ms": 46800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "복원 공사 중에 발견된 익산 미륵사지 석탑 사리장엄구와 금제 사리봉안기(국립문화재연구소)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/d16a522dd30ea402/fig_095.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/d16a522dd30ea402/fig_096.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "즉, 미륵사지 석탑의 사리봉안기 발견 이후 백제 무왕의 부인이 선화공주였다는 것과 선화공주의 요청으로 미륵사가 창건되었다는 이야기가 모두 후대에 만들어진 허구였다는 주장이 제기되었어요.\n그렇다면 삼국유사의 미륵사 창건 관련 기록은 정말 가공된 설화이며, 선화공주는 허구의 인물에 불과한 것일까요?\n아직까지 일부 학자들은 금제 사리봉안기의 내용만으로 백제 무왕과 선화공주가 부부가 아니었다고 단정적으로 이야기할 수는 없다고 보기도 해요.\n즉, 미륵사는 세 개의 탑과 세 개의 금당으로 이루어진 구조를 갖추고 있는데, 서탑을 만들자고 요청한 인물이 사택 왕후라면 중앙의 목탑이나 동탑은 선화공주나 또 다른 왕후의 요청으로 만든 탑일 수도 있다는 것이지요.",
+      "est_speech_ms": 54600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 16,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "또 다른 사람은 사택 왕후가 선화공주 대신 자신의 이름을 사리봉안기에 남겼을 수도 있다고 주장해요.\n왜냐하면 선화공주는 백제의 적국인 신라 진평왕의 딸이었던 반면, 사택왕후는 당시 백제에서 가장 힘이 센 귀족인사택 가문 출신이자 최고 높은 관직인 좌평으로 있던 사택적덕의 딸이었기 때문이에요.\n즉, 백제 무왕에게는 처음에 미륵사를 짓자고 요청한 사람은 선화공주이지만, 그녀가 죽은 후에는 사택적덕의 딸이 왕비가 되었을 수 있다는 것이지요.\n이처럼 유물의 발견에 따라 역사적 사실이 바뀔 수도 있고, 같은 유물을 두고 여러 해석이 나올 수도 있어요. 여러분도 방학이나 주말에 미륵사지 석탑을 보러 가서 실제 석탑의 모습과 유물을 보면서 미륵사의 주인공이 누구일지 상상해 보아요.",
+      "est_speech_ms": 55600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

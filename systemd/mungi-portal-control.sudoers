@@ -1,0 +1,11 @@
+# Narrow passwordless sudo so the kiosk user can start/stop ONLY the download
+# portal on demand (touchscreen double-tap activation + the web shutdown button).
+# No other commands are granted. The portal itself stays Tailscale-only + PIN-gated,
+# so toggling the service does not expose conversation data.
+#
+# Install on the Jetson:
+#   sudo cp /opt/mungi-repo/systemd/mungi-portal-control.sudoers \
+#           /etc/sudoers.d/mungi-portal-control
+#   sudo chmod 0440 /etc/sudoers.d/mungi-portal-control
+#   sudo visudo -c        # validate syntax before it takes effect
+mungi ALL=(root) NOPASSWD: /usr/bin/systemctl start mungi-download-portal.service, /usr/bin/systemctl stop mungi-download-portal.service

@@ -1,0 +1,30 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-merge-conflict
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: check-yaml
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.11.0
+    hooks:
+      - id: ruff
+        args: ["--fix"]
+      - id: ruff-format
+
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.15.0
+    hooks:
+      - id: mypy
+        files: "^(core|models|safety|hardware|scripts|parental)/"
+
+  - repo: local
+    hooks:
+      - id: check-no-mojibake
+        name: Detect cp949 mojibake in source files
+        entry: python scripts/check_no_mojibake.py
+        language: system
+        files: \.(py|json|md|yml|yaml|txt)$
+        exclude: ^(\.codex/chat/|\.pytest_tmp.*|\.tmp-.*|wheelhouse/|node_modules/|\.venv/|\.git/)

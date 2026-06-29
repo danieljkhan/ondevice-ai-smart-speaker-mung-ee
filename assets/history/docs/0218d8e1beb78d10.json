@@ -1,0 +1,423 @@
+{
+  "schema_version": 2,
+  "doc_hash": "0218d8e1beb78d10",
+  "source_file": "eh_r0320_0010.pdf",
+  "title": "온 민족이 일어나 독립을 외친 3·1 운동 유적",
+  "kind": "artifact",
+  "era": "일제강점기",
+  "era_source": "keyword",
+  "scene_count": 18,
+  "section_count": 8,
+  "image_count": 10,
+  "est_total_ms": 776000,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "3·1 운동 당시 만세 장면(국가기록원)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "전국에서 3·1 운동이 일어나다",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "독립선언서가 인쇄된 곳은 어디일까? 보성사",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "보성사 터(서울 종로구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "민족 대표들은 왜 경찰에 스스로 잡혀간 것일까? 태화관",
+      "scene_indices": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "태화관 모습과 현재 태화빌딩(태화관 터)에 걸려있는 민족 대표들의 독립선언식 민족기록화",
+        "3·1 운동 당시 탑골 공원에서 독립선언서를 읽는 모습"
+      ],
+      "is_infographic": true
+    },
+    {
+      "section_index": 5,
+      "section_title": "가장 많은 사람들이 모여 시위를 벌인 대한문 앞",
+      "scene_indices": [
+        12
+      ],
+      "scene_seq": [
+        13
+      ],
+      "image_captions": [
+        "대한문 앞에 모인 군중들(독립기념관)과 현재의 대한문 앞 모습"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "일본의 무자비한 보복이 이루어진 곳은? 수원 제암리 교회",
+      "scene_indices": [
+        13,
+        14
+      ],
+      "scene_seq": [
+        14,
+        15
+      ],
+      "image_captions": [
+        "불에 탄 제암리(독립기념관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 용감한 행동을 한 일제 강점기 어린이들",
+      "scene_indices": [
+        15,
+        16,
+        17
+      ],
+      "scene_seq": [
+        16,
+        17,
+        18
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "온 민족이 일어나 독립을 외친 3·1 운동 유적\n“우리의 독립 의지를 강력하게 보여 주어야 합니다. 우리 모두 만세삼창을 합시다.”\n“만세! 만세! 만세!”\n“책을 던지고 밖으로 나가 행진합시다.”\n“와...”\n학교에서 공부해야 할 학생들까지 과감하게 들고 일어나 만세를 외친 것은 3·1 운동 때의 일이에요. 3·1 운동은 왜 일어난 것일까요?\n3·1 운동은 어떤 의미를 지닌 사건일까요?",
+      "est_speech_ms": 28400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "3·1 운동 당시 만세 장면(국가기록원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0218d8e1beb78d10/fig_001.jpg",
+          "caption": "3·1 운동 당시 만세 장면(국가기록원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "전국에서 3·1 운동이 일어나다",
+      "narration": "전국에서 3·1 운동이 일어나다\n1918년 1월, 제1차 세계대전이 막바지에 접어든 시기에 미국 대통령 윌슨은 14개조의 평화 원칙을 발표했어요.\n이에 따라 1919년 1월 파리에서 강화 회의가 열렸어요.\n윌슨의 14개조 원칙은 각 민족의 일은 자기 스스로 결정한다는 민족자결주의로 알려져, 일제에 맞서 국내외에서 독립운동을 하던 우리 민족에게 희망을 심어주었지요. 그러던 중 1919년 1월 21일, 고종 황제가 갑작스레 돌아가셨다는 소식이 전해졌어요.\n1919년 2월 8일, 일본에서는 한국인 유학생들에 의해 2·8 독립선언서가 발표되었어요. 국내에서도 일찍부터 만세 운동을 조직적으로 준비하는 사람들이 있었어요. 바로 종교계 지도자들과 학생들이었지요.",
+      "est_speech_ms": 55200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "전국에서 3·1 운동이 일어나다",
+      "narration": "그들은 고종 장례식 이틀 전인 3월 1일에 만세 시위를 벌일 준비하고 있었어요. 고종의 장례식을 보기 위해 전국 각지에서 수많은 사람들이 서울로 올라오고 있었거든요.\n1919년 2월 27일, 천도교가 운영하던 인쇄소인 보성사에서 비밀리에 2만여 장의 독립선언서가 인쇄되었어요.\n1919년 3월 1일 오후 2시, 음식점인 태화관에 민족 대표들이 모여 독립 선언식을 했어요. 독립선언서를 읽고 만세 삼창을 한 뒤, 경찰에 끌려갔지요.\n탑골공원에서는 민족 대표들이 나타나기를 기다리는 200여 명의 학생과 사람들이 모여 있었어요. 하지만 민족 대표들이 나타나지 않자, 학생들 중 한명이 팔각정에 올라 독립선언서를 낭독했어요.",
+      "est_speech_ms": 51400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "전국에서 3·1 운동이 일어나다",
+      "narration": "낭독이 끝나자 모여 있던 사람들은 만세 삼창을 한 뒤 거리로 나와 행진을 하며 만세를 불렀지요. 밤까지 만세 시위는 이어졌어요.\n서울 외에도 북부 지방에 있는 평양, 의주, 원산 등 6개 도시에서도 만세 운동이 벌어졌어요.\n3월 5일은 서울에서 또 한 번 큰 만세 시위가 벌어졌지요. 만세 시위는 점점 전국적으로 퍼져 나갔어요.",
+      "est_speech_ms": 25600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "학생들은 등교를 거부하고 거리로 나와 만세 운동을 벌였어요.\n상인들은 상점 문을 열지 않고, 만세 운동에 참여했고 노동자들도 동맹 파업을 벌이기도 했어요. 농촌에서는 장날이 되면 사람들이 하나 둘 모이기 시작했어요. 태극기를 들고 만세를 외쳤고, 독립을 위한 노래를 부르기도 했어요.\n그뿐 아니에요. 미국의 필라델피아. 중국의 룽징, 일본의 도쿄와 오사카, 러시아의 블라디보스토크 등 해외에서도 우리 교포들이 만세 운동을 벌였지요.\n3월에 시작된 만세 운동은 5월까지 이어졌어요.\n만세 시위가 벌어지자 깜짝 놀란 조선총독부는 총과 칼을 들이대며 무력으로 탄압했어요. 그럼에도 시위는 점점 더 번져 나갔어요. 독립선언서를 통해 우리의 자유와 독립을 선언하자, 정부를 만들기 위한 시도도 이뤄졌어요.",
+      "est_speech_ms": 56800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "그래서 사람들은 독립운동의 지도부이자 자주국가의 정부인 임시정부를 수립했습니다. 3·1 운동이 한창이던 4월 11일 중국 상하이에서 대한민국 임시 정부가 탄생했습니다.\n그러나 일제의 무자비한 탄압에 3·1 운동은 끝내 막을 내리고 말았어요. 하지만 3·1 운동은 남녀노소, 모든 계층이 참여하여 우리의 독립 의지를 전 세계에 알리고 민주 공화국인 대한민국을 탄생시킨 위대한 독립운동이었어요.\n이후로도 많은 사람들은 3·1 운동을 기억하고 기념했어요. 그래서 나라 에서는 3·1 운동의 그날을 3·1절이라는 국경일로 정했습니다.\n지금부터 3·1 운동 유적지를 돌아보며 그날의 생생한 이야기를 들어보아요.",
+      "est_speech_ms": 49800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/0218d8e1beb78d10/fig_041.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "독립선언서가 인쇄된 곳은 어디일까? 보성사",
+      "narration": "독립선언서가 인쇄된 곳은 어디일까? 보성사\n3·1 운동은 바로 독립선언서의 낭독과 함께 시작되었어요. 그런데 2만여 장이 넘는 독립선언서는 어떻게 일본 경찰에 발각되지 않고 인쇄될 수 있었을까요?\n그것은 천도교에서 운영하는 보성사라는 인쇄소가 있었기 때문이에요.\n보성사 사장이었던 이종일은 2월 27일 직원들과 함께 2만여 장의 독립선언서를 인쇄했어요. 다음날 승동교회에 모인 전문학교 학생 대표단들에게 독립선언서가 배포되었고, 또 전국으로 전달되었어요.\n그런데 그 사실 아세요?\n3·1 운동 당시 배포된 독립선언서에는 ‘조선의 독립국’을 ‘선조의 독립국’이라고 거꾸로 인쇄되었다고 해요. 시간이 촉박해 활자판을 잘못 조판해 생긴 실수로 보고 있어요.",
+      "est_speech_ms": 54000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "독립선언서가 인쇄된 곳은 어디일까? 보성사",
+      "narration": "최근에는 독립선언서 외에도 다양한 사람들이 독립 의지를 담아 작성한 선언문 등이 발견되고 있어요.\n인쇄하는 도중 위험한 순간도 있었어요. 밤에 인쇄소에서 시끄러운 기계소리가 들리자 의심을 품은 한국인 출신 친일 경찰 신승희가 검문을 하러 왔어요.\n이종일은 그의 옷자락을 잡고 사정을 했어요.\n“당신도 우리나라 사람 아니요. 한번만 눈감아 주시오. 여기 이 돈이면 되겠소?”\n이종일은 천도교 지도자 손병희에게 받은 거금 5,000원을 주면서 사정했어요. 그 돈을 받는 친일 경찰이 눈감아 준 덕분에 무사히 일을 마칠 수 있었답니다.",
+      "est_speech_ms": 42600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "보성사 터(서울 종로구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0218d8e1beb78d10/fig_050.jpg",
+          "caption": "보성사 터(서울 종로구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "민족 대표들은 왜 경찰에 스스로 잡혀간 것일까? 태화관",
+      "narration": "민족 대표들은 왜 경찰에 스스로 잡혀간 것일까? 태화관\n1919년 2월, 민족 대표 33인이 한용운을 비롯한 종교 지도자들을 중심으로 정해졌어요. 그들은 3월 1일 탑골 공원에 모여 독립선언서를 낭독하기로 했었지요.\n막상 3월 1일이 되자 그들 중 29명이 탑골공원이 아닌 음식점인 태화관에 모였어요. 그리고 그곳에서 독립선언서를 낭독하고 만세 삼창을 했어요.\n종로경찰서에는 독립선언서를 전달했지요.\n얼마 후 일본인 경찰들이 들이닥쳤고, 이들은 끌려갔어요. 그런데 왜 이들은 원래 계획된 탑골공원이 아닌 태화관에 모이게 된 것일까요?",
+      "est_speech_ms": 44200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "민족 대표들은 왜 경찰에 스스로 잡혀간 것일까? 태화관",
+      "narration": "그것은 탑골 공원에 모인 사람들이 흥분해 폭동이 일어날 것을 걱정했기 때문이라고 해요. 그렇지만 탑골공원에 모여 있는 군중들 앞에서 당당하게 독립선언서를 읽고 그들과 함께 만세운동을 펼쳐 나갔으면 어땠을까 하는 생각을 하게 해요.\n더욱 안타까운 것은 독립선언서에 이름을 올린 민족 대표 33인 중 최린, 정춘수, 박희도와 독립선언서를 쓴 최남선이 친일파로 돌아섰다는 것이지요.\n만세 운동이 시작된 탑골공원\n1919년 3월 1일 오후 2시, 탑골공원에는 200여 명이 넘는 학생과 사람들이 모여 민족 대표들이 오기를 기다리고 있었어요. 그런데 아무리 기다려도 그들은 나타나지 않았지요. 그렇게 시간이 흘러가자 한 청년이 주머니에 들어 있던 독립선언서를 꺼내 읽기 시작했어요.",
+      "est_speech_ms": 55800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "태화관 모습과 현재 태화빌딩(태화관 터)에 걸려있는 민족 대표들의 독립선언식 민족기록화"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0218d8e1beb78d10/fig_066.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/0218d8e1beb78d10/fig_067.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.25
+        },
+        {
+          "path": "assets/history/images/0218d8e1beb78d10/fig_069.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "민족 대표들은 왜 경찰에 스스로 잡혀간 것일까? 태화관",
+      "narration": "“우리들은 지금 우리 조선이 독립한 나라이고 조선 사람이 자주적인 국민이라는 것을 선언하노라. 이러한 사실을 세계 여러 나라에 알려서 인류 평등이라고 하는, 사람이라면 마땅히 지켜야할 도리를 분명히 밝히고, 이러한 사실을 후손들에게 대대로 전하여 민족의 독자적 생존이라고 하는 정당한 권리를 영원히 누릴 수 있도록 하는 바이다.”",
+      "est_speech_ms": 27000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "민족 대표들은 왜 경찰에 스스로 잡혀간 것일까? 태화관",
+      "narration": "독립선언서 낭독이 끝나자 이를 지켜보던 사람들은 만세를 부르기 시작했어요. 드디어 만세 운동이 시작된 것이지요.\n만세 운동이 시작된 탑골공원은 어떤 곳이었을까요? 원래 황실 공원으로 조성된 곳으로 3·1 운동 당시에는 파고다공원으로 불렸어요. 탑골공원은 서울 시내 중심부에 있어서 많은 사람들이 모이기 좋았어요.\n탑골 공원에 있는 팔각정이 독립선언서를 낭독한 곳이에요. 원래는 황실의 음악 연주회장으로 사용되었다고 해요. 탑골공원은 1913년부터 일반인들에게 개방되었고, 이곳에서 역사적인 3·1 운동이 시작된 것이지요.",
+      "est_speech_ms": 43800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "3·1 운동 당시 탑골 공원에서 독립선언서를 읽는 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0218d8e1beb78d10/fig_076.jpg",
+          "caption": "3·1 운동 당시 탑골 공원에서 독립선언서를 읽는 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "가장 많은 사람들이 모여 시위를 벌인 대한문 앞",
+      "narration": "가장 많은 사람들이 모여 시위를 벌인 대한문 앞\n탑골공원에서 출발한 시위대들은 어디로 이동했을까요?\n여러 갈래로 나뉘어 움직였는데, 그중 한 갈래가 향한 곳이 덕수궁 대한문 방향이었어요. 덕수궁 대한문 앞에 모인 사람들은 고종 황제의 시신이 있는 덕수궁 안으로 들어가려했어요.\n실제로 그 안으로 들어가 만세를 부른 사람도 있었어요.\n대한문 앞은 만세 행렬이 끝없이 이어져 마치 독립을 맞은 세상 같았어요.\n이들은 서울 시내를 돌며 시위를 벌이다 남산에 있는 조선총독부로 향하려고 했지요. 하지만 시위대를 막아서는 일본군의 총칼에 흩어질 수밖에 없었어요.",
+      "est_speech_ms": 45400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대한문 앞에 모인 군중들(독립기념관)과 현재의 대한문 앞 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0218d8e1beb78d10/fig_082.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/0218d8e1beb78d10/fig_083.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 6,
+      "section_title": "일본의 무자비한 보복이 이루어진 곳은? 수원 제암리 교회",
+      "narration": "일본의 무자비한 보복이 이루어진 곳은? 수원 제암리 교회\n3·1 운동은 전국으로 퍼져 나가 쉽게 사그라지지 않았어요.\n3월 말부터 4월 초에 걸쳐 경기도 수원, 안성 등지에서 만세 운동이 격렬하게 진행되었어요. 4월 15일에도 수원군 향남면 발안장날에 맞춰 400여 명이 시장에 모여 만세 시위를 벌였어요.\n계속된 시위를 더 두고 볼 수 없었던 일본 경찰과 군인들은 시위의 배후에 천도교인와 기독교인이 있다고 생각했어요.\n1919년 4월 15일 오후 늦게 일본군인과 순사들이 제암리에 왔어요. 그들은 제암리 교회당에서 강연이 있다고 말하면서 20여 명의 남자들을 교회당으로 불러 모았어요.",
+      "est_speech_ms": 48400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 6,
+      "section_title": "일본의 무자비한 보복이 이루어진 곳은? 수원 제암리 교회",
+      "narration": "그런 뒤 교회당 문을 걸어 잠그고, 무차별적으로 총을 쏘고 칼로 찔러 그들을 죽였어요. 그것도 모자라 증거를 남기지 않기 위해 교회를 불태워 버렸지요. 총소리와 불길에 깜짝 놀라 달려간 여성들까지 모두 죽여 버렸어요.\n30여 명의 죄 없는 사람들이 죽임을 당하고, 28채나 되는 마을의 집들도 불에 타 없어졌어요. 제암리 마을 사람들은 두려움에 떨며 잿더미로 변한 마을을 지켜봐야 했어요.",
+      "est_speech_ms": 31200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "불에 탄 제암리(독립기념관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0218d8e1beb78d10/fig_098.jpg",
+          "caption": "불에 탄 제암리(독립기념관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 용감한 행동을 한 일제 강점기 어린이들",
+      "narration": "역사 속 작은 이야기: 용감한 행동을 한 일제 강점기 어린이들\n일제 강점기 어린이들도 독립 운동을 하거나 만세 시위에 참여했을까요?\n어린아이들이 만세 시위를 벌이기는 쉽지 않았을 거라고요?\n그런데 어른들이나 할법한 일을 한 용감한 어린 소년이 있었어요.\n그 소년이 이름은 전해지지 않지만 기록에 따르면 13세의 김 아무개라는 소년이라고 해요.\n어느 날 그 소년은 조선총독부 건물 문에 태극기를 붙이고 다음과 같은 글을 써 놓았어요.\n‘이 문은 총독에게 속하는 것이 아니다. 이것은 한국의 독립정부에 속한다. 만세! 만세! 만세!",
+      "est_speech_ms": 42000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 17,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 용감한 행동을 한 일제 강점기 어린이들",
+      "narration": "김○○ 씀. 나이 13세, 집 주소 ○○○동 21번지’\n하지만 곧 일본 경찰에게 발각되었고, 경찰들은 소년을 잡기 위해 주소지로 쫓아갔어요.\n일본 경찰은 어딘가로 숨어버린 소년을 잡을 수 없게 되자 대신 그의 아버지를 끌고 가 감옥에 가두어 버렸지요.\n이 소식을 들은 소년은 일본 경찰에게 가 당당히 아버지의 석방을 요구해 아버지 대신 자신이 감옥에 갇혔어요. 이 이야기를 전해들은 우리나라 사람들은 왠지 모를 희망을 가슴에 품게 되었지요.\n일제 강점기 어른들뿐만 아니라 어린이도 독립을 위해 만세 운동을 벌이고 일제에 저항했음을 알 수 있는 있어요.",
+      "est_speech_ms": 43200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 18,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 용감한 행동을 한 일제 강점기 어린이들",
+      "narration": "3·1 운동의 현장을 돌아보고 어린이들이 활약한 이야기를 살펴보니 어떤가요? 수많은 사람들이 목 놓아 외쳤던 만세 소리가 귓가에 들리는 것 같지 않나요?\n당시 사람들이 거리로 나와 외쳤던 독립과 평화, 민주주의의 가치는 오늘날에도 우리가 꼭 기억하고 지켜야 할 가치랍니다.",
+      "est_speech_ms": 22200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

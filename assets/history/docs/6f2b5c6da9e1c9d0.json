@@ -1,0 +1,237 @@
+{
+  "schema_version": 2,
+  "doc_hash": "6f2b5c6da9e1c9d0",
+  "source_file": "eh_n0160_0010.pdf",
+  "title": "원효,",
+  "kind": "people",
+  "era": "통일신라·발해",
+  "era_source": "docnum",
+  "scene_count": 10,
+  "section_count": 4,
+  "image_count": 5,
+  "est_total_ms": 427800,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "원효,",
+      "scene_indices": [
+        0,
+        1
+      ],
+      "scene_seq": [
+        1,
+        2
+      ],
+      "image_captions": [
+        "분황사(경북 경주시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "무덤에서 얻은 깨달음",
+      "scene_indices": [
+        2,
+        3
+      ],
+      "scene_seq": [
+        3,
+        4
+      ],
+      "image_captions": [
+        "무덤에서 잠을 자는 원효와 의상"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "백성들, 원효와 함께 나무아미타불을 외치다",
+      "scene_indices": [
+        4,
+        5,
+        6
+      ],
+      "scene_seq": [
+        5,
+        6,
+        7
+      ],
+      "image_captions": [
+        "거리에서 깨달음을 전하는 원효"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "원효, 아시아의 큰 스님이 되다",
+      "scene_indices": [
+        7,
+        8,
+        9
+      ],
+      "scene_seq": [
+        8,
+        9,
+        10
+      ],
+      "image_captions": [
+        "원효와 의상(일본 교토 고잔지(高山寺) 소장)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "원효,",
+      "narration": "원효,\n불교를 백성들에게 널리 전하다\n“여보게, 웬 괴짜 스님이 술을 먹고 저잣거리에 춤을 추고 있다더군. 구경이나 한번 가보세.”\n“스님이 술을 먹는다고? 이상한 스님이 아닌가?”\n“그런데, 그 스님의 말씀이 예사롭지가 않아서 사람들이 크게 즐거워한다네.”\n무덤에서 큰 깨달음을 얻었다는 원효는 자신의 깨달음을 백성들에게 전하고자 많은 노력을 기울였어요. 원효가 백성들에게 전하고자했던 깨달음은 무엇이었을까요?\n밤나무 밑에서 태어난 원효, 승려가 되다\n원효 아버지의 성은 설씨였어요. 어머니가 별이 떨어져 품안으로 들어오는 꿈을 꾸고 원효를 가졌다고 해요.",
+      "est_speech_ms": 44800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "분황사(경북 경주시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6f2b5c6da9e1c9d0/fig_002.jpg",
+          "caption": "분황사(경북 경주시)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "원효,",
+      "narration": "산달이 가까워진 어느 날 어머니가 마침 마을 밤나무 밑을 지나다가 갑자기 아기를 낳게 되었어요. 너무나 급해서 집으로 돌아가지 못하고 남편의 옷을 밤나무에 걸고 그 속에서 아기를 낳았어요. 신기하게 원효가 태어났던 밤나 무의 열매가 보통 나무와는 달리 매우 컸다고 해요.\n원효는 총명하게 무럭무럭 자랐어요. 원효가 커가던 이 시기는 고구려, 백제, 신라 사이에 치열한 전쟁이 끊이지 않던 때였어요. 많은 백성이 전쟁터에 끌려가 허무하게 죽는 경우도 많았죠.\n죽음이 흔한 시기에 원효는 오랫동안 삶과 죽음을 고민했어요. 고민이 깊어지자 모든 재산을 뒤로 하고 집을 나와 승려가 되었어요. 그리고 황룡사에 들어가 여러 불교 서적들을 읽으며 공부에 전념하였어요.",
+      "est_speech_ms": 53200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "무덤에서 얻은 깨달음",
+      "narration": "무덤에서 얻은 깨달음\n당시 삼국은 중국을 통해 불교를 받아들였어요. 불교를 깊이 배우려면 지금의 중국에 있던 당으로 유학을 가야 했어요. 더 많은 깨달음을 얻기 위해 원효는 의상과 함께 유학길에 올랐어요. 두 사람은 당항성에서 뱃길을 이용해 당으로 가고자했어요.\n당항성으로 가던 원효와 의상은 늦은 밤 폭풍우를 피해 작은 굴속에서 잠을 자게 되었어요. 번개가 치고, 비바람이 몰아치던 험한 밤이었지만 굴속에서 편하게 잠을 잘 수 있었어요. 아침에 눈을 뜬 원효는 깜짝 놀라고 말았어요.\n“아니, 우리가 잔 곳이 무덤 속이라니?”\n“스님, 저도 깜짝 놀랐습니다. 어제는 어두워서 아무것도 보이지 않았거든요.”\n“그러게 말이에요. 그런데 여전히 비바람이 멈추질 않으니 이를 또 어찌 한단 말입니까?”",
+      "est_speech_ms": 54800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "무덤에서 잠을 자는 원효와 의상"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6f2b5c6da9e1c9d0/fig_018.jpg",
+          "caption": "무덤에서 잠을 자는 원효와 의상",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "무덤에서 얻은 깨달음",
+      "narration": "“이 비바람을 맞으며 길을 갈 수는 없으니 어떻게든 하룻밤은 참아보시지요?”\n폭풍우가 멈추지 않자 어쩔 수 없이 두 사람은 하룻밤을 더 무덤 속에서 지내야 했어요. 첫날밤은 그렇게 편안하던 굴이 무덤이란 것을 알게 된 원효는 쉽게 잠들지 못했어요. 설핏 잠이 든 원효는 꿈속에서 귀신을 보기까지했지요.\n아침에 눈을 뜬 원효는 깊은 생각에 잠겼어요.\n‘똑같은 곳에서 잠을 잤는데, 어찌 마음은 이렇게 서로 다르단 말인가? 마음이 바뀌면 사물도 바뀌는 법!’\n오랜 생각 끝에 원효는 세상 만물은 똑같으나 사람의 마음먹기에 따라 생각도, 사물도 달라진다는 깨달음을 얻었어요.",
+      "est_speech_ms": 45000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "백성들, 원효와 함께 나무아미타불을 외치다",
+      "narration": "원효는 무덤에서 얻은 깨달음을 백성들에게 전해야겠다는 결심을 했어요. 그리고 당 유학을 포기하고, 신라로 돌아갔지요. 원효와 달리 의상은 뜻을 굽히지 않고 당으로 유학을 떠났어요.\n백성들, 원효와 함께 나무아미타불을 외치다\n신라로 돌아온 원효는 분황사 등에 머물다가 저잣거리를 누비며 백성들을 만났어요. 심지어 주막의 술꾼이나 거지들과도 어울리며 자신의 깨달음을 전하고자했어요.\n물론 다른 승려들은 원효가 난폭하고, 예의가 없으며, 상식의 선을 넘었다고 비난했어요. 하지만 자신들과 가까운 곳에서 쉬운 말로 불교의 깨달음을 전하는 원효에게 백성들은 열광하고 환호했어요.",
+      "est_speech_ms": 47600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "백성들, 원효와 함께 나무아미타불을 외치다",
+      "narration": "“대사님! 저희와 같은 천한 사람도 극락세계에 갈 수 있을까요?”\n“천한 것과 귀한 것은 정해져 있지 않아요. 그 구분은 오직 사람의 마음속에만 있는 것이에요. 하찮은 가축 속에도 부처는 있답니다.”\n“어찌하면 우리도 극락세계에 갈 수 있나요?”\n“극락세계에 가려면 부처처럼 행동해야겠지요. 부처의 마음으로 행동하면 부처가 되고, 도둑의 마음으로 행동하면 도둑이 됩니다.”",
+      "est_speech_ms": 28800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "백성들, 원효와 함께 나무아미타불을 외치다",
+      "narration": "원효는 글을 모르는 백성들이 쉽게 불경을 배울 수 있도록 ‘무애가’란 노래도 만들었어요. 무애가는 장애나 차별이 없는 세상을 꿈꾸었던 부처님의 가 르침을 노래로 만든 것이에요.\n원효는 직접 거리를 돌아다니며 표주박 모양의 그릇을 들고 춤을 추면서 이 노래를 불렀어요.마치 광대 같기도 하고, 노래를 부르며 구걸하는 거지같기도 했어요. 원효와 함께 많은 백성들이 무애가를 따라 불렀어요. 밭가는 노인들도 콧소리로 흥얼거리며 무애가를 불렀다고 해요.\n그리고 ‘나무아미타불’이란 말을 외치면 천한 백성들도 극락세계에 갈 수 있다고 가르쳤어요. 그때 신라의 많은 백성들이 따라 하면서 지금 우리들에 게도 익숙한 불교 용어가 되었지요.",
+      "est_speech_ms": 51000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "거리에서 깨달음을 전하는 원효"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6f2b5c6da9e1c9d0/fig_043.jpg",
+          "caption": "거리에서 깨달음을 전하는 원효",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "원효, 아시아의 큰 스님이 되다",
+      "narration": "이차돈의 순교를 계기로 신라에 받아들여진 불교는 왕권을 강화하고 정신적으로 백성들을 단결시키는 역할을 했어요. 그러나 원효가 활동하던 시기의 신라 불교는 주로 귀족들과 부자들이나 믿는 종교였어요. 가난하고 글자를 모르는 백성들에게는 먼 나라의 이야기처럼 가까이 배울 수 없었지요.\n이런 상황 속에서 살아있을 때 노력하면 누구나 극락세계에 갈 수 있다는 원효의 가르침은 오랜 전쟁과 배고픔, 그리고 질병에 시달리던 백성들에게 큰 희망을 주었어요.\n원효, 아시아의 큰 스님이 되다\n‘원효’(‘효’는 우리말로 ‘새벽’이라는 뜻)라는 이름은 ‘불교를 새로 빛나게 하다’라는 뜻을 갖고 있어요. 원효의 깨달음은 신라뿐만 아니라 중국과 일본에도 전해져 많은 스님들에게 적지 않은 영향을 주었어요.",
+      "est_speech_ms": 55600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "원효, 아시아의 큰 스님이 되다",
+      "narration": "원효가 쓴 책은 그가 죽은 후에도 다시 만들어지곤했는데, 이중에 하나는 멀리 떨어진 중국의 돈황에서 발견되기도 하였어요. 무덤에서 깨달음을 얻은 원효가 아시아의 큰 스님이 된 것이지요.",
+      "est_speech_ms": 15200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "원효, 아시아의 큰 스님이 되다",
+      "narration": "지금의 서울에 있는 원효로나 원효대교, 경산시의 원효로도 바로 원효의 큰 업적을 기리기 위해 그의 이름에서 따왔어요.\n수많은 책과 많은 가르침을 남기고 원효는 70세 되던 해에 세상을 떠났어요. 신라의 대학자였던 아들 설총은 원효의 유골을 분황사에 모시고 아버지를 그리워하며 아침저녁으로 정성을 다해 모셨다고 전해집니다.",
+      "est_speech_ms": 26800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "원효와 의상(일본 교토 고잔지(高山寺) 소장)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6f2b5c6da9e1c9d0/fig_056.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6f2b5c6da9e1c9d0/fig_057.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    }
+  ]
+}

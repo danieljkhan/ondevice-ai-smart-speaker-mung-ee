@@ -1,0 +1,518 @@
+{
+  "schema_version": 2,
+  "doc_hash": "658864698f353304",
+  "source_file": "eh_r0280_0010.pdf",
+  "title": "조선의 공식 행사 보고서, 의궤",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 21,
+  "section_count": 8,
+  "image_count": 15,
+  "est_total_ms": 864900,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "청계천(서울 종로구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "나라와 왕실에서 행사를 치를 때 만든 의궤",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "정조 화성 행차 반차도(국립중앙박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        4
+      ],
+      "scene_seq": [
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "의궤의 제작 시기와 종류",
+      "scene_indices": [
+        5,
+        6
+      ],
+      "scene_seq": [
+        6,
+        7
+      ],
+      "image_captions": [
+        "명성황후 국장도감의궤(왼쪽부터 분상용 의궤, 황태자용 의궤, 황제용 의궤 표지), 국사편찬위원회"
+      ],
+      "is_infographic": true
+    },
+    {
+      "section_index": 4,
+      "section_title": "의궤가 만들어지는 과정",
+      "scene_indices": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "영조 정순왕후 가례도감 의궤(국립중앙박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": null,
+      "scene_indices": [
+        11
+      ],
+      "scene_seq": [
+        12
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "수원 화성의 건축 과정을 알 수 있는 『화성성역의궤』",
+      "scene_indices": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "scene_seq": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "image_captions": [
+        "화성성역의궤(국립중앙박물관)",
+        "『화성성역의궤』에 실린 녹로와 거중기 그림(한국콘텐츠진흥원)과 재현 모형(수원화성박물관)",
+        "수원 화성 축조 모습",
+        "6·25 전쟁 중 파괴된 수원 화성 장안문\n(National Archives and Records Administration)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 145년 만에 고국으로 돌아온 외규장각 의궤",
+      "scene_indices": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "scene_seq": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "image_captions": [
+        "『화성성역의궤』를 바탕으로 복원한 현재의 장안문(경기 수원시)",
+        "병인양요의 전개",
+        "박병선 박사(국가기록원)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "조선의 공식 행사 보고서, 의궤\n“6·25 전쟁 때 폭격으로 무너진 수원 화성의 건물이 한두 채가 아닙니다. 어떻게 다시 복원해야 할까요? 걱정입니다.”\n“걱정하지 않으셔도 됩니다. 화성성역의궤를 보고 그대로 만들 수 있으니까요.”\n조선 시대에는 나라와 왕실의 중요한 행사를 그림과 글로 기록한 책을 만들었어요. 이를 의궤라고 하지요. 조선 정조 때 만들어진 수원 화성의 건물들은 6·25 전쟁 때 폭격으로 크게 훼손되었어요. 그래도 다행히 수원 화성을 만 들 때 작성한 의궤 덕분에 원래 모습으로 복원할 수 있었지요.\n의궤는 국가의 의례, 건설 등 중요한 행사를 보고서 형태로 기록한 책이에요. 지금부터의궤가 왜 만들어졌는지, 또 의궤에는 무엇이 기록되어 있는지 자세히 알아볼까요?",
+      "est_speech_ms": 54000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "청계천(서울 종로구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/658864698f353304/fig_001.jpg",
+          "caption": "청계천(서울 종로구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "나라와 왕실에서 행사를 치를 때 만든 의궤",
+      "narration": "나라와 왕실에서 행사를 치를 때 만든 의궤\n조선 시대에도 국가적으로 큰 행사가 많았어요. 국왕이 혼인을 하고, 세자가 태어나고, 죽어서 장례를 치르는 것이 모두 중요한 일이었지요.\n조선에서는 유교 전통에 따라 예법과 절차를 중요시했기 때문에, 각종 행사가 있을 때마다 의궤를 만들어 그 상세한 절차, 비용, 동원 인력 등을 세세히 기록해 두었어요.\n물론 나라에서 성곽과 궁궐을 짓고 보수할 때에도 의궤를 제작했어요.\n의궤란 ‘의식’과 ‘궤범(규범이라는 의미)’을 하나로 더한 말이에요. 좀 더 자세히 말하면 ‘의례 행사에서 본보기가 되는 규범’이란 뜻이지요.",
+      "est_speech_ms": 43800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "나라와 왕실에서 행사를 치를 때 만든 의궤",
+      "narration": "그래서 ‘의궤’라는 말에는 후손들이 같은 행사를 치를 때, 이전에 만들어 놓은 의궤를 참고하여 실수 없이 행사를 치르라는 의미도 담겨 있어요.\n또한 먼 훗날까지 예법에 맞는 올바른 절차를 생생하게 전하겠다는 마음도 포함되어 있어요.\n국가의 큰 행사가 있을 때 이전에 만들어 놓은 의궤를 살펴보면 빠뜨리는 것 없이 잘 치를 수 있었겠죠?\n한편, 국왕의 명령이 적힌 문서, 각 업무와 관련해서 관청이나 관리가 주고 받은 여러 가지 문서도 의궤에 수록돼요. 또한 담당자와 행사나 건축 공사에 동원된 사람들의 명단, 사용된 물품의 수량과 비용 등도 의궤에 포함되지요.\n뿐만 아니라 행사 후 남은 물건을 되돌려준 사실 등 시시콜콜한 것까지 들어갔어요.",
+      "est_speech_ms": 51000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정조 화성 행차 반차도(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/658864698f353304/fig_021.jpg",
+          "caption": "정조 화성 행차 반차도(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "나라와 왕실에서 행사를 치를 때 만든 의궤",
+      "narration": "의궤에는 글만 기록한 것이 아니었어요. 행사에 쓰이는 물품이라든지 공사에 활용된 기계를 그린 그림도 수록되어 있어요.\n간혹 그림으로 된 행렬도가 그려지기도 해요.\n이 행렬도를 반차도라고 말하는데, 반차도는 각종 국가 행사 때 관리들이 정해진 순서대로 행렬을 따라가고 있는 모습을 그렸어요.\n의궤를 보면, 수십 쪽에 걸쳐서 반차도 행렬이 펼쳐지기도 해요.\n반차도를 보고 있노라면 자신이 그 행사에 참여하고 있는 듯한 생생한 느낌을 받는답니다.\n위에 있는 반차도는 조선시대 정조가 수원 화성으로 행차하는 모습을 그린 의궤의 일부입니다. 정조를 호위하고 따르는 문신 관리, 무신 관리 등이 상세하게 그려져 있죠?",
+      "est_speech_ms": 49400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "이 반차도를 보면서 관리들은 자기 자리를 확인하고 예행연습을 했을 거예요.\n의궤는 조선시대에 행해진 국가 의례, 건축 공사와 같은 큰 행사가 어떻게 진행되었는지 알 수 있는 소중한 문화유산이에요.\n의궤를 보면, 당시 국왕의 결혼식을 그대로 재현할 수 있고 전쟁으로 파괴된 성곽도 원래 모습대로 복원할 수 있지요.\n이러한 가치를 인정받아 2007년에는 의궤가 유네스코 세계기록유산에 등재되었어요.\n지금부터 조선시대 의궤에 대해 구체적으로 알아볼까요?",
+      "est_speech_ms": 37200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/658864698f353304/fig_041.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "의궤의 제작 시기와 종류",
+      "narration": "의궤의 제작 시기와 종류\n지금까지 남아있는 의궤 중에서 가장 오래된 것은 1601년(선조 34)에 선조의 부인인 의인왕후 박씨의 장례 과정을 기록한 의궤에요. 이 의궤에는 그을 린 흔적이 남아 있어 하마터면 불에 타 없어질 뻔한 위기를 넘겼음을 짐작할 수 있어요.\n이후 17세기부터 다수의 의궤가 만들어졌어요. 의궤는 한 종류당 여러 개를 만들었는데, 그중에서 국왕이 보는 1부는 특별 제작되었어요.\n이를 어람용의궤라 해요. 나머지의궤는 해당 업무를 담당한 관청이나 역사책을 보관하는 지방의 사고 등 여러 곳에 나누어 보관하는데, 이를 분상용의궤라고 해요.",
+      "est_speech_ms": 45400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "의궤의 제작 시기와 종류",
+      "narration": "국왕이 보는 어람용의궤는 초록색 비단 표지로 만들어서 무척 화려하고 아름다워요. 반면 분상용의궤는 삼베를 표지로 사용해서 보다 소박한 느낌을 주지요.\n18세기에 이르러 국가적인 큰 사업들이 추진되면서 의궤도 다양해졌어요.\n특히 정조는 어람용의궤를 왕실 도서관인 규장각에 보관했어요.\n이후 강화도에 또 하나의 규장각인 외규장각을 지은 뒤에는 어람용의궤와 여러 기록물들을 외규장각에 옮겨 보관하게 했어요.\n19세기 말 고종은 나라 이름을 조선에서 대한제국으로 바꾼 뒤, 의궤의 표지 색을 바꿨어요.\n옛날부터 황제를 상징하는 노란색 비단 표지의 의궤는 황제에게, 황제보다 한 단계 낮은 왕을 상징하는 붉은색 비단 표지의 의궤는 황태자에게 올리게 했어요.",
+      "est_speech_ms": 54200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "명성황후 국장도감의궤(왼쪽부터 분상용 의궤, 황태자용 의궤, 황제용 의궤 표지), 국사편찬위원회"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/658864698f353304/fig_049.jpg",
+          "caption": "명성황후 국장도감의궤(왼쪽부터 분상용 의궤, 황태자용 의궤, 황제용 의궤 표지), 국사편찬위원회",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "의궤가 만들어지는 과정",
+      "narration": "의궤가 만들어지는 과정\n국왕의 혼례나 장례, 주요한 궁궐 밖 행차, 궁궐의 건설과 보수 등 중요한 행사가 가까워지면 그 관련 업무를 담당할 임시 기관이 설치되었어요.\n이를 도감이라고 해요. 결혼식이 있으면 가례도감, 장례식이 있으면 국장 도감처럼 행사의 종류에 따라 이름이 붙여졌어요. 그리고 의궤 이름 중 ‘∼도감의궤’라고 하는 것은 그 도감에서 의궤를 만들었다는 뜻이에요.\n예를 들어 영조 정순왕후 가례도감 의궤는 1759년에 거행된 영조와 정순왕후의 혼례를 담당한 가례도감에서 만든 의궤라는 의미랍니다.",
+      "est_speech_ms": 41400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "의궤가 만들어지는 과정",
+      "narration": "왕실의 행사는 대개 규모가 컸기 때문에 도감에서 일을 하는 사람들도 많았어요. 도감의 총책임자를 도제조라고 하는데, 주로 3정승(영의정, 좌의정, 우의정) 중에서 뽑았어요.\n도감의 부책임자는 정승 아래의 관직으로 지금의 장관에 해당하는 판서들 중에서 뽑았어요. 이들은 제조라고 불렸어요.\n도제조와 제조를 도와 실제 일을 하는 관리들이 6∼10여 명이 되었고, 그 밑에 일을 나누어서 도와주는 하급 관리들도 있었어요.\n도감에서는 행사를 준비하고 진행하는 동안 관련 업무를 빼놓지 않고 매일 기록했어요. 이런 기록들이 나중에 의궤를 작성하는 기초 자료가 되었지요.",
+      "est_speech_ms": 45600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "영조 정순왕후 가례도감 의궤(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/658864698f353304/fig_064.jpg",
+          "caption": "영조 정순왕후 가례도감 의궤(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "의궤가 만들어지는 과정",
+      "narration": "대규모 국가 행사에 각자 정해진 위치를 그린 반차도와 같이 예행연습이 꼭 필요한 경우를 제외하고는 대개 의궤는 모든 행사가 마무리된 이후에 도감에서 만들었어요. 이처럼 의궤가 작성되고 나면 비로소 행사가 완전히 끝나게 됩니다.",
+      "est_speech_ms": 18800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "의궤가 만들어지는 과정",
+      "narration": "의궤에는 그림도 많이 수록되어 있는데요. 간혹 매우 화려하고 세련된 그림도 있어요. 이러한 그림들은 누가 그린 것일까요?\n조선 시대에는 국가의 큰 행사나 왕실에 필요한 그림을 그리는 관청이 있었어요. 이를 도화서라고 하지요.\n도화서에 소속된 사람들은 관리이자 화가들이었어요. 이들을 화원이라고 불렀어요. 도화서 화원들은 각종 의궤 그림을 그렸는데, 임금의 초상화, 반차도, 궁궐 건물, 병풍 등 종류가 매우 다양했어요.\n화원 중에서 가장 유명한 인물은 김홍도예요. 그는 조선 후기 풍속화가로 많이 알려져 있지만, 도화서 화원으로 국가와 왕실에서 필요한 각종 그림을 그렸답니다.",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "사진기가 없던 시대에 화원의 그림은 사진의 역할을 했어요. 사진은 과거의 사실을 그대로 보여주지요. 조선시대의 그림도 마찬가지예요. 그림은 매우 정교하고 상세히 그려졌어요.\n화원은 그들의 그림을 통해 중요한 역사 기록물을 남긴 거예요.\n화원들의 활약 덕분에 우리는 조선시대 사람들의 삶을 그림으로 확인할 수가 있어요.\n화원들이 의궤에 그린 그림을 보면, 당시 행사에 참여한 사람들이 몇 명인지, 어떤 옷을 입고 있었는지, 국왕이 탄 가마는 어떤 형태인지, 사람들은 어떻게 행렬을 따르고 있었는지 알 수 있어요.",
+      "est_speech_ms": 41200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 6,
+      "section_title": "수원 화성의 건축 과정을 알 수 있는 『화성성역의궤』",
+      "narration": "의궤의 그림은 마치 우리가 그 현장에 있는 것처럼 생생한 광경을 전해주고 있지요.\n수원 화성의 건축 과정을 알 수 있는 화성성역의궤\n조선 시대에는 성곽을 지을 때도 의궤를 만들었어요. 그 대표적인 의궤가 바로 화성성역의궤라고 할 수 있어요.\n화성성역의궤는 총 9권의 책으로 구성되어 있어요. 여기에는 수원 화성 공사 때 작성된 각종 문서를 비롯해 공사에 참여한 인원, 사용된 물품, 설계 도면 등에 관한 기록과 그림이 실려 있어요.",
+      "est_speech_ms": 34400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 6,
+      "section_title": "수원 화성의 건축 과정을 알 수 있는 『화성성역의궤』",
+      "narration": "일종의 수원 화성 건축에 관한 공식 보고서인 셈이지요. 내용이 매우 상세한데, 공사에 참여한 1,800여 명의 이름과 살고 있는 주소, 일한 날의 수 와 받은 임금까지 기록되어 있어요.\n뿐만 아니라 화성 공사에 사용된 모든 물건의 크기와 가격까지 기록되어 있어서 깜짝 놀랄 정도에요.\n특이한 점은 공사를 주관한 관리들의 이름뿐만 신분이 천한 사람들의 이름도 빼놓지 않고 기록했다는 것이에요. 이렇게 신분을 가리지 않고 실제 이름을 그대로 적어 놓았으니 훨씬 책임감을 갖고 일을 했을 것이라고 생각돼요.\n우리는 화성성역의궤를 통해서 수원 화성 공사 때 과학적 원리를 지닌 새로운 기계들이 사용되었다는 것을 알 수 있어요.",
+      "est_speech_ms": 50000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "화성성역의궤(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/658864698f353304/fig_087.jpg",
+          "caption": "화성성역의궤(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 6,
+      "section_title": "수원 화성의 건축 과정을 알 수 있는 『화성성역의궤』",
+      "narration": "당시 수원 화성을 쌓는 공사의 책임자 중의 한 명은 정약용이었는데, 그는 이름난 실학자였어요.\n정약용은 청나라에서 전해진 기기도설이라는 책을 통해서 당시 서양의 과학 기술을 알게 되었어요.",
+      "est_speech_ms": 15600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "『화성성역의궤』에 실린 녹로와 거중기 그림(한국콘텐츠진흥원)과 재현 모형(수원화성박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/658864698f353304/fig_094.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/658864698f353304/fig_095.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.3333
+        },
+        {
+          "path": "assets/history/images/658864698f353304/fig_096.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.6667
+        },
+        {
+          "path": "assets/history/images/658864698f353304/fig_097.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 6,
+      "section_title": "수원 화성의 건축 과정을 알 수 있는 『화성성역의궤』",
+      "narration": "이러한 지식을 이용해 녹로와 거중기를 만들었어요. 녹로와 거중기는 화성 공사 당시 커다란 돌을 쉽게 운반하는 데 사용되었어요.\n이처럼 다양한 새로운 기구를 사용한 덕분에 10년 예상한 공사 기간을 자그마치 2년 9개월로 크게 줄일 수 있었어요.\n이처럼 화성성역의궤에는 수원 화성의 성곽, 성문, 건물, 사용된 기구 등 다양한 기록들이 상세하게 담겨 있어요.\n이러한 상세한 기록은 6·25 전쟁으로 파괴된 화성의 성곽과 문을 복원하는데 큰 역할을 했어요.\n아래 사진은 6·25 전쟁 당시 폭격으로 부서진 화성의 장안문 모습이에 요. 너무나 안타깝죠?",
+      "est_speech_ms": 44000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "수원 화성 축조 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/658864698f353304/fig_103.jpg",
+          "caption": "수원 화성 축조 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 17,
+      "section_index": 6,
+      "section_title": "수원 화성의 건축 과정을 알 수 있는 『화성성역의궤』",
+      "narration": "그러나 다행히도 화성성역의궤가 남아 있어서 장안문의 원래 모습을 알 수 있었어요. 그래서 이를 바탕으로 장안문을 복원할 수 있었지요.\n화성성역의궤에 적힌 기록은 수원 화성이 1997년에 유네스코 세계유산에 지정되는 데도 큰 기여를 했어요.",
+      "est_speech_ms": 20000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "6·25 전쟁 중 파괴된 수원 화성 장안문\n(National Archives and Records Administration)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/658864698f353304/fig_111.jpg",
+          "caption": "6·25 전쟁 중 파괴된 수원 화성 장안문\n(National Archives and Records Administration)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 18,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 145년 만에 고국으로 돌아온 외규장각 의궤",
+      "narration": "유네스코 세계유산이 되기 위해서는 역사적인 가치뿐만 아니라 원래 모습을 얼마나 많이 간직하고 있는가도 중요해요.\n수원 화성이 6·25 전쟁으로 크게 훼손되었음에도 불구하고 화성성역의 궤 덕분에 정확하게 복원되었다는 것을 인정받을 수 있었지요.\n역사 속 작은 이야기: 145년 만에 고국으로 돌아온 외규장각 의궤\n조선 후기 정조 때 강화도에 만들어진 외규장각에는 의궤를 비롯하여 많은 도서가 보관되어 있었어요. 그런데 1866년 프랑스가 천주교 박해 사건을 구실로 강화도를 침입했어요.\n이를 병인양요라고 해요. 병인양요 당시 프랑스군은 외규장각을 불태우고 의궤를 비롯한 340여 권에 달하는 도서를 약탈하였어요. 이 도서들은 프랑스 국립 도서관에 보관되어 있었어요.",
+      "est_speech_ms": 55800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "『화성성역의궤』를 바탕으로 복원한 현재의 장안문(경기 수원시)",
+        "병인양요의 전개"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/658864698f353304/fig_117.jpg",
+          "caption": "『화성성역의궤』를 바탕으로 복원한 현재의 장안문(경기 수원시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/658864698f353304/fig_124.jpg",
+          "caption": "병인양요의 전개",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 19,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 145년 만에 고국으로 돌아온 외규장각 의궤",
+      "narration": "1955년 한국 여성 최초로 프랑스 유학을 떠난 박병선은 프랑스 국립도서관 사서로 일하며 외규장각 의궤를 찾아다녔으나 쉽게 발견하지 못했어요.",
+      "est_speech_ms": 12200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 20,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 145년 만에 고국으로 돌아온 외규장각 의궤",
+      "narration": "그러던 중 그러던 중 1975년에 박병선은 우연한 기회에 20년 동안 찾아 헤매던 외규장각 의궤를 발견했어요.\n이 의궤는 프랑스 국립도서관의 베르사유 분관 폐지 창고에 버려지다시피 방치되어 있었어요. 이후 박병선은 프랑스 국립 도서관 등 곳곳을 뒤져서 의궤를 포함한 수백 권의 외규장각 도서들을 찾아냈어요.\n그리고 1979년에 이 사실을 세상에 알린 뒤 한국에 반환할 것을 요청했어요.\n이를 알게 된 우리 정부도 국제법에 따라 약탈 문화재를 반환해 줄 것을 요청하였어요. 그러나 프랑스는 반환을 거부하였고, 오히려 프랑스 국립 도서관은 박병선에게 일을 그만두라고 했어요.",
+      "est_speech_ms": 47200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 21,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 145년 만에 고국으로 돌아온 외규장각 의궤",
+      "narration": "하지만 박병선은 굴하지 않고 계속해서 반환 노력을 기울였어요. 정부와 민간의 외규장각 도서 반환 노력도 이어졌지요.\n그 결과 2010년 우리 정부는 프랑스 정부로부터 5년마다 연장이 가능한 대여 형식으로 외규장각 도서를 돌려주겠다는 약속을 받았어요.\n드디어 2011년, 의궤를 비롯한 외규장각 도서는 145년 만에 우리나라로 돌아와 지금은 국립중앙박물관에 보관되어 있어요.\n의궤는 선조들의 철저한 기록 정신을 알 수 있는 소중한 문화유산이에요.\n앞으로 우리들도 선조들의 지혜를 본받아 문화유산을 후손들에게 잘 물려주기 위해 끊임없이 노력해야 할 거에요.",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "박병선 박사(국가기록원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/658864698f353304/fig_006.jpg",
+          "caption": "박병선 박사(국가기록원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

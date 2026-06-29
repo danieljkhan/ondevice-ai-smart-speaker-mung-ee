@@ -1,0 +1,351 @@
+{
+  "schema_version": 2,
+  "doc_hash": "b78b7b9cec2ddcfe",
+  "source_file": "eh_r0070_0010.pdf",
+  "title": "통일신라가 만든 부처의 나라, 불국사와 석굴암",
+  "kind": "artifact",
+  "era": "통일신라·발해",
+  "era_source": "keyword",
+  "scene_count": 13,
+  "section_count": 7,
+  "image_count": 10,
+  "est_total_ms": 583100,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0,
+        1,
+        2
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3
+      ],
+      "image_captions": [
+        "경주 불국사 청운교·백운교(경북 경주시), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "부처님 나라로 건너가는 청운교·백운교",
+      "scene_indices": [
+        3
+      ],
+      "scene_seq": [
+        4
+      ],
+      "image_captions": [
+        "자하문과 청운교·백운교(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "석가모니 부처님을 모신 대웅전",
+      "scene_indices": [
+        4
+      ],
+      "scene_seq": [
+        5
+      ],
+      "image_captions": [
+        "대웅전(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "진리의 세계를 나타낸 비로전",
+      "scene_indices": [
+        5
+      ],
+      "scene_seq": [
+        6
+      ],
+      "image_captions": [
+        "삼층 석탑과 다보탑(문화재청)",
+        "비로전(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "인공적으로 만든 석굴 사찰, 석굴암",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "석굴암의 여러 조각상"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "돌로 굴을 만들어 부처님을 모시다",
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 부모를 위해 불국사와 석굴암을 지은 김대성",
+      "scene_indices": [
+        10,
+        11,
+        12
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "통일신라가 만든 부처의 나라, 불국사와 석굴암\n“드디어 불국사가 완성되었다네. 자네도 가 보았는가?”\n“그런가? 불국사를 본 소감이 어떤가? 나도 얼른 가고 싶네만.”\n“아름답고 웅장한 불국사를 보니 신라가 무척 자랑스럽다네.”\n신라는 왜 불국사를 지었을까요?\n불국사는 신라 사람들에게 어떤 의미였을까요?\n부처님의 나라 불국사와 석굴암을 짓다\n우리가 수학여행이나 현장체험학습으로 자주 가는 경주에서 꼭 빠뜨리지 않고 들르는 곳은 아마도 불국사와 석굴암일 거예요.",
+      "est_speech_ms": 37200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "경주 불국사 청운교·백운교(경북 경주시), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b78b7b9cec2ddcfe/fig_001.jpg",
+          "caption": "경주 불국사 청운교·백운교(경북 경주시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "불국사는 경주 동쪽의 토함산 자락에 있는 어마어마한 규모의 아름다운 절이에요. 불국사는 이름 그대도 부처님이 사는 나라를 현실 세계에 옮겨 놓은 절이란 뜻이에요.\n통일신라 사람들은 괴로움이 없고 즐거움만 있는 극락정토가 저 멀리 있는 것이 아니라 바로 자신이 살고 있는 신라 땅이라고 생각했어요.\n그래서 신라가 ‘불국’ 즉 부처님의 나라라는 것을 보여 주기 위해 불국사를 지었어요.\n석굴암은 경주 토함산 산기슭에 돌로 만든 석굴 사원이에요.\n처음에 석굴암은 석불사로 불렀어요. 그러다 불국사에 속한 암자가 되면서 석굴암으로 고쳐 부르게 되었지요.",
+      "est_speech_ms": 44600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "석굴암은 김대성이 불국사를 지을 때 함께 지었다고 해요.\n삼국유사의 기록에 의하면 ‘신라 경덕왕 10년에 김대성이 현생의 부모를 위해서는 불국사를 짓고 전생의 부모를 위해서는 석불사를 짓기 시작했는데,\n그가 완성을 하지 못하고 죽자 혜공왕 10년에 나 주관하여 완성하였다.’라고 전해져요.\n불국사와 석굴암은 김대성의 효심에서 짓기 시작했지만 결국에는 국가적인 사업으로 진행되어 완성하였어요.\n불국사와 석굴암은 삼국을 통일한 신라 사람들의 자신감과 불교문화가 잘 표현된 아름다운 문화유산이에요.\n불국사와 석굴암은 그러한 역사적ㆍ문화적 가치를 인정받아 1995년 유네스코 세계문화유산에 등재되었지요.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/b78b7b9cec2ddcfe/fig_029.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "부처님 나라로 건너가는 청운교·백운교",
+      "narration": "부처님 나라로 건너가는 청운교·백운교\n부처님 나라로 가기 위해서는 청운교·백운교라는 계단을 올라야 해요. 계단이지만 원래 그 밑으로 물이 흘렀기 때문에 다리라는 뜻의 ‘교’자를 붙였지요. 청운교와 백운교는 대웅전을 향하는 자하문과 연결된 다리를 말하는데, 다리 아래의 일반인의 세계와 다리 위로의 부처의 세계를 이어주는 상징적인 의미를 지니고 있어요.\n청운교와 백운교는 현세를 지나 불국으로 들어가는 다리인 것이지요. 계단을 올라 자하문을 지나면 부처님 나라에 들어서게 되는 거예요. ‘자하’란 붉은 안개라는 뜻으로, 부처님 몸에서 나오는 붉은 금색의 빛이 안개처럼 서려 있다는 뜻이에요.",
+      "est_speech_ms": 48200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "자하문과 청운교·백운교(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b78b7b9cec2ddcfe/fig_031.jpg",
+          "caption": "자하문과 청운교·백운교(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "석가모니 부처님을 모신 대웅전",
+      "narration": "석가모니 부처님을 모신 대웅전\n자하문을 들어서면 석가탑과 다보탑이 나란히 보이고, 그 뒤로 석가모니 부처님을 모신 대웅전이 있어요. 불상을 모신 법당과 탑은 불국사의 중심이 되는 곳으로 석축을 쌓고 그 위로 지었어요.\n대웅전 안수미단 위에는 석가모니 부처님과 양옆에 미륵보살과 갈라보살을 모셨어요. 부처님은 법당에 단독으로 모시기도 하고, 이렇게 보살상들을 양쪽에 함께 모시기도 해요.\n대웅전 앞 서쪽에 있는 석가탑(불국사 삼층석탑)이 소박하고 단정한 멋을 지녔다면, 동쪽에 있는 다보탑은 화려하고 세련된 멋을 지녔지요.",
+      "est_speech_ms": 43000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대웅전(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b78b7b9cec2ddcfe/fig_037.jpg",
+          "caption": "대웅전(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "진리의 세계를 나타낸 비로전",
+      "narration": "그런데 대개 절에는 탑이 하나만 있거나, 두 개일 때는 똑같은 모양으로 만들어 동쪽과 서쪽으로 세워서 각각 동탑과 서탑이라 부르는데, 석가탑과 다보탑은 탑 이름도 다르 생긴 모습도 달라요. 왜 그럴까요?\n이것은 탑을 세울 때 법화경이라는 불교 경전을 바탕으로 했기 때문이에요. 법화경에서는 현세의 부처를 ‘석가여래’라 하고 전생의 부처를 ‘다보여래’ 라고 해요. 그러니까 석가탑은 현세의 부처를, 다보탑은 전생의 부처를 각기 다른 느낌으로 표현한 것이지요.\n진리의 세계를 나타낸 비로전\n대웅전과 무설전 뒤에 위치한 비로전은 비로자나불을 모신 곳이에요.\n비로자나불은 모든 부처님의 본체예요. 진리를 우리 눈에 보이는 부처님의 모습으로 형상화한 거지요. 비로자나불은 이 빛으로 사람들에게 희망과 즐거움을 주는 역할을 해요.",
+      "est_speech_ms": 58600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "삼층 석탑과 다보탑(문화재청)",
+        "비로전(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b78b7b9cec2ddcfe/fig_047.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/b78b7b9cec2ddcfe/fig_048.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.25
+        },
+        {
+          "path": "assets/history/images/b78b7b9cec2ddcfe/fig_054.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 4,
+      "section_title": "인공적으로 만든 석굴 사찰, 석굴암",
+      "narration": "인공적으로 만든 석굴 사찰, 석굴암\n석굴암은 건축 방식 자체만으로도 아주 특별한 건축물이에요. 당시절은 대개 나무로 지었어요. 그런데 석굴암만은 돌을 쌓아서 지었지요.\n인도에서 불교가 전파되면서 중국과 우리나라에도 석굴 문화가 함께 전해졌어요. 인도와 중국에선 자연 그대로의 바위산을 파고 들어가 방을 만들고 돌을 깎아 불상을 만들었어요.\n하지만 석굴암은 다른 곳에서 수많은 돌을 가져다 차곡차곡 쌓아 돌집을 만들고 그 안쪽 면에 조각을 했지요.\n석굴암은 신라 사람들의 뛰어난 과학 지식을 보여 주는 건축물이에요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "인공적으로 만든 석굴 사찰, 석굴암",
+      "narration": "석굴암을 인공적으로 만들기 위해서는 과학적인 계산이 필요했어요. 둥근 돔 형태로 지붕을 만들되 쉽게 무너지지 않도록 정교하게 짜 맞추어야 했어요. 또 굴 내부에는 습기가 차지 않도록 차고 더운 공기의 흐름을 이용해 설계하였지요.\n본존불이 앉아 있는 방향에도 비밀이 숨어 있어요. 본존불은 해가 뜨는 약간 남쪽을 향한 동쪽을 바라보고 있어요.\n①석굴암 석굴 ②석굴암 본존불 ③문수보살과 제석천상 ④십일면관음보살상 ⑤십대제자상 (문화재청)\n이 방향은 밤의 길이가 가장 긴 동짓날에 해가 뜨는 각도와 맞아떨어진다고 해요.",
+      "est_speech_ms": 41600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "석굴암의 여러 조각상"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b78b7b9cec2ddcfe/fig_066.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/b78b7b9cec2ddcfe/fig_067.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.6
+        },
+        {
+          "path": "assets/history/images/b78b7b9cec2ddcfe/fig_068.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 5,
+      "section_title": "돌로 굴을 만들어 부처님을 모시다",
+      "narration": "돌로 굴을 만들어 부처님을 모시다\n석굴암 안에는 석가모니 불상이 있어요. 예배의 중심이 되는 부처를 본존불이라고 해요. 석굴암 입구인 네모난 모양의 전실을 지나면 절의 가 운데에 본존불이 자리한 둥근 모양의 주실을 만나요. 전실과 주실은 통로로 연결되어 있고, 전실은 주실에 있는 본존불에게 예배를 보는 공간이에요.\n석가모니가 깨달음을 얻은 순간을 표현한 석가모니 불상은 풍만한 몸체에 엄숙한 표정으로 중생을 내려다보고 있어요. 석굴암에서 가장 아름다운 모습으로 손꼽히고 있지요.\n석굴암에는 석굴 입구의 전실과 좁은 통로 양쪽 벽, 그리고 본존불을 중심으로 주실의 원형 벽면에 다양한 모습을 한 수많은 불상이 조각되어 있어요.",
+      "est_speech_ms": 51600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 5,
+      "section_title": "돌로 굴을 만들어 부처님을 모시다",
+      "narration": "석굴암에는 석굴 입구의 전실과 좁은 통로 양쪽 벽, 그리고 본존불을 중심으로 주실의 원형 벽면에 다양한 모습을 한 수많은 불상이 조각되어 있어요.\n원형의 주실 입구에는 좌우로 8각의 돌기둥을 세우고, 주실 중앙에 본존불이 놓여 있지요.\n주실의 벽면에는 입구에서부터 천부상, 보살상, 나한상들이 채워져 있고, 본존불 뒷면 둥근 벽에는 정교하게 조각된 십일면관음보살상과 십대제자 상이 조각되어 있어요.\n본존불을 비롯한 이 불상들은 동아시아 불교 조각 중에서도 매우 뛰어난 것 으로 손꼽히는 최고의 걸작품들이라는 평가를 받고 있어요.",
+      "est_speech_ms": 43400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 부모를 위해 불국사와 석굴암을 지은 김대성",
+      "narration": "역사 속 작은 이야기: 부모를 위해 불국사와 석굴암을 지은 김대성\n불국사와 석굴암의 창건에 대한 이야기는 삼국유사에 전해지고 있어요. 모량리라는 곳에 대성이란 소년이 홀어머니와 함께 살고 있었어요.\n남의 집에 품팔이를 해서 얻은 밭으로 근근이 살아가던 대성은 어느 날 법회에 시주를 하면 복을 만 배로 받는다는 이야기를 듣게 되었어요.\n대성은 내세에라도 복을 받아 잘 살자며 어머니를 설득해 가지고 있던 밭을 절에 바쳤어요.\n그리고 얼마 후 갑자기 죽고 말았지요.\n대성이 죽던 날 밤, 재상 김문량의 집에 하늘로부터 우렁찬 소리가 들려왔어요.",
+      "est_speech_ms": 43800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 부모를 위해 불국사와 석굴암을 지은 김대성",
+      "narration": "“모량리의 대성이를 너에게 주노라.”\n김문량의 부인은 그로부터 열 달 후 아들을 낳았어요. 아기가 왼쪽 손을 꼭 쥐고 있다가 7일 만에 펴서 보니 ‘대성’이라고 적힌 금패가 있었어요.\n김문량은 아이 이름을 대성이라 짓고 모량리의 어머니도 모셔다 같이 살았어요.\n어른이 된 김대성은 사냥을 좋아했어요. 그런데 하루는 자기가 사냥했던 곰이 꿈에 나타나 몹시 원망을 하는 것이었어요. 김대성은 곰에게 절을 지어 위로해 줄 것을 약속하고 용서를 빌었어요.\n이후 김대성은 불심이 깊어졌고, 현생의 부모를 위해 불국사를, 전생의 부모를 위해 석굴암을 지었다고 전해져요.",
+      "est_speech_ms": 44600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 부모를 위해 불국사와 석굴암을 지은 김대성",
+      "narration": "통일신라 사람들은 불국사와 석굴암을 통해 어떤 마음을 갖게 되었을까요? 여러분은 불국사와 석굴암을 공부하며 어떤 생각이 드나요?\n삼국을 통일하고 자신들이 꿈꾸던 부처님의 이상 세계가 바로 여기라는 신라 사람들의 자부심을 엿볼 수 있지요. 여러분도 신라 사람들처럼 우리나라 역사와 문화에 대한 뿌듯함을 느낄 수 있길 바라요.",
+      "est_speech_ms": 26800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "schema_version": 1,
+  "stage": 7,
+  "title": "The Lion and the Mouse",
+  "cards": [
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_lion_01",
+      "stage": 7,
+      "type": "reader",
+      "text": "A big lion sleeps under a tree.",
+      "tokens": [
+        "a",
+        "big",
+        "lion",
+        "sleeps",
+        "under",
+        "a",
+        "tree"
+      ],
+      "ko_gloss": "큰 사자가 나무 아래서 자요.",
+      "syllables": [
+        "a",
+        "big",
+        "lion",
+        "sleeps",
+        "under",
+        "a",
+        "tree"
+      ],
+      "first_sound": "a",
+      "image": "assets/funny_english/images/fe_aesop_lion_01.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_lion_01.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "a",
+        "big",
+        "lion",
+        "sleeps",
+        "under",
+        "a",
+        "tree"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "A big lion sleeps under a tree.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_lion_02",
+      "stage": 7,
+      "type": "reader",
+      "text": "A little mouse runs across his nose.",
+      "tokens": [
+        "a",
+        "little",
+        "mouse",
+        "runs",
+        "across",
+        "his",
+        "nose"
+      ],
+      "ko_gloss": "작은 쥐가 사자 코 위로 달려가요.",
+      "syllables": [
+        "a",
+        "little",
+        "mouse",
+        "runs",
+        "across",
+        "his",
+        "nose"
+      ],
+      "first_sound": "a",
+      "image": "assets/funny_english/images/fe_aesop_lion_02.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_lion_02.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "a",
+        "little",
+        "mouse",
+        "runs",
+        "across",
+        "his",
+        "nose"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "A little mouse runs across his nose.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_lion_03",
+      "stage": 7,
+      "type": "reader",
+      "text": "The lion wakes up and feels angry.",
+      "tokens": [
+        "the",
+        "lion",
+        "wakes",
+        "up",
+        "and",
+        "feels",
+        "angry"
+      ],
+      "ko_gloss": "사자가 깨어나서 화가 나요.",
+      "syllables": [
+        "the",
+        "lion",
+        "wakes",
+        "up",
+        "and",
+        "feels",
+        "angry"
+      ],
+      "first_sound": "t",
+      "image": "assets/funny_english/images/fe_aesop_lion_03.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_lion_03.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "the",
+        "lion",
+        "wakes",
+        "up",
+        "and",
+        "feels",
+        "angry"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "The lion wakes up and feels angry.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_lion_04",
+      "stage": 7,
+      "type": "reader",
+      "text": "\"Please let me go!\" cries the mouse.",
+      "tokens": [
+        "please",
+        "let",
+        "me",
+        "go",
+        "cries",
+        "the",
+        "mouse"
+      ],
+      "ko_gloss": "쥐가 \"제발 보내 주세요!\"라고 울어요.",
+      "syllables": [
+        "please",
+        "let",
+        "me",
+        "go",
+        "cries",
+        "the",
+        "mouse"
+      ],
+      "first_sound": "p",
+      "image": "assets/funny_english/images/fe_aesop_lion_04.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_lion_04.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "please",
+        "let",
+        "me",
+        "go",
+        "cries",
+        "the",
+        "mouse"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "\"Please let me go!\" cries the mouse.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_lion_05",
+      "stage": 7,
+      "type": "reader",
+      "text": "The kind lion lets the mouse go.",
+      "tokens": [
+        "the",
+        "kind",
+        "lion",
+        "lets",
+        "the",
+        "mouse",
+        "go"
+      ],
+      "ko_gloss": "착한 사자가 쥐를 보내 줘요.",
+      "syllables": [
+        "the",
+        "kind",
+        "lion",
+        "lets",
+        "the",
+        "mouse",
+        "go"
+      ],
+      "first_sound": "t",
+      "image": "assets/funny_english/images/fe_aesop_lion_05.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_lion_05.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "the",
+        "kind",
+        "lion",
+        "lets",
+        "the",
+        "mouse",
+        "go"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "The kind lion lets the mouse go.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_lion_06",
+      "stage": 7,
+      "type": "reader",
+      "text": "One day a net traps the lion.",
+      "tokens": [
+        "one",
+        "day",
+        "a",
+        "net",
+        "traps",
+        "the",
+        "lion"
+      ],
+      "ko_gloss": "어느 날 그물이 사자를 가둬요.",
+      "syllables": [
+        "one",
+        "day",
+        "a",
+        "net",
+        "traps",
+        "the",
+        "lion"
+      ],
+      "first_sound": "o",
+      "image": "assets/funny_english/images/fe_aesop_lion_06.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_lion_06.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "one",
+        "day",
+        "a",
+        "net",
+        "traps",
+        "the",
+        "lion"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "One day a net traps the lion.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_lion_07",
+      "stage": 7,
+      "type": "reader",
+      "text": "The little mouse bites the ropes away.",
+      "tokens": [
+        "the",
+        "little",
+        "mouse",
+        "bites",
+        "the",
+        "ropes",
+        "away"
+      ],
+      "ko_gloss": "작은 쥐가 밧줄을 물어 끊어요.",
+      "syllables": [
+        "the",
+        "little",
+        "mouse",
+        "bites",
+        "the",
+        "ropes",
+        "away"
+      ],
+      "first_sound": "t",
+      "image": "assets/funny_english/images/fe_aesop_lion_07.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_lion_07.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "the",
+        "little",
+        "mouse",
+        "bites",
+        "the",
+        "ropes",
+        "away"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "The little mouse bites the ropes away.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_lion_08",
+      "stage": 7,
+      "type": "reader",
+      "text": "Small friends can help big friends too.",
+      "tokens": [
+        "small",
+        "friends",
+        "can",
+        "help",
+        "big",
+        "friends",
+        "too"
+      ],
+      "ko_gloss": "작은 친구도 큰 친구를 도울 수 있어요.",
+      "syllables": [
+        "small",
+        "friends",
+        "can",
+        "help",
+        "big",
+        "friends",
+        "too"
+      ],
+      "first_sound": "s",
+      "image": "assets/funny_english/images/fe_aesop_lion_08.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_lion_08.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "small",
+        "friends",
+        "can",
+        "help",
+        "big",
+        "friends",
+        "too"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "Small friends can help big friends too.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    }
+  ]
+}

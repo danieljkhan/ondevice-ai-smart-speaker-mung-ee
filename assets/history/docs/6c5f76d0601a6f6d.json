@@ -1,0 +1,327 @@
+{
+  "schema_version": 2,
+  "doc_hash": "6c5f76d0601a6f6d",
+  "source_file": "eh_r0110_0010.pdf",
+  "title": "백제문화의 우수성과 대외 교류를 알려주는 무령왕릉",
+  "kind": "artifact",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 13,
+  "section_count": 6,
+  "image_count": 8,
+  "est_total_ms": 558898,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "무령왕릉(충남 공주시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "주인이 누구인지 알 수 있는 유일한 삼국 시대 고분",
+      "scene_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "image_captions": [
+        "무령왕 지석(국립공주박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        5
+      ],
+      "scene_seq": [
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "왕의 무덤을 지키는 동물이 있었어요",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "무령왕의 금제 관식과 무령왕비의 금제 관식(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "백제는 중국, 일본과 활발한 교류를 했어요",
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [
+        "무령왕비 금귀걸이와 은팔찌(문화재청)",
+        "백제와 교류한 양나라"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기 : 무령왕릉 발굴에 참여했던 사람들의 후회",
+      "scene_indices": [
+        10,
+        11,
+        12
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13
+      ],
+      "image_captions": [
+        "무령왕릉 나무관(국립공주박물관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "백제문화의 우수성과 대외 교류를 알려주는 무령왕릉\n“장마가 시작되면 5, 6호 고분에 물이 들어갈 수 있으니 주변의 흙을 파내 물길을 내야 될 것 같습니다.”\n“예 알겠습니다. 어! 그런데 여기에 또 다른 무덤의 입구가 있는 것 같아요.”\n1971년 7월, 백제 왕릉으로 추정되는 새로운 고분이 발견되었어요.\n이 고분의 주인공은 누구일까요?\n그리고 이곳에서 발견된 유물을 통해 백제의 어떤 모습을 알 수 있을까요?",
+      "est_speech_ms": 32199,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "무령왕릉(충남 공주시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6c5f76d0601a6f6d/fig_001.jpg",
+          "caption": "무령왕릉(충남 공주시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "주인이 누구인지 알 수 있는 유일한 삼국 시대 고분",
+      "narration": "주인이 누구인지 알 수 있는 유일한 삼국 시대 고분\n이 고분은 바로 무령왕릉으로 현재 충청남도 공주 송산리 고분군에 있는 7개의 고분 중 하나에요.\n일제강점기만 하더라도 공주 송산리 일대에는 백제의 왕 또는 귀족 무덤으로 보이는 고분이 30여 개나 있었다고 해요.\n공주의 옛 이름은 웅진으로 이 지역은 백제가 한성을 떠나 63년간 도읍으로 삼았던 곳이었거든요. 그런데 광복 후 무령왕릉이 발견되기 직전에는 6개의 고분만이 남아 있었어요.\n고분의 명칭도 1호~6호분으로 숫자로만 불렸어요. 고분의 유물이 일제강점기에 도굴되어 없었기 때문에 주인이 누구인지 알 수 없었거든요.",
+      "est_speech_ms": 47200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "주인이 누구인지 알 수 있는 유일한 삼국 시대 고분",
+      "narration": "그중 송산리 6호분은 무령왕릉의 발견과 관계가 있어요.\n이 고분을 처음 발견한 사람은 일제강점기 공주의 한 학교에서 교사로 근무하던 일본인이었어요.\n그는 1938년 송산리 6호분을 발견했다고 조선총독부에 알렸어요. 그러면서 유물이 전혀 없었다고 했지요.\n그런데 정말 고분 안에는 유물이 없었을까요?\n훗날 사람들이 6호분 내부를 자세히 조사해보니 빗자루로 뭔가를 쓸어낸 흔적이 있었다고 해요.\n송산리 6호분은 무령왕릉처럼 벽돌로 만들어졌고 동서남북 4면에 도교의 방위신인 사신도가 그려져 있었어요.\n무령왕릉이 발견되기 전까지 백제의 고분 중 유일한 벽돌무덤으로 인정받았어요.",
+      "est_speech_ms": 48600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "주인이 누구인지 알 수 있는 유일한 삼국 시대 고분",
+      "narration": "이런 고분에 물이 차면 큰일이겠죠.\n그래서 1971년 7월 장마에 대비해서 이 고분의 뒤편에 물길을 내는 작업을 하게 된 거예요.\n한참 작업을 하던 7월 5일, 흙을 퍼내던 삽에 ‘툭’하고 돌이 걸렸어요.",
+      "est_speech_ms": 15799,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "주인이 누구인지 알 수 있는 유일한 삼국 시대 고분",
+      "narration": "이상하게 여긴 사람들이 조심스럽게 흙을 파내자 무덤의 입구 같은 것이 보였어요. 무령왕릉이 비로소 세상에 드러난 것이죠.\n무령왕릉은 주변의 고분과 달리 다행히 도굴되지 않은 상태로 발견되었어요.\n무령왕릉은 삼국 시대에 만들어진 고분 중 유일하게 무덤의 주인을 알 수 있는 고분이에요.\n어떻게 알 수 있었을까요?\n무덤 입구에서 무령왕의 이름이 새겨진 네모반듯한 돌(지석)이 나왔거든요.\n지석에는 ‘영동대장군인 백제사마왕은 나이가 62세 되는 해 돌아가셨다.’라는 내용의 글이 새겨져 있어요.\n이 중에서 ‘사마왕’이 바로 무령왕이 살아있을 때 불리던 이름이에요.",
+      "est_speech_ms": 45400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "무령왕 지석(국립공주박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6c5f76d0601a6f6d/fig_029.jpg",
+          "caption": "무령왕 지석(국립공주박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "‘사마’는 일본어로 ‘섬(시마)’이라는 뜻이에요. 무령왕의 아버지와 어머니가 왕의 명을 받고 일본으로 가던 중 일본 규슈 북쪽의 한 섬에서 무령왕을 낳았기 때문에 붙여진 거지요.\n무령왕릉에서는 왕과 왕비의 금제관 장식을 포함해서 약 4,600여 점의 유물이 나왔어요.\n그중 12건 17점의 유물이 국보로 지정되었어요.\n자! 그럼 무령왕릉에 나온 대표적인 유물은 무엇이 있는지 살펴볼까요?",
+      "est_speech_ms": 31000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/6c5f76d0601a6f6d/fig_047.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "왕의 무덤을 지키는 동물이 있었어요",
+      "narration": "왕의 무덤을 지키는 동물이 있었어요\n1971년 7월 5일 고분이 처음 발견되고 3일 만인 7월 8일에 있었던 일이에요. 발굴단은 고분의 문을 열기 전에 먼저 제사를 지냈어요. 제사상에는 수박 한 덩어리와 북어 세 마리가 올려졌어요. 제사가 끝난 후 드디어 입구가 열렸어요.\n제일 먼저 국립공주박물관장을 하던 분이 고분 안으로 들어갔어요. 그런데 깜짝 놀랄만한 일이 벌어졌어요. 고분 입구에 돌로 만든 동물(석수)이 떡하니 버티고 있었던 것이에요.\n마치 이 고분은 아무나 함부로 들어올 수 없다는 듯이 말이죠. 그리고 한 가지 더 놀라운 사실은 고분에 처음 들어갔던 분이 며칠 전 꿈에서 멧돼지를 보았는데, 그 모습이 이 석수와 무척이나 비슷했다는 거예요.",
+      "est_speech_ms": 52400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "왕의 무덤을 지키는 동물이 있었어요",
+      "narration": "무령왕릉에서 나온 석수는 보통 진묘수라고도 불려요. 진묘수는 중국 신화에 나오는 상상의 동물이에요. 옛날 사람들은 진묘수를 무덤이나 궁궐 앞에 두면 나쁜 기운을 없애준다고 믿었어요.\n무령왕의 진묘수는 커다란 코에 뭉뚝한 입을 가지고 있어요.\n또 머리 위에는 철로 만든 뿔도 있는데 그 모습이 마치 닭벼슬처럼 보여요.\n무령왕릉에는 왕과 왕비가 함께 있어요.\n무령왕릉은 무령왕과 왕비가 함께 묻힌 무덤이에요. 그래서 무령왕의 유물 외에도 무령왕의 비가 사용하던 유물도 함께 발견되었어요. 대표적인 것으로 금으로 만든 관 장식(금제 관식)과 귀걸이, 은팔찌 등을 들 수 있어요.\n먼저 왕비의 금제 관식은 무령왕의 금제 관식처럼 각각 2개씩 발견되었어요. 하지만 왕의 금제 관식과 모습이 조금은 달라요.",
+      "est_speech_ms": 56400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "무령왕의 금제 관식과 무령왕비의 금제 관식(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6c5f76d0601a6f6d/fig_060.jpg",
+          "caption": "무령왕의 금제 관식과 무령왕비의 금제 관식(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "백제는 중국, 일본과 활발한 교류를 했어요",
+      "narration": "무령왕의 귀걸이는 무척이나 아름다워요. 귀걸이를 자세히 들여다보면 조그마한 금 알갱이들이 계속 이어져 있는 것을 볼 수 있어요. 한편 무령왕비의 은팔찌도 2개나 발굴되었어요.\n이 팔찌에는 발톱이 셋인 용이 두 마리나 새겨져 있어요. 이러한 유물들을 통해 백제인이 금속을 다루는 솜씨가 매우 수준 높았음을 알 수 있어요.\n금제 관장식을 쓰고 은팔찌와 금귀걸이를 찬 무령왕비는 어떤 모습이었을까요? 한번 상상해보세요.\n백제는 중국, 일본과 활발한 교류를 했어요\n무령왕은 백제의 제25대 왕이 되었어요. 백제가 웅진성(공주)으로 도읍을 옮긴 지 26년 후인 501년의 일이지요. 무령왕 이전에는 동성왕이 백제를 다스렸어요. 동성왕에 이어 왕이 된 무령왕은 왕권을 강화하기 위해 노력했어요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "무령왕비 금귀걸이와 은팔찌(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6c5f76d0601a6f6d/fig_064.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6c5f76d0601a6f6d/fig_065.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "백제는 중국, 일본과 활발한 교류를 했어요",
+      "narration": "이를 위해 지방에 있는 담로라는 행정 구역 22곳에 왕족을 파견하여 지방 세력을 통제했어요. 또 나라의 창고를 열어 백성들의 마음을 얻기 위해 노력했어요.\n나라의 정치가 어느 정도 안정되자 무령왕은 중국 남쪽 땅에 있었던 양나라에 사신을 보냈어요. 그러자 양나라의 왕은 무령왕에게 ‘영동대장군’이라는 작호를 주었어요. 두 나라 사이는 점점 더 가까워졌지요.\n무령왕의 무덤이 벽돌로 만들어졌다는 거 기억하지요?\n이러한 벽돌무덤이 중국 양나라의 무덤 양식이랍니다. 또 무령왕릉에서 발견된 오수전도 양나라의 동전이구요.\n한편, 무령왕릉에서는 일본과 관련이 있는 유물도 나왔어요.",
+      "est_speech_ms": 47200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "백제와 교류한 양나라"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6c5f76d0601a6f6d/fig_073.jpg",
+          "caption": "백제와 교류한 양나라",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기 : 무령왕릉 발굴에 참여했던 사람들의 후회",
+      "narration": "대표적인 것이 무령왕과 왕비의 나무 관이에요. 이 관을 만드는데 사용한 나무는 ‘금송’이라는 소나무인데 이는 일본에서 주로 자라는 것이라고 해요.\n역사 속 작은 이야기: 무령왕릉 발굴에 참여했던 사람들의 후회\n1971년에 이루어진 무령왕릉 발굴은 우리나라 고고학 역사상 최고의 사건이라고 해요. 그런데 정작 발굴에 참여했던 사람들은 자신들이 한 일을 후회하고 있어요. 왜 그럴까요? 너무나 짧은 시간에 1차 발굴을 끝냈기 때문이에요.\n공주 송산리 고분군에서 왕릉으로 추정되는 무덤이 발견되었다는 소식을 들은 기자들이 발굴 현장으로 모여들었어요. 그들은 서로 발굴 현장의 사진을 찍으려고 했어요.",
+      "est_speech_ms": 49000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "무령왕릉 나무관(국립공주박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6c5f76d0601a6f6d/fig_082.jpg",
+          "caption": "무령왕릉 나무관(국립공주박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기 : 무령왕릉 발굴에 참여했던 사람들의 후회",
+      "narration": "그 과정에서 누군가가 청동 숟가락을 밟아 부러뜨리기도 했어요. 여기에 소문을 들은 일반 시민들도 찾아와 발굴 현장은 아주 혼잡스러웠어요.\n“사람들이 많이 모여서 사고가 날 수도 있어요. 지금부터 무령왕릉의 유물을 발굴해야겠습니다.”\n김원룡을 단장으로 한 발굴단은 무령왕릉을 즉시 발굴하기로 결정했어요.\n그들은 무덤 안으로 들어가 첫 번째 유물인 청자를 꺼내기 시작한 후 하루 밤사이에 1차 발굴을 끝냈어요. 삼국 시대 고분 중 유일하게 무덤의 주인을 알 수 있는 무령왕릉은 이렇듯 너무나 성급하게 발굴이 이루어진 것이죠.",
+      "est_speech_ms": 42600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기 : 무령왕릉 발굴에 참여했던 사람들의 후회",
+      "narration": "무령왕은 백제 두 번째 도읍 웅진 시대를 이끌던 왕이에요. 지금 공주에 가더라도 무령왕릉의 내부를 직접 볼 수 없어요.\n하지만 무령왕릉이 있는 송산리 고분군에는 무령왕릉의 내부를 그대로 만 들어 놓은 전시관이 마련되어 있어요. 또 국립공주박물관에는 무령왕릉에 서 출토된 유물들이 전시되어 있어요. 두곳에 가면 무령왕릉에 대해 자세히 알 수 있답니다.",
+      "est_speech_ms": 28600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

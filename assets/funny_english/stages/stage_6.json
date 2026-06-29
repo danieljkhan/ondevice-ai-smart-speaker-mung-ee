@@ -1,0 +1,323 @@
+{
+  "schema_version": 1,
+  "stage": 6,
+  "title": "The Hare and the Tortoise",
+  "cards": [
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_hare_01",
+      "stage": 6,
+      "type": "reader",
+      "text": "The hare can run very fast.",
+      "tokens": [
+        "the",
+        "hare",
+        "can",
+        "run",
+        "very",
+        "fast"
+      ],
+      "ko_gloss": "토끼는 아주 빨리 달릴 수 있어요.",
+      "syllables": [
+        "the",
+        "hare",
+        "can",
+        "run",
+        "very",
+        "fast"
+      ],
+      "first_sound": "t",
+      "image": "assets/funny_english/images/fe_aesop_hare_01.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_hare_01.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "the",
+        "hare",
+        "can",
+        "run",
+        "very",
+        "fast"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "The hare can run very fast.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_hare_02",
+      "stage": 6,
+      "type": "reader",
+      "text": "The slow tortoise walks step by step.",
+      "tokens": [
+        "the",
+        "slow",
+        "tortoise",
+        "walks",
+        "step",
+        "by",
+        "step"
+      ],
+      "ko_gloss": "느린 거북이는 한 걸음씩 걸어요.",
+      "syllables": [
+        "the",
+        "slow",
+        "tortoise",
+        "walks",
+        "step",
+        "by",
+        "step"
+      ],
+      "first_sound": "t",
+      "image": "assets/funny_english/images/fe_aesop_hare_02.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_hare_02.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "the",
+        "slow",
+        "tortoise",
+        "walks",
+        "step",
+        "by",
+        "step"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "The slow tortoise walks step by step.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_hare_03",
+      "stage": 6,
+      "type": "reader",
+      "text": "\"Let's run a race!\" says the hare.",
+      "tokens": [
+        "let's",
+        "run",
+        "a",
+        "race",
+        "says",
+        "the",
+        "hare"
+      ],
+      "ko_gloss": "토끼가 \"달리기 시합하자!\"라고 말해요.",
+      "syllables": [
+        "let's",
+        "run",
+        "a",
+        "race",
+        "says",
+        "the",
+        "hare"
+      ],
+      "first_sound": "l",
+      "image": "assets/funny_english/images/fe_aesop_hare_03.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_hare_03.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "let's",
+        "run",
+        "a",
+        "race",
+        "says",
+        "the",
+        "hare"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "\"Let's run a race!\" says the hare.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_hare_04",
+      "stage": 6,
+      "type": "reader",
+      "text": "The hare runs far ahead and sleeps.",
+      "tokens": [
+        "the",
+        "hare",
+        "runs",
+        "far",
+        "ahead",
+        "and",
+        "sleeps"
+      ],
+      "ko_gloss": "토끼는 멀리 앞서가서 잠을 자요.",
+      "syllables": [
+        "the",
+        "hare",
+        "runs",
+        "far",
+        "ahead",
+        "and",
+        "sleeps"
+      ],
+      "first_sound": "t",
+      "image": "assets/funny_english/images/fe_aesop_hare_04.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_hare_04.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "the",
+        "hare",
+        "runs",
+        "far",
+        "ahead",
+        "and",
+        "sleeps"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "The hare runs far ahead and sleeps.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_hare_05",
+      "stage": 6,
+      "type": "reader",
+      "text": "The tortoise keeps going and never stops.",
+      "tokens": [
+        "the",
+        "tortoise",
+        "keeps",
+        "going",
+        "and",
+        "never",
+        "stops"
+      ],
+      "ko_gloss": "거북이는 멈추지 않고 계속 가요.",
+      "syllables": [
+        "the",
+        "tortoise",
+        "keeps",
+        "going",
+        "and",
+        "never",
+        "stops"
+      ],
+      "first_sound": "t",
+      "image": "assets/funny_english/images/fe_aesop_hare_05.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_hare_05.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "the",
+        "tortoise",
+        "keeps",
+        "going",
+        "and",
+        "never",
+        "stops"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "The tortoise keeps going and never stops.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_hare_06",
+      "stage": 6,
+      "type": "reader",
+      "text": "The little tortoise wins the big race!",
+      "tokens": [
+        "the",
+        "little",
+        "tortoise",
+        "wins",
+        "the",
+        "big",
+        "race"
+      ],
+      "ko_gloss": "작은 거북이가 큰 시합에서 이겨요!",
+      "syllables": [
+        "the",
+        "little",
+        "tortoise",
+        "wins",
+        "the",
+        "big",
+        "race"
+      ],
+      "first_sound": "t",
+      "image": "assets/funny_english/images/fe_aesop_hare_06.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_hare_06.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "the",
+        "little",
+        "tortoise",
+        "wins",
+        "the",
+        "big",
+        "race"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "The little tortoise wins the big race!",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_aesop_hare_07",
+      "stage": 6,
+      "type": "reader",
+      "text": "Slow and steady wins the race.",
+      "tokens": [
+        "slow",
+        "and",
+        "steady",
+        "wins",
+        "the",
+        "race"
+      ],
+      "ko_gloss": "느려도 꾸준하면 이겨요.",
+      "syllables": [
+        "slow",
+        "and",
+        "steady",
+        "wins",
+        "the",
+        "race"
+      ],
+      "first_sound": "s",
+      "image": "assets/funny_english/images/fe_aesop_hare_07.jpg",
+      "model_audio": "assets/funny_english/audio/fe_aesop_hare_07.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "slow",
+        "and",
+        "steady",
+        "wins",
+        "the",
+        "race"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English - Aesop story cards",
+        "title": "Slow and steady wins the race.",
+        "author": "Mungi project",
+        "notice": "Card text: original simplified adaptation of public-domain Aesop. Illustration: AI-generated (Nano Banana 2, 2026-06-17), Mungi project."
+      }
+    }
+  ]
+}

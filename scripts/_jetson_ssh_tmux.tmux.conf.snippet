@@ -1,0 +1,18 @@
+# Mungi auto-tmux configuration.
+# aggressive-resize: when multiple clients of different sizes attach, resize
+# the current window to the smallest attached client only, preventing
+# layouts from shrinking due to stale background clients.
+setw -g aggressive-resize on
+
+# Confirmation prompts guard long-running jobs from accidental kills.
+bind-key x confirm-before -p "kill-pane #P? (y/n)" kill-pane
+bind-key X confirm-before -p "kill-window #W? (y/n)" kill-window
+
+# Use C-a as the prefix instead of the default C-b.
+# Rationale: Windows PowerShell SSH client does not reliably forward
+# Ctrl+B to the remote tmux session (key is intermittently echoed as
+# `^B` instead of being captured by tmux). C-a (the classic GNU screen
+# prefix) has the lowest known conflict rate across Windows terminals.
+set -g prefix C-a
+unbind C-b
+bind C-a send-prefix

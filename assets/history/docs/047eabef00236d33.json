@@ -1,0 +1,286 @@
+{
+  "schema_version": 2,
+  "doc_hash": "047eabef00236d33",
+  "source_file": "eh_n0080_0010.pdf",
+  "title": "장수왕, 아리수를 건너다",
+  "kind": "people",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 11,
+  "section_count": 5,
+  "image_count": 7,
+  "est_total_ms": 465099,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "풍납토성(서울 송파구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "평양성으로 도읍을 옮기다",
+      "scene_indices": [
+        1
+      ],
+      "scene_seq": [
+        2
+      ],
+      "image_captions": [
+        "고구려의 여러 도읍"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "백제를 혼란에 빠뜨리다",
+      "scene_indices": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "백제왕이 선물한 일본 나라 쇼소인 바둑판(복제품), 한성백제박물관"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "백제 한성을 공격하다",
+      "scene_indices": [
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "풍납토성과 몽촌토성(한성백제박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "한강 유역을 차지하다",
+      "scene_indices": [
+        9,
+        10
+      ],
+      "scene_seq": [
+        10,
+        11
+      ],
+      "image_captions": [
+        "개로왕과 한성 백제 최후의 날(한성백제박물관)",
+        "장수왕의 남쪽 진출(충주 고구려비전시관)",
+        "장수왕의 남쪽 진출"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "장수왕, 아리수를 건너다\n“국내성은 너무 좁소. 도읍을 평양성으로 옮겼으면 하는데, 경들의 생각은 어떠하오?”\n“폐하! 도읍을 옮기는 것은 많은 국력이 낭비되고, 백성들에게 큰 부담을 주는 일이 옵니다. 불가합니다.”\n“고구려가 강성해진 이때 도읍을 옮겨 더욱 강한 고구려를 만들 것이오.”\n많은 신하들의 반대에도 불구하고 고구려는 왜 도읍을 평양성으로 옮겼을까요?\n평양성으로 도읍을 옮긴 왕은 누구일까요?",
+      "est_speech_ms": 32000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "풍납토성(서울 송파구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/047eabef00236d33/fig_001.jpg",
+          "caption": "풍납토성(서울 송파구)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "평양성으로 도읍을 옮기다",
+      "narration": "평양성으로 도읍을 옮기다\n사방으로 영토를 넓혔던 광개토 대왕을 이어 고구려의 왕이 된 장수왕은 즉위한지 15년째 되던 해에 나라의 운명을 건 결정을 하였어요. 수도를 북쪽의 국내성(집안)에서 남쪽의 평양으로 옮긴 것이지요(472년).\n내륙 깊숙이 높은 산으로 둘러싸여 있던 국내성은 방어에는 유리했지만 평야가 적고 다른 나라와 교류하기에도 불편했어요. 또 국내성에서는 귀족들의 힘이 세서 왕권을 크게 강화하기 어려웠어요.\n이전보다 더욱 강성해진 고구려는 큰 강과 평야가 있고, 교류하기에 편리하고 왕권을 강화하기에 좋은 새로운 도읍지가 필요했던 거지요.",
+      "est_speech_ms": 46000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "고구려의 여러 도읍"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/047eabef00236d33/fig_011.jpg",
+          "caption": "고구려의 여러 도읍",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 2,
+      "section_title": "백제를 혼란에 빠뜨리다",
+      "narration": "여러 귀족과 신하의 반대를 물리치고 평양으로 도읍을 옮긴 장수왕은 대륙의 여러 나라와 외교 관계를 맺으며 북방을 안정시켰어요. 그리고 남쪽으로 영토를 넓히고자 계획을 세우고 있었지요.\n백제를 혼란에 빠뜨리다\n고구려가 도읍을 평양으로 옮기고 남쪽으로 진출하려는 뜻을 세우자 위협을 느낀 백제와 신라 두 나라는 서로 동맹(나제동맹)을 강화해 고구려에 맞섰어요. 백제는 고구려를 공격하였고, 요충지의 방어를 강화했어요.\n나아가 백제는 고구려를 견제하고자 대륙의 강국인 북위에 사신을 보내 구원병을 요청했어요. 그러나 북위는 고구려와의 좋은 외교 관계를 맺고 있어서 백제의 요청을 거절하였어요.",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "백제를 혼란에 빠뜨리다",
+      "narration": "장수왕은 이를 알고 백제를 치기로 했어요. 그는 백제를 공격하기 전에 미리 백제를 혼란에 빠뜨리려는 계획을 세웠어요. 이때도림이라는 승려가 장수왕을 찾아와 스스로 첩자가 되겠다고 청했어요.",
+      "est_speech_ms": 15799,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "백제를 혼란에 빠뜨리다",
+      "narration": "“제가 어리석어서 아직 깨우침을 얻지 못하였지만 나라의 은혜에 보답하고자하옵니다. 대왕께서 저를 백제의 첩자로 보내주신다면 왕을 욕되게 하지 않겠습니다.”\n도림은 거짓으로 죄를 짓고 백제로 도망을 갔어요. 도림은 장기와 바둑을 매우 좋아하던 백제 개로왕을 찾아갔어요.\n“제가 어려서부터 바둑을 배워 높은 실력을 갖고 있습니다. 제가 왕의 곁에서 바둑의 참 재미를 아실 수 있도록 가르쳐 드리겠습니다.”\n개로왕이 도림과 직접 바둑을 둬 보니 과연 바둑 실력이 뛰어난 고수였어요. 개로왕은 도림을 귀한 손님으로 대우하였고, 두 사람은 매우 친해졌어요.",
+      "est_speech_ms": 44400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "백제를 혼란에 빠뜨리다",
+      "narration": "그러던 어느 날 도림이 개로왕에게 조용히 말했지요.\n“제가 다른 나라 사람인데도 불구하고 왕께서 많은 은혜를 베풀어 주셔서 너무 감사합니다. 그런데 저는 다만 바둑 두는 것 외에 아직 털끝만한 도움도 드린 적이 없습니다. 이제 한 말씀 올려 왕께 도움이 되고자합니다.”\n“그래 말해보시오. 만일 나라에 이롭다면 내가 바라는 바요.”\n“백제는 사방이 산과 바다와 강으로 둘러싸여 있어 이웃 나라들이 쉽게 공격할 생각을 못하고 오히려 백제를 받들어 섬기기를 원하고 있습니다. 그런데 지금 백제의 성곽과 궁궐은 수리할 데가 많고 선왕들의 무덤은 볼품없습니다. 왕께서 백제가 번성하다는 것을 사방에 보여주면 이웃나라가 모두 백제를 두려워하고 받들고자할 것입니다.”",
+      "est_speech_ms": 52800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "백제왕이 선물한 일본 나라 쇼소인 바둑판(복제품), 한성백제박물관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/047eabef00236d33/fig_032.jpg",
+          "caption": "백제왕이 선물한 일본 나라 쇼소인 바둑판(복제품), 한성백제박물관",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "백제 한성을 공격하다",
+      "narration": "“좋은 생각이오! 내가 그렇게 하겠소.”\n백제 한성을 공격하다\n개로왕은 도림의 말에 무릎을 치며 기뻐하였어요. 개로왕은 도림의 말에 따라 수많은 백성들을 동원하여 큰 공사를 벌였어요. 흙을 다져성을 고쳐쌓고, 화려한 궁궐과 누각을 지었어요.",
+      "est_speech_ms": 19200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "백제 한성을 공격하다",
+      "narration": "또한 큰 돌을 가져다 아버지 비류왕의 무덤을 크게 만들고, 강을 따라 길고 커다란 둑을 쌓았어요. 이로 인해 나라 곳간이 바닥나고 백성들은 가난해졌어요. 게다가 귀족들을 무시하고 왕족 중심으로 정치를 해 귀족들의 불만이 높았어요. 백제 나라 전체가 위태롭게 된 것이지요.\n이때도림은 도망쳐 다시 고구려로 돌아가 장수왕에게 보고했어요. 장수왕은 매우 기뻐하며 군사 3만 명을 이끌고 백제를 공격하기 위해 출발했어요. 이 소식을 전해들은 개로왕은 도림에게 속았음을 깨닫고 태자에게 말했어요.\n“내가 어리석고 총명하지 못하여, 간사한 사람의 말을 믿어 나라가 이 꼴이 되었구나. 백성은 가난해지고 군대는 약해졌으니, 비록 위급한 일을 당해도 누가 기꺼이 나를 위하여 힘써 싸우려하겠는가? 그러나 나라를 위해 죽는 것은 군주의 본분이다. 나는 끝까지 싸울 것이다.”",
+      "est_speech_ms": 61400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "백제 한성을 공격하다",
+      "narration": "“아바마마! 저도 남아 함께 싸울 수 있게 허락해 주소서!”\n“나는 당연히 나라를 위해 죽어야 마땅하지만, 네가 여기에서 함께 죽는 것은 아무 소용이 없다. 너는 피신하여 반드시 왕통을 잇고 백제를 보존해야 할 것이다. 알겠느냐!”\n태자는 어쩔 수 없이 신하들을 데리고 남쪽으로 떠났어요.\n고구려군은 네 방향으로 나눠 백제의 수도 한성을 포위하였어요. 개로왕은 성문을 굳게 닫고 지켰지만 고구려군의 계속된 공격에 북성(풍납토성)이 7일 만에 함락되었어요.\n고구려군이 다시 남성(몽촌토성)으로 옮겨 공격하자 개로왕 역시 허둥지둥 어찌할 바를 몰랐죠. 결국 개로왕은 성문을 빠져나가 도망쳤어요. 그러나 고구려군은 도망가는 백제군을 끈질기게 추격하였고, 결국 개로왕은 붙잡히고 말았어요.",
+      "est_speech_ms": 54800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "풍납토성과 몽촌토성(한성백제박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/047eabef00236d33/fig_046.jpg",
+          "caption": "풍납토성과 몽촌토성(한성백제박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "한강 유역을 차지하다",
+      "narration": "한강 유역을 차지하다\n개로왕을 붙잡은 고구려군에는 재증걸루라는 백제 출신 장수가 있었어요. 재증걸루는 개로왕을 보고 말에서 내려 절을 하고, 왕의 얼굴을 향해 세 번 침을 뱉고 죄를 꾸짖은 다음 몸을 묶어 아차성 밑으로 보내 죽였어요.\n신라 구원군을 이끌고 오던 태자는 개로왕이 죽었다는 소식을 듣고 웅진(공주)로 수도를 옮기고 말았어요. 이제한성을 중심으로 한 한강 주변의 땅은 고구려의 것이 되었지요.\n한성을 차지한 고구려군은 백제가 약해진 틈을 노려 남한강을 따라 계속 세력을 넓혀갔어요. 그 결과 한반도 중부 지역까지 모두 고구려의 땅이 되었지요.",
+      "est_speech_ms": 45000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "개로왕과 한성 백제 최후의 날(한성백제박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/047eabef00236d33/fig_054.jpg",
+          "caption": "개로왕과 한성 백제 최후의 날(한성백제박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "한강 유역을 차지하다",
+      "narration": "충주에 고구려비가 있는 것도 장수왕 때 이곳까지 영토를 넓혔기 때문이지요.\n장수왕은 아버지 광개토 대왕의 업적을 이어 정복 전쟁을 해 나갔어요.\n고구려 북쪽 지역뿐 아니라 남쪽 지역으로도 진출해 고구려의 영토는 역사상 가장 넓어졌어요. 물론 그의 뛰어난 외교술과 전략이 없었으면 이룰 수 없는 일이었지요. 이에 장수왕은 고구려의 전성기를 이끈 왕이 되었어요.\n여러분은 북쪽으로 세력을 넓힌 광개토 대왕과 남쪽으로 진출한 장수왕 중 누가 더 뛰어난 활약을 하였다고 생각하나요?",
+      "est_speech_ms": 39000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "장수왕의 남쪽 진출(충주 고구려비전시관)",
+        "장수왕의 남쪽 진출"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/047eabef00236d33/fig_061.jpg",
+          "caption": "장수왕의 남쪽 진출(충주 고구려비전시관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/047eabef00236d33/fig_069.jpg",
+          "caption": "장수왕의 남쪽 진출",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    }
+  ]
+}

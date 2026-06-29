@@ -1,0 +1,365 @@
+{
+  "schema_version": 2,
+  "doc_hash": "6a4bafcff86101ab",
+  "source_file": "eh_r0030_0010.pdf",
+  "title": "구석기인의 생활 모습을 알려주는 연천 전곡리 유적",
+  "kind": "artifact",
+  "era": "선사",
+  "era_source": "keyword",
+  "scene_count": 12,
+  "section_count": 4,
+  "image_count": 15,
+  "est_total_ms": 449200,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "뗀석기를 사용했던 구석기인들",
+      "scene_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "연천 전곡리 선사유적지(경기 연천군)",
+        "주먹도끼를 사용하는 모습(전곡선사박물관)",
+        "주먹도끼(국립중앙박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "image_captions": [
+        "다양한 종류의 뗀석기(전곡선사박물관)",
+        "뗀석기(국립중앙박물관)",
+        "슴베찌르개(국립중앙박물관)",
+        "밀개(왼쪽)와 긁개(오른쪽), 국립중앙박물관"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [
+        "충북 제천 점말 동굴과 충북 단양 금굴(문화재청)",
+        "충남 공주 석장리 막집(석장리박물관)",
+        "매머드 뼈집(전곡선사박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "역사 속 작은 이야기: 구석기인의 예술 활동",
+      "scene_indices": [
+        10,
+        11
+      ],
+      "scene_seq": [
+        11,
+        12
+      ],
+      "image_captions": [
+        "물고기 모양 조각(수양개선사유물전시관)",
+        "동굴에서 생활하는 구석기인의 생활 모습"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "뗀석기를 사용했던 구석기인들",
+      "narration": "구석기인의 생활 모습을 알려주는 연천 전곡리 유적\n“여기 좀 와서 보세요. 특이하게 생긴 돌이 있어요.”\n“이 돌은 구석기인들이 사용하던 것 같군요. 대학교수님께 자료를 보내 알아보아야겠어요.”\n1978년 동두천에 주둔하고 있던 한 미국군인이 연천 전곡리에서 데이트를 하다 뗀석기를 발견했어요. 미국 군인이 발견한 이 도구는 무엇일까요? 이외에 도 우리나라에서 발견된 구석기 시대의 도구는 어떤 것들이 있을까요?\n뗀석기를 사용했던 구석기인들\n미국 군인이 발견한 도구는 주먹도끼였어요. 주먹도끼는 흔히 한쪽 끝이 뾰족하고 반대쪽은 손으로 쥐고 사용할 수 있도록 뭉툭하게 만들어졌어요. 나무를 베거나 짐승의 가죽을 벗기는 등 여러 가지 용도로 사용할 수 있는 도구였지요.",
+      "est_speech_ms": 54600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "연천 전곡리 선사유적지(경기 연천군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_001.jpg",
+          "caption": "연천 전곡리 선사유적지(경기 연천군)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "뗀석기를 사용했던 구석기인들",
+      "narration": "사용하는 모습을 상상해 보면 다음과 같아요.\n연천 전곡리 유적에서 주먹도끼가 발견된 것은 아주 중요한 의미가 있어요.",
+      "est_speech_ms": 9600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "뗀석기를 사용했던 구석기인들",
+      "narration": "이 유물이 발견되기 전까지 미국의 한 고고학자는 우리나라를 비롯한 동아시아의 구석기 문화 수준이 유럽이나 아프리카에 비해 발달하지 못했다고 주장했어요.\n이 지역은 주먹도끼처럼 발달된 도구가 발견되지 않고 찍개라는 도구를 주로 사용했기 때문이라는 거죠. 그런데 전곡리에서 주먹도끼가 발견되면서 그의 주장이 잘못되었다는 것이 증명되었죠.\n주먹도끼는 전곡리 이후에도 우리나라와 중국에서 계속 발견되었답니다.\n주먹도끼를 만든 구석기인들은 어떤 사람이었을까요?\n곧선사람들이라고 해요. 곧선사람들은 최초의 인류가 주로 아프리카에서 살던 것과 달리 유럽과 아시아로 생활 범위를 넓혔어요.",
+      "est_speech_ms": 49400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "주먹도끼를 사용하는 모습(전곡선사박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_013.jpg",
+          "caption": "주먹도끼를 사용하는 모습(전곡선사박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 0,
+      "section_title": "뗀석기를 사용했던 구석기인들",
+      "narration": "불을 다룰 줄 알았기 때문이지요.\n주먹도끼는 곧선사람들이 살던 곳에서 주로 발견된답니다.\n주먹도끼는 구석기인들이 사용한 다른 도구처럼 돌을 떼어내서 만들어요.\n그런데 다른 뗀석기와 다른 점이 있어요. 일정한 모양으로 계속해서 만들어 냈다는 것이죠.\n마치 오늘날 공장에서 똑같은 물건을 계속 만들어내듯 말이에요. 이를 통해 구석기인들의 도구 제작 기술을 엿볼 수 있어요.",
+      "est_speech_ms": 30400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "주먹도끼(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_022.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_032.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "구석기 시대 사람들은 돌을 어떻게 다듬어 사용했을까?\n구석기 시대 사용한 뗀석기는 한 가지 종류만 있는 것이 아니에요. 용도에 따라 다양한 종류의 뗀석기가 만들어졌어요. 여러분은 사진에 있는 다양한 종류의 석기들이 어떤 용도로 사용되었는지 짐작할 수 있나요?\n고고학자들은 뗀석기의 용도를 추정하여 긁개, 지르개, 홈날 등의 이름을 붙였답니다. 전곡리 유적지에서도 주먹도끼 외에 이런 다양한 종류의 뗀석기가 발견되었어요.\n사진 속의 뗀석기는 무엇일까요?\n얼핏 보면 우리가 앞에서 본 주먹도끼와도 비슷한 것 같은데요. 이 뗀석기는 찍개라고 불러요. 찍개는 구석기인들이 가장 먼저 사용한 도구로 돌의 한쪽을 다른 돌로 쳐서 만들었다고 해요. 고고학자들은 구석기인이 찍개로 나무를 자르거나 사냥을 했을 것으로 생각하고 있답니다.",
+      "est_speech_ms": 59400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "다양한 종류의 뗀석기(전곡선사박물관)",
+        "뗀석기(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_037.jpg",
+          "caption": "다양한 종류의 뗀석기(전곡선사박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_040.jpg",
+          "caption": "뗀석기(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "아래 사진에 있는 뗀석기는 슴베찌르개라고 해요.\n슴베라는 단어가 조금은 어렵죠? 국어사전을 찾아보면 슴베는 ‘호미, 칼, 괭이 등이 자루에 들어박히는 뾰족하고 긴 부분’이라고 되어 있어요.",
+      "est_speech_ms": 15000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "사진 속 뗀석기의 어느 부분인지 짐작할 수 있죠?\n슴베찌르개는 창끝이나 화살 끝에 꽂아 사용한 도구라고 해요. 찍개보다 훨씬 후에 만들어 사용했지요.\n왼쪽 사진과 오른쪽 사진에 있는 뗀석기를 구분할 수 있나요?\n우리는 구분하기 어려운 뗀석기를 고고학자들은 용도에 따라 다른 이름을 붙였어요. 왼쪽 뗀석기는 밀개, 오른쪽 뗀석기를 긁개라고 해요.\n두 도구는 모두 음식을 만들어 먹을 때 사용했을 것으로 생각되어요.\n구석기인들은 처음에는 찍개와 주먹도끼를 만들어 사용했어요.\n그러다가 뗀석기 만드는 방법이 좀 더 정교해져 몸돌에서 날카롭고 조그마한 조각을 떼어내 밀개, 긁개 등을 만들어 사용했어요.",
+      "est_speech_ms": 48600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "슴베찌르개(국립중앙박물관)",
+        "밀개(왼쪽)와 긁개(오른쪽), 국립중앙박물관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_050.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_052.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.25
+        },
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_053.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "뗀석기를 만들던 사람들은 점차 시간이 흐르면서 돌을 떼어내기만 하는 것이 아니라 갈아서도 도구를 만들기 시작했어요.\n이렇게 간석기를 만들어 사용하는 시기를 신석기 시대라고 하지요.\n구석기 시대가 한참 흐른 뒤에 인류는 신석기 시대를 맞이하게 된답니다.\n구석기인들은 어디서 살았을까?\n뗀석기를 사용한 구석기 시대 사람들은 어떻게 살았을까요?\n구석기인들은 우리처럼 농사지어 식량을 마련하지 못했어요.",
+      "est_speech_ms": 33400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "주로 나무 열매를 따서 먹거나 땅에서 캐거나 사냥을 해서 먹을 것을 마련했어요. 그러다 보니 주변에서 먹을 것을 구할 수 없게 되면 새로운 곳으로 옮겨가 사는 이동 생활을 해야 했어요.\n이곳저곳으로 옮겨 다니며 살다 보니 이동한 곳에 자연 동굴이 있다면 그곳에서 지냈어요.\n만약 동굴을 발견하지 못하면 어떻게 했을까요?\n고깔 모양으로 생긴 막집에서 살았어요.막집은 신석기 시대에 지어진 움집과 달리 평평한 땅에 지었다고 해요.\n집을 지을 때는 사냥해서 생긴 짐승의 가죽이나 나뭇가지를 이용했구요. 구석기인들이 사용했던 막집터에서는 불을 땐 자리와 기둥자리, 담을 만든 자리 등이 발견되었어요. 크기가 작은 것은 3~4명 정도가 살 수 있었고, 큰 것은 10명 정도가 살 수 있었다고 해요.",
+      "est_speech_ms": 55200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "충북 제천 점말 동굴과 충북 단양 금굴(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_071.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_072.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "한편, 우크라이나에 있는 구석기 유적지에서는 사냥으로 잡은 매머드의 아래턱뼈와 어금니를 이용하여 집을 만들기도 했어요.\n이런 집을 만들기 위해서 거의 100마리의 매머드가 필요했다고 해요.",
+      "est_speech_ms": 16000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "충남 공주 석장리 막집(석장리박물관)",
+        "매머드 뼈집(전곡선사박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_080.jpg",
+          "caption": "충남 공주 석장리 막집(석장리박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_082.jpg",
+          "caption": "매머드 뼈집(전곡선사박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": "역사 속 작은 이야기: 구석기인의 예술 활동",
+      "narration": "역사 속 작은 이야기: 구석기인의 예술 활동\n이 유물은 뭘까요? 왼쪽의 둥근 부분은 머리고 오른쪽은 꼬리로 물고기를 표현한 것 같아요.\n이 유물은 충북 단양 수양개 유적에서 발견된 것으로 젖소의 다리뼈에 새겨진 것이라고 해요. 구석기인들이 남긴 예술 작품이라 할 수 있죠.\n하루하루 먹을 것을 구하는 것이 큰 고민이었을 구석기인들도 예술 활동을 했다는 것이 신기하지요. 물고기가 새겨진 다른 조각품을 볼까요?\n구석기인들의 예술 작품은 다른 나라에서도 발견되었어요.\n대표적인 것이 프랑스의 라스코에서 발견된 동굴 벽화에요. 이 동굴에는 사슴과 말, 황소 등이 그려져 있어요. 역사학자들은 사냥감이 풍성하기를 바라는 구석기인들의 바람이 여기에 담겨 있다고 이야기해요.",
+      "est_speech_ms": 54200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "물고기 모양 조각(수양개선사유물전시관)",
+        "동굴에서 생활하는 구석기인의 생활 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_087.jpg",
+          "caption": "물고기 모양 조각(수양개선사유물전시관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6a4bafcff86101ab/fig_092.jpg",
+          "caption": "동굴에서 생활하는 구석기인의 생활 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 3,
+      "section_title": "역사 속 작은 이야기: 구석기인의 예술 활동",
+      "narration": "구석기 시대는 인류의 역사 중 가장 오랜 시기이에요. 구석기인이 사용한 뗀석기는 문자가 없던 시대 그들의 삶을 알려주는 귀중한 유물이지요.\n배운 내용을 바탕으로 구석기인의 생활 모습이 어떠했을지 상상해 보아요.",
+      "est_speech_ms": 17400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

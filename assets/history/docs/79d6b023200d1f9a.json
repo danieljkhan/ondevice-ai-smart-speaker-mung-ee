@@ -1,0 +1,314 @@
+{
+  "schema_version": 2,
+  "doc_hash": "79d6b023200d1f9a",
+  "source_file": "eh_r0005_0010.pdf",
+  "title": "우리 역사 속 최초의 국가, 고조선",
+  "kind": "artifact",
+  "era": "고조선",
+  "era_source": "keyword",
+  "scene_count": 12,
+  "section_count": 6,
+  "image_count": 9,
+  "est_total_ms": 548800,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "우리 역사 속 최초의 국가, 고조선",
+      "scene_indices": [
+        0,
+        1,
+        2
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3
+      ],
+      "image_captions": [
+        "삼국유사(국가유산청)",
+        "로암리 고인돌(국립문화유산연구원)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "중국 연나라와 어깨를 나란히 하다",
+      "scene_indices": [
+        3,
+        4
+      ],
+      "scene_seq": [
+        4,
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "위만이 고조선의 왕이 되다",
+      "scene_indices": [
+        5
+      ],
+      "scene_seq": [
+        6
+      ],
+      "image_captions": [
+        "고조선의 문화 범위"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "8조법으로 사회 질서를 유지하다",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "한나라의 공격을 받아 멸망하다",
+      "scene_indices": [
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "고조선과 한의 전쟁"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": null,
+      "scene_indices": [
+        11
+      ],
+      "scene_seq": [
+        12
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "우리 역사 속 최초의 국가, 고조선",
+      "narration": "우리 역사 속 최초의 국가, 고조선\n“남의 물건을 도둑질한 저자를 어찌한다?”\n“8조법에 따라 엄히 다스려야 합니다.”\n죄를 지었을 때 8조법에 따라 죄인을 벌하고 사회 질서를 유지했던 이 나 라는 우리 역사 속 최초의 국가인 고조선이에요. 고조선에 관한 이야기는 삼국유사와 중국의 사기, 한서와 같은 역사책에 기록되어 있어요.\n고조선은 어떻게 세워지고 발전했을까요? 사회 모습은 어떠했을까요?\n고조선이 세워지다\n청동기 시대에는 농업 생산력이 늘어나면서 먹고 남은 생산물을 개인이 가질 수 있게 되었어요. 그러면서 가난한 자와 부자로 계급이 나누어졌지요. 마을도 점점 커졌고, 족장이 자기 부족을 다스렸어요.",
+      "est_speech_ms": 48800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "삼국유사(국가유산청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/79d6b023200d1f9a/fig_001.jpg",
+          "caption": "삼국유사(국가유산청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "우리 역사 속 최초의 국가, 고조선",
+      "narration": "강력한 군사력을 가진 부족은 다른 부족을 정복하거나 통합해 세력을 키우고 땅을 넓혔어요. 넓어진 땅과 늘어난 부족민을 다스리기 위해 통치자와 조직이 필요했어요. 그래서 국가가 세워졌어요.\n우리 역사상 최초의 국가는 고조선이에요. 원래는 조선이었는데 후대 이성계가 세운 조선과 구분하기 위해 옛 ‘고(古)’자를 붙여 고조선이라고 했어요.\n삼국유사에 기록된 단군의 건국 이야기에 따르면 환인(하느님)의 아들인 환웅이 인간 세상을 다스리고자했어요. 환인이 인간 세상을 내려다보니 널리 이롭게 할 만했어요(홍익인간).",
+      "est_speech_ms": 41800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "로암리 고인돌(국립문화유산연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/79d6b023200d1f9a/fig_013.jpg",
+          "caption": "로암리 고인돌(국립문화유산연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "우리 역사 속 최초의 국가, 고조선",
+      "narration": "그래서 환웅을 내려보내 그곳을 다스리게 했지요. 땅으로 내려온 환웅은 곰을 숭배하는 부족의 웅녀와 혼인해 단군왕검을 낳았대요. 성장한 단군왕검은 아사달(평양)에 도읍을 정하고 고조선을 세웠어요. 이때가 기원전 2,333년 즈음이라고 해요. 단군왕검은 이후 1,500여 년 동안 나라를 다스렸다고 합니다.\n이 이야기를 통해 고조선 사람들이 자신을 하늘과 연결된 특별한 존재로 생각했음을 알 수 있어요. 하늘과 땅을 아우르며 인간 세상을 널리 이롭게 하려고 했다는 것도요.\n환웅은 인간 세상으로 내려올 때 바람, 비, 구름을 다스리는 신하를 데리고 왔어요. 이를 통해 당시 사람들이 농사를 중요시했음을 알 수 있어요.",
+      "est_speech_ms": 49600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "중국 연나라와 어깨를 나란히 하다",
+      "narration": "그런데 고조선을 건국한 단군왕검이 무려 1,500여 년이나 살았을까요? 단군왕검은 특정한 사람을 의미하는 게 아니에요. 당시 지배자를 부르는 말이었지요.\n‘단군’은 하늘에 제사를 지내는 제사장, ‘왕검’은 백성을 다스리는 우두머리를 뜻해요. 단군왕검은 정치적인 지배자인 동시에 종교적 지도자 역할도 함께 맡았어요.\n중국 연나라와 어깨를 나란히 하다\n고조선은 정치적, 경제적으로 발전하며 요동 지역과 한반도 중부 지역으로 세력을 넓혀나갔어요. 바닷길을 통해서는 특산물인 짐승의 가죽이나 털옷 등을 이웃 지역에 팔며 교역을 했어요.",
+      "est_speech_ms": 43400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/79d6b023200d1f9a/fig_024.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "중국 연나라와 어깨를 나란히 하다",
+      "narration": "고조선의 독자적인 청동기 문화를 대표하는 비파형동검과 탁자식 고인돌이 분포하고 있는 곳을 살펴보면 고조선이 어느 지역까지 영향을 끼쳤는지 짐작할 수 있어요.\n기원전 4세기경 고조선은 중국에서 철기 문화를 받아들였어요. 당시 중국은 여러 나라가 등장해 싸우는 혼란한 시기였어요. 전쟁을 피해 많은 사람들이 고조선으로 피난 왔는데, 이들에 의해 철기 문화가 전해졌어요.\n철기 문화를 받아들이면서 고조선은 더욱 발전했어요. 농업 생산량이 늘어나고 군사력도 강해졌어요. 왕이라는 호칭을 사용했으며, 관리를 두고 통치 체제를 정비해 나갔어요. 한때 중국의 연나라와 어깨를 나란히 할 정도로 강성했어요. 하지만 연의 침공을 받아 서쪽 요동 지역 땅을 잃고 말았어요.",
+      "est_speech_ms": 54200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "위만이 고조선의 왕이 되다",
+      "narration": "위만이 고조선의 왕이 되다\n중국을 처음으로 통일한 진나라가 멸망하고 한나라가 들어섰어요. 기원전 2세기경 위만이라는 사람이 무리를 거느리고 고조선으로 넘어왔어요. 고조선의 준왕은 그를 믿고 국경 지역을 방어하는 역할을 맡겼지요. 하지만 위만은 세력을 모으고 군사력을 키워 준왕을 몰아내고 왕의 자리까지 차지했어요(기원전 194).\n왕위에 오른 위만은 한나라와 친하게 지냈어요. 한나라로부터 발달한 철기 문화를 적극적으로 받아들이고 활발하게 교역하면서 더욱 성장했어요. 또한나라와 한반도 중남부 지역의 여러 나라들을 연결하는 중계 무역으로 큰 이익을 얻어 부강해졌어요.",
+      "est_speech_ms": 48000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "고조선의 문화 범위"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/79d6b023200d1f9a/fig_035.jpg",
+          "caption": "고조선의 문화 범위",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "8조법으로 사회 질서를 유지하다",
+      "narration": "8조법으로 사회 질서를 유지하다\n고조선에서 나라의 일을 결정할 때에는 왕과 족장들이 모여 의논했던 것으로 추측돼요. 사회 질서를 유지하려고 법률도 만들었어요. 8개 조항의 법이라 ‘8조법’이라고 하지요. 우리 역사상 최초의 법이라고 볼 수 있는데, 무척 엄격했어요.",
+      "est_speech_ms": 21600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "8조법으로 사회 질서를 유지하다",
+      "narration": "지금은 8개 조항 중 3개 조항만 전해요. 그 조항을 살펴볼까요? 첫 번째 조항은 ‘사람을 죽인 자는 사형에 처한다.’는 내용이에요. 살인을 한 자에게 엄격한 형벌을 내렸음을 알 수 있어요. 두 번째 조항은 ‘다른 사람을 다치게 하면 곡물로 갚는다.’는 내용이지요. 사람의 신체를 귀하게 여겼음을 알 수 있어요.\n세 번째 조항은 ‘남의 물건을 훔친 자는 노비로 삼는데, 노비가 되지 않으려면 1인당 50만 전을 내야 한다.’는 내용이지요. 개인의 재산을 보호했으며, 노비가 있는 신분제 사회였음을 알 수 있어요. 또 화폐를 사용했던 것 같아요. 도둑질한 사람을 부끄럽게 여겨 용서를 받아도 혼인할 상대를 구할 수 없었다는 내용도 전해요.",
+      "est_speech_ms": 49000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/79d6b023200d1f9a/fig_045.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/79d6b023200d1f9a/fig_046.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/79d6b023200d1f9a/fig_047.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "한나라의 공격을 받아 멸망하다",
+      "narration": "한나라의 공격을 받아 멸망하다\n중계 무역을 통해 부강해진 고조선은 주변 나라들이 한나라와 직접 교류하는 것을 가로막고 이익을 독점하였어요. 게다가 지금의 몽골 초원 지역에 자리한 흉노와 손을 잡으려고 했어요.\n위협을 느낀 한나라는 이를 두고 볼 수 없었지요. 고조선을 구슬려 흉노와의 관계를 끊어놓으려고 했어요. 한나라는 고조선에 사신을 보내 이런 뜻을 전했어요. 하지만 고조선은 이를 받아들이지 않았고, 두 나라 사이 에 냉랭한 기운이 감돌았어요.\n기원전 109년, 결국 한나라는 고조선에 쳐들어왔어요. 생각과 달리 쉽게 고조선을 무너뜨릴 수 없자 고조선의 지배층을 자기네 편으로 끌어들였어요. 1년간의 전쟁에 지친 고조선의 지배층은 한나라에 맞서 싸워야 한다는 쪽과 협상을 해야 한다는 쪽으로 갈렸어요. 고조선의 왕이 끝까지 버티려고 하자 몇몇 지배층이 한나라에 항복했어요. 그리고 왕을 살해했지요.",
+      "est_speech_ms": 66200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "한나라의 공격을 받아 멸망하다",
+      "narration": "성기 장군과 고조선 백성들이 힘을 합쳐 한나라 군대에 맞서 싸웠지만 많은 수의 한나라 군대를 당할 수 없었어요. 기원전 108년 고조선의 왕검성이 한나라 손에 넘어가고 고조선은 멸망하고 말았지요.\n이후 고조선의 옛 땅과 고조선 사람들은 어떻게 되었을까요? 한나라가 관리를 보내 고조선의 옛 땅을 직접 다스렸어요. 고조선 사람들 중 일부는 남쪽으로 내려가 살게 되었고, 한반도 남쪽까지 철기 문화가 퍼져 나 갔습니다.\n우리 역사 속 첫 국가인 고조선이 어떻게 세워지고 발전했는지, 어떤 생각으로 나라를 다스렸는지 알게 되었지요? 널리 인간 세상을 이롭게 한다는 고조선의 건국 이념은 오늘날에도 이어져 오고 있어요. 이를 통해 과거와 현재가 어떻게 만나는지 다시 한번 생각해 볼 수 있길 바라요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "고조선과 한의 전쟁"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/79d6b023200d1f9a/fig_057.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/79d6b023200d1f9a/fig_060.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "한나라의 공격을 받아 멸망하다",
+      "narration": "역사 속 작은 이야기: 아주 먼 옛날에 지은 시가 전한다고요?\n님아, 물을 건너지 마오. 님은 끝내 물을 건너시네. 물에 빠져 돌아가시니 가신 님을 어찌하면 좋을꼬.\n이 시의 배경은 고조선으로, ‘공무도하가’ 또는 ‘공후인’이라고 불리고 있어요. 이 시와 관련한 이야기가 함께 전해지지요.\n어느 날 곽리자고라는 뱃사공이 아침 일찍 일어나 배를 손질하고 있었어요. 그때 흰머리를 풀어헤친 한 남자가 술병을 들고 비틀거리며 물을 건너고 있었대요.\n그의 아내가 말리려고 뒤쫓아 왔으나, 결국 그 사람은 물에 빠져 죽었지요. 이 광경을 본 아내는 구슬피 울다, 공후라는 악기를 타며 이 노래를 불렀어요. 그러고는 남편을 따라 강물에 몸을 던졌어요.",
+      "est_speech_ms": 49800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "뱃사공은 집에 돌아와 아내 여옥에게 노래와 함께 있었던 일을 들려주었어요. 그러자 여옥은 공후를 타며 구슬프게 그 노래를 불렀는데, 이웃 사람들이 모두 눈물을 흘렸다고 합니다.",
+      "est_speech_ms": 14400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "schema_version": 2,
+  "doc_hash": "56bbe58c34a45dfc",
+  "source_file": "eh_r0100_0010.pdf",
+  "title": "백제의 마지막 도읍지 부여",
+  "kind": "artifact",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 16,
+  "section_count": 6,
+  "image_count": 14,
+  "est_total_ms": 651300,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "백제의 마지막 도읍지 부여",
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "정림사지 오층석탑(충남 부여군)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "성왕, 사비로 도읍을 옮기다",
+      "scene_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "image_captions": [
+        "백제의 천도",
+        "공산성과 공주 일대 모습(충남 공주시)",
+        "백제 사비의 복원 모습(백제문화단지)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "성왕의 원대한 꿈이 담긴 계획도시 사비",
+      "scene_indices": [
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8
+      ],
+      "image_captions": [
+        "부소산성을 쌓는 백성들(백제문화단지)과 복원한 나성의 모습(충남 부여군)",
+        "관북리 대형 건물지(백제세계유산센터)와 관북리 수도시설(국립부여박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": null,
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [
+        "부소산성 아래 구드래항의 현재 모습과 백제금동대향로(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "백제의 마지막 모습이 새겨진 부여 정림사지 5층석탑",
+      "scene_indices": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "정림사지 5층석탑과 대당평백제국비명 탁본(국립중앙박물관)",
+        "백제 오천결사대 충혼탑(충남 부여군)",
+        "백마강에서 바라본 낙화암과 낙화암 꼭대기에 있는 백화정(부여군청)",
+        "낙화암 고란사 극락보전 벽화(충남 부여군)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "한때 총명하고 군사를 잘 이끌어 신라를 벌벌 떨게 했던 의자왕!",
+      "scene_indices": [
+        14,
+        15
+      ],
+      "scene_seq": [
+        15,
+        16
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "백제의 마지막 도읍지 부여",
+      "narration": "백제의 마지막 도읍지 부여\n“우리의 도읍한성을 고구려에게 빼앗기고 얼마나 서러웠던가. 우리가 다시 강국이 되어 도읍을 옮기니 나라 이름도 바꾸면 어떠하겠는가?”\n“백제는 원래 부여에서 시작된 나라이니 ‘남부여’라 하면 어떠하올런지요?”\n“그렇다. 우리는 북방의 강국이었던 부여의 후손이다. 지금부터 우리나라를 ‘남부여’라 부르겠다.”\n강한 백제의 부활을 꿈꾸었던 성왕은 웅진(지금의 공주)에서 사비(지금의 부여)로 도읍을 옮겼어요. 부여는 다시 강국이 된 백제의 도읍지로 적당했을까요?\n그곳에는 어떤 문화유산들이 남아 있을까요?",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정림사지 오층석탑(충남 부여군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_001.jpg",
+          "caption": "정림사지 오층석탑(충남 부여군)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "성왕, 사비로 도읍을 옮기다",
+      "narration": "성왕, 사비로 도읍을 옮기다\n백제의 첫 도읍지는 한강가의 한성(위례성)이었어요. 500여 년 가까이 고구려와 신라와 경쟁하며 발전하던 백제는 고구려 장수왕의 공격을 받아 한성을 빼앗기고 국왕마저 목숨을 잃었어요. 결국 백제는 고구려의 공격을 피해 급히 도읍을 웅진으로 옮겨야만 했어요(475).\n웅진은 주변이 산으로 둘러싸여 있고, 한쪽은 금강(백마강)에 의지하고 있어 외적을 막기에 유리한 곳이었어요. 반면에 땅이 좁고 금강이 자주 넘쳐흘러 나라를 다스리기에 불편함도 많았어요.\n무령왕을 이어 백제를 이끌던 성왕은 강성해진 나라의 힘에 걸맞은 도읍을 원했어요. 성왕은 사비를 주목했어요. 금강 하구에 위치한 사비에는 비교적 넓은 평야가 펼쳐져 백성들이 모여 살기에 좋은 곳이었어요.",
+      "est_speech_ms": 56200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "백제의 천도",
+        "공산성과 공주 일대 모습(충남 공주시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_014.jpg",
+          "caption": "백제의 천도",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_017.jpg",
+          "caption": "공산성과 공주 일대 모습(충남 공주시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "성왕, 사비로 도읍을 옮기다",
+      "narration": "가까운 바다를 통해 중국이나 일본과 교류하기에도 좋은 곳이었지요. 궁궐을 짓고, 성을 쌓으며 오랜 기간 준비를 끝낸 성왕은 마침내 사비로 도읍을 옮겼어요(538).",
+      "est_speech_ms": 13200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "성왕, 사비로 도읍을 옮기다",
+      "narration": "사비로 도읍을 옮긴 성왕은 백제를 더욱 체계적으로 정비해 갔어요.\n무왕과 의자왕을 거치면서 백제는 더욱 강성한 나라가 되었어요. 신라에게 빼앗겼던 땅도 많이 되찾을 수 있었지요.\n하지만 신라와의 경쟁에서 앞선 의자왕이 승리에 취해 한눈을 파는 사이 신라와 당 연합군이 백제를 공격해 왔어요.\n잦은 전쟁으로 국력이 약해지고, 백성의 믿음을 잃은 의자왕은 막강한 연합군에 맞서 제대로 싸워보지도 못했어요. 사비를 버리고 웅진으로 피한 의자왕은 결국 항복을 하고 말았어요.\n웅진을 떠나 사비에서 다시 일어난 백제가 다시 웅진으로 돌아가 나라를 잃고 만 것이에요.",
+      "est_speech_ms": 45600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "백제 사비의 복원 모습(백제문화단지)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_026.jpg",
+          "caption": "백제 사비의 복원 모습(백제문화단지)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "성왕, 사비로 도읍을 옮기다",
+      "narration": "지금의 부여라는 이름 속에는 강한 나라를 꿈꾸며 나라 이름을 ‘남부여’라 불렀던 성왕의 뜻이 남아 있어요.\n북방의 강자였던 부여가 지금은 사라졌으나 한반도 안에 남아 그 이름을 전하고 있는 것이에요. 백제 중흥기와 마지막 역사를 모두 지켜본 부여!\n그곳에 가면 무엇을 볼 수 있을까요?",
+      "est_speech_ms": 22600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_039.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "성왕의 원대한 꿈이 담긴 계획도시 사비",
+      "narration": "성왕의 원대한 꿈이 담긴 계획도시사비\n성왕은 사비에 부소산성을 중심으로 나성을 쌓았어요. 나성은 평야 지대에 있는 사비를 방어하기 위해 쌓은 성이에요. 나성은 흙 위에 나뭇잎과 나뭇가지를 놓고 다시 흙을 덮어 다지는 부엽공법으로 쌓았어요.\n나뭇잎과 나뭇가지는 흙과 흙을 붙잡아 주고, 빗물이 빠지는 통로 역할을 해 성벽이 쉽게 무너지지 않게 해 주었어요.\n이중으로 도성을 방어하기 위해 만든나성은 당시 고구려와 신라의 도성에 는 없던 시설이었어요. 나성은 사비가 어떤 곳보다 더 안전하고 살기에 좋은 장소라는 것을 백성들에게 보여주었어요.",
+      "est_speech_ms": 44400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "성왕의 원대한 꿈이 담긴 계획도시 사비",
+      "narration": "왕궁의 뒤편에 위치한 부소산성은 외적이 침입해 왔을 때 피신하기 위해 만든 성이에요. 평상시에는 왕실의 정원으로도 사용되었어요.\n부소산성은 판으로 틀을 만들고 판 안에 서로 다른 흙을 교대로 넣어 다지는 판축공법으로 만든 토성이에요. 백제 사람들은 한성의 풍납토성과 웅진의 공산성도 이 방법을 이용하여 만들었어요.\n나성 안에는 왕궁을 지었어요. 사비의 왕궁 터는 오랫동안 정확한 위치를 알 수 없었어요. 그러나 최근 부소산성 아래 관북리 유적이 발견되면서 발굴을 통해 왕궁 터를 추측할 수 있게 되었어요.",
+      "est_speech_ms": 41400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "부소산성을 쌓는 백성들(백제문화단지)과 복원한 나성의 모습(충남 부여군)",
+        "관북리 대형 건물지(백제세계유산센터)와 관북리 수도시설(국립부여박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_044.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_045.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_049.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "성왕의 원대한 꿈이 담긴 계획도시 사비",
+      "narration": "관북리 유적에서는 왕궁으로 예상되는 대형 건물터와 나무로 지은 창고, 연못, 도로, 배수로가 발견되었어요. 출토된 유물 중에는 40m 길이의 수도 관이 눈길을 끌었어요. 기와를 조립해 만든 관을 나무 수조에 연결한 것인데, 산에서 내려오는 물을 모아 효과적으로 사용하기 위해 만들었어요.\n왕궁을 중심으로 10m가 넘는 남북도로와 동서도로도 확인되었어요. 도로의 좌우에는 하수구 시설도 있었어요. 하수구는 도랑을 파고 양 벽면에 두꺼운 판자를 대어 물이 잘 흘러가게 만들었어요.\n잘 정비된 도로망과 집터, 그리고 수도시설을 통해 사비가 오랜 준비를 거쳐 세심하게 건설된 계획도시였음을 알 수 있어요.",
+      "est_speech_ms": 48600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "사비성 한쪽으로는 금강이 굽이쳐 흐르고 있어요. 금강은 사비 방어에 중요한 역할을 했어요.\n그렇지만 성왕은 금강을 방어용으로만 사용하지 않았어요. 부소산 서쪽 기슭의 백마강가에 구드래 선착장을 만들었어요. 구드래항을 이용해 백제는 일본, 중국과 교류를 하였어요.\n구드래항은 중국과 일본, 그리고 고구려와 신라에서 온 다양한 사람들이 귀한 물건들을 서로 사고팔기 위해 북적거렸을 거예요.\n사비의 능산리 절터에서 발견된 백제 금동 대향로를 통해서도 백제가 여러 나라와 교류했음을 알 수 있어요. 향로에는 16명의 사람과 39마리의 동물이 조각되어 있어요.",
+      "est_speech_ms": 45800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "부소산성 아래 구드래항의 현재 모습과 백제금동대향로(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_060.jpg",
+          "caption": "부소산성 아래 구드래항의 현재 모습과 백제금동대향로(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "그중에는 호랑이와 사슴과 같이 우리나라에서 볼 수 있었던 동물도 있지만, 코끼리와 원숭이처럼 우리에게 낯선 동물도 조각되어 있어요. 아마도 백제 사람들은 구드래항에서 만난 다른 나라 사람들을 통해 이 동물들에 대해 알게 되었을 거예요.\n넓은 세계와 교류하며 국제도시로서 크게 번성했던 사비는 강성한 백제를 원했던 성왕의 꿈이 담겨 있어요.",
+      "est_speech_ms": 28000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "백제의 마지막 모습이 새겨진 부여 정림사지 5층석탑",
+      "narration": "백제의 마지막 모습이 새겨진 부여 정림사지 5층석탑\n백제가 멸망한 후 융성했던 사비의 많은 것들이 파괴되고 사라졌어요. 웅장했던 궁궐도, 공을 들여 만들었던 절과 탑도 모두 사라졌어요. 다만 정림사지 5층 석탑은 지금도 남아 세련된 백제의 멋을 우리에게 보여주고 있어요.\n정림사는 성왕이 사비로 도읍을 옮길 때 세운 절이에요. 백성들의 마음을 하나로 모으기 위해 왕궁의 정남쪽 도시 한가운데에 절을 세웠어요. 정림사 한가운데 만든 5층 석탑은 높이가 8m가 넘는 아주 큰 탑이에요.\n익산 미륵사지석탑과 함께 지금까지 남아있는 백제 석탑 중 하나에요.",
+      "est_speech_ms": 44700,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정림사지 5층석탑과 대당평백제국비명 탁본(국립중앙박물관)",
+        "백제 오천결사대 충혼탑(충남 부여군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_072.jpg",
+          "caption": "정림사지 5층석탑과 대당평백제국비명 탁본(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_075.jpg",
+          "caption": "백제 오천결사대 충혼탑(충남 부여군)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "백제의 마지막 모습이 새겨진 부여 정림사지 5층석탑",
+      "narration": "석탑의 1층 탑신과 옥개받침에는 ‘대당평백제국비명’이라는 글자가 새겨져 있어요. ‘당이 백제를 평정하여 비를 새긴다’는 뜻이죠. 신라와 연합해 백제와의 전쟁에서 승리한 당의 총사령관 소정방이 자신의 공을 남기기 위해 새겨 놓은 것이에요.\n탑에는 총 2,126자를 새겼는데, 백제를 정벌한 까닭과 당 황제와 장수들을 칭찬하는 내용, 의자왕을 비롯해 백제인 포로와 영토의 처리 방법 등을 담고 있어요. 소정방은 백제 도읍의 한가운데에 있던 정림사의 석탑에 글자를 새겼어요.\n이것은 백제가 멸망하였다는 것을 백성들에게 널리 알리고, 나라를 되찾으려는 백성들의 의지를 꺾고자한 것이에요.",
+      "est_speech_ms": 47600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 4,
+      "section_title": "백제의 마지막 모습이 새겨진 부여 정림사지 5층석탑",
+      "narration": "부여의 남쪽 끝에는 신라군에 맞서 싸우다 목숨을 잃은 계백과 오천결사대의 넋을 기리는 충혼탑이 세워져 있어요. 탑에는 위기에 처한 나라를 구하기 위해 전쟁터로 향하던 백제 병사들의 모습을 볼 수 있어요.\n부여에는 적과 당당히 맞서 싸우다 목숨을 잃은 백제 병사들의 처절함과 나라 잃은 백성의 서러움이 고스란히 남아 있어요.\n역사 속 작은 이야기: 낙화암과 삼천궁녀이야기는 진짜일까?\n부소산성의 한편은 백마강에 의지하고 있어요. 부소산과 백마강이 만나는 곳에 낙화암이란 높은 절벽이 있어요.\n낙화암에는 이야기 하나가 전해져 오고 있어요.",
+      "est_speech_ms": 44000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "백마강에서 바라본 낙화암과 낙화암 꼭대기에 있는 백화정(부여군청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_083.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_084.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 4,
+      "section_title": "백제의 마지막 모습이 새겨진 부여 정림사지 5층석탑",
+      "narration": "“차라리 스스로 목숨을 끊을지언정 외적의 손에 죽지 않겠다.”\n신라와 당나라의 연합군에 의해 사비성이 함락되었어요.\n이때 성안에 있던 후궁과 궁녀들이 부소산성으로 도망을 가다 큰 바위에 이르렀어요.\n궁녀들은 외적에게 희롱당하는 것을 거부하고 치마를 뒤집어쓰고 백마강으로 몸을 던져 목숨을 끊었어요.\n이 이야기는 삼국유사에 기록되어 있어요. 삼국유사에는 궁녀들이 강으로 뛰어든 이 바위를 ‘타사암’이라 쓰고 있어요.\n그런데 삼국유사의 기록은 사람들의 입과 입을 통해 전해지면서 궁녀들의 수가 갑자기 삼천 명으로 크게 늘어났어요.",
+      "est_speech_ms": 43600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "낙화암 고란사 극락보전 벽화(충남 부여군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/56bbe58c34a45dfc/fig_098.jpg",
+          "caption": "낙화암 고란사 극락보전 벽화(충남 부여군)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 5,
+      "section_title": "한때 총명하고 군사를 잘 이끌어 신라를 벌벌 떨게 했던 의자왕!",
+      "narration": "바위 이름도 궁녀를 떨어지는 꽃에 비유하여 낙화암으로 바뀌었어요.\n왜 궁녀들의 수가 갑자기 삼천 명으로 늘어났을까요?\n백제보다 인구수가 5배나 많았던 조선 시대에도 궁녀는 가장 많았을 때조차 700명을 넘지 못했어요. 그런데 백제에 3천 명의 궁녀가 있었다는 것은 말이 되지 않지요.\n사람들은 삼국유사의 이야기를 더 부풀리고 과장해서 전한 것이에요.\n이것은 아마도 백제가 멸망한 이유를 제대로 나라를 돌보지 않은 의자왕에게서 찾으려는 사람들의 마음이 반영된 결과로 보여요.\n한때 총명하고 군사를 잘 이끌어 신라를 벌벌 떨게 했던 의자왕!",
+      "est_speech_ms": 44400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 16,
+      "section_index": 5,
+      "section_title": "한때 총명하고 군사를 잘 이끌어 신라를 벌벌 떨게 했던 의자왕!",
+      "narration": "그는 외적에 나라를 빼앗긴 책임 때문에 죽어서도 오랜 시간 사람들에게 비난을 받고 있는 셈이지요.\n백제의 마지막 수도 부여(사비)에는 강한 백제를 이끌던 성왕의 모습과 허무하게 나라를 잃은 의자왕의 모습이 모두 남아 있어요.\n어떤 모습의 지도자가 나라를 이끌어야 부강해지고 백성들의 삶이 편안해질까요?\n성왕과 의자왕, 백제의 두 국왕의 모습을 비교해 보면서 그 답을 찾아보아요.",
+      "est_speech_ms": 30800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

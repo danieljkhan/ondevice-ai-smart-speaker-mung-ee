@@ -1,0 +1,383 @@
+{
+  "schema_version": 2,
+  "doc_hash": "b6008df2f23127ec",
+  "source_file": "eh_r0140_0010.pdf",
+  "title": "고려 사람들이 사용한 도자기, 고려청자",
+  "kind": "artifact",
+  "era": "고려",
+  "era_source": "keyword",
+  "scene_count": 12,
+  "section_count": 5,
+  "image_count": 18,
+  "est_total_ms": 482400,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "부안청자박물관(전북 부안군)",
+        "청자 상감운학문 매병(간송미술관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [
+        "청자의 모양을 만드는 모습(부안청자박물관)",
+        "청자에 유약을 바르고 상감을 하는 모습(부안청자박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "상감 청자의 제작 과정",
+      "scene_indices": [
+        6
+      ],
+      "scene_seq": [
+        7
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "색깔만큼 모양도 다양한 고려청자",
+      "scene_indices": [
+        7,
+        8
+      ],
+      "scene_seq": [
+        8,
+        9
+      ],
+      "image_captions": [
+        "청자 상감 모란문 표주박 모양 주전자와 청자 참외 모양 병(국립중앙박물관)"
+      ],
+      "is_infographic": true
+    },
+    {
+      "section_index": 4,
+      "section_title": "역사 속 작은 이야기: 우리가 고려청자를 쉽게 볼 수 있는 까닭은?",
+      "scene_indices": [
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "청자 상감 모란 구름 학 무늬 베개(국립중앙박물관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "고려 사람들이 사용한 도자기, 고려청자\n“사신 가격의 두 배를 드릴 테니 저에게 그 자기를 파세요.”\n“이것보다 더 좋은 자기를 가져온다면 생각해보겠소.”\n일제 강점기 한 일본인이 간송 전형필을 찾아왔어요. 전형필이 많은 돈을 주고 산 자기를 팔라는 것이었죠. 전형필은 끝내 이 자기를 팔지 않았어요. 이 자기는 무엇일까요?\n국보가 된 고려청자\n전형필이 구입한 자기는 고려 시대에 만들어진 청자예요.\n이름은 ‘청자 상감운학문 매병’이랍니다. 이름이 좀 어렵죠? 이름 중 ‘운학문’은 구름과 학이 새겨져 있어서 붙여진 것이에요.",
+      "est_speech_ms": 41000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "부안청자박물관(전북 부안군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_001.jpg",
+          "caption": "부안청자박물관(전북 부안군)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "이 청자에는 학이 무려 69마리나 새겨져 있어요.\n‘상감’은 청자를 만들 때 흙으로 자기 모양을 만든 후 무늬를 넣을 부분을 파내고 흰색이나 붉은색 흙을 파낸 곳에 메꿔 넣고 유약을 발라서 구워내는 것이에요. ‘상감’ 기법은 청자를 만들 때만 사용한 것은 아니에요.\n아주 오래전부터 나무나 금속 제품을 만들 때 동양과 서양에서 두루 사용한 방법이죠. 나무와 금속에 무늬를 새겨서 파내요. 그리고 파낸 곳에 금과 은 또는 뼈, 보석 등을 같은 모양으로 만들어 넣는 것이지요.\n전형필은 이 청자를 마에다라는 일본인에게서 샀어요. 그런데 마에다는 어떻게 이 고려청자를 가지고 있었을까요?",
+      "est_speech_ms": 46000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "‘청자 상감운학문 매병’은 강화도의 한 무덤에 있던 것이었다고 해요.\n도굴꾼이 무덤에 있는 청자를 몰래 꺼내서 팔았던 것이죠. 일제 강점기에는 이렇듯 무덤에 있는 유물들이 도굴되는 일이 흔히 있었답니다. 당시 일본 사람들이 청자를 비롯하여 우리나라의 문화재를 아주 좋아했기 때문이지요.\n전형필이 지켜낸 덕분에 ‘청자 상감운학문 매병’은 광복이 된 후인 1962년 국보로 지정되었어요. 국보는 ‘나라의 보물’이란 뜻이에요.\n그런데 고려 시대 사람들이 처음부터 ‘상감청자’를 만든 것은 아니에요. 고 려 초기에는 무늬가 거의 없고 색깔도 조금은 어두운 청자가 만들어져요. 그러다가 점차 청자 만드는 기술이 발달하면서 12세기 전반에는 수준 높은 비취색(비색)의 고려청자가 만들어지고, 12세기 중엽 무렵에는 ‘상감청자’가 만들어진답니다.",
+      "est_speech_ms": 59600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "청자 상감운학문 매병(간송미술관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_019.jpg",
+          "caption": "청자 상감운학문 매병(간송미술관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "자, 지금부터 고려 시대에 만들어진 다양한 청자를 살펴볼까요?",
+      "est_speech_ms": 5000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_028.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "청자는 어떻게 만들었을까요?\n청자를 처음 만든 것은 중국이에요. 우리나라에는 삼국 시대부터 중국 청자가 전해졌고 마침내 고려 시대에 이르러 직접 만들기 시작했어요.\n고려 시대에 만들어진 청자는 청자토로 모양을 만들고 그 표면에 유약을 발라 약 1,200도가 넘는 높은 온도에서 구워낸 것이에요.\n청자를 만드는 방법을 자세히 살펴보면 다음과 같아요.\n먼저 청자를 만들려면 먼저 불순물이 없는 고운 흙이 필요해요.\n청자를 만드는 사람은 흙을 찰지게 만들기 위해 발로 밟기도 해요. 흙이 완성되면 원하는 모양으로 그릇을 만들어요. 만들어진 그릇은 그늘에서 잘 말리지요.",
+      "est_speech_ms": 46000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "청자의 모양을 만드는 모습(부안청자박물관)",
+        "청자에 유약을 바르고 상감을 하는 모습(부안청자박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_030.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_031.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.3125
+        },
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_039.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "그릇이 마르면 가마에 불을 때고 그릇을 한번 구워내요. 이것을 초벌구이 라고 해요. 초벌구이가 된 청자는 식힌 후에 유약을 발라요. 유약을 바른 후 말려서 다시 가마에서 구워낸답니다. 재벌구이를 하는 것이죠. 재벌구이를 할 때 주의할 점은 산소가 들어가지 않게 입구를 꽁꽁 막는 거예요. 그래야 청자의 비취색(비색)이 만들어져요.\n상감청자를 만들 때는 그늘에서 말린 그릇에 원하는 무늬를 파내고 흰색이나 붉은색 흙을 파낸 곳에 메운 후 초벌구이를 하면 된답니다.",
+      "est_speech_ms": 37000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "상감 청자의 제작 과정",
+      "narration": "상감 청자의 제작 과정\n청자는 한 가지 색만 있었을까?\n1123년 송나라 사신 서긍이 고려에 왔어요. 그는 고려에 약 한달간 머물다 자기 나라로 돌아갔어요. 그리고 자신이 고려에서 보고 들은 것을 정리한 보고서인고려도경을 써서 황제에게 바쳤어요. 그 책에는 고려청자에 대해 다음과 같이 적고 있어요.\n“도기의 빛깔이 푸른 것을 고려인은 비색(翡色)이라고 하는데, 근래에 들어 제작 기술이 정교해져 빛깔이 더욱 좋아졌다.”\n일반적으로 고려청자는 대부분 서긍이고려도경에 쓴 것처럼 비취색(비색)의 도자기라고 생각할 거예요. 그런데 청자는 그런 색만 있는 것이 아니에요.\n앞에서 본 청자 순화4년명 항아리처럼 갈색의 청자도 있어요.",
+      "est_speech_ms": 50600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_047.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_048.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.125
+        },
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_049.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.25
+        },
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_050.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.375
+        },
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_051.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_052.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.625
+        },
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_053.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.75
+        },
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_054.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.875
+        },
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_055.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "색깔만큼 모양도 다양한 고려청자",
+      "narration": "이 항아리는 993년(고려 성종 12년)에 만들어진 것으로 고려청자의 초기 모습을 간직하고 있어요.\n청자의 색이 다양한 까닭은 무엇 때문일까요?\n사용되는 흙과 유약의 종류, 구워내는 가마의 온도 등에 따라 갈색, 초록색, 올리브색 등 다양한 색이 나타나는 것이에요.\n색깔만큼 모양도 다양한 고려청자\n고려청자는 색깔만큼이나 그 모양도 다양해요.\n아까 우리가 살펴본 ‘청자 상감운학문 매병’은 입구가 매우 좁고 윗부분은 둥글고 넓으며 밑으로 갈수록 좁아지는 모습을 하고 있어요. 이런 청자를 매병이라고 불러요.\n매병은 흔히 매화 같은 것을 꽂았다고 해서 붙은 이름이지만 고려 시대에는 달랐어요. 술이나 차를 끓일 때 쓸 물을 담기도 했고 또 꿀과 참기름을 담는 용도로 사용되었다고 해요.",
+      "est_speech_ms": 55000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "색깔만큼 모양도 다양한 고려청자",
+      "narration": "매병 이외에 많이 발견되는 것은 주전자예요. 주전자는 표주박 모양, 사람 모양 등 다양한 종류가 있어요.\n고려 시대 사람들은 이런 주전자에 술이나 물을 담아서 사용했겠지요.\n이외에도 참외나 대나무 모양의 그릇과 사자와 기린, 연꽃 모습의 향로도 있답니다.\n한편 청자는 주전자와 병과 같은 그릇으로만 쓰인 것은 아니에요.",
+      "est_speech_ms": 25600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "청자 상감 모란문 표주박 모양 주전자와 청자 참외 모양 병(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_072.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_073.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "역사 속 작은 이야기: 우리가 고려청자를 쉽게 볼 수 있는 까닭은?",
+      "narration": "베개나 의자도 만들어 사용했어요. 또한 고려의종은 양이정이라는 정자를 만들 때 청자로 기와를 만들어 사용했다고 해요.\n역사 속 작은 이야기: 우리가 고려청자를 쉽게 볼 수 있는 까닭은?\n1976년의 어느 날 전라남도 신안 앞바다에서 한 어부가 한창 물고기 잡이를 하고 있었어요. 바다에 던진 그물을 들어 올리는 순간 깜짝 놀랄만한 일이 벌어졌어요. 그물에 도자기가 함께 올라온 것이에요.\n어부는 그 사실을 신안군청에 알렸어요.\n이 사실이 알려지면서 신안 앞바다에서는 1976년부터 1984년까지 9년 동안 총 11차례에 걸쳐 해저 유물 발굴이 이루어졌어요.",
+      "est_speech_ms": 45600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "청자 상감 모란 구름 학 무늬 베개(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b6008df2f23127ec/fig_081.jpg",
+          "caption": "청자 상감 모란 구름 학 무늬 베개(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "역사 속 작은 이야기: 우리가 고려청자를 쉽게 볼 수 있는 까닭은?",
+      "narration": "그런데 이때 발굴된 유물의 90%는 도자기인데 대부분 중국 송나라와 원나라 에서 만들어진 것이에요.\n고려청자도 있었지만, 그 숫자는 7개밖에 되지 않는다고 해요.\n그렇다면 우리가 박물관에서 볼 수 있는 고려청자는 어디서 온 것일까요?\n고려청자는 대부분 고려 시대 지배층의 무덤에서 나왔어요. 그러니 광복 후 고려청자는 고려의 수도였던 개성에 있는 박물관에서 보관하고 있었어요.\n당시 개성은 38도선 남쪽에 있었기 때문에 우리나라의 영토였어요. 개성 박물관도 우리나라가 관리하고 있었지요.\n훗날 국립중앙박물관의 관장이 되었던 최순우는 1949년 개성박물관에 있는 고려청자를 서울에 있는 국립중앙박물관으로 옮겨왔어요.",
+      "est_speech_ms": 51800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "역사 속 작은 이야기: 우리가 고려청자를 쉽게 볼 수 있는 까닭은?",
+      "narration": "덕분에 현재 우리는 국립중앙박물관에 가면 다양한 고려 시대의 청자를 볼 수 있답니다. 여러분도 시간이 되면 국립중앙박물관에서 가서 청자를 한번 감상해보세요.",
+      "est_speech_ms": 13200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

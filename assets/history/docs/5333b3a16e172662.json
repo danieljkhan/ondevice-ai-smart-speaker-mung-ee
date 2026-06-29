@@ -1,0 +1,448 @@
+{
+  "schema_version": 2,
+  "doc_hash": "5333b3a16e172662",
+  "source_file": "eh_r0151_0010.pdf",
+  "title": "고려의 옛 궁궐이 있던 강화도의 고려궁지",
+  "kind": "artifact",
+  "era": "고려",
+  "era_source": "keyword",
+  "scene_count": 19,
+  "section_count": 7,
+  "image_count": 11,
+  "est_total_ms": 777500,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "고려궁지(인천 강화군)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "고려궁지의 역사",
+      "scene_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "image_captions": [
+        "고려 시대 강화도",
+        "왕이 보는 어람용 의궤의 표지와 안에 사용된 종이(효장세자책례도감의궤)"
+      ],
+      "is_infographic": true
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8
+      ],
+      "image_captions": [
+        "승평문(강화군청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "강화유수부 동헌",
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [
+        "강화유수부 동헌과(문화재청)",
+        "‘명위헌’ 현판 글씨(문화재청)",
+        "유수부 이방청(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "유수부 이방청",
+      "scene_indices": [
+        10,
+        11
+      ],
+      "scene_seq": [
+        11,
+        12
+      ],
+      "image_captions": [
+        "강화 동종(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "병인양요의 아픔이 담긴 외규장각 건물",
+      "scene_indices": [
+        12,
+        13,
+        14
+      ],
+      "scene_seq": [
+        13,
+        14,
+        15
+      ],
+      "image_captions": [
+        "외규장각 건물(문화재청)",
+        "강화유수부 동헌 내부에 전시된 조선 시대 모습 복원 모형",
+        "영조 정순왕후 가례도감 의궤(국립중앙박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 고려와 몽골의 강화",
+      "scene_indices": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "scene_seq": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "고려의 옛 궁궐이 있던 강화도의 고려궁지\n“폐하! 몽골의 침략을 피해 강화도로 들어가셔야 합니다.”\n“몽골이 육지에서는 잘 싸워도 물에서 그렇지 못하다고 하니, 그렇게 합시다.”\n강화도에 있는 고려궁지는 몽골이 고려를 침략했을 당시 고려의 수 도였어요. 이곳에서 고려는 개경으로 돌아올 때까지 고려의 대몽 항쟁을 이끌었지요. 이제부터 고려궁지의 이모저모를 알아볼까요?",
+      "est_speech_ms": 29800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "고려궁지(인천 강화군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/5333b3a16e172662/fig_001.jpg",
+          "caption": "고려궁지(인천 강화군)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "고려궁지의 역사",
+      "narration": "고려궁지의 역사\n몽골이 고려를 침략했어요. 그러자 고려는 몽골의 요구를 들어주겠다고 약속한 뒤 그들을 돌려보냈어요. 그런데, 몽골이 감당할 수 없을 만큼 너무 무리한 요구를 해왔어요.\n고려는 몽골의 무리한 요구를 들어주기보다는 맞서 싸울 것을 결정했어요.\n그리고 수도를 옮길 것을 검토했어요. 그래서 개경에서 멀지 않으면서도 넓은 농토가 있으며, 세금 운송에 편리한 곳을 찾았어요. 더구나 해전에 약한 몽골을 방어하기에 유리한 곳이었어요.\n그곳이 강화도였어요. 당시 최씨 무신 정권의 실권자였던 최우는 군사를 동원하여 강화도에 궁궐을 짓기 시작했어요.",
+      "est_speech_ms": 45400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "고려 시대 강화도"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/5333b3a16e172662/fig_009.jpg",
+          "caption": "고려 시대 강화도",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "고려궁지의 역사",
+      "narration": "그런데 강화도 천도는 급하게 이루어졌기 때문에 궁궐과 관청 등 대부분의 시설은 천도 후 백성들이 힘들게 공사해 완성했어요.\n전쟁 중에 급하게 지어졌기 때문에 궁궐의 규모는 개경 궁궐에 비해 훨씬 작았어요. 그래도 강화도에 지어진 새 궁궐은 개경의 궁궐을 본떠 지어졌어요.\n강화도의 궁궐 뒷산을 송악(개경의 수도 북쪽에 있는 산)이라고 부르고, 정문을 승평문(개경의 궁궐 정문)이라고 이름을 지었어요.\n이렇게 당시 강화도는 또 하나의 작은 개경이 되었어요.",
+      "est_speech_ms": 36800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "고려궁지의 역사",
+      "narration": "강화도의 고려 궁궐은 몽골과의 화친 후 왕이 개경으로 돌아가면서 몽골의 요구에 따라 대부분 파괴되었어요.\n한편 조선시대에 이곳에 행궁(왕이 원래 궁궐 밖으로 행차할 때 임시로 머무르는 궁궐)과 관청(유수부), 백성들 집들이 들어서면서 고려궁지는 더욱 축소되었어요. 따라서 현재의 고려궁지는 고려 시대에 있었던 궁궐의 모습이 많이 남아 있지 않아요.\n고려궁지 뒤쪽에는 외규장각이 있는데, 이 건물은 조선 정조 때 왕실 관련 서적을 보관할 목적으로 설치된 곳이에요.\n특히 왕이 직접 보는 의궤를 보관하던 곳으로 유명하지요.",
+      "est_speech_ms": 42200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "고려궁지의 역사",
+      "narration": "의궤의 표지는 특별하게 비단을 사용하였고, 최고급 종이를 사용하였어요. 또한 최고급 물감으로 그림이 그려져 있지요. 이처럼 의궤에 사용된 재료를 통해 당시 왕실의 위엄을 엿볼 수 있지요.\n한편, 병인양요 당시 강화도를 침략한 프랑스군의 눈을 사로잡은 것도 이 어람용의궤들이에요.\n문화유산채널, 국립중앙박물관",
+      "est_speech_ms": 25400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "왕이 보는 어람용 의궤의 표지와 안에 사용된 종이(효장세자책례도감의궤)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/5333b3a16e172662/fig_030.jpg",
+          "caption": "왕이 보는 어람용 의궤의 표지와 안에 사용된 종이(효장세자책례도감의궤)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "병인양요는 1866년 당시 실권을 잡고 있던 흥선대원군의 천주교 탄압과 프랑스 신부 9명이 처형된 사건을 빌미로 프랑스 함대가 강화도를 무력 침범한 사건이에요.\n강화도를 점령한 프랑스 병사들은 백성을 약탈하고, 조선의 왕실 도서관 겸 창고였던 외규장각과 그 안에 있던 5,000여 권의 책을 불태웠어요.\n또한 의궤를 비롯한 340여 개의 왕실 문서와 은괴 19상자는 훔쳐 갔지요.\n강화도는 고려궁지 외에도 볼거리가 많아요.\n고려궁지로 가는 길에 제일 처음 만나게 되는 곳은 용흥궁이에요. 용흥궁은 조선 철종(재위 1849~1863)이 왕위에 오르기 전에 거처하던 곳이에요.",
+      "est_speech_ms": 47200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "강화도 지역을 책임지고 다스리던 강화유수가 1853년에 지금과 같은 건물을 짓고 용흥궁이라고 하였어요.\n좁은 골목 안에 대문을 세우고 행랑채를 두고 있어 소박한 분위기를 느낄 수 있지요.\n용흥궁 안에는 철종이 머물던 곳이라는 것이 기록된 비석과 비각이 있어요. 용흥궁 위쪽 언덕에는 문화재로 지정된 성공회 강화 성당이 자리 잡았어요.\n이 성당은 겉모습은 한국의 양식을 따르고 있으면서도 배치와 내부 구조는 서양 건축 양식이 반영되어 있어요.\n한국의 건축 양식과 서양의 건축 양식이 훌륭한 조화를 이루고 있다고 할 수 있지요.\n그러면 고려궁지에 있는 여러 건물들을 살펴볼까요?",
+      "est_speech_ms": 47200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/5333b3a16e172662/fig_050.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "승평문\n승평문은 고려궁지의 남쪽 문이자 정문으로 조선시대 경복궁의 광화문에 해당한다고 할 수 있어요. 승평문은 모두 3개의 문으로 되어 있는데, 가운데 문은 오직 왕만이 행차할 때에 사용하였어요.\n왕을 제외한 다른 사람들은 가운데 문이 아닌 양쪽의 문을 사용하였지요.\n고려 고종이 죽은 뒤 다음 해 태자(후에 원종 임금)가 몽골과 화친을 맺은 뒤 개경으로 떠날 때 승평문의 가운데 문을 지나갔어요. 그런데 이와 같은 일은 예전에 없던 일이라고 하여 특별히 고려사라는 역사책에 기록되었다고 해요.\n그러나 안타깝게도 현재의 승평문은 고려 시대에 지어진 건물이 아니라 조선 시대의 건물이에요. 승평문 안에 들어가도 고려 시대의 흔적을 찾을 수 없어요.",
+      "est_speech_ms": 52400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "승평문(강화군청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/5333b3a16e172662/fig_052.jpg",
+          "caption": "승평문(강화군청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "강화유수부 동헌",
+      "narration": "왜냐하면 조선 후기 병자호란 때 청나라가 강화도까지 침략하였을 때 조선군과 청나라군 사이에 벌어진 전투로 인해 승평문 등 여러 건물이 부서지고 말았기 때문이죠.\n강화유수부 동헌\n조선 인조 때 고려궁지에 남아 있던 건물을 수리해 동헌으로 사용했어요. 동헌은 조선시대에 지방 관청 건물을 가리키는 이름이에요. 이후 강화도의 행정과 군사를 책임지는 관리인 강화유수가 이곳에서 업무를 보았지요.",
+      "est_speech_ms": 32400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "강화유수부 동헌",
+      "narration": "이 건물은 조선 영조 때 잠시 ‘덕이 밝고 성의가 있는 집’이라는 뜻의 “현윤관(顯允館)”이라고 불렸어요. 이후 대대적으로 수리될 당시 이름난 명필 윤순이 쓴 “명위헌(明威軒)”이라는 현판이 걸렸어요.\n이 글자는 ‘위엄을 밝히는 곳’이라는 의미이지요.\n강화유수부 동헌 건물은 녹색과 붉은색이 두드러지는 단청이 곱게 칠해져 있으며, 서까래가 이중으로 되어 있는 겹처마로 되어 있는 것이 특징이에요.\n이러한 건물은 예부터 궁궐 건축에 사용된 기법이에요. 이를 통해 강화유수부 동헌이 아마도 고려 시대에 궁궐의 일부였다고 짐작하고 있지요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "강화유수부 동헌과(문화재청)",
+        "‘명위헌’ 현판 글씨(문화재청)",
+        "유수부 이방청(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/5333b3a16e172662/fig_065.jpg",
+          "caption": "강화유수부 동헌과(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/5333b3a16e172662/fig_067.jpg",
+          "caption": "‘명위헌’ 현판 글씨(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/5333b3a16e172662/fig_074.jpg",
+          "caption": "유수부 이방청(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "유수부 이방청",
+      "narration": "유수부이방청\n유수부이방청은 원래 강화유수부 안에 있던 이방, 호방, 예방, 병방, 형방, 공방 등 육방 건물 중 한 곳이에요. 이곳이방청에서는 강화유수를 도와 마을을 다스리는 여러 사무를 맡아보았어요.\n지금의 건물은 조선 후기 효종 때 당시 강화유수에 의해 건립되었어요.\n이후 정조 때 부속 건물이 더 만들어졌으며, 여러 차례 추가 건립이 되어서 원래의 모습을 알 수는 없어요. 그러나 조선시대 지방 관아가 어떤 모습을 갖고 있는지 연구하는 데 필요한 귀중한 자료로 평가받고 있어요.\n강화 동종\n강화 동종은 옛 남문터 동편 지금의 김상용 선생 순절비 자리에 있었어요. 이후 1977년에 고려궁지를 보수 공사를 하면서 고려궁지 안으로 옮겨왔어요. 이 종의 표면에는 1688년(숙종 14년)에 유수 윤지완이 주조한 것이라 적혀 있어요.",
+      "est_speech_ms": 58600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "강화 동종(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/5333b3a16e172662/fig_085.jpg",
+          "caption": "강화 동종(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "유수부 이방청",
+      "narration": "그런데 종이 금이 가고 소리가 고르지 못해 18세기 전반 강화유수 민진원이 큰 규모로 다시 주조하였는데, 이 종이 지금까지 전하고 있지요.\n강화 동종은 강화산성(읍성)의 4대문을 열고 닫는 것을 알릴 때 사용되었어요.\n그런데 병인양요(1866년) 때 프랑스군이 이 종을 훔쳐가려고 갑곶으로 운반하다가 너무 무겁고 조선군의 추격을 염려하여 결국 갑곳리 중도 토끼다리 근처에 이 종을 버리고 철수하였다는 이야기가 전해오고 있어요.\n원래의 진짜 강화 동종은 현재 강화역사관에 보관되어 있으며, 똑같이 만든 종이 고려궁지 종각에 보관되어 있지요.",
+      "est_speech_ms": 44200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "병인양요의 아픔이 담긴 외규장각 건물",
+      "narration": "병인양요의 아픔이 담긴 외규장각 건물\n늠름한 이 건물은 외규장각으로, 조선 후기에 정조가 왕실 관련 서적을 보관할 목적으로 설치한 것이에요.\n정조는 외규장각을 설치한 후 궁궐에 있던 원래의 규장각을 내규장각이라 하고, 외규장각과 내규장각에 의궤를 비롯해 여러 왕실의 기록을 담은 서 적을 나누어 보관하도록 하였어요.\n한편, 병인양요 당시, 강화도를 침략한 프랑스 군대가 왕실의 보물이 많이 보관되어 있던 규장각을 불태우는 만행을 저질렀어요.\n이 과정에서 5,000권 이상의 책이 불탔고, 의궤를 비롯한 340여 권의 책과 문서 및은괴수천 냥이 프랑스군에 의해 약탈당하였어요.",
+      "est_speech_ms": 47400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "외규장각 건물(문화재청)",
+        "강화유수부 동헌 내부에 전시된 조선 시대 모습 복원 모형"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/5333b3a16e172662/fig_096.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": "병인양요의 아픔이 담긴 외규장각 건물",
+      "narration": "당시 프랑스군이 약탈해간 의궤를 포함한 297권의 외규장각 도서는 파리 국립도서관에 보관되고 있었어요. 그리고 사람들의 기억 속에서 잊혔지요.\n1975년 프랑스 국립도서관 사서로 일하던 박병선은 우연한 기회에 외규장각 도서를 처음 발견했어요.",
+      "est_speech_ms": 20800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 5,
+      "section_title": "병인양요의 아픔이 담긴 외규장각 건물",
+      "narration": "이때 그녀가 발견한 외규장각 도서 중의궤가 294권이나 되었는데, 289권이 어람용일 정도로 사료적 가치가 매우 높은 것들이었어요. 또한 이들 중 일부는 국내에 없는 유일본이었어요.\n박병선은 의궤를 포함한 외규장각 도서의 존재를 세상에 알렸고, 이후 우리 정부는 프랑스에 외규장각 도서를 반환하라고 요청하였어요.\n그러나 프랑스는 한국 정부의 요청을 받아들이지 않았어요.\n이후 우여곡절 끝에 2011년에 294권의 조선의 왕실 의궤를 포함한 전체 297권의 외규장각 도서가 영구 임대 형식으로 국내로 돌아오게 되었어요.",
+      "est_speech_ms": 43600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "영조 정순왕후 가례도감 의궤(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/5333b3a16e172662/fig_106.jpg",
+          "caption": "영조 정순왕후 가례도감 의궤(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 고려와 몽골의 강화",
+      "narration": "현재 외규장각 도서는 국립중앙박물관에 보관되어 있어요.\n역사 속 작은 이야기: 고려와 몽골의 강화\n고려와 몽골 사이의 전쟁이 장기화되면서 국토가 황폐해지고 백성의 고통이 심해졌어요. 또한 황룡사 9층 목탑이 불타는 등 수많은 문화재가 파괴되었어요.\n이처럼 피해가 커지자 몽골과 강화를 해서 전쟁을 끝내야 한다는 의견이 힘을 얻기 시작하였어요. 이러한 상황에서 김준이 실권을 쥐고 있던 최의를 죽임으로써 최씨 무신 정권이 무너지게 되었어요(1258년).\n이듬해에 고려는 몽골과의 강화를 맺기 위해 태자(훗날 원종)를 몽골로 보냈어요.",
+      "est_speech_ms": 43800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 17,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 고려와 몽골의 강화",
+      "narration": "그런데 고려의 태자가 몽골로 가던 도중 몽골의 황제인 대칸(몽케 칸)이 죽었다는 소식을 들었어요.\n설상가상으로 다음 대칸의 자리를 놓고 몽케 칸의 두 동생 쿠빌라이와 아릭 부케가 다툼을 벌이는 상황이 전개되었어요.\n이에 고려의 태자는 누구를 만나야 할지 난감한 상황이 발생하였어요.\n고민 끝에 고려의 태자는 쿠빌라이를 찾아갔어요. 이에 쿠빌라이는 크게 기뻐하며 고려의 태자를 맞이하였어요.\n\"고려는 만 리나 되는 나라이다. 일찍이 당 태종이 친히 공격하였어도 항복을 받지 못하였는데 지금 그 세자가 나에게 왔으니 이것은 하늘의 뜻이다.",
+      "est_speech_ms": 43600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 18,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 고려와 몽골의 강화",
+      "narration": "이에 고려의 태자는 쿠빌라이에 다음의 조건을 들어주면 강화를 하겠다고 요청하였어요.\n· 고려의 풍속은 바꾸지 않는다.\n· 조정에서 파견한 사람만 고려에 가고 다른 세력의 사신은 금지한다.\n· 개경 환도는 고려가 국력을 회복한 후에 한다.\n· 몽골군은 가을을 기한으로 압록강 밖으로 철수한다.\n· 설치하였던 다루가치는 모두 돌아오게 한다.\n쿠빌라이는 고려 태자의 강화 조건을 받아들였어요.\n한편, 4년간의 내란 끝에 몽골의 대칸 자리는 쿠빌라이가 차지하게 되었어요. 이에 따라 고려는 몽골이 침략 · 정복했던 다른 지역과 달리 나라를 그대로 유지하였고 고유의 제도와 풍속을 고치지 않아도 되었어요.",
+      "est_speech_ms": 47400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 19,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 고려와 몽골의 강화",
+      "narration": "비록 고려와 몽골 사이의 전쟁은 끝났지만, 권력을 잡고 있던 무신들의 반발 때문에 정부는 개경으로 돌아오지 못하였어요. 이로부터 10여 년 뒤에 고려 왕실과 조정은 강화도를 떠나 다시 개경으로 돌아오게 되었어요.",
+      "est_speech_ms": 17400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

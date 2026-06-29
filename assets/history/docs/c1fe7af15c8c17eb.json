@@ -1,0 +1,438 @@
+{
+  "schema_version": 2,
+  "doc_hash": "c1fe7af15c8c17eb",
+  "source_file": "eh_r0123_0010.pdf",
+  "title": "불교의 전래로 시작된 팔관회와 연등회",
+  "kind": "artifact",
+  "era": "고려",
+  "era_source": "docnum",
+  "scene_count": 20,
+  "section_count": 7,
+  "image_count": 10,
+  "est_total_ms": 872000,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "부처와 신령이 조화를 이룬 행사, 팔관회와 연등회",
+      "scene_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "팔관회 재현(한국문화재재단)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        4,
+        5,
+        6
+      ],
+      "scene_seq": [
+        5,
+        6,
+        7
+      ],
+      "image_captions": [
+        "팔관회로 개경에 모인 여러 나라 사람들"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        7,
+        8,
+        9
+      ],
+      "scene_seq": [
+        8,
+        9,
+        10
+      ],
+      "image_captions": [
+        "연등과 영등(주마등), 필룩스 조명박물관"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": null,
+      "scene_indices": [
+        10
+      ],
+      "scene_seq": [
+        11
+      ],
+      "image_captions": [
+        "연등 행렬(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "신령과 조화를 이룬 불교",
+      "scene_indices": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "scene_seq": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "image_captions": [
+        "산신각과 산신탱화(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": null,
+      "scene_indices": [
+        15
+      ],
+      "scene_seq": [
+        16
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기 : 연등회와 그림자 인형극",
+      "scene_indices": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "scene_seq": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "image_captions": [
+        "만석중 놀이"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "부처와 신령이 조화를 이룬 행사, 팔관회와 연등회",
+      "narration": "불교의 전래로 시작된 팔관회와 연등회\n“짐이 고려를 세우고 다스린 지 오래되어 몸은 이미 늙었다. 나라를 걱정하는 마음으로 열 가지 가르침을 전하니 이를 꼭 지키도록 하라.”\n“특히 부처를 모시는 연등과 국토를 지키는 신령에게 제사지내는 팔관은 절대 더하거나 줄이지 마라!”\n고려를 세운 왕건은 후손들에게 지켜야할 가르침(훈요 10조)을 남겼어요. 태조 왕건이 남긴 가르침 중에 연등회와 팔관회는 무엇일까요? 이들 행사를 꼭 실행하기를 원했던 까닭은 무엇일까요?\n부처와 신령이 조화를 이룬 행사, 팔관회와 연등회",
+      "est_speech_ms": 41200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "팔관회 재현(한국문화재재단)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c1fe7af15c8c17eb/fig_001.jpg",
+          "caption": "팔관회 재현(한국문화재재단)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "부처와 신령이 조화를 이룬 행사, 팔관회와 연등회",
+      "narration": "고조선의 건국 이야기가 담긴 삼국유사에는 하늘님의 자손 환웅과 곰과 호랑이가 등장하죠. 태백산, 신단수(나무)와 같은 자연물도 등장해요.\n선사 시대 사람들은 무서운 동물부터 하늘, 산, 강, 바다 등 두렵거나 이해하기 어려운 신비로운 대상을 신으로 모셨어요. 신에 의지하면 사람들의 가장 큰 고민인 배고픔과 질병, 전쟁과 자연재해에서 벗어날 수 있다고 믿었어요.",
+      "est_speech_ms": 29000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "부처와 신령이 조화를 이룬 행사, 팔관회와 연등회",
+      "narration": "이렇듯 자연의 여러 신을 믿고 모시는 종교를 무속 신앙이라고 해요.\n부족장이나 임금은 일 년이 끝나갈 무렵이나 시작할 무렵에 백성들을 한곳에 모아 하늘에 제사를 지냈어요.\n제사장이 이끄는 제사를 통해 일 년을 무사히 지낸 것에 감사하고, 새해에도 풍년이 들어 백성들의 삶이 평안하기를 기원했어요. 하늘을 향한 제사가 끝나면 사람들은 함께 음식과 술을 나눠먹고 춤을 추며 어울렸어요.\n하늘에 제사를 지내는 풍습은 삼국 시대에도 계속되었어요. 고구려, 백제, 신라, 가야는 모두 시조가 하늘에서 내려와 나라를 세웠다고 믿었어요. 그래서 하늘에 제사를 지내는 것은 일 년 중 가장 중요한 나라 행사였어요.",
+      "est_speech_ms": 48400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 0,
+      "section_title": "부처와 신령이 조화를 이룬 행사, 팔관회와 연등회",
+      "narration": "제사가 끝나면 제사 음식을 나눠먹고, 나라의 곳간을 열어 모든 백성이 배불리 먹게 하였어요. 며칠 동안 밤늦도록 백성들은 음악과 춤을 즐겼어요.\n삼국 시대에 하늘에 제사를 지내는 풍습은 불교가 들어오면서 그 모습이 달라졌어요. 신라 진흥왕은 전쟁터에서 죽은 병사들의 넋을 위로하기 위해 절에서 제사를 지냈는데, 그 이름이 팔관회였어요.\n팔관회는 원래 불교 신자들이 절에 가서 하루 낮 하루 밤 동안 여덟 가지 계율을 지키는 행사였어요.\n그러나 진흥왕은 불교 행사와 제사를 결합해 죽은 병사들과 그의 가족들을 위로하기 위한 나라 행사로 팔관회를 열었어요.",
+      "est_speech_ms": 45000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "부처의 가르침은 많은 전쟁으로 상처 입은 백성들을 위로하고, 그들의 마음을 한곳으로 모으는 데 효과적인 방법이었어요.\n신라의 팔관회는 화랑에 속한 승려가 중심이 되어 이끌었어요. 행사장에는 큰 무대를 만들었고, 화랑과 낭도들로 구성된 악대가 음악을 연주했어요.\n배에 용과 봉황, 코끼리, 말이 타고 있는 모습으로 꾸민 수레를 중심으로 화려한 춤과 음악, 곡예 등 다양한 공연이 펼쳐졌어요.\n제사와 불교 의식이 결합된 삼국 시대의 팔관회 모습은 고려에도 그대로 이어졌어요. 태조 왕건은 팔관회를 “하늘, 산, 강의 신과 바다의 용신을 섬기는 것”이라 말했어요.",
+      "est_speech_ms": 44600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "이것은 팔관회가 불교 의식으로 시작되었지만 이전부터 이어온 무속 신앙의 여러 신령들을 함께 모시는 나라의 중요 행사임을 분명히 한 것이죠.\n팔관회는 일 년이 끝나갈 무렵 개경과 서경(평양)에서 열렸어요. 팔관회가 열리면 국왕과 중앙 관리뿐만 아니라 지방의 여러 사람들도 개경에 올라와 참석했어요.\n여진족 추장과 탐라의 대표, 송 상인과 아라비아 상인도 참석해 축하 편지와 선물을 올리는 경우도 있었어요. 개경의 궁궐에는 선랑을 중심으로 여러 신들을 기쁘게 하는 춤과 음악 공연이 펼쳐졌어요.\n곡예사들의 재주놀이도 함께 공연되었어요. 공연은 무대 가운데에 설치한 바퀴모양의 등(윤등)에 불을 밝히고 밤늦게까지 계속되었어요. 등불과 횃불로 불을 밝힌 개성의 거리에는 사람들이 어우러져 축제를 즐기며 나라의 평안을 기원했어요.",
+      "est_speech_ms": 59600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "팔관회로 개경에 모인 여러 나라 사람들"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c1fe7af15c8c17eb/fig_029.jpg",
+          "caption": "팔관회로 개경에 모인 여러 나라 사람들",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "고려 시기 가장 중요한 나라 행사였던 팔관회는 조선이 세워지고 유교가 강조되면서 바로 폐지되었어요. 하늘, 산, 강의 신과 바다의 용신을 모시던 풍습도 금지되었어요.\n나라에서는 유교식으로 조상신을 모시는 제사를 지냈어요. 하지만 일반 백성들은 여전히 산신제나 용왕제라는 마을 제사를 통해 자연의 신을 모시면서 마을의 풍요와 사람들의 건강을 기원했어요.\n삼국 시대 불교가 들어오면서 생겨난 풍습에는 팔관회와 함께 연등회가 있어요.",
+      "est_speech_ms": 35600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "부처님에게 등을 바치는 연등회는 등불을 밝혀 자신의 마음을 밝게 하고, 부처의 뜻으로 세상이 평안해지기를 바라는 행사였어요.\n삼국 시대에 시작된 연등회는 처음에 한해가 시작되는 정월 대보름(또는 2월 보름)에 열렸어요. 사람들은 대나무와 종이로 등을 만들어 성문과 큰길가에 매달았어요. 밤에는 등에 불을 켜 성안을 대낮같이 밝혔어요.\n국왕과 왕족, 그리고 신하들은 절에서 태조 왕건에게 제사를 지냈어요. 다음날 성에 수만 개의 연등이 밝혀져 있는 모습을 구경하며 잔치를 열었어요. 백성들도 절에 가서 향을 피우고 그해의 복을 빌었어요. 그리고 궁궐 위봉루 앞의 무대에서 공연되는 춤과 음악, 곡예를 구경했어요.",
+      "est_speech_ms": 49600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "전국에서 올라온 상인들이 갖가지 특산품과 진기한 물건들을 가져와 임시 시장이 열렸어요. 백성들은 밝은 등불 아래 성안을 돌아다니면서 밤새도록 연등회를 즐겼어요.\n2월 보름에 열리던 연등회는 고려 중반에는 부처님이 태어난 날(사월 초파일)에도 열렸어요. 조선이 세워지자 2월 보름에 열리던 연등회는 폐지되었어요. 반면에 사월 초파일 연등회는 일반 백성들을 중심으로 사월\n초파일 연등놀이로 계속되었어요.\n조선시대 사월 초파일 연등놀이는 행사 며칠 전부터 준비가 시작되었어요. 민가와 관청, 시장, 거리의 집집마다 대나무에 등을 쭉 매달아 묶어세우고 오색 비단으로 꾸몄어요.",
+      "est_speech_ms": 47400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "연등과 영등(주마등), 필룩스 조명박물관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c1fe7af15c8c17eb/fig_047.jpg",
+          "caption": "연등과 영등(주마등), 필룩스 조명박물관",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "등은 학, 잉어, 거북, 오리, 연꽃 등 다양한 모양으로 만들었어요. 밤이 되면 늘어선 연등에 불을 붙여 세상을 밝혔어요.\n연등 중에는 영등(주마등)도 있었어요. 두 겹으로 만든 등 안쪽에 여러 그림 조각을 붙이고 회전하게 만들었어요. 등 가운데에 촛불을 켜면 바깥쪽 등에 움직이는 그림자가 생겼어요.\n그림자는 주로 말을 탄 사람이 호랑이나 사슴을 사냥하는 모습으로 만들었어요. 등이 회전을 하면 사냥꾼이 짐승을 쫓는 모습의 움직이는 그림자에 사람들은 매우 신기해했어요.\n사월 초파일 밤에는 통행금지가 해제되어 사람들은 도성 밖 절에 가서 참배를 하였어요. 그리고 산에 올라 형형색색의 등불을 구경하고 밤새도록 성안을 돌아다니면서 떠들썩하게 놀았어요. 아이들도 등불 밑에 앉아 떡과 볶은 콩을 먹으며 여럿이 함께 놀이를 즐겼어요.",
+      "est_speech_ms": 58800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "이전부터 내려온 자연 속의 여러 신을 모시던 무속 신앙과 새로 전래된 불교 신앙이 합쳐 만들어진 팔관회와 연등회는 고려 시대에는 모든 사람들이 즐기는 아주 큰 나라 축제였어요.\n그러나 불교보다 유교를 더 중시한 조선시대에는 금지되며 크게 쇠퇴하였어요. 다만 일반 백성들을 중심으로 마을 제사나 사월 초파일 행사로 계속되었어요.\n지금도 사람들 속에 풍요롭고 평화로운 세상을 원하는 뜻은 계속되어 ‘석가탄신일’에 절이나 지역 축제를 통해 이어지고 있어요.",
+      "est_speech_ms": 37200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "연등 행렬(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c1fe7af15c8c17eb/fig_059.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/c1fe7af15c8c17eb/fig_065.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "신령과 조화를 이룬 불교",
+      "narration": "신령과 조화를 이룬 불교\n팔관회의 팔관은 인도에서 전해진 불교 신자들이 지켜야할 여덟 가지 계율을 말해요(살생, 도둑질, 음행, 거짓말, 술, 화려한 장식과 유흥, 좋고 편안한 자리, 오후에 음식 먹기 등을 하지 마라).\n일반 백성이 생활을 하면서 불교의 계율을 지키는 것은 쉽지 않았어요.\n그래서 불교 신자들은 며칠 동안 절에 들어가 계율을 지키는 수행을 했어요.\n이런 모임을 팔관회라 불렀어요. 요즘 템플스테이라는 절 체험 행사와 매우 닮았어요. 신자들은 팔관회 수행을 통해 몸과 마음을 맑게 하고, 평소의 잘못된 행동을 반성해 부처가 되는 길을 찾고자했어요.",
+      "est_speech_ms": 44200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "산신각과 산신탱화(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c1fe7af15c8c17eb/fig_067.jpg",
+          "caption": "산신각과 산신탱화(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 4,
+      "section_title": "신령과 조화를 이룬 불교",
+      "narration": "신자들의 불교 수행 모임이었던 팔관회는 삼국 시대 우리나라에 들어오면서 무속 신앙의 여러 신을 함께 모시는 행사로 변화했어요.\n이것은 새로 들어온 불교가 기존의 신들을 인정하면서 백성들의 마음속에 거부감 없이 전해지기를 바랐기 때문이죠.\n기존의 신앙을 인정하면서 부처의 뜻을 전하고자했던 불교의 모습은 절에도 남아있어요. 우리나라에서는 절을 만들 때 산신령을 모신 산신각을 함께 지었어요. 절 안에 불교 밖의 신령을 모신 건물을 짓는 것은 다른 나라에서는 보기 힘들어요.\n마을 사람들은 매년 산신각에서 산신제를 지내며 마을의 평안을 기원했어요. 신앙을 통해 마음의 평화를 얻고, 복을 기원하는 것은 불교나 무속 신앙이나 크게 다르지 않았어요. 불교는 기존의 신령들과 조화를 이루며 백성들에게 빠르게 전파되었어요.",
+      "est_speech_ms": 59200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 4,
+      "section_title": "신령과 조화를 이룬 불교",
+      "narration": "팔관회와 연등회에서 펼쳐진 백희가무는 어떤 모습이었을까?\n팔관회에서 임금과 신하들, 손님들이 자리를 잡으면 백희가무가 펼쳐졌어요.",
+      "est_speech_ms": 11200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 4,
+      "section_title": "신령과 조화를 이룬 불교",
+      "narration": "백희가무란 노래, 춤, 곡예 등 행사에서 펼치는 각종 공연을 말해요.\n백희가무가 어떤 모습이었는지는 자세히 알 수는 없으나 고구려의 고분 벽화나 남아있는 기록을 바탕으로 추정할 수 있어요.\n첫 공연은 신들을 위한 선랑의 춤이었어요. 선랑의 춤이 끝나면 인간을 위한 공연이 펼쳐졌어요. 공연은 나쁜 귀신을 쫓기 위한 탈춤으로 시작되었어요.\n전염병을 퍼트리는 귀신을 노래와 춤으로 물리쳤다고 전해지는 처용의 탈을 쓰고 춤을 추었어요. 그리고 인도에서 불법을 지키는 동물로 믿었던 사자의 탈을 쓰고 춤을 추었어요. 사자가 입을 크게 벌려 나쁜 귀신을 잡아먹는 동작을 하였어요.",
+      "est_speech_ms": 46400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 16,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "탈춤과 함께 곡예사들의 재주놀이가 펼쳐졌어요. 여러 개의 방울, 칼, 막대 등을 공중에 던졌다 받기, 접시돌리기, 공중에 바퀴를 쳐서 올려 돌리기 등 다양한 기구를 가지고 묘기를 펼쳤어요. 나무다리 걷기, 줄타기, 솟대타기 등 높은 곳에 올라 곡예를 펼치기도 했어요.\n여러재주놀이 중솟대타기는 가장 인기가 많았어요.\n아무런 보호 장치 없이 높이 세운 장대 위에 올라 한 다리로 서거나 두 다리를 번갈아 서는 동작을 했어요. 높은 곳에서 평지를 걷듯이 움직이는 모습에 사람들은 기겁을 하면서도 신나했어요.\n인기가 많았던 솟대타기는 고려시대에 중요한 나라 행사뿐만 아니라 임금이나 외국 사신, 전쟁터에서 돌아오는 장군을 맞이하는 행사에서도 공연되었어요.",
+      "est_speech_ms": 52600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/c1fe7af15c8c17eb/fig_090.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/c1fe7af15c8c17eb/fig_091.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/c1fe7af15c8c17eb/fig_092.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 17,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기 : 연등회와 그림자 인형극",
+      "narration": "삼국시대에 들어온 백희가무는 조선시대까지 각종 행사에서 꾸준히 공연되었어요. 백성들에게 많은 즐거움을 주었던 백희가무의 전통은 궁중무용, 탈춤, 남사당놀이 등으로 전해져 옛 사람들의 흥과 멋을 지금도 보여주고 있어요.\n역사 속 작은 이야기: 연등회와 그림자 인형극\n연등회에서는 다양한 모양의 등을 만들어 불을 밝혔어요. 어두운 밤에 불을 밝히면서 자연스럽게 생긴 그림자를 이용한 놀이도 함께 만들어졌어요.",
+      "est_speech_ms": 33800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 18,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기 : 연등회와 그림자 인형극",
+      "narration": "바람에 따라 움직이는 그림자를 구경하는 영등 놀이가 있었고, 그림자를 사람이 직접 움직여 보여주는 인형극도 있었어요.\n그림자 인형극은 흰 천을 이용해 막을 만들고 횃불을 비추어 그림자를 만들었어요. 공연자들은 막 뒤에서 인형을 직접 움직이며 공연을 했어요. 개성에서 유행했던 그림자 인형극에는 ‘만석중 놀이’가 있어요.\n목각 인형으로 만든 만석중이 막에 비춰지면 극이 시작되었어요. 만석중 옆으로 종이로 만든 십장생이 차례로 나타났어요. 십장생은 해와 달, 거북이와 학처럼 늙지 않고 오래 사는 것들을 말해요.",
+      "est_speech_ms": 41600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "만석중 놀이"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c1fe7af15c8c17eb/fig_100.jpg",
+          "caption": "만석중 놀이",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 19,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기 : 연등회와 그림자 인형극",
+      "narration": "시간이 지나고 십장생이 하나둘 사라졌어요.\n그리고 잉어와 용이 나타나 여의주를 얻으려 이리저리 다투며 움직였어요.\n꿈틀거리는 용과 잉어 그림자를 배경으로 한 스님이 무대 앞으로 나와 춤을 추었어요. 만석중은 자신의 팔다리를 움츠려 가슴과 머리를 치면서 깨달음을 얻었음을 표현했어요.\n그 깨달음은 세상에 영원한 것은 아무것도 없다는 부처의 가르침이었죠. 깨달음을 얻은 만석중이 사라지면서 그림자 인형극도 끝났어요.\n만석중 놀이는 대사 없이 그림자와 북, 징, 꽹과리, 장구 등 타악기 소리로만 공연되었어요. 많은 백성이 글을 몰랐던 시기 그림자 인형극을 통해 부처의 가르침을 효과적으로 전할 수 있었어요.",
+      "est_speech_ms": 49600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 20,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기 : 연등회와 그림자 인형극",
+      "narration": "팔관회와 연등회는 기존의 종교와 불교가 만나 새로운 문화를 만들어 가는 모습을 볼 수 있어요. 다양한 공연과 놀이를 통해 백성들이 불교를 자연스럽게 이해하고 받아들일 수 있도록 변화하였어요.\n지금은 세계와 교류하며 다양한 문화가 들어오고 있어요. 고려의 두 나라 행사를 보며 어떤 태도로 새로운 문화를 만들어갈지 생각해 보아요.",
+      "est_speech_ms": 27000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

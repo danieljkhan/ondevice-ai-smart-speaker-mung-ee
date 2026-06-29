@@ -1,0 +1,315 @@
+{
+  "schema_version": 2,
+  "doc_hash": "f09f42127cc62434",
+  "source_file": "eh_n0900_0010.pdf",
+  "title": "손기정, 올림픽 마라톤 대회에서 우승을 하다",
+  "kind": "people",
+  "era": "일제강점기",
+  "era_source": "keyword",
+  "scene_count": 14,
+  "section_count": 5,
+  "image_count": 7,
+  "est_total_ms": 551700,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "배고픔을 잊기 위해 달리다",
+      "scene_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "손기정기념관(서울 중구)",
+        "자전거를 탄 사람과 경주하는 손기정"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "마라톤 대회에서 첫 우승을 차지하다",
+      "scene_indices": [
+        4
+      ],
+      "scene_seq": [
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "열차를 타고 대륙을 가로질러 베를린에 가다",
+      "scene_indices": [
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "일장기를 달고 베를린 올림픽에서 우승하다",
+      "scene_indices": [
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "베를린으로 가는 손기정",
+        "결승선을 통과하는 손기정 선수(한국학중앙연구원)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "한국 마라톤을 위해 일하다",
+      "scene_indices": [
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "고대 그리스 청동 투구(국립중앙박물관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "배고픔을 잊기 위해 달리다",
+      "narration": "손기정, 올림픽 마라톤 대회에서 우승을 하다\n“아니, 올림픽 마라톤 우승자의 표정이 왜 저리 어두울까요?”\n“글쎄 말이에요. 눈시울도 붉어진 것 같은데요.”\n“세상에서 가장 슬픈 우승자의 모습이네요”\n올림픽 마라톤 경기에서 우승하고도 슬픈 표정을 지은 이 분은 누구일까요? 그는 왜 우승을 하고도 세상에서 가장 슬픈 표정을 지었던 것일까요?\n배고픔을 잊기 위해 달리다\n이 사람은 바로 1936년 독일 베를린 올림픽 마라톤 경기에서 우승을 차지한 손기정 선수예요.",
+      "est_speech_ms": 36600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "손기정기념관(서울 중구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f09f42127cc62434/fig_001.jpg",
+          "caption": "손기정기념관(서울 중구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "배고픔을 잊기 위해 달리다",
+      "narration": "그는 우리나라가 일제에 국권을 빼앗긴 후 2년이 지난 1912년 평안북도 신의주에서 태어났어요. 손기정 집안은 찢어질 듯 가난했어요.\n달리기를 잘했던 그는 배고픔을 잊기 위해 자갈길을 달리고 또 달렸어요.\n“멋지다! 나도 스케이트 타고 싶다.”\n그러던 어느 날 강 얼음 위에서 스케이트 타는 모습을 본 그는 스케이트를 타고 싶었어요. 하지만 가난한 그가 비싼 스케이트를 사서 타는 일은 꿈도 꿀 수 없는 일이었지요. 이후 그는 자신이 가장 잘할 수 있는 달리기를 더 열심히 했어요. 어찌나 빠른지 자전거를 탄 사람도, 어른들도 이겨내곤했어요.",
+      "est_speech_ms": 43000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "배고픔을 잊기 위해 달리다",
+      "narration": "그러나 손기정의 어머니는 달리기하는 아들이 맘에 들지 않았지요. 그래서 신발도 헐거운 큰 고무신을 사주곤했어요. 손기정은 이에 아랑곳하지 않고 새끼줄로 고무신을 꽁꽁 묶고 달렸어요.\n그의 어머니도 결국 학교 운동회 달리기에서 일등을 도맡아하는 손기정을 본 뒤 생각을 바꾸고 응원하기 시작했어요.\n당시 식민지 조선인 학생들은 보통학교(지금의 초등학교)를 졸업하면 대부분 집안 형편 때문에 일자리를 찾아 나섰어요.\n손기정은 사정이 더 어려워 학교를 다닐 때부터 일했어요. 눈발이 휘날리는 겨울, 꽁꽁 언 손을 불어가며 군고구마와 군밤을 팔았어요. 허드렛일을 하고, 인쇄소에 취직도 했어요. 하지만 손기정의 손에 쥐어지는 돈은 얼마 되지 않았어요.",
+      "est_speech_ms": 52800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "자전거를 탄 사람과 경주하는 손기정"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f09f42127cc62434/fig_018.jpg",
+          "caption": "자전거를 탄 사람과 경주하는 손기정",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 0,
+      "section_title": "배고픔을 잊기 위해 달리다",
+      "narration": "“이렇게 학교도 다니지 못하고, 운동도 제대로 할 수 없다면 나의 미래는 어떻게 될까? 안 되겠다. 일본으로 건너가야겠다!”\n16세에 일본으로 건너간 손기정은 낮에는 일하고, 저녁에는 운동했어요.",
+      "est_speech_ms": 15400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "마라톤 대회에서 첫 우승을 차지하다",
+      "narration": "2년여 가량의 일본 생활은 생각보다 힘들었어요. 자신이 생각하던 모습도 아니었고요. 결국 손기정은 다시 고국으로 돌아가기로 마음먹었어요.\n마라톤 대회에서 첫 우승을 차지하다\n고향으로 돌아온 손기정은 평안북도 대표로 여러 달리기 대회에 참석했어요. 그러면서 사람들의 눈에 띄게 되었지요. 1931년 서울에서 열리는 조선신궁대회 5,000m 달리기 경기에서는 2위를 차지했어요. 이 대회에서 그는 마라톤 경기 선수들을 보며 새로운 사실을 알게 되었어요.\n“저 사람들은 얼마나 먼 거리를 달리는 겁니까?”\n“백리를 달린다오, 백리.”",
+      "est_speech_ms": 43100,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "열차를 타고 대륙을 가로질러 베를린에 가다",
+      "narration": "“백리라면 40킬로미터가 넘는 거리 아닙니까? 그런 달리기 종목이 있습니까?”\n“마라톤이라오.”\n마라톤이라는 종목을 알게 된 손기정은 자신도 잘할 수 있을 것 같았어요.\n그리고 드디어 처음으로 마라톤 대회에 참가하게 되었어요. 동아일보사가 주최한 마라톤 대회였지요. 이 대회에서 그는 2위라는 놀라운 성적을 기록했어요.\n덕분에 육상으로 이름을 날리던 양정고등보통학교에 입학할 수 있었어요. 이후 그는 각종 마라톤 대회에서 우승을 차지하며 자신의 존재를 널리 알렸어요.\n열차를 타고 대륙을 가로질러 베를린에 가다",
+      "est_speech_ms": 41800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "열차를 타고 대륙을 가로질러 베를린에 가다",
+      "narration": "손기정은 1935년에 열린 베를린 올림픽 일본 대표 선발전과 메이지신궁 체육 대회에서도 1위를 차지했어요. 메이지신궁 체육대회에서는 세계 신기록까지 세웠지요.\n하지만 메이지신궁 체육대회 시상대에 오른 그는 눈물을 뚝뚝 떨어뜨렸어요. 애국가 대신 일본의 국가가 운동장에 울려 퍼졌거든요. 하지만 다음날 신문에는 엉뚱한 내용의 기사가 실렸어요.\n‘표창대 위에 올라선 손 군은 너무나 감격한 나머지 고개를 숙이고 스탠드의 관중이 부르는 국가에 묻혀 조용히 눈물짓고 있었다.’",
+      "est_speech_ms": 39200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "열차를 타고 대륙을 가로질러 베를린에 가다",
+      "narration": "큰 규모의 대회에서 세계 신기록으로 우승을 차지해도 그는 기쁨을 누릴 수 없는 조국의 현실이 너무 가슴 아팠어요. ‘일본과 조선은 하나’라며 우리 민족의 정신을 없애려고 하는 일본으로부터 빨리 독립하고 싶은 마음이 더욱 깊어졌어요.\n1936년에 손기정은 남승룡과 함께 일본 마라톤 대표에 뽑혀 올림픽에 참가 하게 되었지요. 나라를 잃은 처지였기에 어쩔 수 없었어요.\n손기정과 남승룡을 비롯한 일본인 대표 선수들이 탄 열차는 아시아 대륙을 가로질러 달렸어요. 신의주를 거쳐 일본이 세운 만주국의 도시와 모스크바를 거쳐 베를린에 도착했어요.",
+      "est_speech_ms": 44200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "일장기를 달고 베를린 올림픽에서 우승하다",
+      "narration": "일장기를 달고 베를린 올림픽에서 우승하다\n1936년 8월 9일, 드디어 올림픽의 꽃이라고 불리는 마라톤 경기가 열렸어요. 올림픽 주경기장을 가득 채운 관중들의 함성이 높았어요.\n50여 명의 마라톤 선수들이 긴장한 채 출발선에 섰어요. 그 틈에 손기정 선수와 남승룡 선수도 있었지요. 손기정은 ‘손기테이’라는 이름으로 일장기를 달고 출전했지요. 드디어 신호와 함께 그는 출발했어요.\n42.195km를 달리는 동안 발은 퉁퉁 부어오르고, 머리가 지끈거리기도 했어요. 하지만 있는 힘을 다해 뛰었어요.",
+      "est_speech_ms": 40400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "베를린으로 가는 손기정"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f09f42127cc62434/fig_049.jpg",
+          "caption": "베를린으로 가는 손기정",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "일장기를 달고 베를린 올림픽에서 우승하다",
+      "narration": "“와, 드디어 선수가 들어온다.”\n경기장 안을 가득 메우고 있던 관중들이 박수를 치며 일어났고, 나팔수들은 나팔을 불었어요. 마라톤 우승자인 손기정 선수가 들어오고 있었거든요.\n“2시간 29분 19초 2!”\n세계 신기록이었어요. 그를 이어 3위로 남승룡 선수도 들어왔어요.\n손기정은 너무도 감격스러웠어요. 하지만 곧이어 깊은 슬픔이 밀려왔지요. 일장기를 단채, 월계관을 쓰고 우승 메달을 받아야 하니 말이에요.\n사실 손기정의 우승은 우리 민족에게만 특별한 것은 아니었어요.\n베를린 올림픽은 독일의 나치 정권을 이끈 히틀러가 자기 민족의 우월성과 나치의 권위를 전 세계에알리기 위해 연 대회에요. 그런데 올림픽의 꽃인 마라톤 경기에서 유럽계 백인이 아닌 이른바 유색 인종이 우승하는 바람에 히틀러의 꿈은 산산조각이 났지요.",
+      "est_speech_ms": 58400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "결승선을 통과하는 손기정 선수(한국학중앙연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f09f42127cc62434/fig_059.jpg",
+          "caption": "결승선을 통과하는 손기정 선수(한국학중앙연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": "일장기를 달고 베를린 올림픽에서 우승하다",
+      "narration": "시상대에 오른 손기정은 고개를 떨구고 운동장에 울려 퍼지는 일본 국가를 들어야 했어요. 그의 얼굴에서 우승자의 기쁜 표정을 찾아볼 수 없었어요. 하지만 그는 경기가 끝난 후 외국 기자들과의 인터뷰에서 당당히 한국 선수임을 알렸지요.\n“나는 일본인이 아닌 한국인이오. 한국에서 왔소.”",
+      "est_speech_ms": 22800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "한국 마라톤을 위해 일하다",
+      "narration": "동아일보는 아예 손기정 선수의 시상식 사진에서 일장기를 지워버렸어요. 며칠 지나 또 한 번 동아일보에서 일장기를 지운 사진을 내보냈어요.\n이 사실이 알려지면서 조선총독부는 조선중앙일보 신문을 내지 못하게 하다 결국 문을 닫게 했고, 동아일보도 얼마 동안 신문을 내지 못하게 했지요. 뿐만 아니라 손기정 선수도 경기에 나갈 수 없게 되었고, 심지어 일제의 감시를 받아야 했어요.\n한국 마라톤을 위해 일하다\n1945년 꿈에 그리던 광복을 맞은 뒤 손기정은 ‘조선마라톤보급회’를 만들어 후배 마라톤 선수들을 길러냈어요.",
+      "est_speech_ms": 42000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/f09f42127cc62434/fig_070.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/f09f42127cc62434/fig_071.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 4,
+      "section_title": "한국 마라톤을 위해 일하다",
+      "narration": "그가 길러낸 서윤복 선수가 1947년 미국에서 열린 보스턴 마라톤 대회에서 우승을 차지하기도 했어요.\n우리나라 선수가 태극기를 달고 처음으로 참석한 국제 마라톤 대회에서 우승을 차지한 거예요. 손기정은 마치 자신이 우승한 것처럼 기뻤어요.\n보스턴 하늘에 일본 국가가 아닌 애국가가 울려 퍼질 때 감격스러운 마음에 눈물을 흘렸어요.",
+      "est_speech_ms": 27400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 4,
+      "section_title": "한국 마라톤을 위해 일하다",
+      "narration": "청동 투구는 마라톤 우승자에게 주어지던 것인데,손기정에게 전달되지 못한 채 베를린 박물관에 50여 년간 보관되어 있었다. 그러다 1986년 베를린 올림픽 개최 50주년을 기념하여손기정에게 전달되었다.\n일제 강점기, 손기정은 베를린 올림픽 마라톤 경기에서 우승하며 한국 사람들에게 희망과 용기를 주었어요. 또 전 세계에 한국을 널리 알렸고요. 일제 강점기에는 손기정처럼 일제의 탄압으로 고통스럽게 살았던 한국인에게 희망을 준 사람들이 많았답니다.",
+      "est_speech_ms": 37600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "고대 그리스 청동 투구(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f09f42127cc62434/fig_082.jpg",
+          "caption": "고대 그리스 청동 투구(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

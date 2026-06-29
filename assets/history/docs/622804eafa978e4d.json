@@ -1,0 +1,532 @@
+{
+  "schema_version": 2,
+  "doc_hash": "622804eafa978e4d",
+  "source_file": "eh_r0290_0010.pdf",
+  "title": "조선의 왕들이 잠들어 있는 조선 왕릉",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 20,
+  "section_count": 10,
+  "image_count": 15,
+  "est_total_ms": 854600,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "영릉(효종과 인선왕후의 릉, 경기 여주시), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "조선 왕들의 마지막 궁궐, 조선 왕릉",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "제사를 준비하는 재실",
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "왕릉으로 들어가는 입구의 물길, 금천",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "영릉 재실(문화재청)",
+        "금천과 금천교"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "인간의 세계와 신의 세계를 구분하는 홍살문",
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [
+        "홍살문",
+        "참도(신도와 어도)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "제사를 지내는 공간, 정자각",
+      "scene_indices": [
+        10,
+        11,
+        12
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13
+      ],
+      "image_captions": [
+        "정자각의 동쪽과 서쪽"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "무덤을 지키는 신하, 문인상과 무인상",
+      "scene_indices": [
+        13
+      ],
+      "scene_seq": [
+        14
+      ],
+      "image_captions": [
+        "사초지"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "조선 왕릉의 비밀, 혼유석",
+      "scene_indices": [
+        14,
+        15
+      ],
+      "scene_seq": [
+        15,
+        16
+      ],
+      "image_captions": [
+        "무덤 앞의 문인석과 무인석",
+        "무덤 앞의 혼유석"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 8,
+      "section_title": "무덤을 지켜주는 석수와 곡장",
+      "scene_indices": [
+        16,
+        17,
+        18
+      ],
+      "scene_seq": [
+        17,
+        18,
+        19
+      ],
+      "image_captions": [
+        "무덤 주변의 석수와 곡장",
+        "유릉의 석물(낙타와 코끼리 석물), 한국문화재재단"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 9,
+      "section_title": null,
+      "scene_indices": [
+        19
+      ],
+      "scene_seq": [
+        20
+      ],
+      "image_captions": [
+        "홍릉 일자각(한국문화재재단)",
+        "조선 왕릉의 분포"
+      ],
+      "is_infographic": true
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "조선의 왕들이 잠들어 있는 조선 왕릉\n“우와! 이곳이 바로 신의 정원이군요.”\n“자연과 인공이 훌륭하게 조화된 곳이라고 생각합니다.”\n2008년 조선 세조의 무덤인 광릉을 둘러본 유럽 정원건축가들은 한동안 입을 다물지 못했어요.\n이들은 풍경이 강조된 유럽의 정원과 달리 조선 왕릉이 자연과 인공의 조화가 뛰어난 최고의 정원이라며 감탄했지요.\n조선의 왕들이 죽은 뒤 잠들어 있는 조선 왕릉은 어떻게 만들어졌고, 어떤 모양을 하고 있을까요?",
+      "est_speech_ms": 35200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "영릉(효종과 인선왕후의 릉, 경기 여주시), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_001.jpg",
+          "caption": "영릉(효종과 인선왕후의 릉, 경기 여주시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "조선 왕들의 마지막 궁궐, 조선 왕릉",
+      "narration": "조선 왕들의 마지막 궁궐, 조선왕릉\n왕릉은 죽은 왕이 머무는 마지막 궁궐이라고 할 수 있어요. 그래서 조선시대에는 손꼽히는 좋은 자리, 즉 명당에 최고의 건축가들과 많은 백성들을 동원해 왕릉을 만들었어요. 조선 시대에는 왜 이처럼 왕릉을 만드는 데 많은 노력을 기울였을까요?\n왕이 죽으면 왕위 계승자가 곧바로 왕위를 물려받아요. 새 왕으로서는 자신의 능력을 인정받을 수 있는 첫 시험대가 바로 돌아가신 전 왕의 무덤을 만드는 일이라고 생각했어요. 그래서 전 왕의 무덤, 즉 왕릉을 만드는 데 최대한 노력을 기울였지요.",
+      "est_speech_ms": 41600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "조선 왕들의 마지막 궁궐, 조선 왕릉",
+      "narration": "왕릉을 만드는 일은 오랜 시간이 걸리고 많은 사람들이 동원되는 대형 공사였어요. 태조 이성계의 무덤인 건원릉은 4개월 동안 6천여 명이 왕릉을 만드는 일에 매달렸다고 해요.\n왕릉을 만드는 일에는 경기도, 충청도, 황해도 등 전국 각지에서 온 군인, 농민, 상인, 승려, 노비 등 다양한 사람들이 동원되었어요. 이들은 이름난 건축가들의 지시에 따라 각자 주어진 일을 했어요.\n왕릉을 만드는 데는 비용도 많이 들었어요. 세종의 시신을 담은 관을 원래 있던 헌릉 서쪽에서 경기도 여주에 있는 무덤(영릉)으로 옮길 때 상여꾼 1,500여명이 동원되었다고 해요.",
+      "est_speech_ms": 43800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "조선 왕들의 마지막 궁궐, 조선 왕릉",
+      "narration": "이들은 3교대로 서울에서 여주까지 상여를 메고 가야 했어요. 또한 석공을 비롯한 건축가 150명, 부역에 동원된 사람들이 5,000명이었어요.\n이런 것을 보면 왕릉을 만드는 일은 정말 어마어마한 사업이라고 할 수 있겠죠?\n조선의 왕들은 조상에 대한 예의를 갖추기 위해 정기적으로 왕릉에 가서 제사를 지냈어요. 그래서 조선 왕릉은 왕이 머물고 있는 한양 도성과 가까운 곳에 자리하고 있어요. 경복궁과 창덕궁에서 100리(약 40km) 안에 위치해 있어 왕이 하루 사이 다녀올 수 있도록 했지요.\n이처럼 조선 왕릉은 왕이 제사지내러 오기 적당한 곳에 만들어졌어요.\n제사는 준비 - 제례(제사 의식) - 마침으로 이어지는데, 왕릉도 이 순서에 맞춰 세 영역으로 나누어져 있어요.",
+      "est_speech_ms": 53400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "제사를 준비하는 재실",
+      "narration": "제사를 지낼 때 제물(제사에 쓰이는 동물이나 음식물)을 마련하는 공간, 제물을 바치고 신(죽은 왕)을 만나는 공간, 그리고 왕릉의 주인인 죽은 왕이 머무는 공간으로 구성되어 있어요.\n세 공간을 나누는 기준은 각각 홍살문과 정자각이에요. 홍살문의 바깥쪽은 제사를 준비하는 재실이 있고, 홍살문 안쪽에는 정자각이 있어요.\n정자각에서 예법에 따라 제사를 올리지요. 정자각 너머 높은 언덕 위에는 죽은 왕의 무덤인 능침이 있어요.\n조선 왕릉은 500년이 넘는 역사를 자랑하는 조선의 유교 사상과 당시의 최고 건축 기술이 담겨 있는 소중한 문화유산이에요. 그래서 2009년에는 유네스코 세계유산에 등재되었지요.",
+      "est_speech_ms": 49000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "제사를 준비하는 재실",
+      "narration": "그런데 이 거대한 사업은 이름 없는 백성들의 고단한 손놀림과 땀이 없었다면 결코 완성될 수 없었을 거예요.\n따라서 우리는 조선의 왕뿐만 아니라 백성들에게도 고마운 마음을 가지면 좋겠어요. 이제부터 조선 왕릉에 대해 자세히 살펴볼까요?",
+      "est_speech_ms": 19200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_031.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "왕릉으로 들어가는 입구의 물길, 금천",
+      "narration": "제사를 준비하는 재실\n조선을 이끌어갔던 사상은 유교였어요. 유교 사상에서는 부모님과 조상에게 효를 다하는 것을 매우 중요하게 여겼어요.\n제사는 부모님과 조상에게 고마움을 표시하는 방식의 하나라고 할 수 있어요. 그래서 조선 왕릉에 있는 여러 시설들도 유교의 제사 의식과 관련이 깊어요.\n왕릉의 홍살문 바깥에 있는 재실은 제사를 준비하는 곳이에요.\n제물을 마련하고 제례를 준비하는 모든 일들이 이곳에서 이루어지지요.\n왕릉으로 들어가는 입구의 물길, 금천\n재실을 지나 숲길을 따라가면 왕릉을 가로 질러 흐르는 작은 물길을 만나게 됩니다. 왕릉을 가려면 반드시 이 ‘금천’이라는 물길을 건너야 해요.",
+      "est_speech_ms": 48600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "영릉 재실(문화재청)",
+        "금천과 금천교"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_035.jpg",
+          "caption": "영릉 재실(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_042.jpg",
+          "caption": "금천과 금천교",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "왕릉으로 들어가는 입구의 물길, 금천",
+      "narration": "이 금천을 지나기 전까지는 사람들이 사는 세속의 땅이지만 금천을 건너면 신이 사는 안쪽 세상, 즉 죽은 왕의 혼백이 머무는 신성한 공간이지요.\n왕릉이 있는 곳에는 오로지 깨끗하고 신성한 것만 들어갈 수 있어요. 그래서 사악한 기운을 금한다고 해서 이 물길을 금천이라고 해요. 이 물길을 건너는 다리는 금천교라고 하지요.",
+      "est_speech_ms": 25600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "인간의 세계와 신의 세계를 구분하는 홍살문",
+      "narration": "인간의 세계와 신의 세계를 구분하는 홍살문\n금천교를 건너면 붉은색 칠을 한 문이 우뚝 서 있어요. 이제 정말 신의 세계로 들어간다는 표시이지요. 나무로 만들어진 홍살문은 출입문의 역할도 했지만, 신성한 장소라는 것을 알리고 보호하는 의미도 갖고 있어요.\n옛날부터 붉은색은 악귀(나쁜 귀신)를 물리치는 색으로 알려져 있지요. 한편, 홍살문의 태극 문양 위에 있는 삼지창은 나쁜 기운을 막는 풍수적인 의미를 지니고 있어요\n왕릉으로 가는 길, 신도와 어도\n홍살문에 들어서면 제사를 지내는 정자각까지 이어진 돌길을 만나게 돼요. 이 돌길을 참도라고 하는데, 길이 두 개로 구분되어 있어요.",
+      "est_speech_ms": 46800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "홍살문"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_051.jpg",
+          "caption": "홍살문",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "인간의 세계와 신의 세계를 구분하는 홍살문",
+      "narration": "자세히 보면 왼쪽 길은 조금 높게 되어 있고, 오른쪽 길은 조금 아래에 있어요. 우리는 어느 쪽 길로 걸어가야 할까요?\n참도의 왼쪽 높은 길을 ‘신도(神道)’라고 하고, 오른쪽 낮은 길을 ‘어도 (御道)’라고 해요. 신도(神道)는 한자의 뜻 그대로 신(죽은 왕의 영혼)이 다니는 길이에요. 즉 무덤에 묻힌 왕과 왕비의 영혼이 다니는 길이지요.\n반면 어도(御道)는 사람이 다니는 길로, 제사를 지내러 가는 왕이 다녔어요. 우리는 무덤 주인인 왕의 영혼이 아니라 살아있는 사람이므로 오른쪽 길로 걸어가야겠지요.\n그런데 어도를 가만히 살펴보세요! 울퉁불퉁하지요?",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "참도(신도와 어도)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_059.jpg",
+          "caption": "참도(신도와 어도)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "제사를 지내는 공간, 정자각",
+      "narration": "경복궁의 근정전 앞에도 이런 길이 놓여져 있어요. 왕이 밟고 가는 길인데, 왜 이렇게 울퉁불퉁하게 만들었을까요?\n이런 길에서는 공손한 마음으로 걸으라는 뜻이 담겨 있어요. 울퉁불퉁하니까 넘어지지 않으려면 자연스레 고개를 숙여야 하고 걸음도 조심스러워야 하겠지요. 돌아가신 옛 임금님께 제사 드리러 가기 위해 참도를 걷다보면 마음이 자연스럽게 엄숙해지고 공손해질 것 같아요.\n어떤 왕릉은 어도가 신도의 오른쪽뿐만 아니라 양쪽에 있기도 해요.\n제사를 지내는 공간, 정자각\n신도와 어도는 곧게 정자각 앞으로 뻗어 있어요. 그리고 정자각 앞에서 오른쪽으로 꺾인 후 다시 한 번 더 꺾였어요. 신도와 어도가 끝나는 곳에 계단이 있어요. 신도는 구름이 새겨진 소맷돌(돌계단의 난간) 계단으로 이어지고, 어도는 소맷돌 없는 계단으로 이어져요.",
+      "est_speech_ms": 59400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "제사를 지내는 공간, 정자각",
+      "narration": "이처럼 참도에서 정자각으로 오르는 계단도 죽은 영혼의 영역과 살아있는 사람의 영역이 나뉘어져 있지요.",
+      "est_speech_ms": 8600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정자각의 동쪽과 서쪽"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_074.jpg",
+          "caption": "정자각의 동쪽과 서쪽",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "제사를 지내는 공간, 정자각",
+      "narration": "그런데 정자각의 동쪽 계단은 2개이고 왼쪽 계단은 1개에요. 왜 계단의 숫자가 다를까요?\n정자각에 들어갈 때는 동쪽으로 올라가요. 신(신의 영혼)과 사람이 따로 갈 수 있도록 계단이 2개예요. 정자각에서 신령은 능(무덤)으로 올라가지요. 그래서 서쪽에는 사람이 내려오는 계단 1개만 둔 것이랍니다.\n왕의 무덤이 시신(죽은 사람의 몸)을 모신 곳이라면 정자각은 신령과 인간이 만나는 공간이에요.\n즉, 정자각은 왕릉의 주인공인 왕과 왕비에게 제사를 지내는 곳이지요. 그런데 정자각의 건물을 자세히 보면 한자로 ‘丁(정)’자 글씨처럼 생겼어요. 이 글자처럼 생겼다고 해서 ‘정자각’이라고 이름 붙여졌지요.",
+      "est_speech_ms": 47600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 6,
+      "section_title": "무덤을 지키는 신하, 문인상과 무인상",
+      "narration": "정자각 안에 왕릉을 올려다보면 보이지 않아요. 왜냐하면 높은 언덕인 사초지가 가리고 있기 때문이죠. ‘강’이라고도 불리는 사초지가 높게 자리해 아래쪽에서는 위의 왕릉이 보이지 않도록 만들었어요. 반면 왕릉의 주인인 돌아가신 왕은 아래를 훤히 내려다볼 수 있도록 했답니다.\n무덤을 지키는 신하, 문인상과 무인상\n이제 숨을 고르고 돌아가신 왕이 잠들어 있는 무덤으로 올라가 볼까요?\n무덤 앞에는 무덤을 지키는 동물 모양의 석상(돌로 만든 상)이 놓여져 있어요. 또한 돌로 만든 네 명의 신하가 무덤을 지키고 있어요.\n행정 업무를 맡아보는 문신 관리(문인) 모습의 문인석과 군사 업무를 맡아보는 무신 관리(무인) 모양의 무인석이 그들이지요.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "사초지"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_083.jpg",
+          "caption": "사초지",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 7,
+      "section_title": "조선 왕릉의 비밀, 혼유석",
+      "narration": "문인석이 각 한 마리씩 석마(石馬, 돌로 만든 말)를 데리고 서 있으면서 언제든지 왕의 명령에 따를 준비가 되어 있는 모습이에요.\n그 아래 좌우에는 무인석이 1개씩 긴 칼을 짚고 위엄 있게 왕을 호위하고 있는데 역시 석마를 데리고 있어요.\n조선 왕릉의 비밀, 혼유석\n능침 앞에는 네모난 돌상이 있지요? 사람들은 이 돌상에 제물을 올린다고 생각해요. 그러나 혼유석은 전혀 다른 일을 하는 곳이에요. 바로 무덤 주인공의 혼백(영혼)이 나와서 머무는 공간이에요. 그래서 이름도 ‘혼유석’이지요.\n별다른 특징 없이 네모 반듯한 돌상이어서 크게 주목받지 못하지만, 사실은 매우 중요한 기능을 해요. 어떤 기능이 있을까요?",
+      "est_speech_ms": 48000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "무덤 앞의 문인석과 무인석",
+        "무덤 앞의 혼유석"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_092.jpg",
+          "caption": "무덤 앞의 문인석과 무인석",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_098.jpg",
+          "caption": "무덤 앞의 혼유석",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 7,
+      "section_title": "조선 왕릉의 비밀, 혼유석",
+      "narration": "이 돌은 대체로 가로 약 3미터, 세로 약 2미터, 높이 약 50센티미터의 거대한 돌로 만들어졌는데, 생각보다 엄청 무거워요. 왕릉마다 차이는 있지만 대체로 무게가 7톤 정도라고 해요.\n이 돌을 옮기는데 무려 100명 가량의 인부가 동원되었다고 하니 그 무게를 짐작할 수 있겠죠. 이 무거운 혼유석 아래에 시신을 모신 돌방으로 연결된 통로가 있어요. 무덤 안으로 들어가려면 7톤 가량의 혼유석을 들어올려야 하죠.\n선왕릉이 도굴 없이 지금까지 잘 보존된 비밀이 바로 여기에 있답니다.",
+      "est_speech_ms": 38600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 17,
+      "section_index": 8,
+      "section_title": "무덤을 지켜주는 석수와 곡장",
+      "narration": "무덤을 지켜주는 석수와 곡장\n무덤 주위에 있는 돌로 만든 동물을 ‘석수(石獸)’라고 해요. 일반적으로 왕릉에는 석호(石虎, 돌로 만든 호랑이) 네 마리와 석양(石羊, 돌로 만든 양) 네 마리가 밖을 향해 배치되어 있어요.\n석호는 호랑이 모양의 수호신으로 산과 능을 지켜주고, 석양은 양 모양으로 사악한 것을 물리치고 명복을 비는 뜻이 담겨져 있답니다.\n왕릉의 제일 뒤쪽에는 무덤 주위를 감싸고 있는 담이 있어요. 이 담은 ‘곡장’으로 불리는데, 산짐승의 공격이나 바람을 막아주는 역할을 해요.\n역사 속 작은 이야기: 왕릉이 아닌 왕의 무덤",
+      "est_speech_ms": 41400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "무덤 주변의 석수와 곡장"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_110.jpg",
+          "caption": "무덤 주변의 석수와 곡장",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 18,
+      "section_index": 8,
+      "section_title": "무덤을 지켜주는 석수와 곡장",
+      "narration": "조선 시대에는 태조부터 순종에 이르기까지 모두 27명의 왕이 있었어요. 그런데 27명 모두 왕릉에 묻히지는 않았습니다. 어찌된 일일까요?\n조선의 제10대 임금 연산군과 제15대 임금 광해군은 나라를 제대로 다스리지 못했다고 해서 신하들에 의해 쫓겨났습니다. 그래서 ‘∼조’나 ‘∼종’으로 불리지 않고 왕자였을 때의 호칭인 ‘∼군’으로 불립니다.\n이 때문에 두 임금의 무덤은 왕이나 왕비의 무덤인 ‘릉’으로 불리지 않고 왕자의 지위에 맞는 ‘묘’라고 불리지요.\n현재 연산군의 묘는 서울 도봉구 방학동에 있고, 광해군의 묘는 경기도 남양주에 있어요. 두 임금은 쫓겨난 왕이라는 이유로 죽어서도 조선 국왕의 대우를 받지 못하였어요. 그래서 무덤의 규모도 조촐해요.",
+      "est_speech_ms": 52200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 19,
+      "section_index": 8,
+      "section_title": "무덤을 지켜주는 석수와 곡장",
+      "narration": "유네스코 세계유산에 등재된 조선 왕릉에도 포함되지 못하였지요.\n한편, 조선 왕릉 중에서는 황제릉의 형식을 갖춘 것도 있어요.\n1897년 조선은 나라 이름을 ‘대한제국’으로 바꿨어요. 어엿한 황제국이 된 것이지요.\n그래서 고종 황제와 그의 아들 순종 황제의 무덤도 황제의 지위에 걸맞게 만들어졌는데, 아무래도 일제 강점기였기 때문에 온전히 전통적인 황제의 지위에 맞게 만들어지지는 못했어요.\n고종 황제의 무덤을 홍릉이라고 하고, 순종 황제의 무덤을 유릉이라고 해요. 두 무덤 모두 경기도 남양주시 금곡동에 있답니다.\n왕릉에서는 석물(동물 모양을 돌로 깎아 세워둔 석수, 혼유석 등)들이 무덤 주변에 있는데, 홍릉과 유릉의 석물은 정자각 앞에 세워져 있어요.\n이는 중국의 황제릉처럼 홍릉과 유릉이 황제릉이기 때문이지요.",
+      "est_speech_ms": 58200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "유릉의 석물(낙타와 코끼리 석물), 한국문화재재단"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_130.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_131.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 20,
+      "section_index": 9,
+      "section_title": null,
+      "narration": "동물의 수도 다른 왕릉에 비해 더 많아요. 또홍릉과 유릉의 석물에는 다른 왕릉에서 볼 수 없는 동물이 있어요. 낙타와 코끼리 석물이 바로 그것이지요.\n이는 서양 문물을 적극 수용했던 당시 상황이 반영된 것이라고 볼 수 있어요.\n이뿐만 아니에요. 왕릉에 있는 제사지내는 건물을 '丁(정)'자 모양이라고 해서 정자각이라고 하는데, 황제릉인 홍릉과 유릉은 一(일)'자 모양이어서 일자 각이라고 불러요. 이 역시 황제릉의 형식에 맞춘 것이지요.",
+      "est_speech_ms": 34200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "홍릉 일자각(한국문화재재단)",
+        "조선 왕릉의 분포"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_000.jpg",
+          "caption": "홍릉 일자각(한국문화재재단)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/622804eafa978e4d/fig_007.jpg",
+          "caption": "조선 왕릉의 분포",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 1.0
+        }
+      ]
+    }
+  ]
+}

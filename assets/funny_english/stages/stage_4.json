@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "stage": 4,
+  "title": "Short sentences",
+  "cards": [
+    {
+      "schema_version": 1,
+      "card_id": "fe_s4_i_see_cat",
+      "stage": 4,
+      "type": "word",
+      "text": "I see a cat",
+      "tokens": [
+        "i",
+        "see",
+        "cat"
+      ],
+      "ko_gloss": "고양이가 보여",
+      "syllables": [
+        "i",
+        "see",
+        "cat"
+      ],
+      "first_sound": "i",
+      "image": "assets/funny_english/images/fe_s4_i_see_cat.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s4_i_see_cat.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "i",
+        "see",
+        "cat"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "I see a cat",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s4_we_play",
+      "stage": 4,
+      "type": "word",
+      "text": "We play",
+      "tokens": [
+        "we",
+        "play"
+      ],
+      "ko_gloss": "우리는 놀아",
+      "syllables": [
+        "we",
+        "play"
+      ],
+      "first_sound": "w",
+      "image": "assets/funny_english/images/fe_s4_we_play.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s4_we_play.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "we",
+        "play"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "We play",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s4_the_sun",
+      "stage": 4,
+      "type": "word",
+      "text": "The sun is up",
+      "tokens": [
+        "the",
+        "sun",
+        "is",
+        "up"
+      ],
+      "ko_gloss": "해가 떴어",
+      "syllables": [
+        "the",
+        "sun",
+        "is",
+        "up"
+      ],
+      "first_sound": "t",
+      "image": "assets/funny_english/images/fe_s4_the_sun.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s4_the_sun.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "the",
+        "sun",
+        "is",
+        "up"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "The sun is up",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    }
+  ]
+}

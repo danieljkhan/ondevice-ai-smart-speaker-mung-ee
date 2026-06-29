@@ -1,0 +1,389 @@
+{
+  "schema_version": 2,
+  "doc_hash": "522911dc54165e0c",
+  "source_file": "eh_r0081_0010.pdf",
+  "title": "신라 속 세계 찾기, 서역의 유물",
+  "kind": "artifact",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 16,
+  "section_count": 6,
+  "image_count": 11,
+  "est_total_ms": 676199,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "원성왕릉(괘릉), 경북 경주시"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "신라, 서역과 교류하다",
+      "scene_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "image_captions": [
+        "삼국 시대 교역로"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        5
+      ],
+      "scene_seq": [
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "로만글라스, 신라 왕릉에 묻히다",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "대롱불기로 유리그릇 만들기"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "도로 공사 중 우연히 발견한 황금보검",
+      "scene_indices": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "경주 계림로 보검(계림로 14호분)과 카자흐스탄 보로보에 보검 복원도(국립경주박물관)",
+        "미추왕릉지구 4호분에서 출토된 경주 황남동 상감 유리구슬(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": null,
+      "scene_indices": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "scene_seq": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "image_captions": [
+        "로마 인면 유리구슬(코닝 유리박물관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "신라 속 세계 찾기, 서역의 유물\n경주시청\n“정지! 정지!”\n“작업을 마무리해야 하는데 왜 그러십니까?”\n“날아가는 흙더미 속에서 뭔가를 본 것 같아요.”\n계림로 고분을 발굴하다 말고 소동이 벌어졌어요. 흙더미 속에서 수레 모양을 한 토기가 나온 것이었어요. 신라 시대 수레 모습을 짐작할 수 있는 국보급 토기였어요. 수레형 토기가 나오고 주변의 다른 고분에서는 뜻하지 않게 황금보검(경주 계림로 보검)도 출토되었어요.\n그런데 황금보검은 신라 사람이 만든 것이 아니었어요. 그럼 황금보검은 누가 만들었을까요? 황금보검은 왜 신라 고분에 묻힌 것일까요?",
+      "est_speech_ms": 43200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "원성왕릉(괘릉), 경북 경주시"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/522911dc54165e0c/fig_001.jpg",
+          "caption": "원성왕릉(괘릉), 경북 경주시",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "신라, 서역과 교류하다",
+      "narration": "신라, 서역과 교류하다\n고대 삼국의 역사를 기록한 책 삼국사기에 따르면 신라는 고대 삼국 중 가장 먼저 나라를 세웠어요. 하지만 신라는 고구려, 백제에 둘러싸여 있었고, 지형적으로도 태백산맥과 소백산맥에 가로막혀 있었어요. 이렇게 한반도 동남부에 갇힌 신라는 나라의 발전 속도가 빠르지 않았어요.\n400년, 가야와 왜의 연합군이 신라에 쳐들어왔을 때는 고구려 광개토대왕의 도움을 받아 위기를 모면하기도 했고, 5세기에 고구려가 남쪽으로 진출할 때에는 백제와 동맹을 맺고 소백산맥에 의지해 간신히 나라를 지켜 냈어요.",
+      "est_speech_ms": 42600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "신라, 서역과 교류하다",
+      "narration": "백제와 고구려에 시달리며 나라를 유지하던 약소국 신라는 5세기 무렵에 왕권을 강화하면서 조금씩 힘을 키워갔어요. 왕권이 강해지면서 왕릉의 크기도 더욱 커졌지요. 황남대총이나 천마총같이 지금 남아있는 거대한 신라 왕릉들 대부분이 이 시기에 만들어졌어요.\n신라가 왕을 중심으로 나라의 힘을 키워가면서 중국 여러 나라와의 소통에 큰 관심을 기울였어요.\n중국의 나라들과 적극적으로 교류를 하면서 신라는 임금을 뜻하는 명칭을 ‘마립간’에서 ‘왕’으로, 정치 제도도 중국식을 따라 하기 시작했어요.\n중국과 교류하면서 당시 실크로드를 통해 중국에 들어왔던 서역의 물건들도 신라에 들어왔어요. 지중해 연안의 로마나 아라비아에서 만들어진 유리병이나 유리잔, 녹색의 터키산 보석을 박아 만든 금팔찌, 서역 사람이 새겨져 있는 은잔등이 바로 그러한 물건이었어요.",
+      "est_speech_ms": 61800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "삼국 시대 교역로"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/522911dc54165e0c/fig_016.jpg",
+          "caption": "삼국 시대 교역로",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "신라, 서역과 교류하다",
+      "narration": "또한 중국에 온 상인들을 통해 신라가 서역에 알려지기 시작했어요.\n신라는 금이 많이 나고 살기 좋은 나라로 서역에 소개되었고, 시간이 지나면서 서역의 상인들이 직접 신라를 찾아오기 시작했어요.",
+      "est_speech_ms": 15799,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "신라, 서역과 교류하다",
+      "narration": "서역 상인들은 유리, 진주, 호박, 향료, 카펫 등 귀한 물건을 싣고 중국 당나라를 거쳐 신라에 왔어요. 그리고 신라의 금과 은, 비단, 인삼 등을 사서 돌아갔어요.\n신라가 당과 연합해 삼국을 통일한 이후 신라와 당의 교역은 더 늘어났어요.\n한때 신라인 장보고는 청해진을 중심으로 당-신라-일본 사이의 중계 무역을 장악하기도 했어요. 장보고의 청해진 시기 이후에도 더 많은 서역 상인들이 신라를 찾아왔어요.\n당시 서역의 한 학자는 신라에 대해 다음과 같은 기록을 남겼어요.\n“중국의 맨 끝에 신라라는 나라가 있는데 금이 풍부하다. 이슬람교도가 이 나라에 상륙하면 그곳의 아름다움에 끌려서 영구히 정착하고 떠나려하지 않는다.”",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "물건을 팔러 온 서역인들에게 땅이 기름지고 물이 많은 신라가 사막으로 가득 찬 자신들의 나라보다 더 살기 좋은 곳으로 생각되었나 봐요.\n그래서 일부 서역인은 신라에 남았어요. 경주 원성왕릉(괘릉)이나 구정동방형 무덤의 무인상은 이때 남은 서역인의 모습을 보여주고 있어요.\n삼국시대 역사는 우리에게 아주 먼 옛날이야기 같아요. 하지만 그때도 우리 민족은 세계의 여러 나라와 교류하며 나라의 발전을 고민하였어요.\n유물을 통해 우리 민족은 어떻게 세계와 교류했는지 좀 더 알아보아요.",
+      "est_speech_ms": 39200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/522911dc54165e0c/fig_033.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/522911dc54165e0c/fig_040.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "로만글라스, 신라 왕릉에 묻히다",
+      "narration": "로만글라스, 신라 왕릉에 묻히다\n유리는 5천 년 전 지중해 동쪽 연안에서 생활하던 상인들이 우연히 처음 발견했어요. 그리고 기원전 1세기쯤 이 지역의 유리 장인들이 ‘대롱불기’ 라는 기술을 개발하면서 본격적으로 유리그릇이 만들어졌어요.\n대롱불기 기술은 당시 지중해 지역을 장악하고 있던 로마에 전해졌고, 유리 그릇은 로마가 점령한 세계 여러 지역으로 수출되면서 로만글라스란 이름이 붙게 되었어요. 유리라는 재료도 특별했지만 이를 이용해 만든 로만글라스는 매우 비싸고 귀중한 무역품이었어요.\n▲ 봉수형 유리병 황남대총 남분 (국립중앙박물관)",
+      "est_speech_ms": 44600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대롱불기로 유리그릇 만들기"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/522911dc54165e0c/fig_042.jpg",
+          "caption": "대롱불기로 유리그릇 만들기",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "로만글라스, 신라 왕릉에 묻히다",
+      "narration": "지중해 지역에서 만들어진 로만글라스는 서역 상인들을 통해 거친 사막과 바다를 넘어 중국과 신라에 전해졌어요. 귀한 물건이다 보니 물론 신라의 왕이나 귀족들만이 가질 수 있는 물건이었죠.\n로만글라스를 귀하게 여긴 신라 사람들은 왕이 죽자로만글라스를 무덤에 함께 묻었어요. 그리고 왕이 영원히 로만글라스를 사용하기를 바랐어요.\n지금도 유리그릇에 대해 풀지 못한 수수께끼가 많이 남아있어요. 하지만 왕과 함께 묻힌 유리그릇을 통해 당시 신라인들이 금과 함께 유리그릇을 매우 귀하게 여겼다는 것을 알 수 있어요.",
+      "est_speech_ms": 42000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/522911dc54165e0c/fig_049.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/522911dc54165e0c/fig_050.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "도로 공사 중 우연히 발견한 황금보검",
+      "narration": "또한 먼 옛날부터 신라가 멀리 떨어진 서역이나 로마와도 연결되어 있었다는 것을 유리그릇은 증명하고 있어요.\n도로 공사 중 우연히 발견한 황금보검\n1973년 경주 대릉원을 정비하면서 주변의 계림로 도로 공사를 하고 있었어요. 이때 배수로 하수관을 묻기 위해 땅을 파던 중 작은 신라 고분 여러 개가 발견되었어요. 공사는 중지되고 박물관 직원들과 고고학자들이 나가 계림로 주변을 샅샅이 조사했어요. 그리고 수많은 유물을 발굴할 수 있었어요.\n계림로 고분에서 발굴된 여러 유물 중 가장 눈에 띄는 것은 14호분에서 나온 황금보검이었어요. 지금까지 발굴된 신라의 유물과는 완전히 다른 모습을 한 유물이었어요. 황금보검은 빨간색의 석류석과 유리로 상감한 태극문양으로 장식되었어요. 왕릉에서 발굴된 유리 제품이 있었지만, 당시 신라 사람들에게는 유리를 가공할 기술이 없었지요.",
+      "est_speech_ms": 63600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "도로 공사 중 우연히 발견한 황금보검",
+      "narration": "당시 학자들은 지금껏 본 적 없었던 황금보검에 대해 어떤 것도 말할 수 가 없었어요.\n황금보검이 출토되고 오랜 시간이 지나서야 머나먼 중앙아시아의 카자흐스탄에서 미스터리를 풀 단서를 찾았어요. 카자흐스탄에서 황금보검과 거의 똑같은 모양을 한 보검이 있었던 것이에요.\n동유럽에서 생산되는 석류석을 이용했다는 점, 금이나 유리를 녹여 상감하는 방법 등 황금보검이 당시 중앙아시아에서 만들어졌음을 확인할 수 있었어요.",
+      "est_speech_ms": 34600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "경주 계림로 보검(계림로 14호분)과 카자흐스탄 보로보에 보검 복원도(국립경주박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/522911dc54165e0c/fig_064.jpg",
+          "caption": "경주 계림로 보검(계림로 14호분)과 카자흐스탄 보로보에 보검 복원도(국립경주박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "도로 공사 중 우연히 발견한 황금보검",
+      "narration": "카자흐스탄에서 만들어진 보검이 약 5,000km 정도 떨어진 신라에 어떻게 전해졌을까요? 보검의 주인은 신라 사람이었을까요? 아니면 신라에 정착한 서역인이었을까요? 황금보검은 여전히 풀리지 않은 많은 미스터리를 갖고 있어요.\n인면 유리구슬의 바닷길 대항해\n1973년 실시된 미추왕릉지구의 4호분 발굴조사에서 매우 특이한 유리구슬이 출토되었어요. 유리구슬에는 사람 얼굴과 새, 나무, 구름 등이 새겨져 있었어요. 학자들은 이 특이한 사람의 얼굴을 닮은 유리구슬(인면 유리 구슬)에 대해 연구를 시작했어요.\n연구의 결과 ‘인면 유리구슬’을 처음 만든 곳이 고대 로마였음을 알아냈어요. 로마인들은 눈을 크게 부릅뜬 신화 속 메두사의 얼굴을 닮은 유리구슬을 목에 걸고 다녔다고 해요.",
+      "est_speech_ms": 55600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "도로 공사 중 우연히 발견한 황금보검",
+      "narration": "이 유리구슬을 부적처럼 걸고 다니면 질병이나 불행으로부터 자신을 보호할 수 있다고 믿었다고 해요.",
+      "est_speech_ms": 8200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "미추왕릉지구 4호분에서 출토된 경주 황남동 상감 유리구슬(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/522911dc54165e0c/fig_074.jpg",
+          "caption": "미추왕릉지구 4호분에서 출토된 경주 황남동 상감 유리구슬(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "하지만 로마의 인면 유리구슬은 신라의 것과 만드는 방법이나 얼굴의 생김새가 달랐어요. 학자들은 로마에서 한참 떨어진 인도네시아에서 다시 답을 찾았어요.\n고대 로마 상인들은 배를 타고 아라비아와 인도로 가서 무역을 했어요. 무역을 하면서 로마의 유리구슬 제작 기술은 인도네시아 사람들에게 전해졌어요. 인도네시아 사람들은 로마의 기술에 자신들의 문화와 생각을 담아 새로운 인면 유리구슬을 만들었어요.\n유리구슬 속 사람은 누굴 따라 만든 것일까요?\n학자들은 당시 인도네시아 사람들이 믿었던 부처의 얼굴이라 추측해요. 구슬 속 흰 새는 부처의 해탈을, 꽃나무는 부처를 환영할 때 사용하는 상징이라 생각했어요.",
+      "est_speech_ms": 50000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "로마 인면 유리구슬(코닝 유리박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/522911dc54165e0c/fig_079.jpg",
+          "caption": "로마 인면 유리구슬(코닝 유리박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "작은 구슬을 부처와 관련된 상징으로 꽉 채운 것이지요.\n로마에서 시작된 인면 유리구슬은 인도와 인도네시아를 거쳐 멀리 떨어져 있는 신라에 도착한 것이에요. 작은 유리구슬 하나가 먼 옛날 로마에서 인도네시아를 거쳐 신라까지 이어진 교류의 역사를 증명하고 있어요.\n역사 속 작은 이야기: 최첨단 유리 세공 기술, 인면 유리구슬은 어떻게 만들었을까?\n미추왕릉지구의 4호분에서 나온 ‘인면 유리구슬’의 크기는 1.8cm 정도에요. 놀라운 것은 빨간 입술에 푸른 눈썹과 눈을 가진 4명의 사람과 노란색 발을 가진 흰 새 6마리, 꽃이 핀 나무 4그루, 거기에 구름까지 담았어요.",
+      "est_speech_ms": 45400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "작은 크기의 유리구슬에 이 많은 것들을 모두 상감 기법으로 담은 최고의 예술품이죠.\n최첨단 유리 세공 기술을 사용한 이 인면 유리구슬은 어떻게 만들었을까요? 인도네시아 자바섬에 전해져 지금까지 사용되고 있는 유리 세공 기술을 알아보도록 해요.",
+      "est_speech_ms": 20000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 16,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "로마는 얼굴 조각을 하나의 구슬에 녹여 붙이는 방법을 사용했어요.\n이 기술을 배운 인도네시아 사람들은 유리 막대에 여러 조각을 녹여 붙여 이를 잘라서 구슬을 만드는 방법을 생각해 냈어요. 로마의 방법보다 한꺼번에 더 많은 구슬을 만들 수 있었죠.\n새로운 기술을 접목한 인도네시아 인면 유리구슬은 서역인의 무역선을 타고 신라에 올 수 있었어요.\n작은 유리구슬 속에는 인류가 새로운 기술을 개발하고, 서로 교류했던 역사를 담고 있어요. 세계와 교류하면서 신라도 함께 발전할 수 있었지요.\n기술 문명이 더 발달하면서 세계는 더 가까워지고 더 심하게 경쟁하는 세상이 되었어요. 세계 모든 인류가 함께 교류하고, 함께 성장하는 방법은 없을지 고민해 보아요.",
+      "est_speech_ms": 52400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/522911dc54165e0c/fig_094.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

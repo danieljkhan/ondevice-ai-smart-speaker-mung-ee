@@ -1,0 +1,214 @@
+{
+  "schema_version": 2,
+  "doc_hash": "b51500d7d7276acb",
+  "source_file": "eh_n0230_0010.pdf",
+  "title": "광종, 최초로 과거제를 실시하다",
+  "kind": "people",
+  "era": "고려",
+  "era_source": "keyword",
+  "scene_count": 9,
+  "section_count": 5,
+  "image_count": 3,
+  "est_total_ms": 392300,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0,
+        1
+      ],
+      "scene_seq": [
+        1,
+        2
+      ],
+      "image_captions": [
+        "문경새재(경북 문경시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "스스로를 황제라 하고, 노비안검법을 실시하다",
+      "scene_indices": [
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        3,
+        4,
+        5
+      ],
+      "image_captions": [
+        "광종과 노비안검법 실시"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        5
+      ],
+      "scene_seq": [
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "관리들이 입는 옷도 정해주다",
+      "scene_indices": [
+        6
+      ],
+      "scene_seq": [
+        7
+      ],
+      "image_captions": [
+        "과거제도를 실시한 광종"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "반발하는 호족들을 감옥에 가두다",
+      "scene_indices": [
+        7,
+        8
+      ],
+      "scene_seq": [
+        8,
+        9
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "광종, 최초로 과거제를 실시하다\n“왕위에 올랐지만, 내 마음대로 할 수 있는 게 없군.”\n“조금 더 때를 기다리시옵소서.”\n“호락호락하지 않은 호족들과 맞서려면 왕의 힘을 더욱 길러야겠어.”\n광종의 눈빛은 굳은 결의로 반짝였어요. 그는 왕의 힘을 키우기 위해 어떤 일들을 했을까요?\n혼란 속에 왕이 되다\n광종은 고려를 세운 태조 왕건의 아들로 고려 4대왕이에요. 고려가 건국된 지 30여년밖에 되지 않았는데 벌써 네 번째 왕이 나왔어요.\n왜 그랬을까요? 그만큼 혼란스러웠기 때문이죠.",
+      "est_speech_ms": 37600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "문경새재(경북 문경시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b51500d7d7276acb/fig_001.jpg",
+          "caption": "문경새재(경북 문경시)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "왕건은 지방 호족이나 부하들의 딸들 29명이나 부인으로 두었어요. 그들을 자기 편으로 만들려고 한 거예요. 아들은 25명, 딸은 9명을 낳았고요. 나라를 세우는데 공을 세운 공신들도 3등 공신까지 해서 모두 2천여 명이나 되었지요.\n하지만 시간이 흐르면서 수많은 공신과 자식들은 오히려 왕의 자리를 위협하는 세력이 되었어요. 왕건이 죽은 뒤 지지 세력이 약한 혜종이 왕이 되자 외척들이 왕위를 놓고 다툼을 벌였어요.\n늘 불안에 시달리던 혜종은 2년 만에 죽고 동생인 정종이 왕이 되었어요. 정종은 왕권을 안정시키려고 노력했지만 그도 쉽지 않았지요. 정종도 4년 만에 세상을 뜨고 고려는 여전히 어지러웠어요.",
+      "est_speech_ms": 49400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "스스로를 황제라 하고, 노비안검법을 실시하다",
+      "narration": "이런 혼란 속에 949년 왕위에 오른 사람이 바로 스무 다섯 살의 청년 광종이에요.\n스스로를 황제라 하고, 노비안검법을 실시하다\n젊고 의욕이 강했던 광종이었지만 처음에는 발톱을 숨길 수밖에 없었어요. 주변 호족들의 눈치를 살펴야 했거든요. 하지만 왕위에 오른 지 7년이 지나자 드디어 광종은 칼을 뽑아 들었어요. 이제는 뜻을 펼칠 때가 되었다고 판단한 거죠.\n비교적 고분고분하던 광종이 본 모습을 드러내자 호족들은 깜짝 놀랐어요. 움츠리고 있던 발톱을 빼든 독수리와 같았거든요.\n“앞으로 고려는 우리만의 연호(왕이 다스린 시기를 표시하기 위한 칭호)를 사용하겠소.”",
+      "est_speech_ms": 45800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "스스로를 황제라 하고, 노비안검법을 실시하다",
+      "narration": "“폐하, 성은이 망극하옵니다.”\n“개경(개성)은 황제의 도읍인 황도, 서경(평양)은 서도라 할 것이오.”\n광종은 이러한 정책들을 통해 국가 체제를 정비하려고 했어요. 중국 후주에 사신을 보내는 등 활발한 교류를 했고요.\n“무엇보다 왕권을 강화하려면 호족들을 눌러야겠는데... 옳지, 호족들이 억지로 노비로 만든 사람들을 풀어주게 해야겠어.”\n광종은 전국의 노비를 조사하도록 했어요. 원래 양인이었다 불법적으로 노비가 된 사람들을 다시 양인으로 해방시켜주는 노비안검법을 실시했지요.",
+      "est_speech_ms": 38000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "스스로를 황제라 하고, 노비안검법을 실시하다",
+      "narration": "노비가 양인이 되면 세금도 늘고 호족들이 부리던 노비도, 군사도 줄어드니, 그거야 말로 일석이조였죠.\n광종의 과감한 정책에 호족들의 불만이 이만저만이 아니었어요. 하지만 드러내놓고 반대할 수 없었지요. 광종이 뜻을 절대 굽히지 않았거든요. 공신들의 눈치를 보지 않아도 될 정도로 차츰 왕권은 강해지고 있었고요. 그러는 사이 노비안검법 실시로 호족들의 기반은 더욱 약해져 갔어요.\n최초로 과거제를 실시하다\n“몸은 어떻소?”\n“이제 괜찮습니다.”\n“그대의 나라인 후주로 돌아가지 않고, 내 곁에 남아 어찌나 기쁜지 모르겠소. 혹시 우리 고려를 위해 나에게 건의할 만한 정책이 없소?”",
+      "est_speech_ms": 46000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "광종과 노비안검법 실시"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b51500d7d7276acb/fig_030.jpg",
+          "caption": "광종과 노비안검법 실시",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "“중국에서 실시되어 온 과거제를 고려에서도 실시해 보십시오.”\n“그거 좋은 생각이오. 글을 잘 짓고, 유학을 잘 아는 인재들을 뽑아 내 뜻을 펼치는데 도움이 되는 관리로 쓴다면 좋을 듯하오.”\n958년 광종은 쌍기의 건의에 따라 과거를 실시했어요. 핏줄이나 가문에 상관 없이 실력 있는 인재들을 뽑아 관리로 삼았지요. 그동안은 전쟁터에서 공을 세우거나 호족 혹은 공신인 아버지를 두어야 출세하기 쉬웠지요. 하지만 이제는 공부를 열심히 하는 젊은이라면 조정에 나갈 수 있는 길이 열렸던 거예요.\n과거를 통해 관리가 된 젊은 신하들은 이제 광종의 충성스런 관리가 되었어요. 광종은 이제 자신의 손발이 될 실력을 갖춘 신하들과 함께 새로운 고려를 만들어 나가려고 했어요. 강력한 왕권을 바탕으로 말이에요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "관리들이 입는 옷도 정해주다",
+      "narration": "관리들이 입는 옷도 정해주다\n“관리들이 입는 옷도 제각각 다르니 무척 눈에 거슬리는구나! 누가 위인지 아래인지 구분도 안 되고 말이지.”\n당시 고려의 관리들은 제각각 다른 옷을 입고 있었어요. 건국 초기라 아직은 복장이 통일되지 않았어요. 그러다보니 질서가 제대로 잡히지 않았지요. 광종은 관리들의 옷 색깔을 정했어요.\n자색(자주색), 단색(붉은색), 비색( 붉은색), 녹색(녹색)으로 나누어 관리의 등급에 따라 서로 다른 색의 옷을 입도록 했어요. 그러면서 차츰 왕과 신하, 그리고 신하들 간의 질서를 잡아나가며 국왕 중심의 체계를 마련해 나갔어요.",
+      "est_speech_ms": 43000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "과거제도를 실시한 광종"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b51500d7d7276acb/fig_045.jpg",
+          "caption": "과거제도를 실시한 광종",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "반발하는 호족들을 감옥에 가두다",
+      "narration": "반발하는 호족들을 감옥에 가두다\n이렇듯 광종이 국가 질서를 바로 잡아 나가며 왕권을 강화하자 호족들의 반발이 만만치 않았어요. 하지만 그럴 때마다 광종은 칼을 뽑아들었어요.\n“내 뜻을 거스르는 자는 누구든 옥에 가두고 가차 없이 목을 베어라.”\n그는 호족 세력을 하나 둘 제거해 나갔어요. 자신의 생각에 반대하는 사람들을 반역죄로 죽이거나 귀양 보냈어요. 감옥이 모자라 임시 감옥을 지을 정도였지요.\n광종을 이어 경종이 왕위에 올랐을 때 옛 조정의 신하로 남아 있는 사람이 40여 명뿐이었다고 전해요. 광종은 심지어 자신의 조카들도 죽이고, 훗날 왕이 될 태자마저 의심할 정도였다고 하니 당시 상황을 짐작할 수 있지요?",
+      "est_speech_ms": 49800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "반발하는 호족들을 감옥에 가두다",
+      "narration": "노비안검법, 과거제 등 고려의 기틀을 다지는 여러 가지 제도들을 실시했던 광종. 그의 노력 덕분에 왕권은 강해지고, 나라가 안정될 수 있는 기반이 마련되었지요. 하지만 그 과정에서 수많은 사람들을 죽였기에, 그는 개혁 군주인 동시에 공포 정치를 펼친 인물로 평가받고 있답니다.",
+      "est_speech_ms": 22200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

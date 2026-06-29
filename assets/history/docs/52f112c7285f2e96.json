@@ -1,0 +1,343 @@
+{
+  "schema_version": 2,
+  "doc_hash": "52f112c7285f2e96",
+  "source_file": "eh_r0181_0010.pdf",
+  "title": "여러 가지 재료로 만든 고려 시대 화폐",
+  "kind": "artifact",
+  "era": "고려",
+  "era_source": "keyword",
+  "scene_count": 13,
+  "section_count": 8,
+  "image_count": 8,
+  "est_total_ms": 622900,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "건원중보(한국은행 화폐박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "고려 시대에 여러 화폐가 만들어지다",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        4
+      ],
+      "scene_seq": [
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "최초의 화폐, 건원중보",
+      "scene_indices": [
+        5
+      ],
+      "scene_seq": [
+        6
+      ],
+      "image_captions": [
+        "건원중보(한국은행 화폐박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "고려 숙종 때 만들어진 해동통보",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "해동통보(한국은행 화폐박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "해동통보와 함께 사용되었던 삼한통보와 해동중보",
+      "scene_indices": [
+        8
+      ],
+      "scene_seq": [
+        9
+      ],
+      "image_captions": [
+        "삼한통보와 해동중보(한국은행 화폐박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "고려의 영토를 본떠 만든 은병",
+      "scene_indices": [
+        9
+      ],
+      "scene_seq": [
+        10
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 의천의 화폐론",
+      "scene_indices": [
+        10,
+        11,
+        12
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13
+      ],
+      "image_captions": [
+        "은병(한국은행 화폐박물관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "여러 가지 재료로 만든 고려 시대 화폐\n“폐하! 동전 만드는 관청을 설치하여 금속 화폐를 만들 것을 건의 드립니다.”\n“돈을 만들자는 것이오? 돈을 만들면 어떤 면이 좋은 것이오?”\n“돈을 민간에서 사용하게 하면 위와 아래로 막힘없이 고루 돌아다닐 것 입니다. 그렇게 되면 가난한 사람과 부자에게 골고루 이익을 나눠주게 될 것입니다.”\n고려 시대에 승려의천은 쌀이나 옷감 대신 화폐로 물건을 사고파는 거래를 하면 경제가 발전하고 백성들의 생활이 편리해질 것이라고 생각했어요.\n의천의 건의를 받아들인 숙종은 여러 화폐를 만들어 유통시켰지요. 고려 시대에 만들어진 화폐에는 어떤 것들이 있는지 살펴볼까요?",
+      "est_speech_ms": 48000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "건원중보(한국은행 화폐박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/52f112c7285f2e96/fig_002.jpg",
+          "caption": "건원중보(한국은행 화폐박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "고려 시대에 여러 화폐가 만들어지다",
+      "narration": "고려 시대에 여러 화폐가 만들어지다\n화폐란 우리가 쉽게 이야기하는 돈을 뜻해요. 여러분은 돈이 없는 세상을 상상해 보았나요?\n돈이 없으면 엄마가 시장에 가서 저녁 반찬거리를 살 수 없고 여러분이 가게에서 맛있는 과자도 사 먹을 수 없잖아요. 그런데 아주 먼 옛날에는 우리가 지금 사용하는 돈, 즉 화폐가 없었어요.\n그렇다면 당시 사람들은 필요한 물건을 어떻게 샀을까요?\n옛날에는 내가 가지고 있는 물건을 바꾸어서 필요한 물건을 구하는 물물 교환을 했어요. 그런데 물물교환은 내가 원하는 물건을 가지고 있는 사람, 즉 거래 상대방을 찾기 위해 많은 시간과 노력을 들여야 했어요. 그래서 사람들은 거래를 쉽게 하기 위해 화폐를 사용하기 시작했지요.",
+      "est_speech_ms": 51800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "고려 시대에 여러 화폐가 만들어지다",
+      "narration": "거래를 할 때 내가 가진 물건과 상대방이 가진 물건을 직접 바꾸면 불편하지만, ‘돈’이라는 매개체를 사용한다면 거래가 훨씬 간단하겠지요?\n그리하여 오랫동안 보관할 수 있는 물건을 화폐로 정했는데 이것이 물품 화폐였지요. 그중에서도 곡식, 소금, 조개 등이 대표적인 물품 화폐였어요.\n우리나라에서 화폐가 처음 만들어진 것은 고조선 시대부터라고 알려져 있어요. 조선 후기 역사책인 해동역사에는 고조선에서 만들어진 자모전과 신라에서 만들어진 무문전이 소개되고 있어요. 그러나 자모전과 무문전은 현재 전하지 않고 있어서 어떻게 생겼는지 잘 몰라요.",
+      "est_speech_ms": 44600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "고려 시대에 여러 화폐가 만들어지다",
+      "narration": "다만 고조선과 신라에서 화폐가 사용되었다는 것만 짐작할 수 있지요.\n역사학자들은 이 시기에 금속 화폐가 만들어졌더라도 주로 옷감이나 곡식이 주된 교환 수단으로 사용되었을 것으로 추측하고 있어요.\n현재 우리나라에서 가장 먼저 만들어진 금속 화폐로 인정받고 있는 것은 고려 성종 때 만들어진 건원중보에요.\n996년(성종 15)에 발행된 건원중보는 철로 만든 철전과 구리로 만든 동전 등 두 종류가 남아 있어요.",
+      "est_speech_ms": 33400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "이후 고려 숙종은 의천의 건의에 따라 1097년(숙종 2)에 주전도감이라는 관청을 설치하고 해동통보, 삼한통보, 해동중보 등의 동전을 만들었어요.\n이어서 활구(은병)라는 은으로 만든 화폐도 만들었어요.\n그러나 이들 화폐는 당시에 널리 유통되지는 못하였어요. 왜냐하면 당시에는 백성의 대부분이 농사를 짓는 농민들이었기 때문에 다른 물건을 사는 데 사용하는 화폐의 필요성을 거의 느끼지 못했기 때문이지요.\n그래서 국가에서 만든 금속 화폐는 수도 개경을 중심으로 주로 차를 파는 다점이나 술을 파는 주점 등에서만 사용되었고, 일반적인 거래에서는 여전히 곡식이나 옷감이 사용되었어요.\n고려 말 공양왕 때에는 우리나라 최초의 지폐인 저화도 만들었지만 역시 널리 유통되지는 못하였지요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/52f112c7285f2e96/fig_037.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "최초의 화폐, 건원중보",
+      "narration": "최초의 화폐, 건원중보\n건원중보는 1910년대 초 옛 고려의 수도였던 개성 부근의 무덤에서 출토되었어요. 건원중보는 철전과 동전 형태로 발견되었는데, 앞면에 새겨진 ‘건원(乾元)’이라는 글자는 당나라 숙종 때인 758년부터 760년까지 사용된 연호였어요.\n그래서 건원중보는 당나라 숙종 때 발행된 금속 화폐를 본떠 만든 것으로 추정되고 있어요. 당시 고려와 활발하게 교류하던 송나라의 영향을 받은 것으로 짐작이 돼요.\n건원중보 뒷면에는 우리나라를 나타내는 ‘동국(東國)’이라는 글자가 위아래로 표시되어 있어요. 고려에서 화폐를 발행한 사실을 분명히 밝힌 것이지요.",
+      "est_speech_ms": 46400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "건원중보(한국은행 화폐박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/52f112c7285f2e96/fig_042.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/52f112c7285f2e96/fig_043.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 4,
+      "section_title": "고려 숙종 때 만들어진 해동통보",
+      "narration": "건원중보는 996년(성종 15)에 발행되었는데, 백성들 사이에서 널리 사용되지는 못하였어요. 왜냐하면 당시 백성들은 주로 쌀과 옷감을 사용하였기 때문이지요.\n그래서 성종의 뒤를 이은 목종은 옷감을 화폐로 사용하는 것을 금지하고 금속 화폐의 사용을 장려하였어요. 그러나 금속 화폐의 사용이 불편하다는 백성의 원성이 높아졌어요.\n결국 차(茶)나 술 또는 음식을 파는 상점에서는 철전만 사용하도록 하고, 일반 백성들의 거래에서는 철전이나 옷감 등도 자유롭게 사용하도록 하였어요.\n고려 숙종 때 만들어진 해동통보\n11세기 말에 왕위에 오른 고려 숙종은 왕권을 강화하기 위해 화폐 사용을 적극적으로 추진하였어요.",
+      "est_speech_ms": 50000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "고려 숙종 때 만들어진 해동통보",
+      "narration": "당시에는 귀족과 사원(절)이 경제력을 장악하고 있었는데, 이들이 얼마나 많은 경제적인 부를 갖고 있는지 나라나 왕은 알 수가 없었어요. 그래서 고려 숙종은 화폐를 유통시켜 돈의 흐름을 투명하게 파악해 귀족과 사원 세력을 견제하고자했지요.\n한편, 숙종에게 화폐 유통을 강력히 요청한 사람은 그의 동생인 승려의천이었어요. 중국의 송나라에 유학할 당시 화폐의 편리함을 경험한 의천은 숙종에게 화폐를 사용할 것을 적극 건의했어요.\n결국 의천의 건의가 반영되어 주전도감이라는 관청이 만들어졌고, 이 관청에서 1102년(숙종 7)부터 해동통보를 만들었어요. 시계 방향으로 ‘해동통보’라는 글자가 앞면에 새겨져 있고, 뒷면에는 아무런 글자도 새겨져 있지 않아요.",
+      "est_speech_ms": 53400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "해동통보(한국은행 화폐박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/52f112c7285f2e96/fig_054.jpg",
+          "caption": "해동통보(한국은행 화폐박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 5,
+      "section_title": "해동통보와 함께 사용되었던 삼한통보와 해동중보",
+      "narration": "고려는 해동통보를 만든 뒤 유통을 장려하기 위해 고위 관리를 비롯해 군인들에게 나눠줬어요. 그리고 각지에 있는 상점에서 해동통보를 사용하게 했어요.\n해동통보와 함께 사용되었던 삼한통보와 해동중보\n고려 숙종은 해동통보 외에 삼한통보, 해동중보 등도 만들어 유통시켰어요. 이들 동전들은 여러 종류의 글자체, 큰 것과 작은 것 등으로 다양하게 만들어졌어요.\n이와 같은 다양한 동전들은 숙종의 노력에도 불구하고 일부 관영 상점을 제외하고는 널리 유통되지 못하였어요.\n이후 고려 예종이 왕위에 오른 1106년(예종 1)에 중앙과 지방의 많은 관리들은 숙종 때 동전을 유통시킨 것은 잘못된 정책이었다는 내용의 상소문을 올렸어요.\n그러나 예종은 신하들의 주장을 반박하는 글을 발표하면서 동전을 계속해서 유통시키겠다는 명령을 내렸어요.",
+      "est_speech_ms": 60200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "삼한통보와 해동중보(한국은행 화폐박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/52f112c7285f2e96/fig_061.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/52f112c7285f2e96/fig_062.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 6,
+      "section_title": "고려의 영토를 본떠 만든 은병",
+      "narration": "그러나 예종의 의지와는 달리 이후에도 동전을 유통시키려는 정책은 큰 성과를 거두지 못하였어요.\n당시 고려에 왔던 송나라 사신 서긍이 고려도경이라는 책을 지었는데, 이 책에는 “고려에서 대부분은 물물 교환을 하고, 약(藥)을 거래할 때만 간혹 동전을 사용한다.”라고 기록되어 있어요.\n그만큼 동전이 잘 유통되지 않았다는 것을 엿볼 수 있네요.\n고려의 영토를 본떠 만든 은병\n숙종 때에는 여러 동전 외에 고액 화폐인 은병도 만들었어요. 은 1근으로 우리나라의 지형을 본떠 만들었는데, 은병 하나의 값은 옷감 100여 필이나 되었어요. 은병은 활구라는 별칭이 있었는데, 이렇게 부른 이유는 은병 윗부분의 입구가 넓어서 ‘넓다’라는 의미의 ‘활(濶)’자를 썼기 때문이에요.",
+      "est_speech_ms": 52800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 의천의 화폐론",
+      "narration": "한편 고려 후기에 은이 부족해지는 현상이 나타나자 은병의 사용이 점차 줄어들게 되었어요.\n역사 속 작은 이야기: 의천의 화폐론\n문종의 넷째 아들로 태어나 승려가 된 의천은 중국 송나라로 유학을 떠났어요. 그는 상업이 발전한 송나라에서 돈이 활발하게 사용되고 있는 점을 눈여겨보았어요.\n고려로 귀국한 의천은 ‘화폐론’이라는 글을 지어 숙종에게 바쳤어요.",
+      "est_speech_ms": 28600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "은병(한국은행 화폐박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/52f112c7285f2e96/fig_077.jpg",
+          "caption": "은병(한국은행 화폐박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 의천의 화폐론",
+      "narration": "이 글에서 의천은 다음과 같이 건의했어요.\n“폐하! 옷감과 쌀을 교환 수단으로 사용하는 것은 문제점이 많습니다. 백성의 이로움과 국가의 복을 얻으려면 동전을 만들어 사용해야 합니다. 화폐를 사용하면 운반이 편리하고, 쌀이나 옷감과 달리 관리들의 부정부패를 막을 수 있습니다. 또한 관리들의 봉급을 화폐로 주게 되면 백성들에게 세금으로 쌀을 빨리 내라고 독촉하지 않아도 됩니다. 뿐만 아니라 쌀을 모아 놓았다가 흉년에 대비할 수도 있습니다.”\n의천의 건의를 받아들인 숙종은 해동통보를 만들어 관리와 군인들에게 나누어 주었어요.",
+      "est_speech_ms": 42800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 의천의 화폐론",
+      "narration": "또 주점을 개설하여 동전을 유통시키려고 많은 노력을 기울였어요. 숙종의 적극적인 동전 유통 정책은 물건을 화폐처럼 사용하던 문벌 귀족 세력의 경제 기반을 약화시키려는 의도가 있었어요.\n또한 당시 상업 발달의 성과를 바탕으로 돈을 유통시켜 국가 재정을 늘리려는 의도도 함께 있었지요.\n그러나 의천의 생각과 달리 화폐 유통을 반대한 인물도 있었어요.\n무신 집권기의 관리 임춘은 돈을 의인화하여 지은 공방전이라는 소설을 지었는데, 그는 이 소설을 통해 화폐를 널리 유통시키면 결국 일부 권력 있는 사람과 부자들의 재산을 모으는 데만 기여할 뿐 일반 백성에게는 큰 도움이 못된다고 주장하였어요.",
+      "est_speech_ms": 48400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

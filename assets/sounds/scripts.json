@@ -1,0 +1,200 @@
+{
+  "version": "1.0",
+  "voice_style": "mung-ee",
+  "sample_rate": 44100,
+  "speed": 1.0,
+  "language_default": "ko",
+  "generated_by": "scripts/generate_wake_audio.py",
+  "design_notes": "Phase 1 sound bank for touchscreen-triggered entry. 4 time-bucket welcomes (morning/afternoon/evening/night) + wake_ack + error/stt_load_fail + sleep. Child-appropriate Korean tone.",
+  "files": [
+    {
+      "path": "wake/welcome_morning/01.wav",
+      "text": "좋은 아침이야, 뭉이 왔어!",
+      "category": "welcome_morning",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/welcome_morning/02.wav",
+      "text": "아침 햇살처럼 반가워.",
+      "category": "welcome_morning",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/welcome_morning/03.wav",
+      "text": "오늘도 천천히 시작하자.",
+      "category": "welcome_morning",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/welcome_afternoon/01.wav",
+      "text": "오후도 즐겁게 보내자!",
+      "category": "welcome_afternoon",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/welcome_afternoon/02.wav",
+      "text": "뭉이가 다시 인사할게.",
+      "category": "welcome_afternoon",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/welcome_afternoon/03.wav",
+      "text": "잠깐 쉬면서 이야기하자.",
+      "category": "welcome_afternoon",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/welcome_evening/01.wav",
+      "text": "저녁이네, 오늘 하루 어땠어?",
+      "category": "welcome_evening",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/welcome_evening/02.wav",
+      "text": "뭉이가 조용히 들어줄게.",
+      "category": "welcome_evening",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/welcome_evening/03.wav",
+      "text": "오늘 재미난 일 있었어?",
+      "category": "welcome_evening",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/welcome_evening/04.wav",
+      "text": "편안한 저녁 시간이야.",
+      "category": "welcome_evening",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/welcome_night/01.wav",
+      "text": "늦은 시간이네, 조용히 안녕.",
+      "category": "welcome_night",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/welcome_night/02.wav",
+      "text": "밤이라서 살금살금 인사해.",
+      "category": "welcome_night",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/welcome_night/03.wav",
+      "text": "뭉이가 작게 대답할게.",
+      "category": "welcome_night",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/wake_ack/01.wav",
+      "text": "응, 여기 있어.",
+      "category": "wake_ack",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/wake_ack/02.wav",
+      "text": "뭉이 왔어.",
+      "category": "wake_ack",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/wake_ack/03.wav",
+      "text": "무엇을 도와줄까?",
+      "category": "wake_ack",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/wake_ack/04.wav",
+      "text": "같이 이야기하자.",
+      "category": "wake_ack",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/wake_ack/05.wav",
+      "text": "응, 듣고 있어!",
+      "category": "wake_ack",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/wake_ack/06.wav",
+      "text": "왜 불렀어? 궁금한 거 있어?",
+      "category": "wake_ack",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/wake_ack/07.wav",
+      "text": "무슨 이야기 하고 싶어?",
+      "category": "wake_ack",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "wake/wake_ack/08.wav",
+      "text": "또 보니까 반갑다!",
+      "category": "wake_ack",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "error/stt_load_fail/01.wav",
+      "text": "잠깐만, 다시 말해줄래?",
+      "category": "stt_load_fail",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "error/stt_load_fail/02.wav",
+      "text": "조금 뒤에 한 번 더 부탁해.",
+      "category": "stt_load_fail",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "error/stt_load_fail/03.wav",
+      "text": "괜찮아, 다시 들어볼게.",
+      "category": "stt_load_fail",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "sleep/01.wav",
+      "text": "잘 자, 또 만나자.",
+      "category": "sleep",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "sleep/02.wav",
+      "text": "다음에 또 이야기하자.",
+      "category": "sleep",
+      "language": "ko",
+      "duration_target_s": null
+    },
+    {
+      "path": "sleep/03.wav",
+      "text": "뭉이는 조용히 기다릴게.",
+      "category": "sleep",
+      "language": "ko",
+      "duration_target_s": null
+    }
+  ]
+}

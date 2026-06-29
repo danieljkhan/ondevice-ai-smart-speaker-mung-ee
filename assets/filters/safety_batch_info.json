@@ -1,0 +1,7 @@
+{
+  "batch_id": "msgbatch_01P3bvKc2b8jxTni2j32zhVT",
+  "status": "in_progress",
+  "request_count": 580,
+  "description": "Safety approved response templates - 58 topics x 5 styles x 2 languages (KO/EN)",
+  "model": "claude-sonnet-4-6"
+}

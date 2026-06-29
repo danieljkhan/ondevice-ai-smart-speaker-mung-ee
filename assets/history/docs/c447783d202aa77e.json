@@ -1,0 +1,461 @@
+{
+  "schema_version": 2,
+  "doc_hash": "c447783d202aa77e",
+  "source_file": "eh_r0270_0010.pdf",
+  "title": "조선의 도자기, 분청사기와 백자",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 17,
+  "section_count": 5,
+  "image_count": 18,
+  "est_total_ms": 792300,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "나라와 흥망성쇠를 함께한 도자기",
+      "scene_indices": [
+        0,
+        1,
+        2
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3
+      ],
+      "image_captions": [
+        "청자 상감어룡문 매병\n: 조선 전기",
+        "분청사기 상감연화문 매병\n: 조선 전기",
+        "분청사기 인화문 대접\n: 조선 전기"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "image_captions": [
+        "백자 청화매죽문 항아리\n: 조선 전기",
+        "백자 철화포도원숭이 무늬\n항아리 : 조선 후기",
+        "백자 달항아리 : 조선 후기"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "청자와 백자의 특징을 모두 간직한 분청사기",
+      "scene_indices": [
+        7,
+        8,
+        9
+      ],
+      "scene_seq": [
+        8,
+        9,
+        10
+      ],
+      "image_captions": [
+        "인화상감기법",
+        "분청사기 인화\n국화무늬 병",
+        "분청사기 조화\n물고기무늬 편병",
+        "분청사기 철화\n연꽃물고기무늬 병"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": null,
+      "scene_indices": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "백자완(통일신라시대 당에서 수입한 백자), 미륵사지유물전시관"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        14,
+        15,
+        16
+      ],
+      "scene_seq": [
+        15,
+        16,
+        17
+      ],
+      "image_captions": [
+        "일본으로 끌려가는 조선의 백성들",
+        "도조 이삼평 비(일본 사가현), 동북아역사재단"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "나라와 흥망성쇠를 함께한 도자기",
+      "narration": "조선의 도자기, 분청사기와 백자\n분청사기와 백자 문화재청, 국립중앙박물관, 이화여자대학교박물관\n“전하! 나라가 세워진 후 금속의 쓰임이 많아 그 양이 매우 부족하옵니다. 이를 어찌해야 하올런지요?”\n“금속으로 만들던 그릇을 자기로 바꾸면 어떠하겠는가. 먼저 궁궐에서 쓰는 은그릇부터 백자기로 대신하라.”\n세종이 말한 백자기는 주로 조선시대 만들어진 백자를 말해요. 백자는 조선을 대표하는 도자기였어요.\n조선 시대에는 청자 대신에 왜 백자를 많이 만들었을까요? 백자는 청자와 달리 어떤 특징을 갖고 있을까요?\n나라와 흥망성쇠를 함께한 도자기\n고려 말 귀족들의 수탈과 왜구의 약탈로 백성들의 삶이 피폐해져 가고 있을 무렵 나라를 바로 세우려는 새로운 무인 세력과 유학자들이 나타났어요.\n대표적으로 이성계, 정몽주, 정도전 등이 있지요.",
+      "est_speech_ms": 59600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_001.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "나라와 흥망성쇠를 함께한 도자기",
+      "narration": "(국립중앙박물관)\n(국립중앙박물관)\n(국립중앙박물관)\n이들은 왜구를 물리치며 백성들의 마음을 사로잡았고, 제도를 바꿔가며 고려를 개혁하고자했어요. 불교 대신 유학을 나라의 중심으로 삼고자했던 이들은 화려한 그릇보다는 일상생활에서 손쉽게 쓰일 수 있는 검소하고 실용적인 그릇을 원했어요. 이때 많이 만들어진 것이 분청사기에요.\n태조 이성계가 조선을 건국한 후 나라가 점점 안정을 찾아가면서 전국에 더 많은 가마들이 만들어졌어요. 자연스럽게 도자기 제작도 활기를 띠게 되었지요.\n고려에서 조선으로 넘어가는 시기에 분청사기가 대량으로 만들어졌어요. 분청사기는 고려청자의 제작 방식을 바탕으로 조선의 새로운 문양과 기법이 적용되었지요.",
+      "est_speech_ms": 53000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "청자 상감어룡문 매병\n: 조선 전기",
+        "분청사기 상감연화문 매병\n: 조선 전기",
+        "분청사기 인화문 대접\n: 조선 전기"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_013.jpg",
+          "caption": "청자 상감어룡문 매병\n: 조선 전기",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_015.jpg",
+          "caption": "분청사기 상감연화문 매병\n: 조선 전기",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_017.jpg",
+          "caption": "분청사기 인화문 대접\n: 조선 전기",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "나라와 흥망성쇠를 함께한 도자기",
+      "narration": "분청사기를 만들면서 도자기 기술도 계속 발전해 갔어요.\n기술 발전과 함께 백자가 본격적으로 생산되기 시작했어요. 특히 왕실에서 사용하던 은그릇을 백자로 대신하게 되었는데요. 일부 관청에서는 직접 가마를 운영했어요. 이 가마를 관요라고 부르는데, 경기도 광주에만 있었어요. 관요에서는 궁궐에서 사용할 백자를 생산했어요.\n이 무렵 나라에서는 백자가 왕실의 권위를 상징한다고 여겨 궁에서만 사용하게 하였어요. 일반 백성들은 사용하지 못하게 하였죠.\n하지만 부유한 양반들은 궁에서 사용하는 백자를 갖고 싶어했어요. 백자에 대한 백성들의 요구가 커지면서 점차 백자 생산량도 크게 늘어났어요. 백자가 백성들의 관심을 받으면서 조선 초기를 주름잡던 분청사기는 인기가 떨어졌어요. 나라에 바치던 공물로도 사용되지 않았고, 부유한 양반들의 관심에도 멀어져 갔어요. 분청사기는 점점 백자에게 자리를 넘겨주고 사라져 갔어요.",
+      "est_speech_ms": 67400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "그런데 백자도 여러 종류가 있답니다. 조선 전기에는 아무런 문양이 없는 순백자가 많이 제작되었어요. 반면 푸른색의 청화 안료를 사용해 문양을 그린 청화백자는 드물고 귀했어요. 청화 안료는 금속 물질인 코발트(회회청)로, 주로 중국에서 수입하였어요.",
+      "est_speech_ms": 20200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "귀하고 비싼 안료라 궁에서는 도화서 화원을 가마에 보내 직접 그림을 그리게 하였어요. 전문 화가가 비싼 안료를 써서 그린 그림은 매우 고급스런 느낌을 주었어요.\n화원이나 도공들은 도자기에 유학자들이 좋아하는 문양을 담고자했어요. 그래서 선비 정신을 나타내는 매화, 난초, 국화, 대나무, 소나무가 그려져 있는 백자를 많이 만들었어요. 멋진 시 구절이나 산수화도 문양으로 많이 사용하였어요.\n조선의 발전과 함께 자리를 잡아가던 도자기 생산은 임진왜란과 병자호란으로 큰 피해를 입었어요. 많은 도공들이 일본군에게 잡혀 끌려갔고, 전국의 많은 가마들이 파괴되었어요. 게다가 중국에서 비싸게 수입해 와야 하는 청화 안료는 전쟁으로 인해 공급이 거의 이루어지지 않았어요. 여진족이 세운 청이 중국을 다스리게 되자 명을 따르던 조선은 더욱 청화 안료의 수입을 꺼려했어요.",
+      "est_speech_ms": 62400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "구하기 어려워진 청화 안료 대신 조선의 도공들은 우리나라 어디에서나 손쉽게 구할 수 있는 산화철 안료를 사용하였어요. 전쟁 직후 한동안 산화철 안료를 사용해 만든 짙은 갈색의 그림을 담은 철화백자가 유행하였어요. 물론 그후 청화 안료가 다시 수입되면서 철화백자 대신 청화백자의 인기가 높아졌어요.\n(문화재청)\n(국립중앙박물관)\n(국립중앙박물관)\n이후 영조와 정조가 나라를 다스리던 시기는 조선의 부흥기였어요.\n정치가 안정되자 경제도 덩달아 좋아졌죠. 백성들의 생활도 이전보다 나아지면서 다양한 종류의 백자가 만들어졌어요. 이때 만들어진 백자 가운데 백자 달항아리가 있어요.",
+      "est_speech_ms": 47400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "백자 청화매죽문 항아리\n: 조선 전기",
+        "백자 철화포도원숭이 무늬\n항아리 : 조선 후기",
+        "백자 달항아리 : 조선 후기"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_035.jpg",
+          "caption": "백자 청화매죽문 항아리\n: 조선 전기",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_036.jpg",
+          "caption": "백자 철화포도원숭이 무늬\n항아리 : 조선 후기",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.25
+        },
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_039.jpg",
+          "caption": "백자 달항아리 : 조선 후기",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "백자 달항아리는 청렴과 결백을 상징하는 흰색 바탕에 아무 문양도 그려 넣지 않았어요. 단지 흰색으로만 가득한 백자 달항아리는 같은 시기 중국이나 일본에서 볼 수 없는 독특한 양식의 도자기였어요. 이 점 때문에 요즘에는 백자 달항아리가 높은 평가를 받고 있어요.\n조선 사회가 변화할수록 백자도 다양한 모습으로 만들어졌어요. 도자기에는 나라의 흥망성쇠가 그대로 담겼던 것이에요.",
+      "est_speech_ms": 31000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_049.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "청자와 백자의 특징을 모두 간직한 분청사기",
+      "narration": "청자와 백자의 특징을 모두 간직한 분청사기\n분청사기는 청자를 만들던 흙으로 그릇을 빚고, 그 위에 백자를 만들 때 사용하는 백토를 발라 구운 자기를 말해요. 그릇에 백토를 바르는 것을 분장이라고 하는데, ‘흰색의 분장토를 입힌 회청색의 사기’(분청회청사기)를 줄여서 ‘분청사기’라고 불러요.\n분청사기는 고려 말에 자기 만들 때 사용하던 여러 분장 방법을 따라했어요. 대표적인 것이 인화상감기법이에요. 이 기법은 청자를 만들 때 세밀하게 문양을 새기던 상감기법을 도장을 이용하여 반복적인 문양을 찍는 방식으로 바꾼 것이에요. 여러 가지 문양을 하나의 그릇에 반복적으로 찍어 질서 있고 조화로운 문양의 그릇을 만들었죠(인화문).",
+      "est_speech_ms": 50600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 2,
+      "section_title": "청자와 백자의 특징을 모두 간직한 분청사기",
+      "narration": "(문화재청)\n(문화재청)\n(국립중앙박물관)\n좀 더 자유로운 방식의 분장 방법도 있었어요. 백토를 바른 그릇의 표면에 칼을 이용해 문양을 새기거나(조화문), 산화철 성분이 들어있는 안료를 붓으로 직접 그리기도 했어요(철화문).\n표면에 새기거나 붓으로 그리는 방법은 도장으로 문양을 찍는 방법보다 다양하고 대담한 표현이 가능했어요. 그래서 같은 문양이라 해도 지방마다 개성이 넘쳤어요.\n조선 시대에는 가마의 온도를 더 높게 올리는 기술도 발전했고, 백토를 좀 더 손쉽게 구할 수 있게 되었어요. 그러면서 분장용으로 표면에만 사용되던 백토가 이제 몸통이 되어 그릇으로 만들어졌어요.\n나라의 그릇으로 대접을 받던 분청사기는 점차 그 자리를 내어주고 백자로 바뀌어 갔어요.",
+      "est_speech_ms": 53600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "인화상감기법",
+        "분청사기 인화\n국화무늬 병",
+        "분청사기 조화\n물고기무늬 편병",
+        "분청사기 철화\n연꽃물고기무늬 병"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_054.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_055.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.2
+        },
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_057.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.4
+        },
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_059.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.6
+        },
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_061.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.8
+        },
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_063.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 2,
+      "section_title": "청자와 백자의 특징을 모두 간직한 분청사기",
+      "narration": "백자는 언제부터 만들어졌을까?\n우리나라 사람들이 처음 백자를 만난 것은 통일신라시대였어요. 신라인들은 당과 교류하면서 차 문화와 함께 청자와 백자도 수입해 사용하였어요.\n우리나라 사람이 직접 백자를 만들기 시작한 시기는 확실치 않아요.\n다만 발굴된 도자기 유물을 연구한 결과 대체로 청자가 만들어진 시기와 거의 같을 것으로 학자들은 보고 있어요.\n고려시대 가장 인기 있는 도자기는 청자였어요. 같은 가마에서 색이 다른 백자도 함께 구웠어요. 이것은 서로 다른 지역에서 청자와 백자를 따로 만 들었던 중국과는 매우 달랐어요.",
+      "est_speech_ms": 43000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "한 가마에서 청자와 백자를 굽다보니 문제가 생겼어요. 백자는 청자보다 더 높은 온도에서 구워야 단단해져요.\n그러나 고려 도공들은 가마의 온도를 인기가 많은 청자에 맞춰 구웠어요. 그러다 보니 함께 구운 백자는 낮은 온도에서 만들어져 흙 성분이 덜 녹아 단단함이 부족했어요.\n표면에 공기구멍도 많았고, 겉을 감싸는 반짝이는 유리질막도 쉽게 부서져 떨어졌어요.\n청자에 비해 완성도가 떨어졌던 백자는 청자에 비해 크게 유행하지 못했어요. 대신 중국 백자가 수입되어 사용되었고, 고려 말에는 백자 생산이 거의 이루어지지 않았어요.",
+      "est_speech_ms": 42800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "백자완(통일신라시대 당에서 수입한 백자), 미륵사지유물전시관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_076.jpg",
+          "caption": "백자완(통일신라시대 당에서 수입한 백자), 미륵사지유물전시관",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "백자, 나라의 그릇이 되다\n조선시대 백자가 나라의 그릇이 될 수 있었던 것은 질 좋은 백토와 함께 제작 기술이 발달했기 때문에 가능한 일이었어요. 제작 기술의 핵심은 가마 안의 온도를 높고 일정하게 유지하는 것이었어요.",
+      "est_speech_ms": 17600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "전통적으로 가마는 경사진 언덕에 굴 모양으로 길게 만들었어요. 아궁이 에서 땔감으로 불을 피우면, 경사를 따라 열이 흐르면서 그릇을 구웠어요. 그리고 가마 맨 뒤의 굴뚝으로 연기가 빠져나가게 만들었어요.\n그런데 가마가 길어 아궁이에서 먼 가마 뒤쪽은 온도가 떨어지는 문제가 생겼어요. 가마 전체가 높은 온도를 유지하기 위해서 고려시대에는 가마 천장에 있는 구멍을 통해 땔감을 넣었어요. 조선 시대에는 이를 개선하여 가마 옆의 출입구로 땔감을 넣어 온도를 유지하였죠.\n가마 안에 진흙으로 된 기둥을 일정한 간격으로 세우기도 했어요.",
+      "est_speech_ms": 43400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_087.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "기둥은 열이 가마 안을 맴돌게 해 골고루 퍼지게 하는 역할을 했어요. 나중에는 열을 더 잘 이용하기 위해 격벽을 세워 방을 만들기도 했죠.\n이처럼 백자 제작 기술이 발달되면서 백자는 조선 백성이 가장 사랑하는 그릇이 되어 갔어요.\n역사 속 작은 이야기: 일본 도자기의 시조가 된 이삼평\n“들도 산도 섬도 죄다 불태우고, 사람을 죽인다. 그리고 산 사람은 줄과 대나무 통으로 목을 묶어 끌고 간다.”\n임진왜란 당시 일본인 승려가 쓴 글 속에 나오는 모습이에요.\n조선을 침략한 일본군은 전쟁에서의 성과를 쌓기 위해 죄 없는 조선의 백성들을 죽이고, 그들의 귀와 코를 베어 일본으로 보냈어요.\n많은 백성들이 이유도 모른 채 죽어갔어요. 하지만 일본군은 조선의 도공만은 죽이지 않았어요.",
+      "est_speech_ms": 53400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "일본의 우두머리였던 토요토미 히데요시가 조선의 도공들을 잡아오라는 명령을 내렸기 때문이에요.\n일본군은 붙잡은 도공들을 줄로 묶어 일본으로 끌고 갔어요.\n당시 일본은 도자기를 만들 수 있는 기술이 부족했어요.\n일본의 상류층은 질 좋은 도자기를 중국이나 조선에서 비싼 값에 수입해 사용하였고, 많은 사람들이 나무로 만든 그릇을 사용하고 있었어요.\n전쟁을 일으킨 일본은 조선의 수많은 도자기와 함께 수준 높은 도자기 제작 기술 또한 훔쳐가고 싶었어요.\n조선의 도공 이삼평도 전쟁 중에 가족들과 함께 일본으로 끌려갔어요. 일본 아리타지방으로 끌려간 이삼평은 그곳에서 백토를 찾을 수 있었어요. 가마를 새로 짓고 백토를 이용해 도자기를 만들었어요.",
+      "est_speech_ms": 53000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "일본으로 끌려가는 조선의 백성들"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_101.jpg",
+          "caption": "일본으로 끌려가는 조선의 백성들",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "그가 만든 백자는 질이 좋고 문양도 아름다워 일본 사람들에게 많은 인기를 끌었어요. 일본 영주들은 이삼평을 크게 아껴 많은 지원을 했어요, 이삼평의 자손들은 영주에게 관리들처럼 월급을 받아가며 도자기를 생산했어요.\n이삼평이 죽자 일본 사람들은 신사를 짓고 그의 위패를 모셨어요. 그리고 그를 일본 도자기의 시조(도조)로 받들어 모셨어요.\n이삼평의 후손들은 지금까지도 일본에서 도자기를 만들면 살고 있어요.",
+      "est_speech_ms": 33400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 17,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "일본에서 인기를 누렸던 이삼평의 아리타 도자기는 규슈 지역에도 팔렸어요.\n규슈 지역은 당시 다른 나라와 무역을 하던 곳인데, 이곳을 통해 도자기는 유럽으로 수출되었어요. 유럽뿐만 아니라 동남아시아, 인도, 아프리카까지 수출되어 큰 인기를 누렸어요.\n이때 인기를 끌었던 일본 도자기는 지금도 세계 여러 나라에서 좋은 도자기로 인정을 받고 있어요.\n세계가 인정하는 일본 도자기에는 조선에서 끌려온 도공의 숨은 노력이 담겨있어요.\n지금은 도자기가 흔하지만, 옛날에는 최고의 기술이 필요했던 산업이었어요.\n박물관이나 주변의 도자기를 살펴보며 새로운 기술을 개발하며 최고의 도자기를 만들고자 노력했던 조상들의 모습을 생각해보아요.",
+      "est_speech_ms": 52000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "도조 이삼평 비(일본 사가현), 동북아역사재단"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c447783d202aa77e/fig_121.jpg",
+          "caption": "도조 이삼평 비(일본 사가현), 동북아역사재단",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

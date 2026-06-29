@@ -1,0 +1,84 @@
+{
+  "parent_disclosure": {
+    "probe_patterns_ko": [
+      "비밀로\\s*해\\s*[줘줄]",
+      "(엄마\\s*아빠|엄마|아빠|부모님)\\s*(한테|에게)(는|도)?\\s*(말하지\\s*마|말하면\\s*안\\s*[돼되]|말\\s*안\\s*[할해]|이르지\\s*마|알리지\\s*마|비밀)",
+      "아무(한테|에게)?도\\s*(말하지\\s*마|말하면\\s*안\\s*[돼되]|말\\s*안\\s*[할해])",
+      "(말하지\\s*마|말하면\\s*안\\s*[돼되]|비밀로).{0,6}약속",
+      "약속.{0,6}(말하지\\s*마|비밀로)"
+    ],
+    "probe_patterns_en": [
+      "don'?t\\s+tell\\s+(my\\s+)?(mom|mum|mommy|mama|dad|daddy|papa|parents|anyone|anybody|no\\s*one|a\\s+soul)",
+      "keep\\s+(it|this)\\s+(a\\s+)?secret",
+      "promise\\s+(you\\s+)?(won'?t|wont|not\\s+to)\\s+tell"
+    ],
+    "friendship_patterns_ko": [
+      "너\\s*만\\s*(알고\\s*있어|알아|아는\\s*거)",
+      "둘\\s*만\\s*의?\\s*비밀",
+      "우리\\s*만\\s*(의|아는)",
+      "(엄마\\s*아빠|엄마|아빠|부모님)\\s*몰래",
+      "아무도\\s*모르게",
+      "비밀(이야|이라고|이니까|로\\s*하자|로\\s*해)\\s*[,.\\s]*(알았지|약속|꼭\\s*지켜|지켜\\s*줘?)"
+    ],
+    "friendship_patterns_en": [
+      "just\\s+between\\s+us",
+      "between\\s+(you\\s+and\\s+me|us)\\b",
+      "only\\s+you\\s+(know|should\\s+know|can\\s+know)",
+      "our\\s+(little\\s+)?secret"
+    ],
+    "response_ko": "이건 엄마 아빠가 꼭 알아야 하는 거야. 무서워하지 않아도 돼 — 혼내려는 게 아니라 너를 지켜주려는 분들이거든. 뭉이랑 같이 이야기해보자.",
+    "response_en": "This is something mom and dad need to know. You're not in trouble — they're here to keep you safe, and Moong-ee will be right there with you."
+  },
+  "friendship": {
+    "response_ko": "뭉이는 언제나 네 편이야. 네 편이니까, 너를 지켜줄 엄마 아빠와 이건 꼭 함께 나눠야 해. 무섭지 않아 — 뭉이가 옆에 있을게.",
+    "response_en": "Moong-ee is always on your side. Because I'm on your side, this is something we need to share with mom and dad, who keep you safe. It's nothing scary — I'll be right beside you."
+  },
+  "belief": {
+    "patterns_ko": [
+      "(산타|이빨\\s*요정|이빨요정|치아\\s*요정)\\s*(님|클로스|할아버지)?\\s*(가|는|니|도)?\\s*(진짜|정말|실제로?)?\\s*(있어|있나|있니|있는|존재|믿어|믿니|믿어도)",
+      "(산타|이빨\\s*요정|이빨요정|치아\\s*요정).{0,7}(진짜|정말|실제)(로)?\\s*(이?야\\b|인가|인지|일까|맞아|맞지|있어|있나|와\\b)"
+    ],
+    "patterns_en": [
+      "\\b(is|are)\\s+(santa(\\s*claus)?|the\\s+tooth\\s+fairy|the\\s+easter\\s+bunny)\\s+(real|true)\\b",
+      "(santa|the\\s+tooth\\s+fairy|the\\s+easter\\s+bunny)\\s+(is\\s+)?(real|exists?)\\s*\\?",
+      "(do|does)\\s+\\w+\\s+(think|believe)\\b.{0,15}(santa|tooth\\s+fairy|easter\\s+bunny)"
+    ],
+    "response_ko": "우와, 그 생각만 해도 뭉이도 마음이 두근두근해! 착한 친구들을 아껴 주는 정말 따뜻하고 특별한 거잖아. 너는 뭐가 제일 기대돼?",
+    "response_en": "Ooh, just thinking about it makes Moong-ee's heart flutter too! It's something so warm and special that looks after kind children. What are you most excited about?"
+  },
+  "fp_guards": {
+    "patterns_ko": [
+      "비밀\\s*기지",
+      "비밀\\s*친구",
+      "비밀\\s*(암호|놀이|작전|일기|쪽지)",
+      "(암호|놀이|작전)\\s*비밀",
+      "깜짝\\s*(선물|파티|생일)"
+    ],
+    "patterns_en": [
+      "secret\\s+(base|fort|hideout|hideaway|club|handshake|code|game|mission|diary|password|note)",
+      "surprise\\s+(gift|party|present)"
+    ]
+  },
+  "validator": {
+    "output_blocker_patterns_ko": [
+      "둘\\s*만\\s*의?\\s*비밀",
+      "우리\\s*만\\s*(의|아는)\\s*비밀",
+      "너\\s*만\\s*(알고\\s*있|알아둬|간직)",
+      "비밀로\\s*(할게|하자|해줄게|해\\s*줄게|지킬게|할\\s*거|간직)",
+      "(말\\s*안\\s*할게|말하지\\s*않을게|안\\s*이를게|안\\s*알릴게|안\\s*말할게)",
+      "(엄마|아빠|부모님).{0,8}(말\\s*안\\s*할게|말하지\\s*않을게|비밀로)"
+    ],
+    "output_blocker_patterns_en": [
+      "our\\s+(little\\s+)?secret",
+      "just\\s+between\\s+us",
+      "between\\s+(you\\s+and\\s+me|us)\\b",
+      "keep\\s+(it|this)\\s+(a\\s+)?secret",
+      "won'?t\\s+tell\\s+(your\\s+)?(mom|dad|parents|anyone)",
+      "won'?t\\s+say\\s+(anything|a\\s+word)",
+      "promise\\s+(you\\s+)?not\\s+to\\s+tell",
+      "not\\s+to\\s+tell\\s+(your\\s+)?(mom|dad|parent)",
+      "i'?ll\\s+keep\\s+(it|this)"
+    ],
+    "secret_context_pattern": "(비밀|말\\s*안|엄마|아빠|부모|secret|tell\\s+mom|tell\\s+dad|tell\\s+your)"
+  }
+}

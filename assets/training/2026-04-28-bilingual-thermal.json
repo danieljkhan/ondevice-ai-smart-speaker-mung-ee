@@ -1,0 +1,17 @@
+{
+  "snapshots_count": 2227,
+  "cpu_temp_c": {
+    "start": 52.875,
+    "end": 64.218,
+    "min": 52.5,
+    "max": 66.125,
+    "delta": 11.343
+  },
+  "gpu_temp_c": {
+    "start": 54.343,
+    "end": 65.906,
+    "min": 54.281,
+    "max": 69.906,
+    "delta": 11.563
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "schema_version": 2,
+  "doc_hash": "6adca7f660327633",
+  "source_file": "eh_r0274_0010.pdf",
+  "title": "창덕궁과 함께 동궐로 불린 궁궐, 창경궁",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 16,
+  "section_count": 8,
+  "image_count": 13,
+  "est_total_ms": 746800,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "성종, 세분의 대비를 모시기 위해 궁궐을 짓다",
+      "scene_indices": [
+        0,
+        1
+      ],
+      "scene_seq": [
+        1,
+        2
+      ],
+      "image_captions": [
+        "창경궁 명정전(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "창덕궁과 함께 동궐로 불렸어요",
+      "scene_indices": [
+        2,
+        3
+      ],
+      "scene_seq": [
+        3,
+        4
+      ],
+      "image_captions": [
+        "조선 시대 그려진 도성도 전체와 부분(국립중앙박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "창경궁의 정문, 홍화문",
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [
+        "홍화문(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "조선 시대 궁궐 정전 중 가장 오래된 명정전",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "홍화문 사미도(국립고궁박물관)",
+        "명정전"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "창경궁의 역할이 점점 커졌어요",
+      "scene_indices": [
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "옥천교"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "왕궁에서 공원이 된 창경궁",
+      "scene_indices": [
+        11
+      ],
+      "scene_seq": [
+        12
+      ],
+      "image_captions": [
+        "경춘전"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "창경궁에만 있는 건축물",
+      "scene_indices": [
+        12,
+        13
+      ],
+      "scene_seq": [
+        13,
+        14
+      ],
+      "image_captions": [
+        "1960년 창경원의 야경(국가기록원)",
+        "성종대왕태실과 성종대왕태실비",
+        "오층석탑과 팔각칠층석탑"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 창경궁 복원 이야기",
+      "scene_indices": [
+        14,
+        15
+      ],
+      "scene_seq": [
+        15,
+        16
+      ],
+      "image_captions": [
+        "대온실"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "성종, 세분의 대비를 모시기 위해 궁궐을 짓다",
+      "narration": "창덕궁과 함께 동궐로 불린 궁궐, 창경궁\n“소문 들었나? 정조 임금께서 어머니 회갑을 기념해서 백성들에게 쌀을 나누어 주신다고 하던데?”\n“나도 들었네. 홍화문 앞에서 주신다고 하더군.”\n1795년 정조는 어머니인 혜경궁 홍씨의 회갑을 맞이하여 홍화문 앞에서 백성들에게 쌀을 나누어 주었어요. 이때 한양에서 가장 가난한 사람들에게 102석이 넘는 쌀을 나누어 주었어요. 홍화문은 어느 궁궐에 있는 문일까요? 이 궁궐의 특징은 무엇일까요?\n성종, 세분의 대비를 모시기 위해 궁궐을 짓다\n홍화문은 창경궁의 정문이에요. 창경궁은 조선시대 궁궐 중 하나로 성종 때 만들어졌어요. 창경궁이 세워지기 전 이곳에는 원래 수강궁이 있었어요.",
+      "est_speech_ms": 50600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "창경궁 명정전(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_001.jpg",
+          "caption": "창경궁 명정전(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "성종, 세분의 대비를 모시기 위해 궁궐을 짓다",
+      "narration": "수강궁을 세운 왕은 세종으로, 그는 왕위에서 물러나 상왕이 된 아버지 태종을 모시기 위해 창덕궁의 동쪽에 수강궁을 지었어요. 수강궁이란 이름에는 아버지가 건강하게 오래 살기를 바라는 세종의 마음이 담겨있어요.",
+      "est_speech_ms": 17400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "창덕궁과 함께 동궐로 불렸어요",
+      "narration": "수강궁은 태종이 세상을 떠난 후에는 잘 사용되지 않았어요. 그러다가 1483년(성종 14)에 수강궁 터를 넓혀 만든 궁궐이 창경궁이에요.\n성종은 세 분의 대비를 편안히 모시기 위해 창경궁을 만들도록 했어요. 세 분의 대비는 할아버지 세조의 비인 정희왕후, 자신의 어머니인 소혜왕후, 예종의 계비 안순왕후예요. 창덕궁에 세 분 다 모시기에는 어려움이 있었던 것 같아요.\n창덕궁과 함께 동궐로 불렸어요\n지도는 조선시대에 그려진 도성도의 전체 모습과 그중 창경궁이 있는 부분을 확대한 것이에요. 지금은 창경궁과 창덕궁, 종묘는 각각 담으로 나뉘었거나 떨어져 있는데 지도를 보면 세 장소가 한 울타리 안에 있는 것으로 표현되어 있어요.",
+      "est_speech_ms": 51000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_012.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "창덕궁과 함께 동궐로 불렸어요",
+      "narration": "또 창경궁의 동쪽에는 성균관이 자리 잡고 있어요.\n1592년(선조 25)에 임진왜란으로 경복궁을 비롯한 궁궐이 모두 불타는 피해가 일어났어요. 창경궁도 건물 대부분이 불타버렸어요. 전쟁이 끝난 후에 창덕궁이 먼저 다시 지어졌고 7년 후인 1616년 창경궁도 다시 세워졌어요.\n이후 조선의 왕들이 창덕궁을 가장 많이 사용하게 되자 바로 옆에 있는 창경궁도 점점 더 중요해졌어요. 사람들은 창덕궁과 창경궁을 아울러 ‘동궐’ 이라고 불렀어요. 조선 순조 때 만들어진 동궐도라는 궁궐 지도가 있는데요.\n그 지도를 보면 창덕궁과 창경궁이 얼마나 화려하고 아름다운지 알 수 있어요. 자! 지금부터 창경궁의 모습을 함께 살펴볼까요?",
+      "est_speech_ms": 50400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "조선 시대 그려진 도성도 전체와 부분(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_018.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_028.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "창경궁의 정문, 홍화문",
+      "narration": "창경궁의 정문, 홍화문\n홍화문은 창경궁의 정문으로 경복궁, 창덕궁과는 다른 특징이 있어요.\n광화문(경복궁의 정문)과 돈화문(창덕궁의 정문)은 남쪽을 향하지만, 홍화문은 동쪽을 바라보고 있어요. 그리고 다른 궁궐은 정문에서 궁궐의 가장 중요한 공간인 정전까지 가려면 3개의 문을 통과하는데 창경궁은 2개의 문만 지나가면 돼요.\n즉, 홍화문과 명정문을 지나면 바로 정전인 명정전으로 갈 수 있었죠. 어떻게 보면 궁궐의 일반적인 격식과는 조금 다르다고 볼 수 있죠.\n홍화문은 우리 역사에서 중요한 일들이 많이 일어났던 곳이에요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "홍화문(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_033.jpg",
+          "caption": "홍화문(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "창경궁의 정문, 홍화문",
+      "narration": "조선의 21대 왕인 영조는 균역법이라는 제도를 만들기 전인 1750년(영조 26) 홍화문에 직접 나가 양반과 평민들을 만나서 의견을 물었다고 해요.\n균역법은 농민들의 세금 부담을 낮춰주었던 제도이지요. 즉 농민들이 1년에 2필씩 내던 군포를 1필로 줄여 주는 대신 소금이나 배 등에 세금을 매겨 부족한 재정을 보충했던 것이에요. 영조는 홍화문에 나가 백성들에게 여론 조사를 시행했던 것이죠.\n영조의 손자이자 조선의 22대 임금인 정조도 홍화문에서 백성들을 만났어요. 정조는 1795년(정조 19) 어머니인 혜경궁 홍씨의 회갑을 백성들과 함께 기뻐하기 위해 홍화문 앞에서 쌀을 나누어 주었어요.\n이 장면은 홍화문 사미도에 남아 있어요.",
+      "est_speech_ms": 52200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "조선 시대 궁궐 정전 중 가장 오래된 명정전",
+      "narration": "홍화문은 ‘조화를 넓힌다’는 뜻이라고 해요. 영조와 정조의 일화에서 알 수 있듯이 홍화문은 왕과 백성이 만나는 장소라는 역할을 톡톡히 했던 것 같아요.\n조선 시대 궁궐 정전 중 가장 오래된 명정전\n정전은 궁궐에서 중심이 되는 건물이에요. 새로운 왕이 즉위하거나 여러 공식적인 행사가 열리는 곳이지요. 경복궁의 근정전, 창덕궁의 인정전처럼 말이에요. 창경궁에도 다른 궁궐처럼 정전이 있어요. 바로 명정전이지요.\n명정전은 근정전이나 인정전처럼 크지 않지만, 조선 시대 5대 궁궐(경복궁, 창덕궁, 창경궁, 경희궁, 덕수궁)의 정전 중 가장 오래된 건축물이에요.",
+      "est_speech_ms": 44400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "홍화문 사미도(국립고궁박물관)",
+        "명정전"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_044.jpg",
+          "caption": "홍화문 사미도(국립고궁박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_050.jpg",
+          "caption": "명정전",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "조선 시대 궁궐 정전 중 가장 오래된 명정전",
+      "narration": "임진왜란 때 불타 없어진 것을 광해군 때 다시 지어 현재까지 이어졌거든요.\n창경궁의 정문인 홍화문에서 명정전까지 가려면 먼저 옥천교를 지나야 해요. 조선의 모든 궁궐은 앞마당에 일부러 물길을 만들어 궁궐의 안과 외부 세계를 구분하는데 보통은 ‘금천’이라고 불러요.\n창경궁에 있는 ‘금천’을 ‘옥천’이라 부르고, 이 ‘옥천’을 지나기 때문에 옥천교라고 하는 것이지요. 옥천교는 옛 모습을 가장 잘 간직하고 있는 다리라고 해요.",
+      "est_speech_ms": 33600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "창경궁의 역할이 점점 커졌어요",
+      "narration": "옥천교를 지나 명정문을 통과하면 창경궁의 정전인 명정전에 도착할 수 있어요. 홍화문이 동쪽을 향해 만들어졌던 것처럼 명정전도 동쪽을 향해 있답니다. 명정전 앞에도 근정전처럼 박석과 품계석이 있어요.\n하지만 이것은 조선시대에 만들어진 모습을 그대로 간직하고 있지는 않아요. 일제 강점기에 모두 뜯겨 훼손되었다가 1980년대 창경궁을 복원할 때 다시 만들어진 것이에요.\n창경궁의 역할이 점점 커졌어요\n임진왜란으로 경복궁, 창덕궁, 창경궁 등 조선의 대부분 궁궐이 불탔어요. 전쟁이 끝난 후 광해군 때는 불에 탄 궁궐을 하나둘씩 복구했어요. 그런데 어쩐 일인지 조선 시대 법궁이면서 가장 먼저 세워진 경복궁은 제대로 복구되지 않았어요.",
+      "est_speech_ms": 52200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "옥천교"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_058.jpg",
+          "caption": "옥천교",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "창경궁의 역할이 점점 커졌어요",
+      "narration": "그 대신 창덕궁을 복구하고 중심 궁궐로 사용하였어요. 그러자 창덕궁 바로 옆에 있던 궁궐인 창경궁도 복구가 이루어지고 그 기능이 점점 커졌어요.\n특히 인조가 광해군을 쫓아내고 왕이 된 사건인 인조반정 과정에서 창덕궁이 불에 타는 막대한 피해를 보게 되자 창경궁은 더욱 중요한 궁궐이 되었어요. 그래서인지 조선 후기 왕실의 크고 작은 사건들이 창경궁에서 일어나요.\n정전인 명정전 바로 옆에는 왕이 일상적인 나랏일을 하고 신하들과 경연을 하던 문정전이 있어요. 다른 궁궐은 보통 정전 뒤에 왕이 일상적인 일을 하던 건물이 있는데 창경궁은 조금 다르지요.",
+      "est_speech_ms": 45000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "창경궁의 역할이 점점 커졌어요",
+      "narration": "이 문정전 앞마당에서는 조선 왕실 역사상 가장 비극적인 일로 손꼽히는 사건이 발생해요. 바로 영조가 아들인 사도세자를 뒤주에 가두고 죽인 일이죠.\n영조는 훗날 사도세자의 사당을 창경궁 동쪽에 있던 후원인 함춘원으로 옮겨지었어요. 그리고 사도세자의 아들 정조는 이를 경모궁이라 고쳐 부르고 아버지를 기렸어요. 정조는 아버지 사당인 경모궁을 자주 찾아가 참배했는데 이를 위해 창경궁에 ‘월근문’이라는 새로운 문을 냈어요. 월근문은 커다란 문과 작은 문이 나란히 붙어 있는 것이 특징이에요.",
+      "est_speech_ms": 40000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "왕궁에서 공원이 된 창경궁",
+      "narration": "명정전 뒤의 문을 지나면 창경궁에서 왕비와 대비가 머물던 내전인 경춘전이 있어요. 경춘전은 원래 성종이 어머니인 인수대비를 위해 지은 것이에요. 이곳은 훗날 정조와 헌종이 태어난 곳이기도 하죠.\n특히 정조가 태어날 무렵 사도세자는 흑룡이 경춘전 지붕 위로 내려오는 꿈을 꾸었고, 이를 기념하기 위해 경춘전 안 동쪽 벽에 흑룡을 그려 넣었다고 해요. 아쉽게도 이 그림은 현재 전하지 않아요.\n왕궁에서 공원이 된 창경궁\n일제는 순종이 황제가 된 1907년부터 창경궁의 전각들을 부수고 그 자리에 동물원, 식물원 등을 만들고 유원지로 만들어 버렸어요. 이름도 창경궁에서 창경원으로 바꾸었어요. 순종은 창경원에 관람객을 받지 않는 날인 목요일에만 이곳을 산책할 수 있었다고 해요.",
+      "est_speech_ms": 55000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "경춘전"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_072.jpg",
+          "caption": "경춘전",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 6,
+      "section_title": "창경궁에만 있는 건축물",
+      "narration": "1922년 일제는 창경원 곳곳에 벚꽃 나무를 심었어요. 그 후 봄에 벚꽃이 필 무렵 밤늦게까지 창경원 문을 열고 사람들이 벚꽃놀이하는 곳으로 바꾸어버렸어요.\n일제 강점기뿐 아니라 광복 이후 1970년대 말까지도 봄이 되면 창경궁에는 벚꽃을 즐기려는 사람들이 몰려들었어요.\n창경궁에만 있는 건축물\n창경궁에는 다른 궁궐에서 볼 수 없는 건축물이 있어요. 먼저 성종대왕태실과 성종대왕태실비를 꼽을 수 있어요. 조선 시대에는 왕실의 자손이 태어나면 명당자리에 태를 담은 항아리를 묻고 태실비를 세웠어요.",
+      "est_speech_ms": 41600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "1960년 창경원의 야경(국가기록원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_079.jpg",
+          "caption": "1960년 창경원의 야경(국가기록원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 6,
+      "section_title": "창경궁에만 있는 건축물",
+      "narration": "성종대왕태실과 태실비도 원래는 창경궁에 있던 것이 아니에요. 경기도 광주에 있던 것을 일제 강점기 이곳으로 옮긴 것이에요.\n창경궁에는 석탑도 있어요. 그것도 무려 두 개나 있어요. 하나는 명정전 뒤편에 있는 5층 석탑이고, 나머지는 성종대왕태실을 지나 춘당지라는 연못으로 가는 길에 있는 팔각칠층석탑이에요.\n5층 석탑은 고려 시대 중기에 만들어진 탑으로 생각되어요. 이 탑은 원래 창경궁에 없었는데 일제 강점기 창경궁에 이왕가박물관을 만들면서 옮겨 왔다고 해요.\n팔각칠층석탑은 중국식 탑으로 중간에는 항아리 같은 것이 놓여 있어요. 탑에 글자가 새겨져 있는데 이를 통해 1470년(성종 1)에 제작되었음을 알 수 있어요. 이 탑도 이왕가박물관이 세워질 때 만주에서 옮겨 온 것이라 해요.",
+      "est_speech_ms": 56200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "성종대왕태실과 성종대왕태실비",
+        "오층석탑과 팔각칠층석탑"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_087.jpg",
+          "caption": "성종대왕태실과 성종대왕태실비",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_092.jpg",
+          "caption": "오층석탑과 팔각칠층석탑",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 창경궁 복원 이야기",
+      "narration": "팔각칠층석탑을 지나 춘당지 너머 북쪽에는 궁궐과 어울리지 않은 건물이 하나 보여요. 바로 창경궁 대온실이지요.\n이것은 일제가 황제가 된 순종을 위해 궁궐을 새로 단장한다는 핑계를 대며 만든 우리나라 최초의 서양식 온실이에요.\n일본인이 설계하고 프랑스 회사가 만든 이 온실은 완성 당시 동양 최대 규모였다고 해요. 창경궁을 옛 모습으로 복원할 때 온실을 없애지는 않았어요. 현재는 우리나라 야생화를 전시하는 공간으로 이용하고 있어요.\n역사 속 작은 이야기: 창경궁 복원 이야기\n일제가 물러가고 광복이 된 후에도 훼손된 창경궁의 모습은 거의 그대로 였어요. 그러다가 1980년대에는 훼손된 창경원을 원래의 모습으로 되돌리자는 의견이 제시되었어요.",
+      "est_speech_ms": 53200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대온실"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6adca7f660327633/fig_098.jpg",
+          "caption": "대온실",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 창경궁 복원 이야기",
+      "narration": "정부는 1981년 창경궁 복원 계획을 세웠어요. 1984년부터 1986년까지 약 3년 동안 공사를 마친 뒤 창경원에 살던 동물은 서울대공원으로 옮겼어요. 여러 전각을 복원하고 이름도 다시 창경궁으로 고쳐 불렸어요.\n해마다 봄이 되면 예쁜 꽃을 피우던 창경궁의 벚꽃을 어떻게 할지 의견이 분분했어요. 논의 끝에 벚꽃 일부를 여의도 윤중로와 서울대공원에 옮겨 심었어요. 그리고 창경궁에 남아 있던 일본식 건물과 정원을 없애 현재의 모습을 갖추었어요.\n창경궁은 일제 강점기의 아픈 역사가 담겨있는 궁궐이지요. 그래도 지금은 옛 모습이 어느 정도 복원되었어요. 이번 주말 창경궁을 직접 방문하거나 인터넷에서 자료를 찾아 그 모습을 느껴보는 것은 어떨까요?",
+      "est_speech_ms": 53600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

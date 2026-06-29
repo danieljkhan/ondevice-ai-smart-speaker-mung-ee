@@ -1,0 +1,251 @@
+{
+  "schema_version": 2,
+  "doc_hash": "ad37c3efff7f7803",
+  "source_file": "eh_n0440_0010.pdf",
+  "title": "권율, 행주산성에서 일본군을 격파하다",
+  "kind": "people",
+  "era": "조선",
+  "era_source": "docnum",
+  "scene_count": 10,
+  "section_count": 5,
+  "image_count": 5,
+  "est_total_ms": 431500,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "행주산성(경기 고양시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "일본군, 평양을 버리고 한양으로 후퇴하다",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [
+        "임진왜란 초기 일본군의 이동 경로와 격전지"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "한양의 입구 행주산성을 차지하다",
+      "scene_indices": [
+        3,
+        4
+      ],
+      "scene_seq": [
+        4,
+        5
+      ],
+      "image_captions": [
+        "행주산성의 토성"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "화약무기가 큰 활약을 하다",
+      "scene_indices": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "행주대첩에서 사용한 화약무기",
+        "행주대첩(전쟁기념관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        9
+      ],
+      "scene_seq": [
+        10
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "권율, 행주산성에서 일본군을 격파하다\n“어찌 이리 작고 좁은 토성에서 일본군과 맞서 싸우려하십니까?”\n“맞습니다. 일본군의 세력이 큰데 적은 군사와 백성으로 맞서다 보면 모두 한강물에 빠져 죽을 것입니다.”\n“이곳을 버린다면 한양을 되찾을 기회도 버리는 것이다.”\n권율은 일본군이 점령하고 있던 한양을 되찾고 싶었어요. 조총이란 화약무기로 무장한 수많은 일본군에 맞서 권율은 어떤 방법으로 싸웠을까요?\n나라의 위기 속에 백성들은 어떤 마음으로 외적에 맞섰을까요?",
+      "est_speech_ms": 37400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "행주산성(경기 고양시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ad37c3efff7f7803/fig_001.jpg",
+          "caption": "행주산성(경기 고양시)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "일본군, 평양을 버리고 한양으로 후퇴하다",
+      "narration": "일본군, 평양을 버리고 한양으로 후퇴하다\n1592년 4월13일, 부산포에 첫발을 내디딘 일본군은 이틀 만에 동래성을 점령하였어요. 그리고 파죽지세로 북상하여 불과 20일 만에 한양을 점령하고, 6월에는 평양과 함경도까지 진출했어요. 임금은 명과 가까운 의주로 피신을 갔지요.\n그러나 왜군은 더 이상 진격할 수 없었어요. 가장 중요한 식량과 군수물자가 더 이상 원활하게 보급되지 않았기 때문이지요.\n남해를 돌아서해로 진출해 물자를 보급하고자했던 일본 수군은 이순신이 이끄는 조선 수군에게 막혀 꼼짝도 못하고 있었고, 육지에서는 의병들의 유격전술에 물자를 보급하는 것이 쉽지 않았어요.",
+      "est_speech_ms": 48600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "일본군, 평양을 버리고 한양으로 후퇴하다",
+      "narration": "그러자 한양을 점령하고 있던 일본군의 일부는 다시 남쪽으로 방향을 돌려 우리나라의 대표적인 곡창 지대인 호남 지역을 차지하려하였어요.\n그러나 전라도 관찰사 권율을 비롯해 의병장 고경명, 조헌 등과의 금산 일대에서의 전투로 가로막혀 실패하고 말았지요.\n남해안을 따라 이동하던 일본군도 진주성 전투에서 김시민에게 패해 호남 지역을 차지하려던 계획도 결국 성공하지 못했어요.\n일본군에 보급이 제대로 되지 않는 상황에서 명군이 참전하여 조선군과 함께 싸웠어요. 조·명 연합군은 먼저 평양성을 공격하여 되찾았고, 평양에서 밀려난 일본군은 한양까지 도망쳐 성에 의지해 버티고 있었어요.",
+      "est_speech_ms": 48200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "임진왜란 초기 일본군의 이동 경로와 격전지"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ad37c3efff7f7803/fig_017.jpg",
+          "caption": "임진왜란 초기 일본군의 이동 경로와 격전지",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "한양의 입구 행주산성을 차지하다",
+      "narration": "한양의 입구 행주산성을 차지하다\n이때 권율은 명군과 연합하여 한양을 다시 탈환하고자하였어요. 권율은 한양의 일본군을 압박하고 작전을 펼치기에 행주산성이 가장 적합하다고 생각했어요.\n한양에서 가까운 행주산성은 한쪽이 한강물로 막혀있고, 산의 남쪽이 급경사로 이뤄진 절벽이라 쉽게 접근할 수 없었으며, 주변은 평야 지대라 위에서 아래를 훤히 바라보며 전투를 할 수 있었지요. 다만 북쪽 방향은 흙을 쌓아 만든 낮은 토성으로 이루어져 있어 방어에는 문제가 있었어요.\n권율은 정예병사 2,300명을 뽑아 한강을 건너 행주산성으로 갔어요. 그리고 방어에 불리한 곳을 골라 토성 위에 목책을 세워 적이 쉽게 넘지 못하도록 보강하였지요. 이때 산성 주변의 백성들도 몰려와 관군을 도와서 함께 전투를 준비하고 있었어요.",
+      "est_speech_ms": 58400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "한양의 입구 행주산성을 차지하다",
+      "narration": "한양 가까이 권율이 군대를 이끌고 홀로 주둔하자 일본군은 3만 명의 군사를 움직여 새벽에 행주산성을 포위하였어요. 수많은 일본군이 울려 대는 징소리·북소리가 땅을 진동하니 산성 안에 두려움이 퍼져나갔지요.\n그러나 권율은 거듭 군사들과 백성들을 격려하며 전투를 기다렸어요.\n숫자가 많고 게다가 신무기 조총으로 무장한 일본군은 성벽도 허술한 행주산성과 적은 수의 조선군을 보며 금방 함락할 수 있으리라 생각했어요.\n일본군은 군사를 나누어 교대로 12시간을 쉬지 않고 공격해 왔어요. 우리 군사들은 토성과 목책에 의지해 높은 곳에 있었고, 뒤로는 강물에 막혀 달아날 길도 없어 모두 죽을 각오를 하고 싸웠어요.",
+      "est_speech_ms": 50000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "행주산성의 토성"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ad37c3efff7f7803/fig_029.jpg",
+          "caption": "행주산성의 토성",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "화약무기가 큰 활약을 하다",
+      "narration": "화약무기가 큰 활약을 하다\n일본군은 올려다보고 공격하는 상황이라 탄환도 잘 맞지 않았어요. 그러나 권율과 함께 호남 지역에서 올라온 군사들은 모두 활을 잘 쏘았어요.\n군사들이 활을 쏘는 대로 일본군을 적중시켰지요. 화살이 마치 비 오듯 쏟아지니 목책을 넘으려던 일본군의 기세가 번번이 꺾이곤하였어요.\n일본군의 조총에 맞서 화살은 물론 여러 화약 무기들도 큰 활약을 하였어요.\n가장 많은 활약을 한 것은 화차였어요. 화차에는 화약을 이용하여 동시에 수 백발의 화살을 쏘는 신기전과 쇠구슬을 발사하는 총통기가 있었어요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "화약무기가 큰 활약을 하다",
+      "narration": "한꺼번에 많은 화살과 쇠구슬을 날려 먼 거리에서 몰려오는 일본군에게 큰 피해를 주었지요.\n비격진천뢰는 대완구로 발사하며 400m 정도를 날아가 터지는 일종의 시한폭탄이었지요. 폭탄 내부에는 화약과 철조각이 들어있었어요.\n발사한 후 일정 시간이 지나면 내부의 화약이 터져 파편이 사방으로 날아가 많은 일본군에게 큰 피해를 주었어요.\n일본군이 짚단을 가지고 와 목책에 쌓아 불을 지르자 성 안의 백성들이 물을 길어와 불을 껐어요. 왜적이 서북쪽 목책 한 칸을 허물고 고함을 치면서 들어오자 그곳을 지키고 있던 승군이 조금 밀려났어요.",
+      "est_speech_ms": 43700,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "행주대첩에서 사용한 화약무기"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ad37c3efff7f7803/fig_044.jpg",
+          "caption": "행주대첩에서 사용한 화약무기",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "화약무기가 큰 활약을 하다",
+      "narration": "그러자 권율이 직접 칼을 빼어 도망가려는 자를 베고 군사들과 함께 직접 칼과 창을 휘두르며 전투를 벌여 물리쳤어요.\n일본군의 계속된 공격에 성안의 화살이 거의 떨어지자 병사들은 돌을 던져 가며 방어를 하였어요. 백성들도 병사들을 도와 전투에 참가하였어요.",
+      "est_speech_ms": 21000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "화약무기가 큰 활약을 하다",
+      "narration": "성 안에 무기와 병사가 부족한 상황을 눈치 챈 일본군이 기세를 올렸어요.\n그러나 이때 경기수사이빈이 배 두 척을 몰고 한강을 거슬러 올라와 화살 수 만 개를 성에 공급하였어요. 전세는 다시 역전되어 성 안의 적이 물러나기 시작하였어요. 7차례에 걸친 적의 총공격을 모두 격퇴한 것이었어요.\n왜적은 결국 후퇴하면서 시체를 네 무더기로 쌓아 놓고 풀로 덮어 태웠는데, 당시 시체 타는 냄새가 10리까지 뻗쳤다고 해요.\n이 전투에서 조선군의 사상자는 많지 않았던 반면 일본군은 부상자만 5천 명에 이르렀어요. 행주대첩은 조선군의 큰 승리였어요.",
+      "est_speech_ms": 43600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "행주대첩(전쟁기념관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ad37c3efff7f7803/fig_053.jpg",
+          "caption": "행주대첩(전쟁기념관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "당시 벽제관 전투에서 명군이 일본군에게 패해 사기가 크게 떨어졌었는데, 행주대첩으로 다시 전세가 역전되어 조선에 유리하게 펼쳐졌어요. 행주산성에서의 승리를 계기로 일본군은 경상도 바닷가 지역으로 후퇴하였고, 조선은 한양을 되찾을 수 있었어요.\n행주산성에서 죽기를 각오하고 군사들과 백성들이 일본군에 맞서 싸웠어요. 행주산성에서 승리하고 한양을 되찾은 권율과 백성들은 어떤 심정이었을까요?",
+      "est_speech_ms": 33200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

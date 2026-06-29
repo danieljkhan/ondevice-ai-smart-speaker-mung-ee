@@ -1,0 +1,274 @@
+{
+  "schema_version": 2,
+  "doc_hash": "abe39ca2ae9b6f08",
+  "source_file": "eh_n0730_0010.pdf",
+  "title": "주시경, 우리 말과 글을 지켜내다",
+  "kind": "people",
+  "era": "일제강점기",
+  "era_source": "docnum",
+  "scene_count": 12,
+  "section_count": 5,
+  "image_count": 5,
+  "est_total_ms": 498200,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0,
+        1,
+        2
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3
+      ],
+      "image_captions": [
+        "한글가온길 한글마당(서울 종로구)",
+        "배재학당 역사박물관(서울 중구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "독립신문을 읽고 있는 사람들"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "여기저기 다니며 우리글을 가르치다",
+      "scene_indices": [
+        6
+      ],
+      "scene_seq": [
+        7
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "우리글에 ‘한글’이란 이름을 붙이다",
+      "scene_indices": [
+        7,
+        8
+      ],
+      "scene_seq": [
+        8,
+        9
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "제자들에 의해 그의 정신이 이어지다",
+      "scene_indices": [
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "말의 소리(독립기념관)",
+        "『조선말 큰 사전』 원고 (독립기념관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "주시경, 우리 말과 글을 지켜내다\n“주보따리 선생님, 일요일인데도 어딜 그리 바삐 가시나요?”\n“우리글을 가르치러 국어강습소에 간다오.”\n“그러시군요. 선생님 덕분에 많은 사람들이 우리글을 배울 수 있겠군요. 수고하세요.”\n주보따리 선생으로 불린 이 분은 누구일까요? 그는 왜 쉼 없이 우리말을 가르치려고 한 것일까요?\n배재학당에서 신학문을 배우다\n이 사람은 바로 일제 강점기에 우리말과 글을 지키려고 노력한 주시경 선생이에요. 그는 1876년 황해도 봉산에서 태어났어요.",
+      "est_speech_ms": 37800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "한글가온길 한글마당(서울 종로구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/abe39ca2ae9b6f08/fig_002.jpg",
+          "caption": "한글가온길 한글마당(서울 종로구)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "그해에 조선은 일본과 강화도 조약을 맺고 나라의 문을 열었지요.\n그의 집안은 중인 집안으로, 집안이 넉넉하지 않아 여섯이나 되는 주시경의 남매들은 굶기를 밥 먹듯 했어요.\n열두 살 무렵 황해도에 살던 주시경은 서울로 올라와 살게 되었어요. 큰아버지 집 양자로 들어가게 되었거든요. 그 덕분에 서울의 서당에서 양반집 아이들과 함께 공부를 할 수 있었지요.\n“왜 이렇게 뜻도 제대로 알 수 없는 한자를 공부해야 할까? 소리 나는 대로 쓸 수 있는 우리글이 있는데….”\n주시경은 서당에서 한문과 유학에 대해 공부할수록 고민이 깊어졌어요. 그러면서 차츰 한문으로 된 책 대신 한글에 관심을 두게 되었지요.",
+      "est_speech_ms": 47200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "주시경은 1894년 배재학당에 입학하게 되었어요. 이 학교는 미국인 선교사가 세운 근대식 사립학교에요. 그곳에서 그는 새로운 학문을 배우며 비슷한 생각을 가진 청년들을 만났어요. 주시경의 생각도 점점 바뀌었어요.\n특히 주시경은 헐버트를 만나면서 그로부터 새로운 세상에 대한 이야기를 들었어요. 세계의 여러 나라가 자기 나라 말과 글을 쓴다는 걸 알게 되었지요. 그동안 몰랐던 드넓은 세상을 알게 되었고, 중국과 조선에 대한 생각도 변했어요.\n“언문(한글)이 중국 글자보다 더 필요하건만 사람들이 그것도 모르고 업신여기니 어찌 아깝지 아니한가!”\n외국인인 헐버트는 이런 이야기를 할 정도로 한글의 우수성을 너무 잘 알고 있던 사람이었지요.",
+      "est_speech_ms": 52000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "배재학당 역사박물관(서울 중구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/abe39ca2ae9b6f08/fig_019.jpg",
+          "caption": "배재학당 역사박물관(서울 중구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "배재학당에 다니던 많은 청년들은 신학문을 배우며, 조선을 새롭게 변화시켜야한다는 생각을 하게 되었어요. 훗날 일제가 한국을 식민지로 삼았을 때 독립 운동에 참여하는 사람들도 많았지요. 그 중 한 사람이 주시경 선생이에요.\n독립신문을 만드는데 참여하다\n1880년대 일본, 청, 러시아, 영국, 미국 등 세계 여러 강대국이 조선에 하나둘 침략의 손길을 뻗어와 한반도를 넘보기 시작했지요. 그들은 한반도에서 자신들의 이익을 찾기 위해 눈에 불을 켰어요.\n이후 광산을 개발하거나 철도를 설치하는 권한과 같은 여러 가지 이익을 차지하려했어요.",
+      "est_speech_ms": 43600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "서재필을 비롯한 지식인들이 1896년 독립신문을 펴내고, 독립협회를 세워 나라를 지키기 위한 노력을 기울였지요.\n서재필은 독립신문을 한글로도 만들어 누구든 쉽게 읽을 수 있도록 해 우리 민족을 깨우치려고 했어요. 어느 날 서재필이 주시경을 찾아와 신문 만드는 일을 도와달라고 했어요.\n“일반 사람들과 부녀자들도 읽을 수 있도록 한글로 된 신문을 내면 좋을 텐데, 가능할까요?”\n“네, 할 수 있습니다. 우리말을 소리 나는 대로 쓰고, 띄어쓰기를 잘하면 됩니다.”\n주시경의 생각대로 독립신문을 한글로 낼 수 있게 되었어요. 그는 독립신문 교보 원(교정보는 사람)이 되어 독립신문 기사를 꼼꼼히 검토하며 교정을 보았지요. 기사문을 고치며, 띄어쓰기 등을 처음으로 해보았어요.",
+      "est_speech_ms": 53600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "독립신문을 읽고 있는 사람들"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/abe39ca2ae9b6f08/fig_033.jpg",
+          "caption": "독립신문을 읽고 있는 사람들",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "한글로 된 독립신문을 읽으며 세상에 대해 눈떠가는 사람들의 모습을 지켜보는 주시경은 마음이 뿌듯했어요. 이후 주시경은 동료들과 함께 우리말과 글을 더욱 열심히 연구했어요.",
+      "est_speech_ms": 14400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "여기저기 다니며 우리글을 가르치다",
+      "narration": "여기저기 다니며 우리글을 가르치다\n그는 외국인들에게도 우리글을 가르쳤어요. 또한 여기저기 강연을 다니며 사람들에게 자주 독립 정신을 심어 주기도 했어요. 배재학당 주변에 있던 여러 학교를 누비면서 국어 선생으로 강의를 했고요. 그러다보니 일요일에도 쉴 틈이 없었어요.\n한글을 가르치는 무료 강습소를 열어 우리글을 배우고자하는 사람들에게 가르침을 주었지요. 국어강습소에는 남녀노소 할 것 없이 한글을 배우고 싶어하는 많은 사람이 모여들었어요.\n“어이쿠, 주보따리 선생이 또 전봇대에 부딪혔군, 저러다 이마가 남아나겠나?”",
+      "est_speech_ms": 43200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "우리글에 ‘한글’이란 이름을 붙이다",
+      "narration": "사람들은 책을 한가득 보따리에 싸고 다니는 그를 주보따리 선생이라 불렀어요. 그는 걸어 다니면서도 늘 한글을 골똘히 생각했어요.\n“우리 말과 글을 체계적으로 정리해서 우리말 사전을 만들어야겠어.”\n그는 우수한 한글을 잘 정리해야겠다는 결심을 했어요. 한글 전반을 연구하는 국문연구소에서 지석영 등과 함께 한글을 연구하기 시작했어요.\n세로 쓰기 대신 가로 쓰기를 주장했고, 통일된 하나의 표기법을 만들어야 한다는 생각을 했어요.\n우리글에 ‘한글’이란 이름을 붙이다\n1910년 일제는 대한제국의 국권을 강제로 빼앗고, 식민지로 만들어버렸지요. 이후 주시경의 우리말과 글에 대한 사랑과 이를 지키려는 노력은 더욱 깊어졌어요.",
+      "est_speech_ms": 51000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "우리글에 ‘한글’이란 이름을 붙이다",
+      "narration": "“나라의 바탕을 보존하려면 우리말과 글을 잘 지켜야 하오. 나라의 바탕이 날로 쇠하면 나라를 다시 일으킬 가망이 없소이다.”\n그는 나라를 되찾으려면 우리말과 글을 잘 지키고 연구해야 한다고 생각했지요.\n일제가 우리글을 국어라고 하지 못하게 하자 ‘한글’이라는 이름을 붙인 것도 바로 주시경 선생이에요. 한글에는 ‘크고 바른 글’이라는 의미가 담겨 있지요.\n우리 말과 글에 관한 책인 말의 소리, 한글 문법을 체계적으로 정리한 국어 문법이라는 책을 썼어요. 최초의 국어사전으로 볼 수 있는 말모이도 썼지요.",
+      "est_speech_ms": 40000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "제자들에 의해 그의 정신이 이어지다",
+      "narration": "자신의 호도 ‘크고 하얀 샘’이란 뜻의 순 한글 이름인 ‘한힌샘’으로 바꿀 정도로 한글을 사랑했어요. 하지만 한글을 연구하고 지키는 길은 쉽지 않았어요. 일제의 탄압이 만만치 않았거든요.\n제자들에 의해 그의 정신이 이어지다\n“일제의 감시를 피해 다른 나라로 가 한글 연구를 계속해야겠어.”\n일제의 탄압을 견디다 못한 주시경은 중국으로 망명하기로 마음먹었어요. 하지만 그는 뜻을 이루지 못했어요.\n가족들과 작별인사를 하고 집에 돌아왔는데 갑자기 가슴이 답답해 오기 시작했어요. 그는 손을 쓸 틈도 없이 숨을 거두고 말았어요.",
+      "est_speech_ms": 41800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "말의 소리(독립기념관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/abe39ca2ae9b6f08/fig_059.jpg",
+          "caption": "말의 소리(독립기념관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "제자들에 의해 그의 정신이 이어지다",
+      "narration": "1914년, 그의 나이 서른아홉 살이었어요.\n그가 죽은 뒤 그가 하던 연구를 제자들이 이어갔어요. 최현배 등이 조선어학회를 만들어 한글을 지켜내는 운동을 벌이고, 발전시켰지요.\n일제의 감시를 피해 전국에서 쓰고 있는 우리말을 모으는 ‘말모이 작전’을 펼쳤고, 조선말 큰 사전을 펴내려고 했어요.\n그런데 일제가 조선어학회를 강제로 없애버리고, 10여 년이 넘게 써온 조선말 큰 사전 원고 등 연구하던 자료를 모두 빼앗아 갔어요.",
+      "est_speech_ms": 34200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "제자들에 의해 그의 정신이 이어지다",
+      "narration": "다행히 얼마 후 서울역을 정리하다 원고가 발견되었고, 1957년에 조선말 큰 사전을 완성해 펴냈어요.\n다행히 주시경 선생의 제자들이 그가 이루지 못한 꿈을 하나둘 이루긴했지만, 그의 이른 죽음은 너무도 안타까운 일이에요. 그가 조금 더 살아 연구를 계속했다면, 한글 연구는 더욱 발전했을 거예요. 그래도 우리글의 가치를 알아본 주시경이 있었기에, 오늘날 우리는 한글을 편하고 자유롭게 사용할 수 있는 거랍니다.",
+      "est_speech_ms": 33400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "『조선말 큰 사전』 원고 (독립기념관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/abe39ca2ae9b6f08/fig_073.jpg",
+          "caption": "『조선말 큰 사전』 원고 (독립기념관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

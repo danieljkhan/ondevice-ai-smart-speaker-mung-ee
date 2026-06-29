@@ -1,0 +1,19 @@
+# Auto-attach or create the `mungi` tmux session on interactive SSH login.
+# Guards:
+#   - tmux must be installed
+#   - session must originate from SSH ($SSH_CONNECTION set)
+#   - not already inside tmux ($TMUX unset)
+#   - interactive shell only ($- contains 'i')
+#   - TERM is not a nested tmux/screen
+# On detach (Ctrl+A D) or session exit, the outer shell exits, so SSH closes.
+# The tmux server and the `mungi` session keep running on Jetson.
+if command -v tmux >/dev/null 2>&1 \
+   && [ -n "${SSH_CONNECTION:-}" ] \
+   && [ -z "${TMUX:-}" ] \
+   && [[ $- == *i* ]] \
+   && [ "${TERM:-}" != "screen" ] \
+   && [ "${TERM:-}" != "tmux" ]; then
+    tmux attach-session -t mungi 2>/dev/null \
+        || tmux new-session -s mungi
+    exit
+fi

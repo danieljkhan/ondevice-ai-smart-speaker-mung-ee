@@ -1,0 +1,1205 @@
+{
+  "schema_version": 2,
+  "docs": {
+    "017a530277ccc7bc": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "0218d8e1beb78d10": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "03bf8d95bc159979": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "047eabef00236d33": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "04d724be9dc39ca5": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "060867d9cd07d60d": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "090e4618f707ebf0": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "094a5d521df25c0b": {
+      "era": "근대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "09fa676ed6177ed7": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "0b2ebce3ca0daef1": {
+      "era": "통일신라·발해",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "0b321fc76b919af7": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "0b7351a4f2e8e147": {
+      "era": "근대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "0c0e22a97b923a13": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "0e30d4bd019db05c": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "0ea14d3e4f7c150a": {
+      "era": "현대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "1494c81a5f6be08e": {
+      "era": "현대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "164cd819a360664c": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "1873a3bfe335be47": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "1891d6f8fdc7f9ed": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "18a2628e48caaba1": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "18e6c77e2fee1513": {
+      "era": "통일신라·발해",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "19654b4468d64f45": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "1ac5e231c4770759": {
+      "era": "근대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "1b3b72fe2b8d1ef1": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "1c65a619a3d5e0c1": {
+      "era": "선사",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "1d17f915eb463d18": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "1eac6552c466517b": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "2221c46819ec7608": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "226d083f188706bd": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "228fa16d7208af22": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "242ea5b1922dff9f": {
+      "era": "현대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "24c3f27da6f890bd": {
+      "era": "현대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "28a4aef0f8db8721": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "28e2e6b8ac9ec28e": {
+      "era": "통일신라·발해",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "29d53ce7f6e63a79": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "docnum"
+    },
+    "29ece8c49cd82b98": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "2a04185ca71622f5": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "2a2ec7bb8c41a767": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "2aecdf955fe5c88f": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "2becbd3cd35c52c9": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "2f841e5e92a249c1": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "31ca2e09c4173c54": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "31e006dc3eb8bb05": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "32d8d9b17dd8b0d7": {
+      "era": "현대",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "32ddda754af6d6a4": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "347b48479f71736e": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "34d6232aeacd726c": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "358e83ce39f1e9c5": {
+      "era": "근대",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "35c2e662de5febbe": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "35d1fc658f0b828b": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "36124f0164d45c42": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "38f2c5ff8d0641b5": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "3994fac284cf1e9d": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "3a35ad93aa53fb89": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "3b1394a6c1c4a7bf": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "3b2af6b37480c016": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "3ba5b1cff4cc6d95": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "3c066a479dfb6468": {
+      "era": "선사",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "3cc978b350183bc5": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "3ce2757dbb07c364": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "3f128447f744f6bd": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "402855b4096316c4": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "40b4886f0244a45e": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "412c933e4704fc2b": {
+      "era": "현대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "41fb6ea659f7384f": {
+      "era": "현대",
+      "kind": "artifact",
+      "era_source": "docnum"
+    },
+    "4452ad48b4702f36": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "446fc14222fc4915": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "4688ff03cc5b4965": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "47b01342ab6ce2fd": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "47ea43beef50534b": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "4888c04697d56da0": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "49efe1b565acca82": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "4bd45d643572e94f": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "4c5af29d83af9e8d": {
+      "era": "선사",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "4c7a6d9d56856444": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "4c9bf39dde9d4b06": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "4f0d201c594254ed": {
+      "era": "통일신라·발해",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "5066fd80ce341bb9": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "51820bc9f55d61d8": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "51b7111ec9326617": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "522911dc54165e0c": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "52f112c7285f2e96": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "5333b3a16e172662": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "53cb3efa9d0b6547": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "555723dd5fa2a85f": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "56bbe58c34a45dfc": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "59f7f64c657fedfd": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "5a787f7647ef24b3": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "5aa2d6ce245cd3d6": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "docnum"
+    },
+    "5ad758dd49247192": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "5d9fbe641ec7e873": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "5dff5678a4bf01e8": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "5f4eb2b4682cb56d": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "5fdb17e5226bb98a": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "622804eafa978e4d": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "644c03a51c434c14": {
+      "era": "근대",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "658864698f353304": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "65fc8ba11c1de159": {
+      "era": "선사",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "6634bfb418fa597a": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "68cb67ff52f2bb5c": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "6a4bafcff86101ab": {
+      "era": "선사",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "6ad1cfa59454c8ea": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "6adca7f660327633": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "6b9064d6d7b8c24b": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "6c5f76d0601a6f6d": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "6f2b5c6da9e1c9d0": {
+      "era": "통일신라·발해",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "6f95bcf322094f98": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "71a5483dcee02d19": {
+      "era": "통일신라·발해",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "720d72d095072ac8": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "72b68c0ba25977eb": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "72ef0c56c91a1156": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "733ee20d601dce82": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "739f36bf58cd1685": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "76e8f3c962b5da00": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "781aed1abeb8351a": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "790875f9bfec0370": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "docnum"
+    },
+    "79d6b023200d1f9a": {
+      "era": "고조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "79fc86f1b135d131": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "7b0cde2efac5289b": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "7b0f28c9536eb2ef": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "7bec066772b8f0ad": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "7cf933e9438012be": {
+      "era": "선사",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "7e46be45179bdf3e": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "7fbad21c6f3da71a": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "80169ad42448f1c2": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "804d00ac6269d159": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "80a49b709961843d": {
+      "era": "근대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "82f13b6b762703e5": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "docnum"
+    },
+    "84540ffcaea73eba": {
+      "era": "선사",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "86e011c82343d780": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "8984b5d81676d32b": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "8a0f7b2aaaa15fc5": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "8a2dc6da2c213892": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "8a4d0857469cc12d": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "8c91e5d44fd4f9bc": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "8d20ea898e65febd": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "8d4e99f359cfc1ca": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "8e49336b8fed4f17": {
+      "era": "현대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "8e6444e217aecbc2": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "8ed8ed54d60c372d": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "8f03b405d1bf4180": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "910f852a7c72aad4": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "93c9c5122e5c6591": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "93d9d9a720ffd68e": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "95fdbc2a5ea16a0a": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "9685bbd472f69e5c": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "9848834395f57e3c": {
+      "era": "근대",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "9abd0470ba705819": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "9cb3ee3a5ac53c24": {
+      "era": "근대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "9ea6c51944ac1201": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "9efce95e2d89e9ad": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "a35821153eed3cac": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "a3b03d624b015064": {
+      "era": "근대",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "a58837a0e3bd296b": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "a66aaea1c9f7b407": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "a858ac7c4a84f7b1": {
+      "era": "통일신라·발해",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "a8fc721b4b567aad": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "a928b63785bd1b24": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "aab5f542b0804010": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "aadad307168cd590": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "abcae60de8ec0bd0": {
+      "era": "근대",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "abe39ca2ae9b6f08": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "ac0b5ce87896c59c": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "docnum"
+    },
+    "aca520f1b608acbd": {
+      "era": "통일신라·발해",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "ad37c3efff7f7803": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "ad895303cb642347": {
+      "era": "현대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "adbd689e0c7b232e": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "ae3c1e32801d764b": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "b08e1542d03e0770": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "b20e840552990c90": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "b21ad5702da55e69": {
+      "era": "통일신라·발해",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "b23023c02ec02e1b": {
+      "era": "현대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "b32e54c180bf8dda": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "b42e9bad3fd3c0a8": {
+      "era": "근대",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "b51500d7d7276acb": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "b6008df2f23127ec": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "b78b7b9cec2ddcfe": {
+      "era": "통일신라·발해",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "b86cf6ef436019bd": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "b8c8ed0215946f7f": {
+      "era": "현대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "ba8c35090806dd9b": {
+      "era": "근대",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "bae99708fc6e9b41": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "bb2c9155f3d00ec4": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "bb864c3453df1d52": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "docnum"
+    },
+    "bbaaec9b3aab3381": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "bc289db3acb03492": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "bc5f6fac6b7a9aed": {
+      "era": "근대",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "c1fe7af15c8c17eb": {
+      "era": "고려",
+      "kind": "artifact",
+      "era_source": "docnum"
+    },
+    "c25a18edcbd20781": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "c30fcd608f51e81d": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "c366e05774e8e1b0": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "c3e7cdbfb23960a8": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "c42a30864a8f3c9c": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "c447783d202aa77e": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "c4cab4bf93e74f45": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "c6059f4888364855": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "docnum"
+    },
+    "c6653d6b676ac6f9": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "c67ec879d782c47b": {
+      "era": "현대",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "c82fe22b1adce370": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "c9a2c3f5cd82b7d1": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "c9ce2c871a8c31bc": {
+      "era": "통일신라·발해",
+      "kind": "artifact",
+      "era_source": "docnum"
+    },
+    "c9ea2b0ca87b019c": {
+      "era": "통일신라·발해",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "ca597d89508015cd": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "ca979056ab2b2908": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "cb22f9fa55f1adad": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "cbaa2f266ce5a27c": {
+      "era": "통일신라·발해",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "ce7e050f218acbe0": {
+      "era": "근대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "cfdce186048d4219": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "d090132b0ab34cd2": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "d0a0e72fcdb4e8c1": {
+      "era": "통일신라·발해",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "d156ec2f0c26a7a1": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "d16a522dd30ea402": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "d34c74a97dd1a813": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "d65a87be31c79b19": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "d6e22fad55431bdd": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "d88c7d0b3b89fb02": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "d8a524a1417dccc6": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "da679061ae2778f4": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "dd0bb5a3f8aefb34": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "dfc72617fd9a5c61": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "e0654fe97dba3655": {
+      "era": "삼국",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "e235e23fb4abd90c": {
+      "era": "고조선",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "e278ad8397e7008b": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "e2e7b22b48bdf270": {
+      "era": "삼국",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "e52c10c2276264e7": {
+      "era": "근대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "ece41555eb49ebd2": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "f09f42127cc62434": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "f0e63f1d13dae787": {
+      "era": "일제강점기",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "f155deda51ba8c3a": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "f282d092c7059b58": {
+      "era": "근대",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "f3ce719817d5e8f6": {
+      "era": "근대",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "f5783b8e8fb83cba": {
+      "era": "조선",
+      "kind": "people",
+      "era_source": "docnum"
+    },
+    "f747484051d18636": {
+      "era": "고려",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "f90fa76ac967b59b": {
+      "era": "현대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "f9418502a8671e64": {
+      "era": "근대",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "fa3bbe8c205e5348": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "faf5ea95fc4b421a": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "fb640274c0338102": {
+      "era": "근대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "fd7600ccc70e804a": {
+      "era": "일제강점기",
+      "kind": "people",
+      "era_source": "keyword"
+    },
+    "fdb2157e3b061652": {
+      "era": "조선",
+      "kind": "artifact",
+      "era_source": "keyword"
+    },
+    "fde9307294a575c0": {
+      "era": "근대",
+      "kind": "artifact",
+      "era_source": "keyword"
+    }
+  }
+}

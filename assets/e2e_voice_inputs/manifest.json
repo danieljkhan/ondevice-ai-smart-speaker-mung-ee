@@ -1,0 +1,630 @@
+{
+  "en": {
+    "batch_file": "pilot_en_batch.wav",
+    "channels": 2,
+    "messages": [
+      {
+        "batch_offset_s": 2.2,
+        "duration_s": 2.8,
+        "idx": 0,
+        "msg_idx": 1,
+        "round_id": "en_r01",
+        "sha256": "ba77aca0962406d7d50d9e5742fcbf1923cc40a6c11bf3067dd6853529159cc1",
+        "text": "Moong-ee, why are turtles so slow?",
+        "wav_file": "en/en_r01_m1.wav"
+      },
+      {
+        "batch_offset_s": 13.4,
+        "duration_s": 2.1,
+        "idx": 1,
+        "msg_idx": 2,
+        "round_id": "en_r01",
+        "sha256": "0cd5557f61172465eb452471a3156951c6697af9a0719376bc3fe5101d0c493d",
+        "text": "Do turtles carry their house?",
+        "wav_file": "en/en_r01_m2.wav"
+      },
+      {
+        "batch_offset_s": 23.9,
+        "duration_s": 2.1,
+        "idx": 2,
+        "msg_idx": 3,
+        "round_id": "en_r01",
+        "sha256": "6aff1facc8e6feb1f507e5f99018fd97fec556b79b8dc143973db535014afac1",
+        "text": "I saw a turtle at the pond!",
+        "wav_file": "en/en_r01_m3.wav"
+      },
+      {
+        "batch_offset_s": 34.4,
+        "duration_s": 2.75,
+        "idx": 3,
+        "msg_idx": 1,
+        "round_id": "en_r02",
+        "sha256": "a526ac56d914583022b9a76ab3a82bb3eac6662827ed85163d1751e2a4d18751",
+        "text": "Moong-ee, why do owls say hoo?",
+        "wav_file": "en/en_r02_m1.wav"
+      },
+      {
+        "batch_offset_s": 45.55,
+        "duration_s": 3.25,
+        "idx": 4,
+        "msg_idx": 2,
+        "round_id": "en_r02",
+        "sha256": "9e9f50fca19e326176f6c510a03c5d1eb67e4f8d5a30fdca041c322131e03207",
+        "text": "Can owls really turn their heads all the way around?",
+        "wav_file": "en/en_r02_m2.wav"
+      },
+      {
+        "batch_offset_s": 57.2,
+        "duration_s": 2.05,
+        "idx": 5,
+        "msg_idx": 3,
+        "round_id": "en_r02",
+        "sha256": "45fa83db6b902a0917ed3f2def348a715c88bc0e61707fd4402c56267f9c4ced",
+        "text": "Owls are so mysterious!",
+        "wav_file": "en/en_r02_m3.wav"
+      },
+      {
+        "batch_offset_s": 67.65,
+        "duration_s": 3.3,
+        "idx": 6,
+        "msg_idx": 1,
+        "round_id": "en_r03",
+        "sha256": "2a826d5c3caebb2a2139246a25a54e22a3e028a9c6b64e85c6af6a6a29a58b21",
+        "text": "Moong-ee, lunch is my favorite time at school!",
+        "wav_file": "en/en_r03_m1.wav"
+      },
+      {
+        "batch_offset_s": 79.35,
+        "duration_s": 2.4,
+        "idx": 7,
+        "msg_idx": 2,
+        "round_id": "en_r03",
+        "sha256": "6ebb7c55f9bb4fd6fa333873027223df2b8fe35cfd606fbcb0ed2547bde47ff9",
+        "text": "I traded snacks with my friend!",
+        "wav_file": "en/en_r03_m2.wav"
+      },
+      {
+        "batch_offset_s": 90.15,
+        "duration_s": 2.4,
+        "idx": 8,
+        "msg_idx": 3,
+        "round_id": "en_r03",
+        "sha256": "f749fe14bb18dd139261cc878e9324fdf48783b3535c0fe8b3c961b5d688f221",
+        "text": "Mom packed my favorite lunch!",
+        "wav_file": "en/en_r03_m3.wav"
+      },
+      {
+        "batch_offset_s": 100.95,
+        "duration_s": 3.25,
+        "idx": 9,
+        "msg_idx": 1,
+        "round_id": "en_r04",
+        "sha256": "43a96721898cd5d67d4ef818e6d3bb0a875353fa6e9ce53259d8bd87ef4d6ed6",
+        "text": "Moong-ee, the school bus is so bumpy!",
+        "wav_file": "en/en_r04_m1.wav"
+      },
+      {
+        "batch_offset_s": 112.6,
+        "duration_s": 2.65,
+        "idx": 10,
+        "msg_idx": 2,
+        "round_id": "en_r04",
+        "sha256": "38a725541bb872e367be5b780d642da5f7b253862566eb63a517211471cf95cb",
+        "text": "I sit with my best friend on the bus!",
+        "wav_file": "en/en_r04_m2.wav"
+      },
+      {
+        "batch_offset_s": 123.65,
+        "duration_s": 2.35,
+        "idx": 11,
+        "msg_idx": 3,
+        "round_id": "en_r04",
+        "sha256": "be833e467c127bd12d70de4b2453fd94201e0945063cffe9f85897743737b9c1",
+        "text": "The bus driver is really nice!",
+        "wav_file": "en/en_r04_m3.wav"
+      },
+      {
+        "batch_offset_s": 134.4,
+        "duration_s": 3.1,
+        "idx": 12,
+        "msg_idx": 1,
+        "round_id": "en_r05",
+        "sha256": "f0eff36ea697e9ff1f694b38dc319b9d3c965c3e9a3e173785ad8b080b0f91fc",
+        "text": "Moong-ee, we're moving to a new house!",
+        "wav_file": "en/en_r05_m1.wav"
+      },
+      {
+        "batch_offset_s": 145.9,
+        "duration_s": 2.5,
+        "idx": 13,
+        "msg_idx": 2,
+        "round_id": "en_r05",
+        "sha256": "43c03fdece300ec87f0e76e2775a40d7a00d67e27aec4d037fe0ea6ea0a52663",
+        "text": "I'm excited but also scared...",
+        "wav_file": "en/en_r05_m2.wav"
+      },
+      {
+        "batch_offset_s": 156.8,
+        "duration_s": 1.75,
+        "idx": 14,
+        "msg_idx": 3,
+        "round_id": "en_r05",
+        "sha256": "e32cd5579334922ea9b121c324bf49a81be8950e1deae47b6c41c723a34c24b8",
+        "text": "I'll miss my old room...",
+        "wav_file": "en/en_r05_m3.wav"
+      },
+      {
+        "batch_offset_s": 166.95,
+        "duration_s": 2.8,
+        "idx": 15,
+        "msg_idx": 1,
+        "round_id": "en_r06",
+        "sha256": "f0e193a2bb8ca319975aa0c375b290477e900b8c33d660a64c9b061373d5fb6d",
+        "text": "Moong-ee, I looked through a telescope!",
+        "wav_file": "en/en_r06_m1.wav"
+      },
+      {
+        "batch_offset_s": 178.15,
+        "duration_s": 2.45,
+        "idx": 16,
+        "msg_idx": 2,
+        "round_id": "en_r06",
+        "sha256": "328b4779e13024d5023c56fd6069c60c71a9a48a7f58cc78e7da08ff0b7fa713",
+        "text": "I could see craters on the moon!",
+        "wav_file": "en/en_r06_m2.wav"
+      },
+      {
+        "batch_offset_s": 189.0,
+        "duration_s": 2.75,
+        "idx": 17,
+        "msg_idx": 3,
+        "round_id": "en_r06",
+        "sha256": "a2e9800de34a86be1ce832a942168d305d468275d800ad75fc0be0c6f3a6e548",
+        "text": "The stars are so much bigger up close!",
+        "wav_file": "en/en_r06_m3.wav"
+      },
+      {
+        "batch_offset_s": 200.15,
+        "duration_s": 3.55,
+        "idx": 18,
+        "msg_idx": 1,
+        "round_id": "en_r07",
+        "sha256": "a4fce97f8314a78b536a44d8d4097c792025646f79321215dc7da0e577805ca7",
+        "text": "Moong-ee, tiny things look huge in a microscope!",
+        "wav_file": "en/en_r07_m1.wav"
+      },
+      {
+        "batch_offset_s": 212.1,
+        "duration_s": 1.9,
+        "idx": 19,
+        "msg_idx": 2,
+        "round_id": "en_r07",
+        "sha256": "06755a4c2dff13b30df89563901db8822bceae95dd32a49d917d282b79a16fae",
+        "text": "I saw a leaf up close!",
+        "wav_file": "en/en_r07_m2.wav"
+      },
+      {
+        "batch_offset_s": 222.4,
+        "duration_s": 2.85,
+        "idx": 20,
+        "msg_idx": 3,
+        "round_id": "en_r07",
+        "sha256": "0bb2351bc8b3eff782cf54b30c2b935e871980bc1892e2005b46de8bfce5d4da",
+        "text": "There's a whole tiny world we can't see!",
+        "wav_file": "en/en_r07_m3.wav"
+      },
+      {
+        "batch_offset_s": 233.65,
+        "duration_s": 3.15,
+        "idx": 21,
+        "msg_idx": 1,
+        "round_id": "en_r08",
+        "sha256": "7f21c3be00956fda7ddbfb1bd5eeee98e43f20288226c3912ff633147724f8e8",
+        "text": "Moong-ee, I started learning to swim!",
+        "wav_file": "en/en_r08_m1.wav"
+      },
+      {
+        "batch_offset_s": 245.2,
+        "duration_s": 2.55,
+        "idx": 22,
+        "msg_idx": 2,
+        "round_id": "en_r08",
+        "sha256": "45de9a6a15daf4f1485c98095d98b7615a4f68c5ac05b5b50cd5680895556e76",
+        "text": "I'm scared to put my face in water...",
+        "wav_file": "en/en_r08_m2.wav"
+      },
+      {
+        "batch_offset_s": 256.15,
+        "duration_s": 2.05,
+        "idx": 23,
+        "msg_idx": 3,
+        "round_id": "en_r08",
+        "sha256": "f6918afefe58625fee496e6d0a31d6aabb9f0705b5cd5e85553e2240ad7c1292",
+        "text": "Swimming is so fun!",
+        "wav_file": "en/en_r08_m3.wav"
+      },
+      {
+        "batch_offset_s": 266.6,
+        "duration_s": 2.45,
+        "idx": 24,
+        "msg_idx": 1,
+        "round_id": "en_r09",
+        "sha256": "71d8110a447026c9b3934c4c5af822ccd3e15cc21491068f58bbb40f35b9cb99",
+        "text": "Moong-ee, I feel lonely...",
+        "wav_file": "en/en_r09_m1.wav"
+      },
+      {
+        "batch_offset_s": 277.45,
+        "duration_s": 2.1,
+        "idx": 25,
+        "msg_idx": 2,
+        "round_id": "en_r09",
+        "sha256": "d9a3fcd7a564e7357d2dc185c3c36aa8c838f5683d58617581f93cfa4152c1d6",
+        "text": "No one wants to play with me...",
+        "wav_file": "en/en_r09_m2.wav"
+      },
+      {
+        "batch_offset_s": 287.95,
+        "duration_s": 1.55,
+        "idx": 26,
+        "msg_idx": 3,
+        "round_id": "en_r09",
+        "sha256": "edef0b90329fd5a6041c894e78e3309e9d61c5b57076e04443a4380331746d1e",
+        "text": "Are you my friend?",
+        "wav_file": "en/en_r09_m3.wav"
+      },
+      {
+        "batch_offset_s": 297.9,
+        "duration_s": 2.7,
+        "idx": 27,
+        "msg_idx": 1,
+        "round_id": "en_r10",
+        "sha256": "f82f19e5518b73692310112ce56e3f5a77b0c2457d50ee4ed49c11651c901727",
+        "text": "Moong-ee, what makes a tornado?",
+        "wav_file": "en/en_r10_m1.wav"
+      },
+      {
+        "batch_offset_s": 309.0,
+        "duration_s": 2.35,
+        "idx": 28,
+        "msg_idx": 2,
+        "round_id": "en_r10",
+        "sha256": "6e796e113ca5d8fcb9c7bb8b9b69c664dfca02738fd04369b4adc3cd3befeb83",
+        "text": "Tornadoes spin so fast!",
+        "wav_file": "en/en_r10_m2.wav"
+      },
+      {
+        "batch_offset_s": 319.75,
+        "duration_s": 2.45,
+        "idx": 29,
+        "msg_idx": 3,
+        "round_id": "en_r10",
+        "sha256": "9fabddec6994db399f82b09aeed0c61c8dcf68dce46dca870e3b035cf415cff7",
+        "text": "The Wizard of Oz has a tornado!",
+        "wav_file": "en/en_r10_m3.wav"
+      }
+    ],
+    "model": "ssfm-v21",
+    "sample_rate": 44100,
+    "subtype": "PCM_16",
+    "total_duration_s": 322.4,
+    "voice_id": "tc_66596206b7bd6e89c3a2c54e",
+    "voice_name": "Azzi"
+  },
+  "generated_at": "2026-04-11T17:08:15.799911+09:00",
+  "ko": {
+    "batch_file": "pilot_ko_batch.wav",
+    "channels": 2,
+    "messages": [
+      {
+        "batch_offset_s": 2.2,
+        "duration_s": 3.0,
+        "idx": 0,
+        "msg_idx": 1,
+        "round_id": "ko_r01",
+        "sha256": "5f30a9bd03197c91acd7fc214ad3d66f9ca3fca108b2b8263f8c1593a2323b56",
+        "text": "뭉이야, 너는 바삭바삭한 치킨 좋아해?",
+        "wav_file": "ko/ko_r01_m1.wav"
+      },
+      {
+        "batch_offset_s": 13.6,
+        "duration_s": 4.2,
+        "idx": 1,
+        "msg_idx": 2,
+        "round_id": "ko_r01",
+        "sha256": "2d6dd1fb39c6fb1935debf3ab8a53e552ff7ee1498db47ef8e93ae9672a27772",
+        "text": "나는 다리보다 날개가 더 맛있더라. 너는 어느 부위가 제일 좋아?",
+        "wav_file": "ko/ko_r01_m2.wav"
+      },
+      {
+        "batch_offset_s": 26.2,
+        "duration_s": 3.55,
+        "idx": 2,
+        "msg_idx": 3,
+        "round_id": "ko_r01",
+        "sha256": "405da4e4c8b8e1e4b7e26457d72833bfb88cc9347cec62e84891aa6ab81cde4a",
+        "text": "오늘 저녁에 엄마한테 치킨 사달라고 조를까 봐!",
+        "wav_file": "ko/ko_r01_m3.wav"
+      },
+      {
+        "batch_offset_s": 38.15,
+        "duration_s": 4.0,
+        "idx": 3,
+        "msg_idx": 1,
+        "round_id": "ko_r02",
+        "sha256": "67afef1420ebb52de2a1862cb45f96f1cdc22213f8fd0ca9d68b8aa286babf57",
+        "text": "뭉이야, 달콤한 사탕 먹으면 기분이 진짜 좋아지지?",
+        "wav_file": "ko/ko_r02_m1.wav"
+      },
+      {
+        "batch_offset_s": 50.55,
+        "duration_s": 4.0,
+        "idx": 4,
+        "msg_idx": 2,
+        "round_id": "ko_r02",
+        "sha256": "cdee8e57695b225101504c363965f715bc3b4c9b339a7a6c81bb511b5e0110cb",
+        "text": "나는 딸기맛 사탕이 제일 좋아! 너는 무슨 색 사탕이 먹고 싶어?",
+        "wav_file": "ko/ko_r02_m2.wav"
+      },
+      {
+        "batch_offset_s": 62.95,
+        "duration_s": 4.3,
+        "idx": 5,
+        "msg_idx": 3,
+        "round_id": "ko_r02",
+        "sha256": "8b1fa41577dc0f52840dced636ff0526d2bdc2a9491fe2ef63813749a4af4cc1",
+        "text": "너무 많이 먹으면 이 아프니까 딱 하나만 더 먹고 그만 먹을게.",
+        "wav_file": "ko/ko_r02_m3.wav"
+      },
+      {
+        "batch_offset_s": 75.65,
+        "duration_s": 5.35,
+        "idx": 6,
+        "msg_idx": 1,
+        "round_id": "ko_r03",
+        "sha256": "0d66179f5e30f9eb0f3df3a74f2f941996aa90dfc0b2a3d39ff7aa98029d1610",
+        "text": "뭉이야, 나 오늘 혼자서 슈퍼 가서 우유랑 달걀 사 오는 심부름 성공했다?",
+        "wav_file": "ko/ko_r03_m1.wav"
+      },
+      {
+        "batch_offset_s": 89.4,
+        "duration_s": 4.5,
+        "idx": 7,
+        "msg_idx": 2,
+        "round_id": "ko_r03",
+        "sha256": "68c3e3d865baaad54f3ae5858b9b528e8537dab63e27209ff734465962cca75a",
+        "text": "거스름돈도 잘 챙겨왔더니 엄마가 나보고 이제 다 컸대.",
+        "wav_file": "ko/ko_r03_m2.wav"
+      },
+      {
+        "batch_offset_s": 102.3,
+        "duration_s": 3.45,
+        "idx": 8,
+        "msg_idx": 3,
+        "round_id": "ko_r03",
+        "sha256": "59f478db4d3f46df6a9a74b31b151a918be0fabe92f309392afbe476230a258c",
+        "text": "뭉이 너도 엄마나 아빠 도와드려서 칭찬받은 적 있어?",
+        "wav_file": "ko/ko_r03_m3.wav"
+      },
+      {
+        "batch_offset_s": 114.15,
+        "duration_s": 4.7,
+        "idx": 9,
+        "msg_idx": 1,
+        "round_id": "ko_r04",
+        "sha256": "f522c4a1565553fe62a0febaa454708fe706e3016175b1f649ceabbb1ffdbc3f",
+        "text": "뭉이야, 우주에 있는 블랙홀은 모든 걸 다 빨아들이는 구멍이야?",
+        "wav_file": "ko/ko_r04_m1.wav"
+      },
+      {
+        "batch_offset_s": 127.25,
+        "duration_s": 3.9,
+        "idx": 10,
+        "msg_idx": 2,
+        "round_id": "ko_r04",
+        "sha256": "23f3e3d64e68a7596d356e20d4d66db3eacd1626bd125e65f37f1fc4f48f9d27",
+        "text": "블랙홀 속으로 들어가면 반대편에 다른 세상이 있을까?",
+        "wav_file": "ko/ko_r04_m2.wav"
+      },
+      {
+        "batch_offset_s": 139.55,
+        "duration_s": 4.2,
+        "idx": 11,
+        "msg_idx": 3,
+        "round_id": "ko_r04",
+        "sha256": "8a617b83e955c0e4c620fb5642405a272b90f22607d644af6eb716ad0c86f5f5",
+        "text": "블랙홀이 우리 지구를 삼켜버릴까 봐 가끔 무서운 마음이 들어.",
+        "wav_file": "ko/ko_r04_m3.wav"
+      },
+      {
+        "batch_offset_s": 152.15,
+        "duration_s": 4.0,
+        "idx": 12,
+        "msg_idx": 1,
+        "round_id": "ko_r05",
+        "sha256": "e0049203f8d9c896111b30e68f5e988f21853a68d3681ecb264f252b1078d9c4",
+        "text": "뭉이야, 돌 속에 물고기 모양이 딱딱하게 굳은 게 화석이야?",
+        "wav_file": "ko/ko_r05_m1.wav"
+      },
+      {
+        "batch_offset_s": 164.55,
+        "duration_s": 3.7,
+        "idx": 13,
+        "msg_idx": 2,
+        "round_id": "ko_r05",
+        "sha256": "c648bef1a56b8cb5686fee404e32cd79d051504300c2aa5f5078e83732a2bf75",
+        "text": "화석을 보면 옛날 동물이 어떻게 생겼는지 다 알 수 있어?",
+        "wav_file": "ko/ko_r05_m2.wav"
+      },
+      {
+        "batch_offset_s": 176.65,
+        "duration_s": 4.4,
+        "idx": 14,
+        "msg_idx": 3,
+        "round_id": "ko_r05",
+        "sha256": "54c758126f63c71c6fa2caf613b5fd347f4636d5b3c5484b7b947d3edaed771c",
+        "text": "나도 뒷산에 가서 공룡 뼈 화석을 찾고 싶어, 같이 가줄래?",
+        "wav_file": "ko/ko_r05_m3.wav"
+      },
+      {
+        "batch_offset_s": 189.45,
+        "duration_s": 4.2,
+        "idx": 15,
+        "msg_idx": 1,
+        "round_id": "ko_r06",
+        "sha256": "8f60eae0b393544e25ffddf931b72820bb465d886c6299d76a7159bdef7260d4",
+        "text": "뭉이야, 갑자기 땅이 흔들흔들하는 지진은 왜 일어나는 거야?",
+        "wav_file": "ko/ko_r06_m1.wav"
+      },
+      {
+        "batch_offset_s": 202.05,
+        "duration_s": 3.85,
+        "idx": 16,
+        "msg_idx": 2,
+        "round_id": "ko_r06",
+        "sha256": "80dcf1cb8d62a5ebbb6c876bd1d9b763046a75561395b7764dabd047009b360c",
+        "text": "지진이 나면 얼른 책상 밑으로 숨어야 한다고 배웠어.",
+        "wav_file": "ko/ko_r06_m2.wav"
+      },
+      {
+        "batch_offset_s": 214.3,
+        "duration_s": 3.65,
+        "idx": 17,
+        "msg_idx": 3,
+        "round_id": "ko_r06",
+        "sha256": "326bc52bedbf213f4618f69e647e54e82285b1337bf32407730ecebfaca35cf5",
+        "text": "지구가 화가 나서 땅을 발로 쾅쾅 구르는 건 아니겠지?",
+        "wav_file": "ko/ko_r06_m3.wav"
+      },
+      {
+        "batch_offset_s": 226.35,
+        "duration_s": 4.05,
+        "idx": 18,
+        "msg_idx": 1,
+        "round_id": "ko_r07",
+        "sha256": "6b29b186c205af23ffe84b42dc216933841ef048536505838a060c0a406472ba",
+        "text": "뭉이야, 꽃 주위에 벌이 윙윙거려서 깜짝 놀랐어.",
+        "wav_file": "ko/ko_r07_m1.wav"
+      },
+      {
+        "batch_offset_s": 238.8,
+        "duration_s": 3.05,
+        "idx": 19,
+        "msg_idx": 2,
+        "round_id": "ko_r07",
+        "sha256": "24471a4888990a1cbbfb14f32091664b190fcf1ee8a6f6fe98e1bab147160274",
+        "text": "벌은 꽃에서 꿀을 따서 어디로 가져가는 거야?",
+        "wav_file": "ko/ko_r07_m2.wav"
+      },
+      {
+        "batch_offset_s": 250.25,
+        "duration_s": 3.95,
+        "idx": 20,
+        "msg_idx": 3,
+        "round_id": "ko_r07",
+        "sha256": "aba2517a6af0da03a0777f5288e8bcf3c495ea1216288f8cf5c7efa2ac6a8b6d",
+        "text": "엉덩이에 침이 있다고 해서 가까이 가기는 조금 무서워.",
+        "wav_file": "ko/ko_r07_m3.wav"
+      },
+      {
+        "batch_offset_s": 262.6,
+        "duration_s": 2.25,
+        "idx": 21,
+        "msg_idx": 1,
+        "round_id": "ko_r08",
+        "sha256": "8119d3c14ac6d8b2d12d298581b6fe0570521d98345eb7f7d4c89efe3995de93",
+        "text": "뭉이야 내일 시험인데 걱정돼...",
+        "wav_file": "ko/ko_r08_m1.wav"
+      },
+      {
+        "batch_offset_s": 273.25,
+        "duration_s": 2.05,
+        "idx": 22,
+        "msg_idx": 2,
+        "round_id": "ko_r08",
+        "sha256": "b95f5c7db489ca81ad2cfeb2cfc36ec7469d3bc2d352fefc25469813b9fcf3f2",
+        "text": "열심히 했는데 틀리면 어떡해?",
+        "wav_file": "ko/ko_r08_m2.wav"
+      },
+      {
+        "batch_offset_s": 283.7,
+        "duration_s": 2.35,
+        "idx": 23,
+        "msg_idx": 3,
+        "round_id": "ko_r08",
+        "sha256": "a9a848dc6fd637f21ce22f6f419ee11c91867b9f89638ceba5ff39e8c9a2f07a",
+        "text": "뭉이가 응원해주면 잘 할 수 있을까?",
+        "wav_file": "ko/ko_r08_m3.wav"
+      },
+      {
+        "batch_offset_s": 294.45,
+        "duration_s": 2.4,
+        "idx": 24,
+        "msg_idx": 1,
+        "round_id": "ko_r09",
+        "sha256": "dae4edec5f5a410bd360ccb0fdc4f8254768001cda9177f8f585a2d42e6c7439",
+        "text": "뭉이야 오늘 앞에서 넘어졌어...",
+        "wav_file": "ko/ko_r09_m1.wav"
+      },
+      {
+        "batch_offset_s": 305.25,
+        "duration_s": 2.1,
+        "idx": 25,
+        "msg_idx": 2,
+        "round_id": "ko_r09",
+        "sha256": "fd76847667f95b81cb9788539e847fce35f2927210c115a08ee39c8e7deb910c",
+        "text": "친구들이 다 봤어 창피해",
+        "wav_file": "ko/ko_r09_m2.wav"
+      },
+      {
+        "batch_offset_s": 315.75,
+        "duration_s": 1.2,
+        "idx": 26,
+        "msg_idx": 3,
+        "round_id": "ko_r09",
+        "sha256": "2fdc970daf9ab56263bb835e0d3ea50186696aced3c1a5a0938f8c74d26511fe",
+        "text": "괜찮은 거지...?",
+        "wav_file": "ko/ko_r09_m3.wav"
+      },
+      {
+        "batch_offset_s": 325.35,
+        "duration_s": 2.75,
+        "idx": 27,
+        "msg_idx": 1,
+        "round_id": "ko_r10",
+        "sha256": "e6fa03b00bf4a7c20fcdb5af6678ef5ba6584a381a542cb234956ccf54ec13da",
+        "text": "뭉이야, 나 이제 치카치카 하러 가야 해.",
+        "wav_file": "ko/ko_r10_m1.wav"
+      },
+      {
+        "batch_offset_s": 336.5,
+        "duration_s": 3.55,
+        "idx": 28,
+        "msg_idx": 2,
+        "round_id": "ko_r10",
+        "sha256": "b256b9110ea2b951f78001225b87711e410a37459f9222608df83f1ac5a375ec",
+        "text": "치약 맛이 조금 맵지만 충치 벌레를 다 잡을 거야.",
+        "wav_file": "ko/ko_r10_m2.wav"
+      },
+      {
+        "batch_offset_s": 348.45,
+        "duration_s": 2.8,
+        "idx": 29,
+        "msg_idx": 3,
+        "round_id": "ko_r10",
+        "sha256": "5732db5e139e6b4e20880b9e99e9c60d12cc9507d4f90a767cd7f064a600f8d3",
+        "text": "너도 나처럼 깨끗하게 이 닦는 거 좋아해?",
+        "wav_file": "ko/ko_r10_m3.wav"
+      }
+    ],
+    "model": "ssfm-v21",
+    "sample_rate": 44100,
+    "subtype": "PCM_16",
+    "total_duration_s": 351.45,
+    "voice_id": "tc_609a8f4362c4bdb3363bbfad",
+    "voice_name": "Chaeah"
+  },
+  "pilot_json_path": "Dev_Plan/e2e_voice_pilot_scripts.json",
+  "pilot_json_sha256": "f4bf192353edded78cdde668ca10432e7be7a13fb23c09107e43880edc3acd6f",
+  "schema_version": "1.0"
+}

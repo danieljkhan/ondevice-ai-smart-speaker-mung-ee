@@ -1,0 +1,389 @@
+{
+  "schema_version": 2,
+  "doc_hash": "fde9307294a575c0",
+  "source_file": "eh_r0371_0010.pdf",
+  "title": "천주교 탄압을 보여주는 절두산 순교 성지",
+  "kind": "artifact",
+  "era": "근대",
+  "era_source": "keyword",
+  "scene_count": 14,
+  "section_count": 6,
+  "image_count": 13,
+  "est_total_ms": 658100,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "절두산 순교 성지 형구돌(서울 마포구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "천주교의 전래",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [
+        "천주실의(한국학중앙연구원)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "천주교도가 박해를 받은 병인박해",
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "절두산 순교 성지의 천주교 관련 문화유산",
+      "scene_indices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "image_captions": [
+        "절두산 순교 성지(현대사디지털아카이브)",
+        "절두산 성지에 있는 한국천주교순교자박물관",
+        "김대건 신부 동상(현대사디지털아카이브)",
+        "박순집 일가 16위 순교현양비",
+        "형구돌(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        10
+      ],
+      "scene_seq": [
+        11
+      ],
+      "image_captions": [
+        "동굴 성모상과 순교자 기념탑"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 서소문 밖 네거리 순교 성지",
+      "scene_indices": [
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "서소문 밖 네거리 순교 성지에 우물",
+        "서소문 밖 네거리 순교 성지에 있는 기념탑"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "천주교 탄압을 보여주는 절두산 순교 성지\n“지금이라도 천주교 신자가 아니라고 하면 살려주겠다.”\n“그럴 수 없소이다. 나는 천주교 신자가 맞습니다.”\n“저자를 당장 처형하라.”\n조선 후기에 전래된 천주교는 평등사상을 강조했기 때문에 신분제 사회에서 차별 받는 일반 백성들이 많이 믿게 되었어요.\n그러나 천주교 신자 중에서 조상의 제사를 지내지 않는 사람이 생기자 조선 사회를 어지럽히는 종교라는 공격을 받았고, 조선 정부의 탄압이 시작되었어요.\n특히 19세기에 들어 정부의 대대적인 탄압으로 많은 천주교 신자들이 희생을 당했지요.\n천주교 신자들은 이러한 탄압을 받으면서도 왜 천주교를 믿었을까요? 조선 정부의 탄압으로 천주교를 믿는 사람들이 없어졌을까요?",
+      "est_speech_ms": 53400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "절두산 순교 성지 형구돌(서울 마포구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_001.jpg",
+          "caption": "절두산 순교 성지 형구돌(서울 마포구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "천주교의 전래",
+      "narration": "서양 선교사 마테오 리치가 저술한 천주교 교리서로 조선 후기에 이수광 등에 의해 소개되었다.\n천주교의 전래\n천주교는 17세기 무렵 청나라에 간 사신들이 서양 관련 서적을 조선으로 가져오면서 ‘서양의 학문’, 즉 서학으로 소개되었어요.\n처음에는 당시 실학자들을 중심으로 학문적으로 연구되다가 18세기 후반에 몇몇 학자들이 신앙으로서 천주교를 믿기 시작하였지요. 이후 이승훈이 청나라에서 서양인 신부에게 처음으로 세례를 받고 돌아온 뒤에 천주교는 널리 퍼졌어요.\n처음에는 주로 일부 양반과 중인들이 천주교를 믿었으나 점차 하층민과 부녀자들에게 확산되었어요. 이는 천주교가 하느님(천주) 앞에서 모든 인간은 평등하다는 교리 때문이지요.",
+      "est_speech_ms": 52800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "천주실의(한국학중앙연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_013.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_014.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "천주교의 전래",
+      "narration": "당시 조선의 왕이었던 정조는 천주교 확산에 대해 내버려두면 저절로 사라질 것으로 여겨 심하게 금지하지는 않았어요. 그러나 1791년 천주교 신자 윤지충이 어머니의 장례를 유교의 제사 의식으로 지내지 않은 것을 계기로 조선 정부는 천주교에 대해 탄압을 시작했어요. 그러나 당시만 하더라도 대대적으로 탄압하지는 않았어요.\n그러나 순조가 즉위한 이후 천주교 신자들에 대한 대대적인 탄압이 시작되었어요. 그 결과 전국 곳곳에서 많은 천주교 신자들이 희생당했어요.\n또 일부 백성들도 서양 세력에 나쁜 감정을 갖게 되어 천주교 신자들에게 적대감을 보이고 압박을 가했어요. 그럼에도 불구하고 평등 사상과 내세 신앙 등이 백성들에게 큰 호응을 얻어 천주교의 세력은 꾸준히 확대되어 갔어요. 이에 따라 한글로 된 성경도 많이 보급되었지요.",
+      "est_speech_ms": 60000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_028.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "천주교도가 박해를 받은 병인박해",
+      "narration": "천주교도가 박해를 받은 병인박해\n1863년 고종이 어린 나이로 왕위에 오르자 그의 아버지 흥선대원군이 권력을 차지하였어요. 흥선대원군은 왕권 강화를 위한 여러 개혁을 추진하는 한편 서양 세력과의 무역을 금지시키는 정책을 펼쳤어요.\n그런데 당시 청과 러시아가 조약을 체결하면서 조선이 두만강을 사이에 두고 러시아와 국경을 맞대게 되는 일이 벌어졌어요. 이에 조선은 서양 세력인 러시아가 조선을 침략해 올지도 모른다는 경계심을 가졌어요.\n흥선대원군은 혹시나 있을 러시아의 침략에 대비해 프랑스를 이용하고 자했어요. 그래서 프랑스 선교사(신부)들을 통해 프랑스 정부를 움직이 려고 했어요. 하지만 선교사들이 이에 소극적으로 나서자 흥선대원군은 크게 실망했어요.",
+      "est_speech_ms": 55200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "천주교도가 박해를 받은 병인박해",
+      "narration": "때마침 국내에서 천주교를 반대하는 기운이 높아지자, 흥선대원군은 1866년 9명의 프랑스 선교사(신부)와 수많은 천주교 신자들을 처형했어요.\n이 사건을 병인박해라고 해요. 병인년에 일어난 박해라는 뜻이지요.\n박해가 어떤 뜻이냐고요? 박해는 약한 처지의 개인이나 세력을 억누르거나 괴롭혀 해를 끼치는 행위를 의미해요.\n병인박해를 구실로 프랑스는 1866년 9월 강화도에 군대를 보냈어요. 이 사건이 바로 병인양요이지요. 병인년(1866년)에 서양 세력이 일으킨 소요 (난동)라는 뜻이에요.\n병인박해 당시 흥선대원군은 양화진과 맞닿은 잠두봉에서 천주교 신자들의 목을 베는 형벌을 내렸어요. 아름다운 경치를 자랑하던 잠두봉은 극형으로 얼룩진 비극적인 장소가 되고 말았지요.",
+      "est_speech_ms": 55800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "천주교도가 박해를 받은 병인박해",
+      "narration": "당시 조선 정부는 프랑스와 전투를 벌인 후 천주교 신자들을 주로 잠두봉에서 처형하였어요. 그 이유는 프랑스 함대가 거슬러 올라왔던 한강의 양화진에서 신자들을 처형함으로써, 프랑스 함대의 조선 침략 책임을 신자들에게 돌리고 그 본보기를 보이려했기 때문이죠.\n누에고치의 머리처럼 생겼다고 해서 붙여진 잠두봉은 병인박해 때 천주교 신자들이 처형당한 이후 절두산이라고 불렸어요. 머리를 자른 산이라는 뜻이지요.",
+      "est_speech_ms": 34000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "절두산 순교 성지의 천주교 관련 문화유산",
+      "narration": "100년이 지난 1966년, 절두산은 한국 천주교 순교 성지로 지정되어 성당과 박물관, 추모 공원이 세워졌어요.\n절두산 순교 성지의 천주교 관련 문화유산\n병인박해 때 순교한 천주교 신자들을 기리기 위해 1967년에 절두산 순교 기념관이 개관하였어요. 이 기념관은 2008년에 한국 천주교 순교자 박물관으로 이름을 바꾸었답니다. 이곳에는 순례 성당, 순교 성인 28명을 기리는 지하 묘소, 한국 천주교회의 발자취를 한눈에 살펴볼 수 있는 유물 등 많은 자료가 전시되어 있어요.\n그 중에서 눈여겨볼 것은 조선에 천주교를 확산시키기 위해 노력한 실학자 이벽, 이가환, 정약용 등이 남긴 유물과 순교자들을 고문한 형벌 도구 등 다양한 순교 자료들이에요.",
+      "est_speech_ms": 52800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "절두산 순교 성지(현대사디지털아카이브)",
+        "절두산 성지에 있는 한국천주교순교자박물관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_044.jpg",
+          "caption": "절두산 순교 성지(현대사디지털아카이브)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_049.jpg",
+          "caption": "절두산 성지에 있는 한국천주교순교자박물관",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "절두산 순교 성지의 천주교 관련 문화유산",
+      "narration": "또한 두 번째 조선인 신부였던 최양업 신부를 비롯해 유중철 요한과 이 순이 루갈다 순교자 부부가 남긴 유물도 매우 소중한 자료로 꼽히고 있지요.\n박물관 앞 광장에는 김대건 신부의 동상, 오타줄리아의 묘, 박순집의 묘, 남종삼 성인의 흉상과 사적비 등이 마련되어 있기도 해요.",
+      "est_speech_ms": 21800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "절두산 순교 성지의 천주교 관련 문화유산",
+      "narration": "특히 부친, 형제, 삼촌, 고모, 형수, 조카, 장모, 이모에 이르기까지 한집안 열여섯 명의 가족들이 한꺼번에 처형당한 박순집(1830∼1911) 일가의 이 야기가 새겨진 비석을 보노라면 가슴 뭉클함을 느낄 수 있어요.\n절두산 순교 성지에 있는 형구 박물관은 천주교 신자들이 박해받을 당시의 모습을 보여주는 전시관이에요.\n천주교 사람들을 고문할 때 사용했던 몽둥이, 감옥 안에서 죄인이 꼼짝 못하도록 목에 걸어 놓았던 칼, 곤장을 맞던 십자형 형틀 등 무시무시한 형벌 도구들이 전시되어 있어요.\n이들 형구를 직접 체험해볼 수도 있는데, 당시 박해받았던 천주교 신자들이 얼마나 힘들었을지 조금이나마 짐작해 볼 수 있답니다.",
+      "est_speech_ms": 49600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "김대건 신부 동상(현대사디지털아카이브)",
+        "박순집 일가 16위 순교현양비",
+        "형구돌(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_057.jpg",
+          "caption": "김대건 신부 동상(현대사디지털아카이브)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_059.jpg",
+          "caption": "박순집 일가 16위 순교현양비",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.3333
+        },
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_065.jpg",
+          "caption": "형구돌(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "절두산 순교 성지의 천주교 관련 문화유산",
+      "narration": "형구 박물관 앞에는 둥근 돌 중앙에 구멍을 뚫어 밧줄을 묶어 둔 사형 도구가 있어요.\n형구돌이라고 불리는 이 유물은 1976년에 두 개가 발굴되어 하나는 그 자리에 두고 다른 하나는 절두산 순교 성지에 옮겨져 보존되고 있어요. 이곳 절두산에 있는 형구돌의 크기는 둘레 3m, 앞구멍 지름 30cm, 뒷구멍 지름 6cm, 구멍의 앞뒤 거리 30cm로 동그란 모양이에요.",
+      "est_speech_ms": 28700,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "형구돌은 교수형(매달린 올가미로 목을 졸라 질식시켜 죽이는 형벌)을 집행했던 형벌 도구로 가운데 구멍으로 밧줄 올가미를 만들어 넣어 죄인의 머리에 올가미를 씌우고 반대편에서 밧줄을 잡아당겨 머리가 돌에 부딪쳐 죽게 만들었다고 해요.\n절두산 순교 성지에는 성모상과 성인들의 모습이 담긴 조각상이 야외 공원 곳곳에 놓여 있어요. 특히 동굴 속에 모신 성모상, 순교자와 절두산 성지를 상징적으로 표현한 순교자 기념탑, 김대건 신부의 청동 조각상 등 순교 성인을 상징하는 다양한 조각상 등을 감상할 수 있답니다.",
+      "est_speech_ms": 41400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "동굴 성모상과 순교자 기념탑"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_072.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_073.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 서소문 밖 네거리 순교 성지",
+      "narration": "역사 속 작은 이야기: 서소문 밖 네거리 순교 성지\n서울 서소문 밖 네거리는 조선시대 공식 처형장이 있던 곳이에요. 당시 큰 범죄를 저지르거나가 반역을 꾀한 죄인들은 사형을 당했는데, 대부분의\n사형수들은 주로 서소문 밖 네거리에 있는 처형장에서 사형이 집행되었어요 서소문 밖 처형장은 현재 서울 서소문로와 의주로가 교차하는 서소문 공원 인근에 있었어요. 수도 한성의 문 근처에 있었기 때문에 범죄에 대한 경각심을 줄 수 있는 효과도 있었고, 최종 판결을 내리는 관청인 형조나 의금부와도 그리 멀지 않았기 때문으로 보여요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "서소문 밖 네거리 순교 성지에 우물"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_084.jpg",
+          "caption": "서소문 밖 네거리 순교 성지에 우물",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 서소문 밖 네거리 순교 성지",
+      "narration": "천주교에 대한 박해가 시작되면서 이곳은 첫 순교지이자 가장 많은 교인들이 순교한 곳이었어요. 그들은 포도청으로 끌려가 1차로 문초(죄인을 심문함)를 당하거나 형벌을 받은 뒤 형조나 의금부로 끌려가서 판결을 받았어요.\n그리고 나서 감옥에 갇혔다가 감옥 관리들에 의해 끌려 나와 이곳 서소문 밖 네거리 처형장에서 목숨을 잃게 되었지요. 현재 이곳에는 당시 처형장에서 사용한 칼을 씼었다고 전하는 우물도 남아 있어요.\n1801년 신유박해이래 이곳에서 순교한 신자 중 확인된 사람들만 100명이 넘는다고 해요. 이 가운데 44명이 1984년에 한국 천주교 전래 200주년 행사를 위해 방한한 교황 요한 바오로 2세에 의해 성인으로 인정받게 되었지요.",
+      "est_speech_ms": 53400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 서소문 밖 네거리 순교 성지",
+      "narration": "한편 서소문 밖 순교 성지 근처에는 중림동 약현성당(옛 약현성당)이 있어요. 이 성당은 1898년에 완공된 명동성당(옛 종현성당)보다 6년 앞선 1892년 한국교회 최초의 서양식 벽돌 건축물로 완공되었어요.\n한편 2019년에 서소문 밖 순교 성지에는 2019년부터 박물관이 개관되어 여러 천주교 유물들을 볼 수 있어요.\n이처럼 한국의 천주교는 전래 이후 여러 차례 박해를 받았으며, 이와 관련된 유적이 전국 곳곳에 남아 있어요.\n여러분들도 천주교를 비롯해 여러 종교와 관련된 문화유산이 자신이 살고 있는 지역에 얼마나 있는지 한 번 살펴보세요. 아마 여러분이 생각했던 것보다 훨씬 많다는 것을 알게 될 거에요.",
+      "est_speech_ms": 49800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "서소문 밖 네거리 순교 성지에 있는 기념탑"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fde9307294a575c0/fig_089.jpg",
+          "caption": "서소문 밖 네거리 순교 성지에 있는 기념탑",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

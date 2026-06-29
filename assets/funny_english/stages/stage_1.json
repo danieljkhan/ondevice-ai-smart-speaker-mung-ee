@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "stage": 1,
+  "title": "CVC words",
+  "cards": [
+    {
+      "schema_version": 1,
+      "card_id": "fe_s1_cat",
+      "stage": 1,
+      "type": "word",
+      "text": "cat",
+      "tokens": [
+        "cat"
+      ],
+      "ko_gloss": "고양이",
+      "syllables": [
+        "c",
+        "a",
+        "t"
+      ],
+      "first_sound": "c",
+      "image": "assets/funny_english/images/fe_s1_cat.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s1_cat.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "cat"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "cat",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s1_dog",
+      "stage": 1,
+      "type": "word",
+      "text": "dog",
+      "tokens": [
+        "dog"
+      ],
+      "ko_gloss": "강아지",
+      "syllables": [
+        "d",
+        "o",
+        "g"
+      ],
+      "first_sound": "d",
+      "image": "assets/funny_english/images/fe_s1_dog.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s1_dog.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "dog"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "dog",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s1_sun",
+      "stage": 1,
+      "type": "word",
+      "text": "sun",
+      "tokens": [
+        "sun"
+      ],
+      "ko_gloss": "해",
+      "syllables": [
+        "s",
+        "u",
+        "n"
+      ],
+      "first_sound": "s",
+      "image": "assets/funny_english/images/fe_s1_sun.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s1_sun.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "sun"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "sun",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s1_hat",
+      "stage": 1,
+      "type": "word",
+      "text": "hat",
+      "tokens": [
+        "hat"
+      ],
+      "ko_gloss": "모자",
+      "syllables": [
+        "h",
+        "a",
+        "t"
+      ],
+      "first_sound": "h",
+      "image": "assets/funny_english/images/fe_s1_hat.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s1_hat.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "hat"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "hat",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s1_map",
+      "stage": 1,
+      "type": "word",
+      "text": "map",
+      "tokens": [
+        "map"
+      ],
+      "ko_gloss": "지도",
+      "syllables": [
+        "m",
+        "a",
+        "p"
+      ],
+      "first_sound": "m",
+      "image": "assets/funny_english/images/fe_s1_map.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s1_map.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "map"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "map",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    }
+  ]
+}

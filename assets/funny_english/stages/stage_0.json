@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "stage": 0,
+  "title": "Alphabet sounds",
+  "cards": [
+    {
+      "schema_version": 1,
+      "card_id": "fe_s0_a",
+      "stage": 0,
+      "type": "word",
+      "text": "A",
+      "tokens": [
+        "a"
+      ],
+      "ko_gloss": "애플의 첫 소리",
+      "syllables": [
+        "A"
+      ],
+      "first_sound": "a",
+      "image": "assets/funny_english/images/fe_s0_a.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s0_a.wav",
+      "accept_threshold": 0.6,
+      "accept_aliases": [
+        "a",
+        "ay",
+        "에이"
+      ],
+      "hotwords": [
+        "a",
+        "ay",
+        "에이"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "A",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s0_b",
+      "stage": 0,
+      "type": "word",
+      "text": "B",
+      "tokens": [
+        "b"
+      ],
+      "ko_gloss": "공의 첫 소리",
+      "syllables": [
+        "B"
+      ],
+      "first_sound": "b",
+      "image": "assets/funny_english/images/fe_s0_b.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s0_b.wav",
+      "accept_threshold": 0.6,
+      "accept_aliases": [
+        "b",
+        "bee",
+        "be",
+        "비"
+      ],
+      "hotwords": [
+        "b",
+        "bee",
+        "be",
+        "비"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "B",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s0_c",
+      "stage": 0,
+      "type": "word",
+      "text": "C",
+      "tokens": [
+        "c"
+      ],
+      "ko_gloss": "고양이의 첫 소리",
+      "syllables": [
+        "C"
+      ],
+      "first_sound": "c",
+      "image": "assets/funny_english/images/fe_s0_c.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s0_c.wav",
+      "accept_threshold": 0.6,
+      "accept_aliases": [
+        "c",
+        "see",
+        "씨",
+        "시"
+      ],
+      "hotwords": [
+        "c",
+        "see",
+        "씨",
+        "시"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "C",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s0_m",
+      "stage": 0,
+      "type": "word",
+      "text": "M",
+      "tokens": [
+        "m"
+      ],
+      "ko_gloss": "달의 첫 소리",
+      "syllables": [
+        "M"
+      ],
+      "first_sound": "m",
+      "image": "assets/funny_english/images/fe_s0_m.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s0_m.wav",
+      "accept_threshold": 0.6,
+      "accept_aliases": [
+        "m",
+        "em",
+        "엠"
+      ],
+      "hotwords": [
+        "m",
+        "em",
+        "엠"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "M",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    }
+  ]
+}

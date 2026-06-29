@@ -1,0 +1,236 @@
+{
+  "schema_version": 2,
+  "doc_hash": "8d4e99f359cfc1ca",
+  "source_file": "eh_n0500_0010.pdf",
+  "title": "허준, 동의보감을 편찬하다",
+  "kind": "people",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 9,
+  "section_count": 6,
+  "image_count": 4,
+  "est_total_ms": 400100,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "“전염병이 돌아 옆 마을 사람들 대부분이 죽었다네.”",
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "허준박물관(서울 강서구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "“큰일이네. 왕자의 병을 어찌 고칠 수 있단 말인가?”",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [
+        "왕자를 치료하는 허준"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "“이런 경사가 있다니. 허준에게 큰 상을 내리라!”",
+      "scene_indices": [
+        3
+      ],
+      "scene_seq": [
+        4
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "수많은 백성들이 전쟁으로 목숨을 잃거나 다친 것을 보았기 때문이에요.",
+      "scene_indices": [
+        4
+      ],
+      "scene_seq": [
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "가장 어려운 순간, 동의보감을 완성하다.",
+      "scene_indices": [
+        5,
+        6
+      ],
+      "scene_seq": [
+        6,
+        7
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "광해군은 보자기에 싸인 책들을 보면서 깜짝 놀랐어요.",
+      "scene_indices": [
+        7,
+        8
+      ],
+      "scene_seq": [
+        8,
+        9
+      ],
+      "image_captions": [
+        "동의보감을 쓰고 있는 허준",
+        "동의보감(허준박물관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "“전염병이 돌아 옆 마을 사람들 대부분이 죽었다네.”",
+      "narration": "허준, 동의보감을 편찬하다\n“전염병이 돌아 옆 마을 사람들 대부분이 죽었다네.”\n“아이고! 불쌍한 사람들...약 한번 제대로 써보지도 못하고 그리 세상을 떠나다니!”\n“하늘도 무심하지, 어찌 이리 많은 사람들이 허망하게 목숨을 잃는단 말인가? 백성들을 도울 방법은 없는 것인가?”\n허준은 가난하고 힘없는 백성들이 약 한번 쓰지 못하고 병을 앓다 숨지는 것을 보고 매우 안타까워했어요. 허준은 어떤 방법으로 백성들을 돕고자했을까요?\n환자를 치료함에 신분은 중요한 것이 아니다!\n허준은 뛰어난 의술 실력을 인정받아 궁궐 내의원이 되었어요. 대개 내의원들은 궁궐에서 왕과 왕의 가족들의 건강을 주로 돌보려고 했어요. 왕과 왕의 가족들을 잘 치료하면 큰 상을 받고 이름을 높일 수 있었기 때문이에요.",
+      "est_speech_ms": 54800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "허준박물관(서울 강서구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8d4e99f359cfc1ca/fig_001.jpg",
+          "caption": "허준박물관(서울 강서구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "“큰일이네. 왕자의 병을 어찌 고칠 수 있단 말인가?”",
+      "narration": "하지만 허준은 달랐어요. 신분을 가리지 않고 환자들을 정성껏 돌보고 치료했어요. 허준은 환자들을 정성껏 치료하면서 보람을 느꼈어요. 의원이라면 신분이나 재산에 상관없이 환자들을 잘 돌봐야 한다고 그는 생각했기 때문이에 요. 그렇게 허준은 묵묵히 아픈 환자들을 치료하면서 내의원 생활을 했어요.\n“큰일이네. 왕자의 병을 어찌 고칠 수 있단 말인가?”\n“어림도 없네. 괜히 잘못 치료했다가 무슨 일을 당할라고.”\n궁궐에서는 난리가 났어요. 심한 병을 앓고 있는 왕자의 목숨이 위태로웠거든요. 그러나 누구도 왕자를 치료하려고 쉽게 나서지 못했어요. 자칫 치료하다 낫지 못할 경우 의원은 큰 벌을 받을 수도 있었어요.",
+      "est_speech_ms": 48800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "“큰일이네. 왕자의 병을 어찌 고칠 수 있단 말인가?”",
+      "narration": "당시 왕자가 앓던 병은 귀신도 치료하지 못한다는 ‘마마’였어요. ‘마마’로 불린 천연두라는 병은 한 번 걸리면 살아남기 힘든 전염병이었어요. 행여 살아난다고 해도 얼굴에 흉한 자국이 남는 무서운 병이었지요.\n“제가 온 힘을 다해 치료해 보겠습니다.”\n이때 용감하게 나선 이가 있었어요. 바로 허준이에요. 허준은 몇날 며칠 밤을 새며 왕자를 간호하고 치료했어요. 평소 꾸준히 환자들을 치료하고 연구하고 노력해 온 덕분에 왕자의 치료에 성공할 수 있었어요. 허준의 노력으로 왕자는 얼굴에 상처도 남기지 않은 채 건강을 되찾았어요. 이 왕자는 훗날 왕이 되는 광해군이었어요.",
+      "est_speech_ms": 45200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "왕자를 치료하는 허준"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8d4e99f359cfc1ca/fig_018.jpg",
+          "caption": "왕자를 치료하는 허준",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "“이런 경사가 있다니. 허준에게 큰 상을 내리라!”",
+      "narration": "“이런 경사가 있다니. 허준에게 큰 상을 내리라!”\n당시 왕이었던 선조는 허준에게 상을 내리고 자신과 왕실 가족의 건강을 돌보게 했어요.\n1592년, 임진왜란이 일어나자 허준은 임금 선조를 모시고 피난을 떠났어요. 왕의 건강을 잘 보살피며 피난길에 오르면서 허준은 가슴이 아팠어요.",
+      "est_speech_ms": 22600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 3,
+      "section_title": "수많은 백성들이 전쟁으로 목숨을 잃거나 다친 것을 보았기 때문이에요.",
+      "narration": "수많은 백성들이 전쟁으로 목숨을 잃거나 다친 것을 보았기 때문이에요.\n허준은 정성을 다해 왕의 건강은 잘 돌보았지만 막상 시름시름 앓던 백성들의 모습이 계속 눈앞에 아른거렸어요. 제때 치료를 받고 약을 쓴다면 쉬이 나을 수 있었는데 제대로 치료받지 못해 끝내 목숨을 잃는 사람들이 많았어요.\n마침내 전쟁은 끝났지만 전쟁의 상처는 너무 크고 깊었어요. 게다가 나라 곳곳에 전염병까지 돌면서 백성들은 약 한 번 제대로 써 보지 못한 채 목숨을 잃었어요.\n‘위급한 상황에서 누구든 쉽게 보고 약을 쓰거나 치료할 수 있는 책을 만들어야겠다.’",
+      "est_speech_ms": 43000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 4,
+      "section_title": "가장 어려운 순간, 동의보감을 완성하다.",
+      "narration": "허준은 전쟁 때 겪은 아픔을 잊지 않고 온 힘을 다해 백성들을 위한 책을 써나갔어요.\n가장 어려운 순간, 동의보감을 완성하다.\n하지만 허준에게 위기가 찾아왔어요. 선조의 건강이 나빠지면서 1608년 선조가 세상을 떠나자, 허준은 유배를 가야 했어요.\n당시에는 왕이 죽으면 왕을 치료했던 의원이 책임을 안고 벌을 받았거든요.\n왕위에 오른 광해군은 허준이 유배 가는 것이 합당하지 않다고 생각했어요. 그 누구보다 열심히 치료하고 백성들을 위해 노력했던 허준의 모습을 너무나 잘 알았기 때문이에요. 하지만 허준을 유배 보낼 수밖에 없었어요.",
+      "est_speech_ms": 43400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 4,
+      "section_title": "가장 어려운 순간, 동의보감을 완성하다.",
+      "narration": "하지만 허준은 좌절하지 않고 용기를 냈어요. 오히려 평생을 걸쳐 연구했지만 막상 정리하지 못했던 의학 책들을 쓸 수 있는 마지막 시간이라고 생각했어요. 선조가 편찬을 명했던 의학책을 꼭 완성시키고자했어요. 중국 의 학책이 아닌 우리나라 실정에 맞는 의학책을 쓰겠다며 마음을 다잡고 밤낮을 가리지 않고 노력했어요. 그리고 마침내 그 결실을 보았어요.\n1609년 광해군은 신하들의 반대에도 불구하고 허준을 다시 내의원으로 복귀시켜 자신의 건강을 돌보게 했어요. 허준은 궁궐로 돌아와서 자신을 믿고 불러준 왕에게 인사를 드렸어요.\n“전하, 지난 왕께서 명하셨던 책을 이렇게 완성해서 올립니다.”",
+      "est_speech_ms": 48400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 5,
+      "section_title": "광해군은 보자기에 싸인 책들을 보면서 깜짝 놀랐어요.",
+      "narration": "광해군은 보자기에 싸인 책들을 보면서 깜짝 놀랐어요.\n“유배지에서 힘들게 지냈을 터인데, 이토록 귀한 책을 완성했다니, 참으로 장하오!”\n광해군뿐만 아니라 신하들도 허준의 동의보감을 보면서 감탄했어요. 전쟁으로 큰 피해를 입고 상처받은 백성들을 치료하는데 도움을 줄 의학 백과사전이 나왔기 때문이에요. 광해군은 이 책을 인쇄해서 전국에 널리 나누었어요.\n이 책은 우리나라뿐만 아니라 중국과 일본에도 알려져, 우리나라를 찾는 사신들은 이 책을 구하기 위해 노력했어요. 허준은 이후에도 진료와 의학책들을 펼쳐내면서 활약하다가 1615년 일흔일곱의 나이로 눈을 감았어요.",
+      "est_speech_ms": 47000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "동의보감을 쓰고 있는 허준"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8d4e99f359cfc1ca/fig_042.jpg",
+          "caption": "동의보감을 쓰고 있는 허준",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 5,
+      "section_title": "광해군은 보자기에 싸인 책들을 보면서 깜짝 놀랐어요.",
+      "narration": "중국에서도 ‘동의보감’은 주목받았어요. 의학을 공부하려면 꼭 이 책을 읽어야 한다면서 ‘동의보감’을 천하의 보물이라고도 소개했어요.\n‘동의보감’은 오늘날에도 그 가치를 인정받아 2009년에 유네스코 세계 기록유산으로 뽑혔어요.\n오늘날에도 많은 사람들이 허준을 기억하는 까닭은 동의보감처럼 훌륭한 책을 쓴 것뿐 아니라 신분의 높고 낮음을 가리지 않고 오로지 환자만을 생각하며 최선을 다한 의원이었기 때문인 것 같아요. 사실 동의보감을 쓴 것도 환자들을 꼭 낫게 하겠다는 마음과 정성이 있었기에 가능한 일이었어요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "동의보감(허준박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8d4e99f359cfc1ca/fig_049.jpg",
+          "caption": "동의보감(허준박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

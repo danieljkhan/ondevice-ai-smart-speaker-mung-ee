@@ -1,0 +1,499 @@
+{
+  "schema_version": 2,
+  "doc_hash": "9cb3ee3a5ac53c24",
+  "source_file": "eh_r0331_0010.pdf",
+  "title": "대한제국 황실의 궁궐이었던 덕수궁",
+  "kind": "artifact",
+  "era": "근대",
+  "era_source": "keyword",
+  "scene_count": 20,
+  "section_count": 11,
+  "image_count": 11,
+  "est_total_ms": 914400,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "대한 제국 황실의 궁궐이었던 덕수궁",
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "덕수궁(서울 중구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "덕수궁에 담긴 역사",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        4
+      ],
+      "scene_seq": [
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "황제국 궁궐의 격식을 갖추게 되다",
+      "scene_indices": [
+        5,
+        6
+      ],
+      "scene_seq": [
+        6,
+        7
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "원래 이름을 잃고, 덕수궁이 되다",
+      "scene_indices": [
+        7
+      ],
+      "scene_seq": [
+        8
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "정문이 된 대한문",
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [
+        "대한문"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "황제국 궁궐의 중심 건물인 중화전",
+      "scene_indices": [
+        10,
+        11
+      ],
+      "scene_seq": [
+        11,
+        12
+      ],
+      "image_captions": [
+        "대안문 편액(국립고궁박물관)",
+        "중화전(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "덕수궁에 남아 있는 유일한 2층 건물인 석어당",
+      "scene_indices": [
+        12,
+        13
+      ],
+      "scene_seq": [
+        13,
+        14
+      ],
+      "image_captions": [
+        "중화전 답도",
+        "석어당"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 8,
+      "section_title": "왕의 초상화를 보관하던 정관헌",
+      "scene_indices": [
+        14
+      ],
+      "scene_seq": [
+        15
+      ],
+      "image_captions": [
+        "정관헌(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 9,
+      "section_title": "대한 제국의 위엄을 보여주고자 만든 건물 석조전",
+      "scene_indices": [
+        15,
+        16,
+        17
+      ],
+      "scene_seq": [
+        16,
+        17,
+        18
+      ],
+      "image_captions": [
+        "석조전"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 10,
+      "section_title": null,
+      "scene_indices": [
+        18,
+        19
+      ],
+      "scene_seq": [
+        19,
+        20
+      ],
+      "image_captions": [
+        "중명전(문화재청)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "대한 제국 황실의 궁궐이었던 덕수궁",
+      "narration": "대한제국 황실의 궁궐이었던 덕수궁\n“불이야!”\n“궁궐에서 불길이 치솟고 있습니다.”\n1904년 어느 날 밤, 궁궐에서 불이 났어요. 이때 궁궐의 많은 건물이 타버렸지요.\n갑작스러운 불길에 휩싸인 이 궁궐은 어떤 궁궐일까요? 궁궐의 모습은 어떻게 변해 갔을까요?",
+      "est_speech_ms": 20400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "덕수궁(서울 중구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/9cb3ee3a5ac53c24/fig_001.jpg",
+          "caption": "덕수궁(서울 중구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "덕수궁에 담긴 역사",
+      "narration": "덕수궁에 담긴 역사\n1904년 화재를 당한 이 궁궐은 바로 덕수궁이에요. 조선 5대 궁궐 중 하나로 대한제국 황실의 궁궐이었어요. 덕수궁이 우리 역사에 등장하는 것은 임진왜란 때예요. 전쟁 당시 평안도 의주로 피난 갔던 선조가 다시 돌아왔을 때 경복궁, 창덕궁은 이미 불타버린 상황이었어요.\n돌아갈 궁궐이 없었던 선조는 임시로 월산대군(성종의 형)의 집에 머물렀는데, 이곳이 바로 지금의 덕수궁 자리에요. 왕이 머물던 곳이라 정릉동 행궁이라고 불렀어요. 행궁은 왕들이 임시로 머무는 궁을 말해요.\n선조에 이어 광해군이 왕위에 올랐는데, 그는 창덕궁으로 옮겨갔어요. 그러면서 정릉동 행궁에 건물을 더 짓고 확장했어요. ‘국가의 기운을 드높이는 궁’이라는 뜻의 ‘경운궁’이라는 이름도 붙여주었지요.",
+      "est_speech_ms": 56200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "덕수궁에 담긴 역사",
+      "narration": "하지만 경운궁은 궁궐이라고 부르기에는 초라한 모습이었고, 조선도 이 궁궐을 특별하게 여기지 않았어요. 광해군이 왕의 자리를 위협하는 이복동생인 영창대군을 귀양 보내고, 영창대군의 어머니인 인목대비를 경운궁에 가두었어요.\n이후 서인 일파가 인조반정을 일으켜 광해군을 몰아내고 인조를 왕의 자리에 앉혔어요. 인조가 즉위식을 거행한 곳이 바로 경운궁이에요.\n인조가 즉위한 이후 더 이상 경운궁은 궁궐로서의 역할을 하지 못하고 세월이 흘렀어요.\n경운궁이 다시 우리 역사에 중요한 역할을 하게 된 것은 명성황후가 일본에 비참하게 살해되는 사건(을미사변)이 일어난 1895년 이후 일이에요.",
+      "est_speech_ms": 48600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "덕수궁에 담긴 역사",
+      "narration": "을미사변 이후 자신의 목숨도 안전하지 않다고 여긴 고종은 1896년 러시아 공사관으로 몸을 옮겼어요.\n고종은 러시아의 힘을 빌려 일본에 맞서려고 했던 것이었어요. 하지만 신하들과 백성들의 원성에 1년 만에 궁궐로 돌아오게 되었는데, 그 궁궐이 바로 경운궁이었어요.\n경운궁은 러시아 공사관과 멀지 않고, 주변에 외국 여러 나라의 공사관이 있어 보호를 받을 수 있는 위치였어요.",
+      "est_speech_ms": 30800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "경운궁으로 돌아온 고종은 이후 나라의 이름을 ‘대한제국’으로 바꾸고, 스스로를 황제라 칭하며 황제국다운 국가 체제를 갖추기 위한 노력을 기울였어요. 황제가 머무는 궁궐에 맞게 경운궁도 새롭게 변화하기 시작하지요.\n하지만 외국의 세력 다툼 장소로 변해버린 한반도는 정치적 소용돌이 속에서 많은 어려움을 겪었어요.\n1905년 을사늑약으로 외교권을 빼앗기고, 1907년에는 경운궁도 이름을 덕수궁으로 바꾸어야 했지요. 1910년 대한제국은 일제에게 국권을 빼앗기고 나라를 잃는 처지가 되었어요.\n지금부터 대한제국 황실의 궁궐이었던 덕수궁에 담긴 아픈 역사를 살펴보며, 경운궁이 왜 덕수궁으로 바뀌었는지 알아보아요. 또 궁궐의 원래 모습이 지금과는 어떻게 달랐는지도 함께 살펴볼까요?",
+      "est_speech_ms": 57200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/9cb3ee3a5ac53c24/fig_028.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/9cb3ee3a5ac53c24/fig_035.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "황제국 궁궐의 격식을 갖추게 되다",
+      "narration": "황제국 궁궐의 격식을 갖추게 되다\n대한제국이 선포되고 경운궁이 황제국 궁궐이 되면서 많은 건물이 들어서기 시작했어요. 궁궐의 중심 건물인 중화전, 함녕전 등을 비롯해 여러 건물이 이 때 세워졌어요.\n경운궁의 규모는 현재의 덕수궁과 달랐어요. 훨씬 크고 넓었지요. 건물도 많았고요. 지금의 덕수궁 담 밖에도 건물들이 자리하고 있었어요. 정문도 지금의 동쪽 문(대한문)이 아닌 남쪽에 있었고, 경운궁에서 경희궁으로 이어지는 다리도 있었어요. ‘구름다리’, ‘홍교’로 불렸던 이 다리는 황제만 지나다닐 수 있었다고 해요.",
+      "est_speech_ms": 41200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "황제국 궁궐의 격식을 갖추게 되다",
+      "narration": "석조전, 정관헌 등 서양식 건물도 들어섰어요. 서양 근대 문물이 들어와 우리 생활을 바꾸기 시작하던 때에 궁궐 안에 서양식 건물을 세워 새로운 자주 국가의 모습을 보여주려고 했던 것 같아요. 한편으로는 외국 세력의 입김이 작용했던 것 같기도 하고요.\n경운궁은 황제국의 궁궐이었지만, 근대 시기 외국 여러 나라의 세력 다툼 속에서 혼란을 겪은 우리 역사의 중심지였지요.\n이렇게 황제국 궁궐로 자리를 잡아가던 경운궁이 크게 망가지는 일이 벌어졌어요.\n“불이야!”\n1904년 궁에서 큰불이 났어요. 함녕전 수리 공사를 하던 중에 불이 났다고 전해요. 큰불은 함녕전, 석어당, 중화전 등을 비롯한 많은 건물을 불태웠지요. 불에 타버린 궁궐을 다시 짓기 위해 1년 정도 공사를 벌여야 했어요. 새로 지어진 건물들은 원래 모습과 달랐어요. 이후 경운궁은 원래 모습을 잃어가기 시작했어요.",
+      "est_speech_ms": 62000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "원래 이름을 잃고, 덕수궁이 되다",
+      "narration": "원래 이름을 잃고, 덕수궁이 되다\n1905년 일제는 경운궁의 중명전에서 을사늑약을 강제로 맺고 외교권을 빼앗아 갔어요. 1907년 고종 황제는 을사늑약의 부당함을 전 세계에 알리기 위해 헤이그에 특사를 보냈지요. 일제는 이를 구실로 고종 황제를 강제로 퇴위시키고 순종을 황제의 자리에 앉혔지요. 왕의 자리를 순종 황제에게 물려준 고종은 태상황(황제 자리에서 물러난 황제를 높여 부르는 말)이 되어 경운궁에 머물렀어요.\n순종 황제는 창덕궁으로 옮겨갔고요.\n순종과 고종을 한 궁궐에 두지 않은 이유는 무엇이었을까요?",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 5,
+      "section_title": "정문이 된 대한문",
+      "narration": "고종이 순종에게 영향력을 행사하지 못하게 하려는 뜻이었겠지요. 일제는 궁의 이름도 바꾸었어요.\n퇴위한 황제가 덕을 누리며 오래 살라는 뜻에서 ‘덕수’라는 이름을 붙여 주었어요. 이때부터 경운궁의 이름은 덕수궁으로 불리게 되었어요.\n물러난 황제가 살고 있는 덕수궁은 원래 모습을 잃어갔어요. 또한 궁궐 건축물들도 차츰 없어졌어요. 일제가 궁을 공원으로 만들어버리면서 궁궐이 점점 훼손되어갔어요.\n정문이 된대한문\n덕수궁에는 특이한 점이 여러 가지예요. 그중 하나가 바로 정문이 동쪽에 있다는 것이지요.\n또 경복궁의 정문은 ‘광화문’, 창덕궁의 정문은 ‘돈화문’으로 정문 이름에 ‘화’가 들어가 있는데, 덕수궁 정문의 이름은 ‘대한문’이에요.",
+      "est_speech_ms": 51400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 5,
+      "section_title": "정문이 된 대한문",
+      "narration": "‘화’자가 없는 이유는 무엇일까요? 경운궁으로 불리던 시절 정문은 지금의 대한문이 아닌 인화문이었어요. 인화문은 중화문의 남쪽, 지금 덕수궁 돌담길의 일부가 되어 있는 곳에 있었지요. 인화문은 정문으로서 아쉬운 점이 많았어요. 인화문 앞이 가로막혀 있어 답답했거든요.\n그에 비해 동쪽 문인 대한문 앞은 넓은 공간이 있어 정문으로서 안성맞춤이었지요. 사람들이 드나들기에도 좋았고, 넓은 도로가 있어 답답하지도 않았지요.\n결국 자연스럽게 인화문 대신 대한문이 정문 역할을 하게 되었고, 인화문은 정문 기능을 잃게 되었어요. 독립협회가 만민 공동회를 연 곳도 대한문 앞이었고, 고종의 장례식 때 수많은 사람이 몰려든 곳도 이곳이었어요.\n그런데 옛날 사진을 보면 문의 이름이 대안문이라고 적혀 있는 것을 확인할 수 있어요. 왜 지금의 이름과 다른 것일까요?",
+      "est_speech_ms": 60800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대한문"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/9cb3ee3a5ac53c24/fig_062.jpg",
+          "caption": "대한문",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 6,
+      "section_title": "황제국 궁궐의 중심 건물인 중화전",
+      "narration": "나라와 백성들이 편안하게 잘 살기를 바라는 마음에서 ‘대안문’이라고 지었지요. 그러다 불에 탄 경운궁을 다시 지으면서 ‘한양이 창대해진다’ 라는 뜻을 담아 대한문으로 고쳤다고 해요.\n대한문의 위치도 지금과 달랐어요. 동쪽으로 나와 있었지요. 도로를 넓히면서 궁궐 서쪽으로 옮겨 지금의 자리에 세워지게 된 것이랍니다.\n황제국 궁궐의 중심 건물인 중화전\n덕수궁의 중심 건물이 바로 중화전이지요. 경복궁의 근정전과 같이 국가 의식을 치르거나 외국 사신을 맞을 때 사용하던 건물이에요. 건물 앞 넓은 뜰에 품계석이 자리 잡고 있어 한눈에 이곳이 중심 건물임을 알 수 있어요.",
+      "est_speech_ms": 45800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대안문 편액(국립고궁박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/9cb3ee3a5ac53c24/fig_066.jpg",
+          "caption": "대안문 편액(국립고궁박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 6,
+      "section_title": "황제국 궁궐의 중심 건물인 중화전",
+      "narration": "건물의 이름을 중화전이라고 한 이유는 무엇일까요?외국 세력의 다툼 속에서 어느 한쪽에 치우침 없이 자주적인 모습으로 서 있겠다는 의지가 담긴 것 같아요.\n중화전에서 무엇보다 눈에 띄는 것은 답도예요. 답도는 왕이 가마를 타고 지나던 길을 말해요.\n“와 바로 이것이구나. 용문양이 새겨진 길이!”\n“맞아, 경복궁이나 다른 궁궐에 새겨진 문양은 봉황이지.”\n다른 궁궐과 달리 덕수궁답도에 용이 새겨진 이유는 황제국의 중심 건물이었기 때문이지요.",
+      "est_speech_ms": 35200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "중화전(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/9cb3ee3a5ac53c24/fig_073.jpg",
+          "caption": "중화전(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 7,
+      "section_title": "덕수궁에 남아 있는 유일한 2층 건물인 석어당",
+      "narration": "왕을 상징하는 봉황 대신 황제를 상징하는 용을 새긴 것이에요. 중화전은 원래는 2층 건물이었는데, 불탄 후 복원하면서 1층 건물로 지어졌다고 해요.\n덕수궁에 남아 있는 유일한 2층 건물인 석어당\n덕수궁에 가면 궁궐에 있는 건물과는 사뭇 다른 모습을 하고 있는 전통적인 건물이 있어요. 일반 양반집에서 흔히 볼 수 있었던 건물과 같은 건물이지요.\n그 건물은 바로 석어당이에요. 선조가 임진왜란 때 의주로 피난 갔다 돌아와 머물렀던 곳이지요. 정릉동 행궁으로 불릴 때 즉조당과 함께 중심이 되었던 건물이지요.\n중층 건물 구조로 1904년 화재 때 불타버린 것을 다시 지은 것이에요.",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "중화전 답도"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/9cb3ee3a5ac53c24/fig_082.jpg",
+          "caption": "중화전 답도",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 7,
+      "section_title": "덕수궁에 남아 있는 유일한 2층 건물인 석어당",
+      "narration": "단청도 칠하지 않은 백골집으로 그대로 남아있지요. 건물 안에 있는 계단을 이용해 2층으로 올라갈 수 있지요.\n왕이 머물던 건물임을 알리기 위해서였을까요?\n지붕을 받치고 있는 지붕틀 나무에 먹으로 용무늬를 그려 넣었어요.\n석어당에는 조선의 아픈 역사 이야기가 담겨 있어요. 광해군이 왕위에 오른 뒤 인목대비를 이곳에 가두었어요.\n인조가 광해군을 몰아내고 왕위에 오른 뒤 인목대비가 석어당 앞마당에 광해군을 꿇어앉히고 죄를 물은 곳이기도 해요.",
+      "est_speech_ms": 36400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "석어당"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/9cb3ee3a5ac53c24/fig_090.jpg",
+          "caption": "석어당",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 8,
+      "section_title": "왕의 초상화를 보관하던 정관헌",
+      "narration": "왕의 초상화를 보관하던 정관헌\n정관헌은 1900년대 즈음 세워진 건물로 한때 왕의 초상화인 어진을 보관해 두었다고 해요. 서양식 건물이지만 자세히 살펴보면 동양식 건물 양식도 찾아볼 수 있어요.\n지붕이 한옥에 주로 사용하는 팔작지붕이거든요. 기둥에는 대한제국을 상징하는 오얏꽃(李花, 이화)이 새겨져 있고, 난간에는 소나무, 사슴, 박쥐 등도 화려하게 조각되어 있어요.\n정관헌은 ‘고요히 내려다보는 곳’이라는 의미를 담고 있어요. 이곳에서 앞에 펼쳐진 솔밭과 덕수궁 건물들을 내려다보면 마음이 편안해져요.\n고종은 이곳 정관헌에서 다과를 들며 휴식을 즐기기도 하고, 외국 사절을 만나기도 했다고 전해요.",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정관헌(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/9cb3ee3a5ac53c24/fig_102.jpg",
+          "caption": "정관헌(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 9,
+      "section_title": "대한 제국의 위엄을 보여주고자 만든 건물 석조전",
+      "narration": "대한 제국의 위엄을 보여주고자 만든 건물 석조전\n덕수궁에서 양식이 다른 건물 중 가장 눈에 띄는 건물이 바로 석조전이에요. 자주 독립 국가를 만들려고 했던 고종이 황실에서 사용할 건축물로 만들었던 것이지요. 석조전은 돌로 만든 집이라는 뜻이에요.\n석조전은 1900년에 지어지기 시작해 1910년에 완공되었어요. 처음부터 석조전은 일상생활과 나랏일을 동시에 할 수 있는 공간으로 설계되었어요. 황실 가족의 생활공간인 동시에 정치적인 공간이었지요.\n석조전은 유럽에서 주로 볼 수 있는 건축물로 3층으로 만들어졌어요. 건물 앞과 양면에 둥글고 긴 기둥을 세워 안정감을 느끼게 했지요.",
+      "est_speech_ms": 48200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 17,
+      "section_index": 9,
+      "section_title": "대한 제국의 위엄을 보여주고자 만든 건물 석조전",
+      "narration": "건물 정면 중앙과 건물 안 곳곳에 황실을 상징하는 문양인 오얏꽃을 새겨 넣어, 대한제국 황실의 건물임을 보여주고 있어요.\n1층은 시종들의 공간, 2층은 서재, 접견실, 연회장, 3층은 황제와 황후의 침실이 있어요.\n조선의 궁은 나랏일을 하는 공간과 침실을 따로 구분해 건물을 지었는데, 한 건물 안에 침실과 나랏일을 하는 공간을 같이 만든 것은 새로운 변화였지요.\n일제 강점기 특별한 역할을 하지 못하던 석조전이 우리 역사에서 다시 등장하는 때가 있어요. 광복 이후 1946년 미소공동위원회가 열린 곳이 바로 석조전이었거든요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "석조전"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/9cb3ee3a5ac53c24/fig_115.jpg",
+          "caption": "석조전",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 18,
+      "section_index": 9,
+      "section_title": "대한 제국의 위엄을 보여주고자 만든 건물 석조전",
+      "narration": "당시 한반도 문제를 놓고 미국과 소련 두 나라가 회의를 했지만 특별한 성과 없이 마무리되었고, 이후 한반도는 분단의 역사를 맞게 되었어요.\n석조전은 광복 이후 국립현대미술관으로 사용되었다가 2014년 대한제국역사관으로 다시 문을 열었어요.\n역사 속 작은 이야기: 궁궐 밖에 있는데 왜 궁궐 건물이에요?\n덕수궁의 건물 중 지금은 궁궐 밖에 있는 건축물이 있어요. 바로 중명전이 에요. 덕수궁에 지어진 서양식 건물 중 하나이지요. 을사오적이 일제와 을사늑약을 체결한 장소로 유명한 곳이고요.",
+      "est_speech_ms": 39800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 19,
+      "section_index": 10,
+      "section_title": null,
+      "narration": "중명전의 원래 이름은 수옥헌이었어요. 황실 도서를 보관하던 도서관이었지요. 1901년 화재 이후 새롭게 지어진 중명전은 황실 도서관으로서의 역할을 넘어서 고종 황제가 신하들과 나랏일을 의논하고 외국 사절을 만나는 장소로 이용되었어요.\n1905년 고종 황제의 뜻과 상관없이 을사늑약이 체결되고, 나라의 외교권을 빼앗기게 되었어요. 일본의 식민지로 전락하는 조약이 맺어진 비운의 장소가 바로 중명전이었어요.\n일제 강점기 정동 일대에 외국 공사관이나 호텔, 학교 등이 들어서면서 덕수궁은 작아져 갔어요.\n이 과정에서 중명전도 덕수궁과 분리되어 일반 사람들이 사용하였지요. 그러다 2007년에야 문화재청에서 사들여 원래 모습대로 복원하였고, 지금은 전시관이 되어 을사늑약과 헤이그 특사 파견 등 여러 역사 이야기를 보고 느낄 수 있어요.",
+      "est_speech_ms": 61400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "중명전(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/9cb3ee3a5ac53c24/fig_002.jpg",
+          "caption": "중명전(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 20,
+      "section_index": 10,
+      "section_title": null,
+      "narration": "대한제국 황실의 궁궐로 근대 역사를 간직한 덕수궁에 대해 알아보니 지금과는 달랐던 옛 모습이 느껴지지요.\n궁궐 이름을 무엇으로 불러야 할지에 대해서도 여러 가지 의견들이 있어요. 옛 모습을 복원하려는 노력도 계속되고 있고요.\n대한제국 정치의 중심이었던 덕수궁이 원래 모습으로 복원되어 우리의 역사를 조금 더 생생하게 전해주길 기대해 보아요.",
+      "est_speech_ms": 28400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

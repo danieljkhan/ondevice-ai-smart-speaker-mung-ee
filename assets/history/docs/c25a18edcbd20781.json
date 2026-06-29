@@ -1,0 +1,325 @@
+{
+  "schema_version": 2,
+  "doc_hash": "c25a18edcbd20781",
+  "source_file": "eh_r0060_0010.pdf",
+  "title": "가야역사의 비밀 열쇠, 가야 고분군",
+  "kind": "artifact",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 12,
+  "section_count": 5,
+  "image_count": 10,
+  "est_total_ms": 419600,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "가야 고분(경남 합천군)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "철의 나라 가야",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "함안에서 발견된 말 갑옷(국립김해박물관)",
+        "가야 연맹의 주도권을 차지했던 금관가야와 대가야"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "철을 화폐처럼 사용했어요",
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [
+        "덩이쇠(국립김해박물관)",
+        "가야기병의 모습"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "독특한 모양의 가야토기",
+      "scene_indices": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "집모양 토기와 수레바퀴모양 토기(국립중앙박물관)",
+        "가야 토기(대가야박물관)",
+        "송현동 고분에서 발견된 소녀(송현이) 복원 모습, 창녕박물관"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        11
+      ],
+      "scene_seq": [
+        12
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "가야역사의 비밀 열쇠, 가야 고분군\n“생선 비늘처럼 보이는 이 철 조각이 뭘까요?”\n“글쎄, 그냥 철 조각은 아닌 것 같구나. 아는 사람에게 물어보아야겠다.”\n1992년 신문을 배달하던 한 고등학생이 아파트를 새로 짓고 있는 곳에서 철 조각을 발견했어요. 이 학생이 발견한 철 조각은 무엇이었을까요?\n그곳에서는 어떤 문화유산들이 나왔을까요?",
+      "est_speech_ms": 26800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "가야 고분(경남 합천군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c25a18edcbd20781/fig_001.jpg",
+          "caption": "가야 고분(경남 합천군)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "철의 나라 가야",
+      "narration": "철의 나라 가야\n학생이 발견한 것은 철로 만든 갑옷의 조각이었어요. 그런데 이 철 갑옷은 사람들이 사용하기 위한 것이 아니에요. 알고 보니 철 조각을 물고기 비늘처럼 만들어 이어 붙인 말의 갑옷이었어요.\n고구려의 무덤벽화 속에서 보던 말의 갑옷이 거의 완벽한 모습으로 발견되자 사람들은 깜짝 놀라고 말았어요. 이 갑옷이 발견된 곳은 마갑총으로 말의 갑옷이 나온 무덤이란 뜻이에요.\n마갑총은 경남 함안 말이산 고분군에 있는데 대표적인 가야의 고분이에요.\n가야는 낙동강 하류의 변한에서 발전했어요. 변한은 삼한 중에서도 철이 많이 생산되는 곳이었죠. 변한을 이어받은 가야에서도 철제 유물이 많이 출토되어 가야는 ‘철의 나라’라는 별명이 붙었어요.",
+      "est_speech_ms": 52400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "철의 나라 가야",
+      "narration": "가야는 철이 풍부했지만 고구려, 백제, 신라처럼 고대 국가로 발전하진 못해요. 여러 소국의 독립성이 상당히 강했기 때문이지요.\n초기 가야 연맹은 금관가야가 이끌었어요. 금관가야는 지금의 김해 지방을 중심으로 김수로왕이 세운 나라에요.",
+      "est_speech_ms": 19200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "함안에서 발견된 말 갑옷(국립김해박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c25a18edcbd20781/fig_017.jpg",
+          "caption": "함안에서 발견된 말 갑옷(국립김해박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "철의 나라 가야",
+      "narration": "금관가야는 낙동강 동쪽으로 세력을 넓히는 과정에서 왜와 함께 신라를 침략했어요.\n위기를 맞이한 신라의 내물왕은 고구려 광개토대왕에게 도움을 요청했어요. 그러자 광개토대왕은 신라를 돕기 위해 군대를 보냈어요. 고구려의 공격을 받은 금관가야는 힘이 약해져 가야 연맹체를 이끌 수 없게 되었어요.\n금관가야가 연맹체 주도권을 잃어갈 무렵 그것을 이어받은 나라는 대가야 에요. 대가야는 바닷가와 가까웠던 금관가야와는 달리 소백산맥 깊숙한 곳인 지금의 고령 지방을 중심으로 발전했어요.",
+      "est_speech_ms": 40000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "가야 연맹의 주도권을 차지했던 금관가야와 대가야"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c25a18edcbd20781/fig_022.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/c25a18edcbd20781/fig_033.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "철을 화폐처럼 사용했어요",
+      "narration": "철을 화폐처럼 사용했어요\n사진 속의 유물이 무엇인지 짐작할 수 있나요?\n가야의 고분에서 출토된 덩이쇠에요.\n덩이쇠는 가운데 부분이 살짝 들어간 직사각형 모양의 판이에요. 덩이쇠의 가운데 부분을 잘록하게 만든 것은 여러 개를 하나로 묶기 위해서예요.\n덩이쇠는 불순물이 제거된 철 덩어리로 언제든지 녹여서 필요한 철제 도구를 만들 수 있도록 한 것이에요. 그래서 화폐처럼 사용되었어요.\n덩이쇠는 가야 고분 곳곳에서 발견되어요. 그 중 대표적인 것이 부산 복천 동 53호 고분이에요. 금관가야 지배층의 고분이지요. 또 최근에는 아라가 야의 고분이 있는 창원 현동 유적에서도 출토되었답니다.",
+      "est_speech_ms": 47800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "덩이쇠(국립김해박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c25a18edcbd20781/fig_034.jpg",
+          "caption": "덩이쇠(국립김해박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "철을 화폐처럼 사용했어요",
+      "narration": "덩이쇠 이외에도 가야 고분에서는 철로 된 다양한 유물이 발굴되었어요.\n그중에서는 부산 복천동 고분에서 발견된 말 얼굴 가리개도 있어요.\n가야인들은 말의 머리에 철로 만든 투구도 씌워서 전투에 나섰던 것이죠.",
+      "est_speech_ms": 17000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "가야기병의 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c25a18edcbd20781/fig_043.jpg",
+          "caption": "가야기병의 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "독특한 모양의 가야토기",
+      "narration": "독특한 모양의 가야토기\n가야는 철의 나라일 뿐만 아니라 토기의 나라이기도 해요. 가야의 각 나라 마다 개성있는 토기를 만들었고 또 이웃한 신라나 백제보다 토기의 모양이 다양했어요.\n사진을 보면 집 모양, 수레바퀴 모양 토기 등이 보여요.\n가야토기는 주로 회청색과 적갈색이 있어요.\n그중에서 회청색 토기는 이전 시기에 만들어지던 토기보다 높은 온도인 1,000~1,200℃에 구워서 만들어요. 토기를 구운 뒤에는 입구를 틀어막아서 산소가 공급되지 않게 한다고 해요.\n그래서 토기의 색이 회청색을 띠게 된다고 해요. 그리고 도자기처럼 단단하여 경질토기라고 불려요.",
+      "est_speech_ms": 45600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "집모양 토기와 수레바퀴모양 토기(국립중앙박물관)",
+        "가야 토기(대가야박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c25a18edcbd20781/fig_050.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/c25a18edcbd20781/fig_051.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.3125
+        },
+        {
+          "path": "assets/history/images/c25a18edcbd20781/fig_059.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "독특한 모양의 가야토기",
+      "narration": "회청색 경질의 가야의 토기는 금관가야에서 먼저 만들어져 대가야를 비롯한 다른 지역으로 퍼져나갔어요.\n이외에도 가야토기는 일본에 전해져 스에키 토기에 영향을 주었어요. 스에키토기는 일본 고대의 대표적인 토기랍니다.",
+      "est_speech_ms": 18200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "독특한 모양의 가야토기",
+      "narration": "순장이 뭐예요?\n“이번에 15호분에서 순장된 사람 4명의 뼈가 발견되었다는 소식을 들었나요?”\n“예, 순장된 인골 중에는 16세 소녀의 것도 있다고 하던데요.”\n2007년 가야 무덤으로 알려진 창녕 송현동 15호분에서 순장된 사람의 뼈 (인골)가 발견되었어요. 순장은 왕이나 귀족 등 지배자가 죽으면 그를 따르던 신하나 노비들을 함께 묻었던 제도에요. 우리나라의 초기 국가인 부여도 순장을 했다는 기록이 남아있어요.\n부여는 많으면 수백 명까지 순장했다고 해요.\n창녕 송현동 15호분에서 중심이 되는 인물은 60세 정도의 남자라고 해요. 그의 발이 있는 쪽에 4명의 사람을 순장했어요. 순장된 사람들은 동쪽에 머리를 두고 있는 것이 특징이에요.",
+      "est_speech_ms": 51800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "독특한 모양의 가야토기",
+      "narration": "이외에도 경북 고령의 지산동 44호분에서도 순장의 흔적을 찾아볼 수 있어요. 이곳에서는 무려 40여 명의 사람을 순장했어요.",
+      "est_speech_ms": 10400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "송현동 고분에서 발견된 소녀(송현이) 복원 모습, 창녕박물관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c25a18edcbd20781/fig_072.jpg",
+          "caption": "송현동 고분에서 발견된 소녀(송현이) 복원 모습, 창녕박물관",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": "독특한 모양의 가야토기",
+      "narration": "역사 속 작은 이야기: 신라에서 활약한 가야 사람은 누가 있을까요?\n가야 연맹체를 이끌던 금관가야와 대가야는 모두 신라의 지배를 받게 되어요. 두가야의 대표적 인물들은 훗날 신라에서 크게 활약을 해요.\n먼저 금관가야 왕족의 후손으로 김유신이 있어요.\n김유신의 할아버지 김무력은 금관가야 마지막 왕의 아들이었어요. 금관가야가 신라에 항복한 후 김무력은 신라의 귀족이 되었어요.\n그리고 김유신은 여러분이 잘 아는 것처럼 신라의 삼국 통일 전쟁에서 크게 활약해요.\n이외에도 신라 음악을 크게 발전시킨 우륵이 있어요. 우륵은 대가야가 멸망할 무렵 신라에 망명했어요.",
+      "est_speech_ms": 45800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "이때 우륵은 가야의 가실왕이 중국 악기를 본 떠 만든 가야금을 가지고와 신라 사람들에게 가르쳤어요.\n가야 연맹은 562년 대가야가 신라 진흥왕에게 멸망당할 때까지 고구려, 백제, 신라와 함께 경쟁하며 발전했어요. 그러나 삼국처럼 왕권이 강력한 중앙집권 국가로 발전하지 못하고 연맹 국가 단계에서 역사 속으로 사라지게 되었어요.\n‘철의 나라’ 가야에 대해 좀 더 알고 싶다면 국립김해박물관이나 함안박물관, 대성동고분박물관, 대가야박물관 등을 둘러보는 것도 좋을 것 같아요.",
+      "est_speech_ms": 38600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

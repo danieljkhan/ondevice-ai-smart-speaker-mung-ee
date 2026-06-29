@@ -1,0 +1,57 @@
+/* Minimal vanilla styling for the conversation download portal. No JS framework. */
+:root {
+  color-scheme: light;
+  --fg: #1a1a1a;
+  --muted: #666;
+  --accent: #2d6cdf;
+  --border: #d8d8d8;
+}
+* { box-sizing: border-box; }
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  margin: 0;
+  padding: 1.5rem;
+  color: var(--fg);
+  background: #fafafa;
+}
+main { max-width: 60rem; margin: 0 auto; }
+h1 { font-size: 1.4rem; margin-bottom: 0.25rem; }
+p.sub { color: var(--muted); margin-top: 0; }
+form.login {
+  max-width: 22rem;
+  margin: 3rem auto;
+  padding: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #fff;
+}
+label { display: block; margin-bottom: 0.5rem; font-weight: 600; }
+input[type="password"] {
+  width: 100%;
+  padding: 0.6rem;
+  font-size: 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  letter-spacing: 0.2em;
+}
+button {
+  margin-top: 1rem;
+  padding: 0.6rem 1.1rem;
+  font-size: 1rem;
+  border: 0;
+  border-radius: 6px;
+  background: var(--accent);
+  color: #fff;
+  cursor: pointer;
+}
+button.secondary { background: #555; }
+.error { color: #b00020; margin: 0.75rem 0; }
+table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+th, td { padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--border); text-align: left; }
+th { font-size: 0.85rem; text-transform: uppercase; color: var(--muted); }
+td.num { text-align: right; font-variant-numeric: tabular-nums; }
+.toolbar { display: flex; gap: 0.75rem; align-items: center; margin-top: 1rem; }
+.row-link { text-decoration: none; color: var(--accent); }
+
+.shutdown-form { margin-top: 2rem; border-top: 1px solid var(--border); padding-top: 1.25rem; }
+button.danger { background: #b00020; }

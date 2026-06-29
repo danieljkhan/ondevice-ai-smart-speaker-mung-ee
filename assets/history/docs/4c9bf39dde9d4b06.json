@@ -1,0 +1,295 @@
+{
+  "schema_version": 2,
+  "doc_hash": "4c9bf39dde9d4b06",
+  "source_file": "eh_r0230_0010.pdf",
+  "title": "세계가 인정하는 문자, 훈민정음",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 12,
+  "section_count": 4,
+  "image_count": 8,
+  "est_total_ms": 565600,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "백성을 가르치는 바른 소리, 훈민정음",
+      "scene_indices": [
+        0,
+        1,
+        2
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3
+      ],
+      "image_captions": [
+        "세종대왕 동상(서울 종로구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "훈민정음 해례본(문화재청)",
+        "훈민정음을 만들고 있는 세종대왕과 신하들"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "법화경언해(국립한글박물관)",
+        "음식방문(국립한글박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "훈민정음, 한글이라는 새로운 이름을 얻다",
+      "scene_indices": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "말의 소리(독립기념관)",
+        "국립한글박물관(서울 용산구)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "백성을 가르치는 바른 소리, 훈민정음",
+      "narration": "세계가 인정하는 문자, 훈민정음\n“그 소식 들었나? 임금님께서 새로운 문자 28자를 만드셨다고 하네.”\n“정말인가? 어떤 글자인지 빨리 보고 싶네.”\n새로운 문자 28자는 세종대왕이 만든 훈민정음을 말해요. 세종대왕이 훈민정음을 만든 까닭은 무엇일까요? 또 훈민정음의 특징은 무엇이며, 조선 시대에 어떻게 사용되었을까요?\n백성을 가르치는 바른 소리, 훈민정음\n훈민정음은 세종대왕이 1443년에 만든 문자에요. ‘백성을 가르치는 바른 소리’ 라는 뜻을 담고 있죠. 평소 백성들을 사랑하고 그들의 삶에 관심이 많았던 세종대왕은 백성들이 글을 몰라 겪는 어려움을 안타까워했어요. 그래서 백성들이 쉽게 사용할 수 있는 문자를 만들기로 했어요.",
+      "est_speech_ms": 51200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "세종대왕 동상(서울 종로구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4c9bf39dde9d4b06/fig_001.jpg",
+          "caption": "세종대왕 동상(서울 종로구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "백성을 가르치는 바른 소리, 훈민정음",
+      "narration": "문자를 만들려면 언어에 대해 지식이 많아야 해요. 그래서 세종대왕은 중국으로 간 사신들에게 언어 관련 책을 구해오도록 했어요. 그 책들을 보며 연구에 몰두해서 마침내 새 문자를 만들 수 있었어요. 세종대왕은 이 기쁜 소식을 신하들에게 알렸지요.\n그런데 일부 신하들은 새로운 문자의 사용을 반대했어요.",
+      "est_speech_ms": 24400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "백성을 가르치는 바른 소리, 훈민정음",
+      "narration": "대표적인 사람이 집현전의 부제학이었던 최만리였어요. 그는 훈민정음을 만든 일이 매우 훌륭하다는 것을 인정하면서도 몇 가지 걱정되는 일이 있다고 했어요.\n최만리는 조선이 독자적인 문자를 만들어 사용하면 중국과의 사대 관계에 문제가 생기며, 몽골과 여진 등이 세운 나라처럼 중국의 질서에서 벗어나게 될 것이라고 했어요. 그리고 쉬운 언문(훈민정음)을 사용하면 관리들이 학문하는 문자인 한문을 배우지 않으려해서 조선이 추구하는 유교 가치를 실현할 수 없을 것이라 주장했어요.\n이에 대해 세종대왕은 신라의 설총이 이두를 만들어 백성들의 삶을 편리하게 한 것처럼 자신도 같은 이유로 훈민정음을 만들었다고 설명했어요.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "최만리는 중국과의 외교 관계에서 우리나라가 독자적인 문자를 가진다는 것이 문제가 될까봐 걱정을 했지요. 그러나 세종은 무엇보다 백성들의 편의를 최선으로 고려했어요. 문자를 읽고 쓸 수 없었던 그들의 어려움을 해결해 주고 싶었던 거예요.\n세종대왕은 훈민정음을 만든 지 약 3년만인 1946년에 훈민정음 해례본 만들었어요.\n훈민정음 해례본의 분량은 총 31쪽인데, 크게 두 가지 부분으로 나뉘어요. 첫 번째는 ‘예의(例義)’ 부분이에요.\n세종대왕이 직접 쓴 부분으로 훈민정음을 만든 까닭과 각 글자가 어떻게 소리가 나는지를 밝혔어요. 두 번째는 ‘해례(解例)’에요. 여기에는 집현전 학사들이 쓴 훈민정음의 사용방법과 정인지가 쓴 서문이 있어요.\n우리는 이 책을 통해 훈민정음을 만든 사람과 만든 목적, 사용방법 등을 정확히 알 수 있게 되었죠.",
+      "est_speech_ms": 59600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "훈민정음 해례본(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4c9bf39dde9d4b06/fig_018.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/4c9bf39dde9d4b06/fig_028.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "훈민정음은 어떤 특징이 있나요?\n훈민정음은 처음 만들어졌을 때 총 28자가 있었어요. 자음이 17자이고 모음은 11자였지요. 특히 모음은 기본이 되는 ‘ㆍ’, ‘ㅡ’, ‘ㅣ’의 세 가지를 조합하여 11자나 되는 글자를 만들어낸답니다.\n훈민정음은 이러한 28개 글자로 세상의 모든 소리를 표현할 수 있어요. 사람이 발음할 수 있는 모든 소리를 훈민정음으로 쓸 수 있어요. 게다가 ‘새 울음소리, 개 짖는 소리, 바람 소리’ 등도 표현할 수 있답니다.\n한편 훈민정음은 배우기도 매우 쉬운 문자에요.\n훈민정음 해례본중에 정인지가 쓴 서문에는 “지혜로운 사람은 아침나절이 되기 전에 이해하고 어리석은 사람도 열흘 만에 배운다.”라고 되어 있어요.",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "훈민정음을 만들고 있는 세종대왕과 신하들"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4c9bf39dde9d4b06/fig_030.jpg",
+          "caption": "훈민정음을 만들고 있는 세종대왕과 신하들",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "훈민정음이 만들어진 덕분에 조선 시대에는 한문 교육에서 소외되었던 여성과 노비들도 글자를 깨우칠 수 있었어요.\n조선 시대 사람들은 훈민정음으로 무엇을 기록했을까?\n세종대왕은 1945년 정인지를 비롯한 집현전 학사들에게 용비어천가를 편찬하도록 해요.\n이는 훈민정음 해례본을 발표하기 전의 일이에요. 용비어천가는 훈민정음으로 된 최초의 기록물인 셈이죠.\n그 책에는 세종의 아버지인 태종을 포함하여 6대 선조의 업적을 125장의 시로 표현하고 있어요. 용비어천가를 훈민정음으로 지은 까닭은 무엇일까요?\n아마도 조선 왕조가 고려를 무너뜨리고 새로운 국가를 세우게 된 정당성을 양반 사대부뿐만 아니라 일반 백성들에게도 알리고 싶었기 때문인 것 같아요.",
+      "est_speech_ms": 54600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "용비어천가가 편찬된 이후 한문으로 된 불교와 유교 관련 책들도 훈민정음으로 번역되었어요. 이렇게 만들어진 책 이름 뒤에는 ‘언해(諺解)’라는 말이 붙어요.\n‘언해’란 당시 ‘언문(諺文)’이라 불리던 훈민정음으로 번역했다는 의미이지요. 불경으로는 법화경언해가 대표적이며, 유교 경전은 논어와 맹자 등의 언해가 있어요.\n불교와 유교 관련 책 이외에도 중국어와 일본어 등 외국어 학습 교재에도 훈민정음이 사용되었어요. 어려운 외국어 발음을 훈민정음으로 읽기 쉽게 적어놓은 것이죠.\n조선 후기에는 국왕이 백성들에게 교서를 내릴 때도 간혹 훈민정음을 사용했어요. 대표적인 왕이 선조예요. 선조는 임진왜란이 일어나자 일본군에 포로가 된 백성들에게 훈민정음으로 된 교서를 발표했어요.",
+      "est_speech_ms": 55000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "법화경언해(국립한글박물관)",
+        "음식방문(국립한글박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4c9bf39dde9d4b06/fig_046.jpg",
+          "caption": "법화경언해(국립한글박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/4c9bf39dde9d4b06/fig_052.jpg",
+          "caption": "음식방문(국립한글박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "당시 포로가 된 사람 중에 일본군에 협조하는 사람이 있었거든요. 교서에는 어쩔 수 없이 포로가 된 사람은 죄를 묻지 않을 것이고, 포로를 구출해오는 사람은 신분에 상관없이 벼슬을 주겠다는 내용이 적혀 있어요.\n한편, 조선 후기 민간에서는 홍길동전, 심청천과 같은 한글 소설이 많이 편찬되었어요. 이외에도 부녀자들을 위한 요리책도 펴냈습니다. 그 예로 음식방문이란 책을 들 수 있어요. 이 책에는 떡볶이, 만두 등 음식을 만드는 방법이 실려있답니다.",
+      "est_speech_ms": 35800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "훈민정음, 한글이라는 새로운 이름을 얻다",
+      "narration": "훈민정음, 한글이라는 새로운 이름을 얻다\n훈민정음은 1894년 갑오개혁 때 ‘국문(國文)’이라는 이름으로 우리나라의 공식 문자가 되었어요.\n체계적인 문자 교육을 위해 최초의 국어 교과서가 편찬되기도 했어요.\n그러나 일본 식민 지배를 받게 되면서 명칭이 ‘조선어’로 바뀌게 되고, 일제는 우리말의 사용을 금지했어요.\n일제 강점기에 우리의 말과 글을 지키기 위해 여러 사람이 노력을 했어요.\n대표적인 사람이 주시경이에요. 주시경은 우리글의 이름을 ‘크고 바른 글’ 이라는 의미를 담아 ‘한글’로 정했어요.\n그 후 말의 소리, 국어문법 등의 책을 쓰며 한글 발전에 큰 역할을 했어요.",
+      "est_speech_ms": 45600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "말의 소리(독립기념관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4c9bf39dde9d4b06/fig_059.jpg",
+          "caption": "말의 소리(독립기념관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "훈민정음, 한글이라는 새로운 이름을 얻다",
+      "narration": "역사 속 작은 이야기: 훈민정음 해례본 세상으로 나오다\n우리가 훈민정음을 만든 사람이 누구이며, 만든 목적, 사용방법 등을 자세히 알 수 있는 것은 한 권의 책 덕분이에요. 바로 훈민정음 해례본이지요.\n훈민정음 해례본은 1940년 경상북도 안동에서 발견되었어요.\n그 소식을 듣고 책을 사들인 사람은 전형필이에요. 전형필은 자신의 많은 재산을 우리 문화재를 지키는 데 사용했어요. 훈민정음 해례본을 살 때에는 판매자가 부르는 가격의 10배인 만 원을 주고 사들였어요.\n당시 서울 기와집 한 채 값이 천 원이었다니, 정말 엄청난 돈을 주고 산 것 이지요. 그리고 행여나 일본 총독부에 알려지면 빼앗길지도 몰라 아무도 모르게 숨겨 두었어요.",
+      "est_speech_ms": 51000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": "훈민정음, 한글이라는 새로운 이름을 얻다",
+      "narration": "1945년 광복이 되자 전형필은 훈민정음 해례본이 있다는 사실을 알릴 수 있었어요. 그런데 얼마 되지 않아 1950년 6·25전쟁이 일어났어요.\n전쟁이 일어난 지 3일 만에 서울이 함락되었지요.\n전형필은 자신이 가지고 있던 수많은 문화재 중 훈민정음 해례본 하나만 오동나무 상자에 넣고 피난길을 떠났어요.\n이렇게 해서 지켜낸 훈민정음 해례본은 1962년에 국보 제70호로 지정되었어요. 또한 세계적으로도 한글의 우수성을 인정받아 1997년에 유네스코 세계기록유산으로 등재되었어요.\n인류 역사에서 처음 문자를 사용한 사람들은 수메르인이에요.",
+      "est_speech_ms": 45800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 3,
+      "section_title": "훈민정음, 한글이라는 새로운 이름을 얻다",
+      "narration": "그들은 기원전 3000년경 쐐기문자를 만들어 사용했어요. 우리나라의 훈민정음은 1443년에 만들어졌으니 비교적 늦게 만들어진 셈이에요.\n현재 지구인들이 사용하는 문자는 약 70여 개라고 해요.\n그중에서 훈민정음은 가장 과학적이면서도 배우기 쉬운 문자로 인정받고 있어요. 훈민정음에 대해 좀 더 자세히 알고 싶은 친구가 있나요?\n그렇다면 훈민정음에 관한 책을 읽거나 ‘국립한글박물관’에 가서 전시물을 살펴보는 것도 좋은 방법인 것 같아요.",
+      "est_speech_ms": 36600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "국립한글박물관(서울 용산구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4c9bf39dde9d4b06/fig_085.jpg",
+          "caption": "국립한글박물관(서울 용산구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

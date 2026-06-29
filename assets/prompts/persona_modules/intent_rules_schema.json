@@ -1,0 +1,86 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Mungi Persona Intent Rules",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "rules"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "rules": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "is_fact_query",
+        "is_emotional",
+        "is_greeting",
+        "is_curious",
+        "is_help_request"
+      ],
+      "properties": {
+        "is_fact_query": {
+          "$ref": "#/definitions/intent_rule"
+        },
+        "is_emotional": {
+          "$ref": "#/definitions/intent_rule"
+        },
+        "is_greeting": {
+          "$ref": "#/definitions/intent_rule"
+        },
+        "is_curious": {
+          "$ref": "#/definitions/intent_rule"
+        },
+        "is_help_request": {
+          "$ref": "#/definitions/intent_rule"
+        }
+      }
+    }
+  },
+  "definitions": {
+    "language_rule": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "any_of",
+        "regex_any_of"
+      ],
+      "properties": {
+        "any_of": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "regex_any_of": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        }
+      }
+    },
+    "intent_rule": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ko",
+        "en"
+      ],
+      "properties": {
+        "ko": {
+          "$ref": "#/definitions/language_rule"
+        },
+        "en": {
+          "$ref": "#/definitions/language_rule"
+        }
+      }
+    }
+  }
+}

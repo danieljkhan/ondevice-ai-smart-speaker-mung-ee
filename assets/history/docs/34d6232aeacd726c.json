@@ -1,0 +1,293 @@
+{
+  "schema_version": 2,
+  "doc_hash": "34d6232aeacd726c",
+  "source_file": "eh_n0770_0010.pdf",
+  "title": "안중근, 이토 히로부미를 처단하다",
+  "kind": "people",
+  "era": "일제강점기",
+  "era_source": "keyword",
+  "scene_count": 13,
+  "section_count": 5,
+  "image_count": 6,
+  "est_total_ms": 540100,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "안중근, 이토 히로부미를 처단하다",
+      "scene_indices": [
+        0,
+        1
+      ],
+      "scene_seq": [
+        1,
+        2
+      ],
+      "image_captions": [
+        "안중근의사기념관(서울 중구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "항일 의병 투쟁을 전개하다",
+      "scene_indices": [
+        2,
+        3
+      ],
+      "scene_seq": [
+        3,
+        4
+      ],
+      "image_captions": [
+        "안중근이 활동했던 간도와 연해주"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "만주 하얼빈에서 이토 히로부미를 저격하다",
+      "scene_indices": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "image_captions": [
+        "안중근의 손도장과 태극기에 동지들과 함께 태극기에 쓴 ‘대한 독립’, 안중근기념관",
+        "이토 히로부미를 저격하는 안중근(안중근기념관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": null,
+      "scene_indices": [
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "사형 집행 전 두 동생과 빌렘 신부에게 유언을 남기는 안중근(독립기념관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        11,
+        12
+      ],
+      "scene_seq": [
+        12,
+        13
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "안중근, 이토 히로부미를 처단하다",
+      "narration": "안중근, 이토 히로부미를 처단하다\n“땅! 땅! 땅!”\n“이토 히로부미에 총을 쏜 저 괴한을 잡아라!”\n“꼬레아우라(한국 만세)!”\n1909년 10월 26일, 오전 9시 30분경, 만주 하얼빈역에서 안중근은 대한제국을 침략하는 데 앞장선 이토 히로부미를 향해 권총을 쏘았어요.\n안중근 의거가 있었던 당시 우리나라 상황은 어떠했을까요?\n도마라는 세례명을 받다\n안중근은 1879년 9월 2일 황해도 해주읍 광석동에서 태어났어요.",
+      "est_speech_ms": 33200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "안중근의사기념관(서울 중구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/34d6232aeacd726c/fig_001.jpg",
+          "caption": "안중근의사기념관(서울 중구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "안중근, 이토 히로부미를 처단하다",
+      "narration": "안중근이 7세 때, 그의 아버지는 가족을 데리고 황해도 신천군청계동으로 이사하였고, 안중근은 어린 시절을 청계동에서 보냈어요.\n안중근은 할아버지로부터 유학과 역사를 배우며 민족의식을 키웠어요. 그리고 아버지의 영향으로 근대 문물을 받아들여 나라를 강하게 만들겠다는 개화사상을 받아들였어요.\n그뿐만 아니라 말타기와 활쏘기 등 무예도 배웠어요. 게다가 총 쏘는 법까지 배웠는데, 그의 사격 솜씨는 대단해서 화승총으로, 노루, 토끼는 물론 날아가는 꿩이나 비둘기도 거의 백발백중 맞혔어요.\n그는 16세 때 가족과 함께 천주교 신자가 되었어요. 이 무렵 안중근은 프랑스 신부로부터 세례를 받고 ‘토마스(도마)’라는 세례명을 얻었어요.",
+      "est_speech_ms": 51600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "항일 의병 투쟁을 전개하다",
+      "narration": "또한 프랑스어와 서양의 학문을 배워 근대 사상에 눈을 떴어요.\n이후 안중근은 프랑스 신부와 함께 황해도 일대를 돌며 천주교를 전파하는 데 힘썼어요. 또한 교육을 통해 실력을 기르는 것이 국민들의 권리를 높이는 길이라고 생각하고 학교에서 학생들을 가르쳤어요.\n항일 의병 투쟁을 전개하다\n러일전쟁에서 승리한 일본은 대한제국을 강요해 강제로 을사늑약을 체결했어요. 이 때문에 대한제국은 다른 나라와 조약을 맺을 수 있는 외교권을 빼앗겼어요.",
+      "est_speech_ms": 36200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "안중근이 활동했던 간도와 연해주"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/34d6232aeacd726c/fig_022.jpg",
+          "caption": "안중근이 활동했던 간도와 연해주",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "항일 의병 투쟁을 전개하다",
+      "narration": "이후 1907년 일본은 고종 황제의 헤이그 특사 파견을 구실로 고종을 강제로 퇴위시키고 대신 순종을 황제에 앉혔어요. 그리고 대한제국의 군대마저 해산시켰어요.\n이러한 상황에서 안중근은 해외로 건너가 항일 의병 투쟁을 전개할 것을 결심했어요. 29세의 청년 안중근은 북간도를 거쳐 한국인이 많이 사는 러시아의 연해주에 도착했어요.\n1908년 봄, 안중근은 러시아 블라디보스토크에서 다른 독립 운동가들과 함께 의병 부대를 조직했어요. 그리고 자신은 참모 중장이 되어 항일 무장 투쟁을 본격적으로 시작했어요.\n그해 6월 안중근은 의병 200여 명을 이끌고 두만강을 건너 함경도 경흥으로 가서 일본 군인과 경찰 50여 명을 죽이는 성과를 거두었어요.",
+      "est_speech_ms": 53600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "만주 하얼빈에서 이토 히로부미를 저격하다",
+      "narration": "이때 그는 포로로 잡은 일본군을 당시 국제법에 따라 모두 풀어주었어요.\n얼마 후 안중근이 이끄는 의병 부대는 일본군의 공격을 받아 크게 패하였고, 부대원들은 뿔뿔이 흩어졌어요.\n안중근도 일부 부하들과 함께 굶주림에 시달리며 산길을 헤매다 간신히 러시아 연해주로 돌아갈 수 있었어요.\n만주 하얼빈에서 이토 히로부미를 저격하다\n러시아 연해주로 돌아온 안중근은 여러 지역을 돌아다니며 한국인 동포들에게 강연을 통해 독립사상을 북돋아 주는 일을 했어요.\n그리고 1909년 3월 동의단지회를 결성하고 조국을 위해 목숨을 바치기로 결의 했어요. 11명의 동지와 함께 왼손 약지를 잘라 피로써 태극기에 ‘대한 독립’ 이라고 쓴 뒤, 만세를 불렀어요.",
+      "est_speech_ms": 52400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "만주 하얼빈에서 이토 히로부미를 저격하다",
+      "narration": "1909년 가을, 안중근은 일본의 이토 히로부미가 만주 하얼빈을 방문한다는 소식을 들었어요. 일본이 중국 땅인 만주를 빼앗을 목적으로 러시아와 논의를 하기 위해 이토 히로부미를 보내기로 한 것이에요.\n이토 히로부미는 을사늑약 당시 대한제국을 강하게 압박한 인물이었어요. 즉 대한제국을 침략하는 데 가장 앞장선 인물이라고 할 수 있지요.",
+      "est_speech_ms": 27800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "만주 하얼빈에서 이토 히로부미를 저격하다",
+      "narration": "안중근은 이토 히로부미를 처단하여 일본의 나쁜 의도를 세계에 알릴 좋은 기회라고 생각했어요.\n1909년 10월 21일, 안중근은 동지들과 함께 하얼빈으로 떠났어요.\n안중근은 동지들과 여러 신문을 모아 이토 히로부미가 만주에 도착하는 시간과 환영 행사 등에 관한 정보를 모았어요. 그 결과 하얼빈역을 뜻을 이룰 장소로 결정했어요.\n1909년 10월 26일 9시경 만주 하얼빈역, 이토 히로부미가 열차에 내려서 러시아 의장대의 인사를 받은 뒤 환영객들로부터 인사를 받기 시작했어요.\n안중근은 이토 히로부미가 열 걸음 정도 떨어진 거리에 왔을 때, 재빨리 권총을 꺼내 이토 히로부미를 향해 쏘았어요.",
+      "est_speech_ms": 49000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "안중근의 손도장과 태극기에 동지들과 함께 태극기에 쓴 ‘대한 독립’, 안중근기념관",
+        "이토 히로부미를 저격하는 안중근(안중근기념관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/34d6232aeacd726c/fig_041.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/34d6232aeacd726c/fig_042.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.4
+        },
+        {
+          "path": "assets/history/images/34d6232aeacd726c/fig_049.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "만주 하얼빈에서 이토 히로부미를 저격하다",
+      "narration": "“탕! 탕! 탕!”\n3발의 총알을 맞은 이토 히로부미는 그 자리에 쓰러졌어요.\n그 순간 안중근은 혹시 다른 사람을 쏘았을 수도 있다고 생각하고 이토 히로 부미 주변 인물을 향해 3발을 더 쏘았어요. 바로 그때 러시아 헌병들이 안중근을 체포했어요.\n이토 히로부미는 열차에 옮겨 치료를 받았으나 결국 숨을 거두었어요.",
+      "est_speech_ms": 24400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "대한제국은 물론 만주까지 일본의 영토로 만들고자했던 이토 히로부미가 안중근의 손에 의해 최후를 맞은 것이에요.\n이 소식은 곧 국내, 중국, 러시아, 일본은 물론 전 세계로 퍼져 나갔어요.\n나라 밖에서 항일 투쟁을 벌이던 사람들은 안중근의 의거에 큰 박수를 보냈으나, 일본 사람들은 물론 국내의 친일파들은 매우 당황했어요.\n열강에 시달리던 중국 사람들은 안중근이 자신들의 원수를 갚은 것처럼 기뻐했어요.\n죽음 앞에서도 의연히 맞서다\n안중근을 체포한 러시아 경찰은 안중근을 일본 대사관에 넘겼어요.\n이후 중국 여순에 있는 일본 대사관 지하실에 갇힌 안중근은 일본 검찰관으로 부터 조사를 받았어요. 일본 검찰관이 왜 이토 히로부미를 죽였는지 이유를 묻자 안중근은 다음과 같이 대답했어요.",
+      "est_speech_ms": 55800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "나는 다음과 같은 이유로 이토 히로부미를 처단하였소. 첫째, 명성 황후를 시해한 죄. 둘째, 을사늑약을 강제로 체결한 죄.\n넷째, 고종 황제를 폐위시킨 죄. 다섯째, 대한제국의 군대를 해산시킨 죄. 여섯째, 무고한 사람들을 학살한 죄. 일곱째, 한국인의 권리를 박탈한 죄.\n열두 번째, 동양의 평화를 깨뜨린 죄.\n열다섯 번째, 일본과 세계를 속인 죄",
+      "est_speech_ms": 26200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "1차 조사를 마친 안중근은 1909년 11월 13일에 뤼순 감옥으로 옮겨졌어요. 이튿날부터 일본에 의한 폭력적인 조사가 이어졌어요. 1910년 2월 14일 마지막 재판에서 일본 법정은 안중근에게 사형을 선고하였어요. 그러자 안중근은 일본에는 사형 이상의 형벌은 없느냐며 미소를 지었다고 해요.\n한편, 안중근은 다시 재판을 받는 제도인 항소를 하지 않겠다고 했어요. 옳은 일을 했으니 구차하게 목숨을 구걸하지 않겠다는 안중근의 굳은 의지의 표현이었어요. 또한 면회 온 두 동생을 통해 들은 어머니의 말씀도 이런 결심에 영향을 주었지요.",
+      "est_speech_ms": 44200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "사형 집행 전 두 동생과 빌렘 신부에게 유언을 남기는 안중근(독립기념관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/34d6232aeacd726c/fig_077.jpg",
+          "caption": "사형 집행 전 두 동생과 빌렘 신부에게 유언을 남기는 안중근(독립기념관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "“너는 나라를 위해 이토 히로부미를 죽인 것이니 만약 사형 판결을 받는다면 다른 마음먹지 말고 당당히 죽도록 해라. 비겁하게 삶을 구걸하지 말고 큰 뜻에 따라 죽는 것이 어미에 대한 효도이다.”\n뤼순 감옥에서 안중근은 자서전과 동양평화론을 집필하며 자신의 삶과 사상을 정리하였어요. 동양평화론은 한국·중국·일본 3국의 관계를 ‘대등한 국가 관계’로 보면서, 이웃 국가에 대한 침략과 영토 확장을 비판하고 평화적 공존을 주장한 내용을 담고 있어요.\n1910년 3월 26일, 안중근은 뤼순 감옥의 사형장에서 32세의 짧은 생을 마쳤어요. 안중근이 사형 직전 자신을 데리러 온 간수에게 마지막으로 남긴 말은 “5분만 시간을 주십시오. 책을 다 읽지 못했습니다.”라고 해요. 죽음조차 그의 당당함과 기개를 꺾을 수 없었어요.",
+      "est_speech_ms": 57400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "안중근의 바람과 달리 우리나라는 일본의 침략에 35년간 식민지가 되었어요. 그러나 끊임없는 우리 민족의 독립운동과 일본의 패망으로 마침내 광복을 맞이하였지요.\n안중근이 꿈꾼 한국·중국·일본 세 나라의 진정한 평화를 위해 우리가 해야 할 일은 어떤 것들이 있을까요?",
+      "est_speech_ms": 21800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

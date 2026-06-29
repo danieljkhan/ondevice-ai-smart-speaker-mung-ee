@@ -1,0 +1,1928 @@
+{
+ "schema_version": 1,
+ "source": "contents.history.go.kr/front/newEh/list.do (eh_age_10..50) — official curated chronological order",
+ "generated_note": "Regenerate via scripts/history_era_order_fetch.py. Order is global 0-based site display sequence across the 5 age pages.",
+ "count": 240,
+ "items": [
+  {
+   "order": 0,
+   "level_id": "eh_r0030",
+   "source_file": "eh_r0030_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "연천 전곡리 유적"
+  },
+  {
+   "order": 1,
+   "level_id": "eh_r0035",
+   "source_file": "eh_r0035_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "충청 지역의 구석기 유적"
+  },
+  {
+   "order": 2,
+   "level_id": "eh_r0020",
+   "source_file": "eh_r0020_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "서울 암사동 유적"
+  },
+  {
+   "order": 3,
+   "level_id": "eh_n0010",
+   "source_file": "eh_n0010_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "단군왕검"
+  },
+  {
+   "order": 4,
+   "level_id": "eh_r0005",
+   "source_file": "eh_r0005_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "최초의 국가, 고조선"
+  },
+  {
+   "order": 5,
+   "level_id": "eh_r0040",
+   "source_file": "eh_r0040_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "울산 반구대 암각화"
+  },
+  {
+   "order": 6,
+   "level_id": "eh_r0010",
+   "source_file": "eh_r0010_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "고인돌 유적"
+  },
+  {
+   "order": 7,
+   "level_id": "eh_r0011",
+   "source_file": "eh_r0011_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "청동기"
+  },
+  {
+   "order": 8,
+   "level_id": "eh_r0012",
+   "source_file": "eh_r0012_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "부여 송국리 유적"
+  },
+  {
+   "order": 9,
+   "level_id": "eh_n0030",
+   "source_file": "eh_n0030_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "주몽"
+  },
+  {
+   "order": 10,
+   "level_id": "eh_r0045",
+   "source_file": "eh_r0045_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "영산강 유역의 마한 유적"
+  },
+  {
+   "order": 11,
+   "level_id": "eh_n0020",
+   "source_file": "eh_n0020_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "박혁거세"
+  },
+  {
+   "order": 12,
+   "level_id": "eh_n0040",
+   "source_file": "eh_n0040_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "온조"
+  },
+  {
+   "order": 13,
+   "level_id": "eh_n0050",
+   "source_file": "eh_n0050_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "김수로왕"
+  },
+  {
+   "order": 14,
+   "level_id": "eh_r0051",
+   "source_file": "eh_r0051_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "고구려 산성"
+  },
+  {
+   "order": 15,
+   "level_id": "eh_r0050",
+   "source_file": "eh_r0050_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "고구려 고분 벽화"
+  },
+  {
+   "order": 16,
+   "level_id": "eh_r0060",
+   "source_file": "eh_r0060_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "가야 고분군"
+  },
+  {
+   "order": 17,
+   "level_id": "eh_n0060",
+   "source_file": "eh_n0060_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "근초고왕"
+  },
+  {
+   "order": 18,
+   "level_id": "eh_n0070",
+   "source_file": "eh_n0070_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "광개토 대왕"
+  },
+  {
+   "order": 19,
+   "level_id": "eh_n0080",
+   "source_file": "eh_n0080_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "장수왕"
+  },
+  {
+   "order": 20,
+   "level_id": "eh_r0065",
+   "source_file": "eh_r0065_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "평양의 문화유산"
+  },
+  {
+   "order": 21,
+   "level_id": "eh_r0091",
+   "source_file": "eh_r0091_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "풍납동 토성과 몽촌토성"
+  },
+  {
+   "order": 22,
+   "level_id": "eh_r0052",
+   "source_file": "eh_r0052_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "광개토 대왕릉비와 충주 고구려비"
+  },
+  {
+   "order": 23,
+   "level_id": "eh_r0080",
+   "source_file": "eh_r0080_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "신라 대릉원 유적"
+  },
+  {
+   "order": 24,
+   "level_id": "eh_n0090",
+   "source_file": "eh_n0090_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "이사부"
+  },
+  {
+   "order": 25,
+   "level_id": "eh_n0092",
+   "source_file": "eh_n0092_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "왕산악과 우륵"
+  },
+  {
+   "order": 26,
+   "level_id": "eh_n0094",
+   "source_file": "eh_n0094_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "법흥왕"
+  },
+  {
+   "order": 27,
+   "level_id": "eh_n0100",
+   "source_file": "eh_n0100_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "성왕"
+  },
+  {
+   "order": 28,
+   "level_id": "eh_r0110",
+   "source_file": "eh_r0110_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "무령왕릉"
+  },
+  {
+   "order": 29,
+   "level_id": "eh_n0110",
+   "source_file": "eh_n0110_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "진흥왕"
+  },
+  {
+   "order": 30,
+   "level_id": "eh_r0100",
+   "source_file": "eh_r0100_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "백제 부여 유적"
+  },
+  {
+   "order": 31,
+   "level_id": "eh_r0061",
+   "source_file": "eh_r0061_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "삼국 및 가야의 문화"
+  },
+  {
+   "order": 32,
+   "level_id": "eh_n0130",
+   "source_file": "eh_n0130_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "김유신"
+  },
+  {
+   "order": 33,
+   "level_id": "eh_n0150",
+   "source_file": "eh_n0150_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "김춘추"
+  },
+  {
+   "order": 34,
+   "level_id": "eh_r0116",
+   "source_file": "eh_r0116_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "삼국의 한강유역 쟁탈"
+  },
+  {
+   "order": 35,
+   "level_id": "eh_n0120",
+   "source_file": "eh_n0120_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "을지문덕"
+  },
+  {
+   "order": 36,
+   "level_id": "eh_n0160",
+   "source_file": "eh_n0160_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "원효"
+  },
+  {
+   "order": 37,
+   "level_id": "eh_r0082",
+   "source_file": "eh_r0082_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "경주 첨성대"
+  },
+  {
+   "order": 38,
+   "level_id": "eh_n0127",
+   "source_file": "eh_n0127_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "연개소문"
+  },
+  {
+   "order": 39,
+   "level_id": "eh_n0170",
+   "source_file": "eh_n0170_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "문무왕"
+  },
+  {
+   "order": 40,
+   "level_id": "eh_r0081",
+   "source_file": "eh_r0081_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "신라 속 서역의 유물"
+  },
+  {
+   "order": 41,
+   "level_id": "eh_r0092",
+   "source_file": "eh_r0092_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "백제 금동 대향로"
+  },
+  {
+   "order": 42,
+   "level_id": "eh_r0111",
+   "source_file": "eh_r0111_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "삼국의 불상"
+  },
+  {
+   "order": 43,
+   "level_id": "eh_r0112",
+   "source_file": "eh_r0112_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "삼국의 탑"
+  },
+  {
+   "order": 44,
+   "level_id": "eh_r0115",
+   "source_file": "eh_r0115_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "경주 남산"
+  },
+  {
+   "order": 45,
+   "level_id": "eh_r0090",
+   "source_file": "eh_r0090_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "동궁과 월지"
+  },
+  {
+   "order": 46,
+   "level_id": "eh_n0175",
+   "source_file": "eh_n0175_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "신문왕"
+  },
+  {
+   "order": 47,
+   "level_id": "eh_r0113",
+   "source_file": "eh_r0113_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "경주 문무 대왕릉"
+  },
+  {
+   "order": 48,
+   "level_id": "eh_n0180",
+   "source_file": "eh_n0180_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "대조영"
+  },
+  {
+   "order": 49,
+   "level_id": "eh_r0120",
+   "source_file": "eh_r0120_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "발해 문화"
+  },
+  {
+   "order": 50,
+   "level_id": "eh_n0190",
+   "source_file": "eh_n0190_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "혜초"
+  },
+  {
+   "order": 51,
+   "level_id": "eh_r0117",
+   "source_file": "eh_r0117_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "발해의 성장"
+  },
+  {
+   "order": 52,
+   "level_id": "eh_r0070",
+   "source_file": "eh_r0070_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "불국사와 석굴암"
+  },
+  {
+   "order": 53,
+   "level_id": "eh_r0114",
+   "source_file": "eh_r0114_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "성덕 대왕 신종"
+  },
+  {
+   "order": 54,
+   "level_id": "eh_n0200",
+   "source_file": "eh_n0200_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "장보고"
+  },
+  {
+   "order": 55,
+   "level_id": "eh_r0121",
+   "source_file": "eh_r0121_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "청해진 유적"
+  },
+  {
+   "order": 56,
+   "level_id": "eh_n0210",
+   "source_file": "eh_n0210_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "최치원"
+  },
+  {
+   "order": 57,
+   "level_id": "eh_r0118",
+   "source_file": "eh_r0118_0010.pdf",
+   "age_code": "eh_age_10",
+   "age_name": "고대",
+   "title": "후삼국의 성립과 통일"
+  },
+  {
+   "order": 58,
+   "level_id": "eh_n0220",
+   "source_file": "eh_n0220_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "왕건"
+  },
+  {
+   "order": 59,
+   "level_id": "eh_r0153",
+   "source_file": "eh_r0153_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "몽골의 침입과 고려의 항쟁"
+  },
+  {
+   "order": 60,
+   "level_id": "eh_r0122",
+   "source_file": "eh_r0122_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "개성 만월대 유적"
+  },
+  {
+   "order": 61,
+   "level_id": "eh_r0123",
+   "source_file": "eh_r0123_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "팔관회와 연등회"
+  },
+  {
+   "order": 62,
+   "level_id": "eh_r0140",
+   "source_file": "eh_r0140_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "고려청자"
+  },
+  {
+   "order": 63,
+   "level_id": "eh_r0180",
+   "source_file": "eh_r0180_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "고려의 탑"
+  },
+  {
+   "order": 64,
+   "level_id": "eh_r0182",
+   "source_file": "eh_r0182_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "고려의 불화"
+  },
+  {
+   "order": 65,
+   "level_id": "eh_n0230",
+   "source_file": "eh_n0230_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "광종"
+  },
+  {
+   "order": 66,
+   "level_id": "eh_n0240",
+   "source_file": "eh_n0240_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "최승로"
+  },
+  {
+   "order": 67,
+   "level_id": "eh_n0250",
+   "source_file": "eh_n0250_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "서희"
+  },
+  {
+   "order": 68,
+   "level_id": "eh_n0260",
+   "source_file": "eh_n0260_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "강감찬"
+  },
+  {
+   "order": 69,
+   "level_id": "eh_r0130",
+   "source_file": "eh_r0130_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "고려 불상"
+  },
+  {
+   "order": 70,
+   "level_id": "eh_n0265",
+   "source_file": "eh_n0265_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "현종"
+  },
+  {
+   "order": 71,
+   "level_id": "eh_r0181",
+   "source_file": "eh_r0181_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "고려의 화폐"
+  },
+  {
+   "order": 72,
+   "level_id": "eh_n0280",
+   "source_file": "eh_n0280_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "의천"
+  },
+  {
+   "order": 73,
+   "level_id": "eh_n0270",
+   "source_file": "eh_n0270_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "윤관"
+  },
+  {
+   "order": 74,
+   "level_id": "eh_n0300",
+   "source_file": "eh_n0300_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "김부식"
+  },
+  {
+   "order": 75,
+   "level_id": "eh_n0310",
+   "source_file": "eh_n0310_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "정중부"
+  },
+  {
+   "order": 76,
+   "level_id": "eh_n0290",
+   "source_file": "eh_n0290_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "묘청"
+  },
+  {
+   "order": 77,
+   "level_id": "eh_r0141",
+   "source_file": "eh_r0141_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "삼국사기와 삼국유사"
+  },
+  {
+   "order": 78,
+   "level_id": "eh_n0315",
+   "source_file": "eh_n0315_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "지눌"
+  },
+  {
+   "order": 79,
+   "level_id": "eh_n0320",
+   "source_file": "eh_n0320_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "만적"
+  },
+  {
+   "order": 80,
+   "level_id": "eh_n0330",
+   "source_file": "eh_n0330_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "김윤후"
+  },
+  {
+   "order": 81,
+   "level_id": "eh_r0150",
+   "source_file": "eh_r0150_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "해인사 팔만대장경판"
+  },
+  {
+   "order": 82,
+   "level_id": "eh_r0151",
+   "source_file": "eh_r0151_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "고려궁지"
+  },
+  {
+   "order": 83,
+   "level_id": "eh_r0152",
+   "source_file": "eh_r0152_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "삼별초의 항몽유적"
+  },
+  {
+   "order": 84,
+   "level_id": "eh_r0154",
+   "source_file": "eh_r0154_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "고려 침몰선"
+  },
+  {
+   "order": 85,
+   "level_id": "eh_n0350",
+   "source_file": "eh_n0350_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "최영"
+  },
+  {
+   "order": 86,
+   "level_id": "eh_n0360",
+   "source_file": "eh_n0360_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "최무선"
+  },
+  {
+   "order": 87,
+   "level_id": "eh_n0365",
+   "source_file": "eh_n0365_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "문익점"
+  },
+  {
+   "order": 88,
+   "level_id": "eh_n0340",
+   "source_file": "eh_n0340_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "공민왕"
+  },
+  {
+   "order": 89,
+   "level_id": "eh_n0375",
+   "source_file": "eh_n0375_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "정몽주"
+  },
+  {
+   "order": 90,
+   "level_id": "eh_r0170",
+   "source_file": "eh_r0170_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "고려 시대 목조 건물"
+  },
+  {
+   "order": 91,
+   "level_id": "eh_r0160",
+   "source_file": "eh_r0160_0010.pdf",
+   "age_code": "eh_age_20",
+   "age_name": "고려",
+   "title": "직지심체요절"
+  },
+  {
+   "order": 92,
+   "level_id": "eh_r0186",
+   "source_file": "eh_r0186_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선의 건국"
+  },
+  {
+   "order": 93,
+   "level_id": "eh_n0370",
+   "source_file": "eh_n0370_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "이성계"
+  },
+  {
+   "order": 94,
+   "level_id": "eh_n0380",
+   "source_file": "eh_n0380_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "정도전"
+  },
+  {
+   "order": 95,
+   "level_id": "eh_n0385",
+   "source_file": "eh_n0385_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "태종 이방원"
+  },
+  {
+   "order": 96,
+   "level_id": "eh_n0410",
+   "source_file": "eh_n0410_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "박연"
+  },
+  {
+   "order": 97,
+   "level_id": "eh_n0390",
+   "source_file": "eh_n0390_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "세종대왕"
+  },
+  {
+   "order": 98,
+   "level_id": "eh_r0183",
+   "source_file": "eh_r0183_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "향교와 서당"
+  },
+  {
+   "order": 99,
+   "level_id": "eh_r0184",
+   "source_file": "eh_r0184_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "봉수"
+  },
+  {
+   "order": 100,
+   "level_id": "eh_r0185",
+   "source_file": "eh_r0185_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "하회 마을과 양동 마을"
+  },
+  {
+   "order": 101,
+   "level_id": "eh_r0190",
+   "source_file": "eh_r0190_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "경복궁"
+  },
+  {
+   "order": 102,
+   "level_id": "eh_r0210",
+   "source_file": "eh_r0210_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "종묘와 사직"
+  },
+  {
+   "order": 103,
+   "level_id": "eh_r0212",
+   "source_file": "eh_r0212_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선의 신분제"
+  },
+  {
+   "order": 104,
+   "level_id": "eh_r0214",
+   "source_file": "eh_r0214_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선의 지방관, 수령"
+  },
+  {
+   "order": 105,
+   "level_id": "eh_r0220",
+   "source_file": "eh_r0220_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "한양도성"
+  },
+  {
+   "order": 106,
+   "level_id": "eh_r0240",
+   "source_file": "eh_r0240_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "성균관"
+  },
+  {
+   "order": 107,
+   "level_id": "eh_r0270",
+   "source_file": "eh_r0270_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "분청사기와 백자"
+  },
+  {
+   "order": 108,
+   "level_id": "eh_r0290",
+   "source_file": "eh_r0290_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선 왕릉"
+  },
+  {
+   "order": 109,
+   "level_id": "eh_r0187",
+   "source_file": "eh_r0187_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "전주의 문화유산"
+  },
+  {
+   "order": 110,
+   "level_id": "eh_r0200",
+   "source_file": "eh_r0200_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "창덕궁"
+  },
+  {
+   "order": 111,
+   "level_id": "eh_r0271",
+   "source_file": "eh_r0271_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선의 화폐"
+  },
+  {
+   "order": 112,
+   "level_id": "eh_r0250",
+   "source_file": "eh_r0250_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선왕조실록"
+  },
+  {
+   "order": 113,
+   "level_id": "eh_n0400",
+   "source_file": "eh_n0400_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "장영실"
+  },
+  {
+   "order": 114,
+   "level_id": "eh_r0272",
+   "source_file": "eh_r0272_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "농사직설과 삼강행실도"
+  },
+  {
+   "order": 115,
+   "level_id": "eh_r0260",
+   "source_file": "eh_r0260_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선의 과학기구"
+  },
+  {
+   "order": 116,
+   "level_id": "eh_r0230",
+   "source_file": "eh_r0230_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "훈민정음"
+  },
+  {
+   "order": 117,
+   "level_id": "eh_r0261",
+   "source_file": "eh_r0261_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선의 회화"
+  },
+  {
+   "order": 118,
+   "level_id": "eh_r0273",
+   "source_file": "eh_r0273_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선의 화약 무기"
+  },
+  {
+   "order": 119,
+   "level_id": "eh_r0275",
+   "source_file": "eh_r0275_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "경국대전"
+  },
+  {
+   "order": 120,
+   "level_id": "eh_r0274",
+   "source_file": "eh_r0274_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "창경궁"
+  },
+  {
+   "order": 121,
+   "level_id": "eh_r0276",
+   "source_file": "eh_r0276_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "사화"
+  },
+  {
+   "order": 122,
+   "level_id": "eh_n0415",
+   "source_file": "eh_n0415_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "이황"
+  },
+  {
+   "order": 123,
+   "level_id": "eh_n0420",
+   "source_file": "eh_n0420_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "신사임당"
+  },
+  {
+   "order": 124,
+   "level_id": "eh_n0430",
+   "source_file": "eh_n0430_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "이이"
+  },
+  {
+   "order": 125,
+   "level_id": "eh_n0440",
+   "source_file": "eh_n0440_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "권율"
+  },
+  {
+   "order": 126,
+   "level_id": "eh_n0500",
+   "source_file": "eh_n0500_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "허준"
+  },
+  {
+   "order": 127,
+   "level_id": "eh_n0460",
+   "source_file": "eh_n0460_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "유성룡"
+  },
+  {
+   "order": 128,
+   "level_id": "eh_n0470",
+   "source_file": "eh_n0470_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "이순신"
+  },
+  {
+   "order": 129,
+   "level_id": "eh_n0480",
+   "source_file": "eh_n0480_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "사명대사"
+  },
+  {
+   "order": 130,
+   "level_id": "eh_r0291",
+   "source_file": "eh_r0291_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "서원"
+  },
+  {
+   "order": 131,
+   "level_id": "eh_n0450",
+   "source_file": "eh_n0450_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "김시민"
+  },
+  {
+   "order": 132,
+   "level_id": "eh_n0490",
+   "source_file": "eh_n0490_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "곽재우"
+  },
+  {
+   "order": 133,
+   "level_id": "eh_r0292",
+   "source_file": "eh_r0292_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선의 지도"
+  },
+  {
+   "order": 134,
+   "level_id": "eh_n0505",
+   "source_file": "eh_n0505_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "허난설헌"
+  },
+  {
+   "order": 135,
+   "level_id": "eh_n0510",
+   "source_file": "eh_n0510_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "광해군"
+  },
+  {
+   "order": 136,
+   "level_id": "eh_n0520",
+   "source_file": "eh_n0520_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "임경업"
+  },
+  {
+   "order": 137,
+   "level_id": "eh_r0294",
+   "source_file": "eh_r0294_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "임진왜란"
+  },
+  {
+   "order": 138,
+   "level_id": "eh_r0251",
+   "source_file": "eh_r0251_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "통신사 기록물"
+  },
+  {
+   "order": 139,
+   "level_id": "eh_r0280",
+   "source_file": "eh_r0280_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "의궤"
+  },
+  {
+   "order": 140,
+   "level_id": "eh_r0312",
+   "source_file": "eh_r0312_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선의 세시 풍속"
+  },
+  {
+   "order": 141,
+   "level_id": "eh_r0313",
+   "source_file": "eh_r0313_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선의 관혼상제"
+  },
+  {
+   "order": 142,
+   "level_id": "eh_r0314",
+   "source_file": "eh_r0314_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선의 서민 문화"
+  },
+  {
+   "order": 143,
+   "level_id": "eh_r0315",
+   "source_file": "eh_r0315_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "조선 시대 서양 문물"
+  },
+  {
+   "order": 144,
+   "level_id": "eh_n0530",
+   "source_file": "eh_n0530_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "효종"
+  },
+  {
+   "order": 145,
+   "level_id": "eh_r0293",
+   "source_file": "eh_r0293_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "동의보감"
+  },
+  {
+   "order": 146,
+   "level_id": "eh_r0295",
+   "source_file": "eh_r0295_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "정묘·병자호란"
+  },
+  {
+   "order": 147,
+   "level_id": "eh_r0300",
+   "source_file": "eh_r0300_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "남한산성과 삼전도비"
+  },
+  {
+   "order": 148,
+   "level_id": "eh_n0540",
+   "source_file": "eh_n0540_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "안용복"
+  },
+  {
+   "order": 149,
+   "level_id": "eh_n0550",
+   "source_file": "eh_n0550_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "영조"
+  },
+  {
+   "order": 150,
+   "level_id": "eh_r0305",
+   "source_file": "eh_r0305_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "울릉도와 독도"
+  },
+  {
+   "order": 151,
+   "level_id": "eh_r0311",
+   "source_file": "eh_r0311_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "풍속화"
+  },
+  {
+   "order": 152,
+   "level_id": "eh_n0560",
+   "source_file": "eh_n0560_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "홍대용"
+  },
+  {
+   "order": 153,
+   "level_id": "eh_n0570",
+   "source_file": "eh_n0570_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "박지원"
+  },
+  {
+   "order": 154,
+   "level_id": "eh_n0580",
+   "source_file": "eh_n0580_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "김만덕"
+  },
+  {
+   "order": 155,
+   "level_id": "eh_n0590",
+   "source_file": "eh_n0590_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "김홍도"
+  },
+  {
+   "order": 156,
+   "level_id": "eh_n0600",
+   "source_file": "eh_n0600_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "정조"
+  },
+  {
+   "order": 157,
+   "level_id": "eh_n0610",
+   "source_file": "eh_n0610_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "정약용"
+  },
+  {
+   "order": 158,
+   "level_id": "eh_n0622",
+   "source_file": "eh_n0622_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "김정희"
+  },
+  {
+   "order": 159,
+   "level_id": "eh_r0310",
+   "source_file": "eh_r0310_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "수원 화성"
+  },
+  {
+   "order": 160,
+   "level_id": "eh_n0620",
+   "source_file": "eh_n0620_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "김정호"
+  },
+  {
+   "order": 161,
+   "level_id": "eh_n0621",
+   "source_file": "eh_n0621_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "홍경래"
+  },
+  {
+   "order": 162,
+   "level_id": "eh_n0626",
+   "source_file": "eh_n0626_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "김대건"
+  },
+  {
+   "order": 163,
+   "level_id": "eh_n0630",
+   "source_file": "eh_n0630_0010.pdf",
+   "age_code": "eh_age_30",
+   "age_name": "조선",
+   "title": "최제우"
+  },
+  {
+   "order": 164,
+   "level_id": "eh_r0331",
+   "source_file": "eh_r0331_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "덕수궁"
+  },
+  {
+   "order": 165,
+   "level_id": "eh_n0623",
+   "source_file": "eh_n0623_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "박규수"
+  },
+  {
+   "order": 166,
+   "level_id": "eh_n0624",
+   "source_file": "eh_n0624_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "양헌수와 어재연"
+  },
+  {
+   "order": 167,
+   "level_id": "eh_n0625",
+   "source_file": "eh_n0625_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "흥선 대원군"
+  },
+  {
+   "order": 168,
+   "level_id": "eh_n0640",
+   "source_file": "eh_n0640_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "최익현"
+  },
+  {
+   "order": 169,
+   "level_id": "eh_n0645",
+   "source_file": "eh_n0645_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "김홍집"
+  },
+  {
+   "order": 170,
+   "level_id": "eh_n0650",
+   "source_file": "eh_n0650_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "김옥균"
+  },
+  {
+   "order": 171,
+   "level_id": "eh_n0660",
+   "source_file": "eh_n0660_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "전봉준"
+  },
+  {
+   "order": 172,
+   "level_id": "eh_n0670",
+   "source_file": "eh_n0670_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "이준"
+  },
+  {
+   "order": 173,
+   "level_id": "eh_n0672",
+   "source_file": "eh_n0672_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "박은식"
+  },
+  {
+   "order": 174,
+   "level_id": "eh_n0675",
+   "source_file": "eh_n0675_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "윤희순"
+  },
+  {
+   "order": 175,
+   "level_id": "eh_n0677",
+   "source_file": "eh_n0677_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "최재형"
+  },
+  {
+   "order": 176,
+   "level_id": "eh_n0680",
+   "source_file": "eh_n0680_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "헐버트"
+  },
+  {
+   "order": 177,
+   "level_id": "eh_n0685",
+   "source_file": "eh_n0685_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "서재필"
+  },
+  {
+   "order": 178,
+   "level_id": "eh_n0690",
+   "source_file": "eh_n0690_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "이회영"
+  },
+  {
+   "order": 179,
+   "level_id": "eh_n0700",
+   "source_file": "eh_n0700_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "홍범도"
+  },
+  {
+   "order": 180,
+   "level_id": "eh_r0352",
+   "source_file": "eh_r0352_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "개항기 강화도 유적"
+  },
+  {
+   "order": 181,
+   "level_id": "eh_r0371",
+   "source_file": "eh_r0371_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "절두산 순교 성지"
+  },
+  {
+   "order": 182,
+   "level_id": "eh_n0705",
+   "source_file": "eh_n0705_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "이상설"
+  },
+  {
+   "order": 183,
+   "level_id": "eh_n0710",
+   "source_file": "eh_n0710_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "양기탁"
+  },
+  {
+   "order": 184,
+   "level_id": "eh_n0720",
+   "source_file": "eh_n0720_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "남자현"
+  },
+  {
+   "order": 185,
+   "level_id": "eh_n0730",
+   "source_file": "eh_n0730_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "주시경"
+  },
+  {
+   "order": 186,
+   "level_id": "eh_n0740",
+   "source_file": "eh_n0740_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "김구"
+  },
+  {
+   "order": 187,
+   "level_id": "eh_n0750",
+   "source_file": "eh_n0750_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "신돌석"
+  },
+  {
+   "order": 188,
+   "level_id": "eh_n0760",
+   "source_file": "eh_n0760_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "안창호"
+  },
+  {
+   "order": 189,
+   "level_id": "eh_n0770",
+   "source_file": "eh_n0770_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "안중근"
+  },
+  {
+   "order": 190,
+   "level_id": "eh_n0780",
+   "source_file": "eh_n0780_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "한용운"
+  },
+  {
+   "order": 191,
+   "level_id": "eh_n0790",
+   "source_file": "eh_n0790_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "신채호"
+  },
+  {
+   "order": 192,
+   "level_id": "eh_n0800",
+   "source_file": "eh_n0800_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "조만식"
+  },
+  {
+   "order": 193,
+   "level_id": "eh_n0810",
+   "source_file": "eh_n0810_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "여운형"
+  },
+  {
+   "order": 194,
+   "level_id": "eh_n0820",
+   "source_file": "eh_n0820_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "김좌진"
+  },
+  {
+   "order": 195,
+   "level_id": "eh_r0353",
+   "source_file": "eh_r0353_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "인천 개항장 유적"
+  },
+  {
+   "order": 196,
+   "level_id": "eh_r0361",
+   "source_file": "eh_r0361_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "근대 교육"
+  },
+  {
+   "order": 197,
+   "level_id": "eh_r0362",
+   "source_file": "eh_r0362_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "근대 시설"
+  },
+  {
+   "order": 198,
+   "level_id": "eh_n0825",
+   "source_file": "eh_n0825_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "김마리아"
+  },
+  {
+   "order": 199,
+   "level_id": "eh_n0830",
+   "source_file": "eh_n0830_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "김원봉"
+  },
+  {
+   "order": 200,
+   "level_id": "eh_n0840",
+   "source_file": "eh_n0840_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "방정환"
+  },
+  {
+   "order": 201,
+   "level_id": "eh_r0317",
+   "source_file": "eh_r0317_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "대한제국"
+  },
+  {
+   "order": 202,
+   "level_id": "eh_r0360",
+   "source_file": "eh_r0360_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "정동"
+  },
+  {
+   "order": 203,
+   "level_id": "eh_r0370",
+   "source_file": "eh_r0370_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "서촌"
+  },
+  {
+   "order": 204,
+   "level_id": "eh_r0373",
+   "source_file": "eh_r0373_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "근대 건축물"
+  },
+  {
+   "order": 205,
+   "level_id": "eh_r0374",
+   "source_file": "eh_r0374_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "의병 운동 유적"
+  },
+  {
+   "order": 206,
+   "level_id": "eh_r0377",
+   "source_file": "eh_r0377_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "동학 농민 운동"
+  },
+  {
+   "order": 207,
+   "level_id": "eh_n0850",
+   "source_file": "eh_n0850_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "이봉창"
+  },
+  {
+   "order": 208,
+   "level_id": "eh_n0855",
+   "source_file": "eh_n0855_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "권기옥"
+  },
+  {
+   "order": 209,
+   "level_id": "eh_n0860",
+   "source_file": "eh_n0860_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "유관순"
+  },
+  {
+   "order": 210,
+   "level_id": "eh_n0870",
+   "source_file": "eh_n0870_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "이육사"
+  },
+  {
+   "order": 211,
+   "level_id": "eh_n0880",
+   "source_file": "eh_n0880_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "전형필"
+  },
+  {
+   "order": 212,
+   "level_id": "eh_n0890",
+   "source_file": "eh_n0890_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "윤봉길"
+  },
+  {
+   "order": 213,
+   "level_id": "eh_r0330",
+   "source_file": "eh_r0330_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "국채 보상 운동 유적"
+  },
+  {
+   "order": 214,
+   "level_id": "eh_r0332",
+   "source_file": "eh_r0332_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "을사늑약과 국권상실"
+  },
+  {
+   "order": 215,
+   "level_id": "eh_r0334",
+   "source_file": "eh_r0334_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "일본의 식민지 조선 통치"
+  },
+  {
+   "order": 216,
+   "level_id": "eh_r0350",
+   "source_file": "eh_r0350_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "서대문 독립 공원"
+  },
+  {
+   "order": 217,
+   "level_id": "eh_r0378",
+   "source_file": "eh_r0378_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "부산 근현대 역사 유적"
+  },
+  {
+   "order": 218,
+   "level_id": "eh_n0900",
+   "source_file": "eh_n0900_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "손기정"
+  },
+  {
+   "order": 219,
+   "level_id": "eh_n0910",
+   "source_file": "eh_n0910_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "윤동주"
+  },
+  {
+   "order": 220,
+   "level_id": "eh_r0320",
+   "source_file": "eh_r0320_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "3·1 운동 유적"
+  },
+  {
+   "order": 221,
+   "level_id": "eh_r0325",
+   "source_file": "eh_r0325_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "신흥 무관 학교"
+  },
+  {
+   "order": 222,
+   "level_id": "eh_r0340",
+   "source_file": "eh_r0340_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "대한민국 임시 정부 유적"
+  },
+  {
+   "order": 223,
+   "level_id": "eh_r0351",
+   "source_file": "eh_r0351_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "의열단 의거지"
+  },
+  {
+   "order": 224,
+   "level_id": "eh_r0379",
+   "source_file": "eh_r0379_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "한국 디아스포라의 역사"
+  },
+  {
+   "order": 225,
+   "level_id": "eh_r0336",
+   "source_file": "eh_r0336_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "민족 실력 양성 운동"
+  },
+  {
+   "order": 226,
+   "level_id": "eh_r0375",
+   "source_file": "eh_r0375_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "봉오동 전투·청산리 대첩 유적"
+  },
+  {
+   "order": 227,
+   "level_id": "eh_r0376",
+   "source_file": "eh_r0376_0010.pdf",
+   "age_code": "eh_age_40",
+   "age_name": "근대",
+   "title": "근대 역사 도시 군산"
+  },
+  {
+   "order": 228,
+   "level_id": "eh_n0920",
+   "source_file": "eh_n0920_0010.pdf",
+   "age_code": "eh_age_50",
+   "age_name": "현대",
+   "title": "유일한"
+  },
+  {
+   "order": 229,
+   "level_id": "eh_n0930",
+   "source_file": "eh_n0930_0010.pdf",
+   "age_code": "eh_age_50",
+   "age_name": "현대",
+   "title": "전태일"
+  },
+  {
+   "order": 230,
+   "level_id": "eh_r0380",
+   "source_file": "eh_r0380_0010.pdf",
+   "age_code": "eh_age_50",
+   "age_name": "현대",
+   "title": "제주 4·3 사건 유적"
+  },
+  {
+   "order": 231,
+   "level_id": "eh_r0382",
+   "source_file": "eh_r0382_0010.pdf",
+   "age_code": "eh_age_50",
+   "age_name": "현대",
+   "title": "광복 후 대한민국 정부 수립"
+  },
+  {
+   "order": 232,
+   "level_id": "eh_r0390",
+   "source_file": "eh_r0390_0010.pdf",
+   "age_code": "eh_age_50",
+   "age_name": "현대",
+   "title": "6·25 전쟁 유적"
+  },
+  {
+   "order": 233,
+   "level_id": "eh_r0391",
+   "source_file": "eh_r0391_0010.pdf",
+   "age_code": "eh_age_50",
+   "age_name": "현대",
+   "title": "비무장 지대와 판문점"
+  },
+  {
+   "order": 234,
+   "level_id": "eh_r0400",
+   "source_file": "eh_r0400_0010.pdf",
+   "age_code": "eh_age_50",
+   "age_name": "현대",
+   "title": "4·19 혁명 유적"
+  },
+  {
+   "order": 235,
+   "level_id": "eh_r0401",
+   "source_file": "eh_r0401_0010.pdf",
+   "age_code": "eh_age_50",
+   "age_name": "현대",
+   "title": "현대 생활 문화"
+  },
+  {
+   "order": 236,
+   "level_id": "eh_r0402",
+   "source_file": "eh_r0402_0010.pdf",
+   "age_code": "eh_age_50",
+   "age_name": "현대",
+   "title": "한국 경제의 성장과 사회의 변화"
+  },
+  {
+   "order": 237,
+   "level_id": "eh_r0404",
+   "source_file": "eh_r0404_0010.pdf",
+   "age_code": "eh_age_50",
+   "age_name": "현대",
+   "title": "우리나라 정부의 통일 노력"
+  },
+  {
+   "order": 238,
+   "level_id": "eh_r0410",
+   "source_file": "eh_r0410_0010.pdf",
+   "age_code": "eh_age_50",
+   "age_name": "현대",
+   "title": "5·18 민주화 운동 유적"
+  },
+  {
+   "order": 239,
+   "level_id": "eh_r0420",
+   "source_file": "eh_r0420_0010.pdf",
+   "age_code": "eh_age_50",
+   "age_name": "현대",
+   "title": "6월 민주 항쟁 유적"
+  }
+ ]
+}

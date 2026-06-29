@@ -1,0 +1,250 @@
+{
+  "schema_version": 2,
+  "doc_hash": "04d724be9dc39ca5",
+  "source_file": "eh_n0110_0010.pdf",
+  "title": "진흥왕, 북한산에 순수비를 세우다",
+  "kind": "people",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 11,
+  "section_count": 4,
+  "image_count": 5,
+  "est_total_ms": 456900,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "비봉(서울 종로구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "신라와 백제, 함께 고구려에 맞서다",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "관산성에서 백제와 신라가 맞서 싸우다",
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [
+        "관산성의 위치"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "성왕이 관산성에서 죽다",
+      "scene_indices": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "삼국 시대 공성전 모습(전쟁기념관)",
+        "신라군에게 붙잡히는 성왕",
+        "진흥왕 시기 신라의 영역"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "진흥왕, 북한산에 순수비를 세우다\n“한강 하류를 차지하려면 백제와 전쟁을 벌여야 하는데...”\n“폐하! 아니 되옵니다. 백제와 동맹을 맺고 고구려와 맞선 지 벌써 백 이십년! 그 오랜 믿음을 저버리실 것이옵니까?”\n“신의도 중요하지만 신라가 더 커지려면 한강 하류는 꼭 필요합니다. 폐하! 작은 신의보다 신라를 위한 큰 결단을 내려주십시오.”\n신라 진흥왕은 강한 신라를 만들고 싶었어요. 신라는 백제의 성왕과 연합해 고구려를 공격해 한강 유역을 나눠가졌어요. 야망이 컸던 진흥왕이 백제와 함께 한강 유역을 나눈 것에 만족했을까요?\n백제와의 동맹은 계속되었을까요?",
+      "est_speech_ms": 44200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "비봉(서울 종로구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/04d724be9dc39ca5/fig_001.jpg",
+          "caption": "비봉(서울 종로구)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "신라와 백제, 함께 고구려에 맞서다",
+      "narration": "신라와 백제, 함께 고구려에 맞서다\n한반도 동남쪽의 높은 산맥과 낙동강, 그리고 바다로 둘러싸인 신라는 너른 평야가 적고 여러 나라와 교류가 어려워 고구려나 백제보다 발전이 더디었지요.\n그러나 신라는 6세기에 접어들어 불교를 받아들이고, 율령을 반포하면서 나라의 기틀을 튼튼하게 잡아갔어요. 또한 화랑도를 규모가 큰 단체로 만들어 많은 인재를 길러냈지요.\n나라를 정비한 신라는 진흥왕 때에 이르러 대외적으로 눈부신 발전을 이룩하였어요.\n한편 고구려 장수왕에게 한성을 빼앗기고 수도를 웅진으로 옮긴 백제가 다시 발전할 기반을 마련한 것도 6세기 무렵 성왕 때였지요.",
+      "est_speech_ms": 46800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "신라와 백제, 함께 고구려에 맞서다",
+      "narration": "성왕은 수도를 비좁은 웅진(공주)에서 넓은 벌판인 사비성(부여)으로 옮기고, 제도를 정비하고, 불교를 장려하였지요. 그리고 중국과 문물을 교류하였고, 왜와도 우호적인 관계를 맺어 불교를 비롯한 여러 문물을 전해 주었어요.\n마침내 이때 고구려에도 중요한 변화가 일어났어요.\n북방에서 세력을 키우던 돌궐이 고구려를 공격하였고, 왕위 계승을 놓고 벌인 귀족 간의 권력 다툼으로 고구려의 국력은 이전보다 훨씬 약해져 있었어요.\n한때 고구려의 남하로 위기에 빠졌던 백제와 신라는 서로 동맹을 맺어 함께 고구려에 맞서고 있었지요. 내부의 안정을 꾀하고 힘을 기른 백제 성왕과 신라 진흥왕은 한강 유역을 되찾기 위해 함께 고구려를 공격했어요.",
+      "est_speech_ms": 51400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "신라와 백제, 함께 고구려에 맞서다",
+      "narration": "신라와 백제는 정치적으로 혼란한 상황에 빠져있던 고구려를 상대로 쉽게 이길 수 있었어요. 그 결과 백제는 한강 하류 지역을, 신라는 한강 상류 지역을 차지했어요. 고구려에게 한성을 빼앗긴지 75년 만에 성왕의 노력으로 백제의 오랜 소원이었던 한강 유역을 되찾을 수 있었어요.\n고구려는 한강 유역을 빼앗겼지만, 북쪽에서 돌궐과 전쟁을 치르느라 백제와 신라의 공격에 빠르게 대처할 수 없었어요. 한강을 차지한 신라군은 동해안을 따라 계속 진격하여 함경도 지역까지 진출하였어요.\n백제 성왕도 한강을 건너 계속 진격해 평양을 공격하고 싶었어요. 그래서 성왕은 진흥왕에게 함께 평양을 공격하자고 제안을 했지요.",
+      "est_speech_ms": 49600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "관산성에서 백제와 신라가 맞서 싸우다",
+      "narration": "이를 눈치 챈 고구려는 진흥왕에게 함경도 지역을 신라의 영토로 인정해 주는 대신 평양을 공격하지 말 것을 제안하였어요. 진흥왕은 중국과 교류하기에 편리한 한강 하류의 땅이 반드시 필요했어요.\n진흥왕은 결국 고구려와 손을 잡았어요. 120년 동안 계속된 동맹을 깨고 백제를 배신한 것이죠. 동맹을 깬 진흥왕은 백제를 공격하여 한강 하류의 모든 땅을 차지합니다.\n관산성에서 백제와 신라가 맞서 싸우다\n신라의 배신에 화가 난 성왕은 당시 신라와 경쟁하고 있던 대가야, 그리고 교류가 많았던 왜의 군사들을 불러 관산성을 공격했어요.",
+      "est_speech_ms": 43000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "관산성에서 백제와 신라가 맞서 싸우다",
+      "narration": "관산성은 남쪽으로 추풍령을 넘으면 신라의 수도 금성으로, 대전의 서쪽 탄현을 넘으면 백제의 수도 사비로 바로 넘어갈 수 있는 군사적 요충지였어요.\n관산성 전투는 3만 백제 연합군의 공격으로 시작되었어요. 백제 연합군의 격렬한 공세에 신라군이 밀리기 시작했어요.\n다급해진 진흥왕은 고구려군에 맞서 한강 지역을 지키던 김무력(김유신의 할아버지)과 군사들을 관산성에 투입하였어요. 구원군이 관산성에 도착해 힘을 합치자 신라군의 사기가 높아졌어요. 신라군과 백제군 사이에 관산성을 놓고 밀고 밀리는 큰 전투가 계속 이어졌어요.",
+      "est_speech_ms": 43400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "관산성의 위치"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/04d724be9dc39ca5/fig_032.jpg",
+          "caption": "관산성의 위치",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "성왕이 관산성에서 죽다",
+      "narration": "성왕이 관산성에서 죽다\n성왕은 계속된 전투에 지쳐있을 태자와 군사들이 걱정되었어요. 또한 관산성의 상황을 직접 확인하고도 싶었어요. 성왕은 이들을 위로하기 위해 직접 50명의 호위 군사들과 함께 관산성으로 갔어요. 성왕이 관산성으로 오고 있다는 정보가 김무력에게 은밀하게 전해졌어요.",
+      "est_speech_ms": 24000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "성왕이 관산성에서 죽다",
+      "narration": "김무력은 하늘이 준 기회라 생각했어요. 백제의 왕을 사로잡는다면 전쟁을 바로 끝낼 수 있었거든요. 김무력은 관산성으로 오는 길목에 군사들을 보내 조용히 기다리게 했어요.\n성왕은 태자를 만날 생각에 급히 말을 몰았어요. 성왕이 이용한 길은 백제 땅이 었기에 크게 조심하지 않았어요. 산길을 돌아 관산성에 도착할 무렵 숲 속에서 신라군이 쏟아져 나왔어요. 많은 신라군이 길목을 막고 기습 공격을 하자 성왕은 크게 당황하였어요. 적은 숫자의 군사들로 호위를 받던 성왕은 어처구니없이 신라군의 포로가 되고 말았어요.",
+      "est_speech_ms": 41600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "삼국 시대 공성전 모습(전쟁기념관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/04d724be9dc39ca5/fig_040.jpg",
+          "caption": "삼국 시대 공성전 모습(전쟁기념관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "성왕이 관산성에서 죽다",
+      "narration": "신라군의 지휘관이었던 도도라는 자가 말에서 내려 붙잡힌 성왕에게 두 번 절을 하고 말하였어요.\n“왕의 머리를 베게 하여 주소서”\n“내 목숨을 노비 출신인 네 놈에게 맡길 수는 없다.”\n“우리나라 법에 따르면 서로의 맹세를 어긴 사람은 국왕이라 할지라도 마땅히 노비의 손에 죽을 수 있습니다.”\n“내 지금껏 뼈에 사무치는 고통을 참고 살아왔거늘. 구차하게 살고 싶지는 않다. 어서 베어라.”\n성왕은 결국의 도도의 칼에 허무하게 목숨을 잃고 말았어요. 성왕이 처참하게 죽자 백제군의 사기는 땅에 떨어졌지요.\n이후 벌어진 전투에서 백제군은 크게 패하고 말았어요. 마지막 싸움에서 백제는 여러 장수와 3만 명에 가까운 군사를 잃는 대패를 했어요.",
+      "est_speech_ms": 50200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "성왕이 관산성에서 죽다",
+      "narration": "이로써 신라와 백제의 동맹은 완전히 깨어졌고, 이후 신라와 백제는 백제가 멸망할 때까지 원수 사이가 되었지요.\n관산성 전투에서 승리한 신라는 한강 유역에서 백제와 고구려를 모두 몰아내고 이 지역을 확실하게 지배할 수 있게 되었어요.",
+      "est_speech_ms": 19000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": "성왕이 관산성에서 죽다",
+      "narration": "그리고 대가야를 정복하여 낙동강 유역을 차지하였지요. 또 동북쪽으로는 지금의 함경남도까지 진출했어요. 두 강과 함께 넓은 평야를 얻게 된 신라는 이전보다 더 강한 나라를 만들 수 있었어요.\n진흥왕은 새로 차지한 영토에 비석를 세워 신라의 승리를 기념하였어요.\n서울 북한산에 있는 순수비도 진흥왕이 한강 유역을 점령한 후 이 지역을 돌아보며 이를 기념하기 위해 세운 비석이랍니다. 진흥왕은 순수비를 세운 후 북한산 꼭대기에 서서 한강을 바라보며 어떤 생각을 했을까요?",
+      "est_speech_ms": 38200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "신라군에게 붙잡히는 성왕",
+        "진흥왕 시기 신라의 영역"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/04d724be9dc39ca5/fig_056.jpg",
+          "caption": "신라군에게 붙잡히는 성왕",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/04d724be9dc39ca5/fig_063.jpg",
+          "caption": "진흥왕 시기 신라의 영역",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    }
+  ]
+}

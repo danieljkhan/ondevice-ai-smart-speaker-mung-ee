@@ -1,0 +1,30 @@
+{
+  "ko_to_en": {
+    "current_language": "ko",
+    "target_language": "en",
+    "confirmation_language": "ko",
+    "confirmation_text": "좋아! 이제 영어로 말할게. 한국어로 돌아오고 싶으면 한국어로 말해줘 라고 하거나, 오른쪽 위에 있는 한영 전환 단추를 눌러줘!",
+    "patterns": [
+      "\\A\\s*(?:뭉이야\\s*)?영어로\\s*(?:말\\s*해\\s*줘|말\\s*하\\s*자|말\\s*해|말\\s*하고\\s*싶어|이야기\\s*(?:하자|해|하고\\s*싶어)|얘기\\s*(?:하자|해|하고\\s*싶어)|대화\\s*(?:하자|해|하고\\s*싶어)|하자|해\\s*줘|할래)\\s*[.!?。！？]*\\s*\\Z"
+    ]
+  },
+  "en_to_ko": {
+    "current_language": "en",
+    "target_language": "ko",
+    "confirmation_language": "ko",
+    "confirmation_text": "좋아! 이제 한국어로 얘기하자! 영어로 하고 싶으면 영어로 말해줘 라고 하거나, 오른쪽 위에 있는 한영 전환 단추를 눌러줘!",
+    "patterns": [
+      "\\A\\s*(?:뭉이야\\s*)?(?:한국어로|한국으로|한글로|우리말로|우리나라말로)\\s*(?:말\\s*해\\s*줘|말\\s*하\\s*자|말\\s*해|말\\s*하고\\s*싶어|이야기\\s*(?:하자|해|하고\\s*싶어)|얘기\\s*(?:하자|해|하고\\s*싶어)|대화\\s*(?:하자|해|하고\\s*싶어)|하자|해\\s*줘|할래)\\s*[.!?。！？]*\\s*\\Z",
+      "\\A\\s*(?:뭉이야\\s*)?(?:한국어|한국말|한글|우리말|우리나라말)\\s*[.!?。！？]*\\s*\\Z",
+      "\\A\\s*(?:뭉이야\\s*)?(?:한국어|한국말|한글|우리말|우리나라말)(?:로)?\\s*(?:해\\s*줘|해|하자)\\s*[.!?。！？]*\\s*\\Z",
+      "\\A\\s*(?:mung-?i\\s*,?\\s*)?(?:say\\s+it\\s+in\\s+korean|speak\\s+in\\s+korean|talk\\s+in\\s+korean|let'?s\\s+talk\\s+in\\s+korean|let'?s\\s+speak\\s+in\\s+korean)\\s*[.!?]*\\s*\\Z"
+    ]
+  },
+  "fp_guards": {
+    "patterns": [
+      "\\A\\s*영어(?:\\s*(?:공부|단어|시험|숙제|수업|번역))\\b.*\\Z",
+      "\\A\\s*영어로\\s+.+\\s+(?:알려\\s*줘|말\\s*해\\s*줘|번역\\s*해\\s*줘|먹어도\\s*돼|해도\\s*돼|되는지|뭐야|무엇|방법|법)\\s*[.!?。！？]*\\s*\\Z",
+      "\\A\\s*(?:what\\s+is\\s+english|teach\\s+me\\s+english|english\\s+(?:word|words|study|homework|test|class|translation))\\b.*\\Z"
+    ]
+  }
+}

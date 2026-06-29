@@ -1,0 +1,215 @@
+{
+  "schema_version": 2,
+  "doc_hash": "31ca2e09c4173c54",
+  "source_file": "eh_n0490_0010.pdf",
+  "title": "곽재우, 붉은 옷을 입고 적과 맞서다",
+  "kind": "people",
+  "era": "조선",
+  "era_source": "docnum",
+  "scene_count": 8,
+  "section_count": 5,
+  "image_count": 4,
+  "est_total_ms": 354800,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "“왜놈들이 쳐들어와서 난리네.”",
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "의병박물관(경남 의령군)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "“우린 꼼짝없이 왜놈들한테 다 죽게 생겼네.”",
+      "scene_indices": [
+        1
+      ],
+      "scene_seq": [
+        2
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "동에 번쩍 서에 번쩍, 홍의 장군이 나타났다!",
+      "scene_indices": [
+        2
+      ],
+      "scene_seq": [
+        3
+      ],
+      "image_captions": [
+        "의병을 모으는 곽재우"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "“산 위에서 다섯 가지로 만든 횃불을 들고 그곳에서 함성을 질러라.”",
+      "scene_indices": [
+        3,
+        4
+      ],
+      "scene_seq": [
+        4,
+        5
+      ],
+      "image_captions": [
+        "곽재우 장군과 의병들의 활약"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "홀연히 산으로 들어가다.",
+      "scene_indices": [
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8
+      ],
+      "image_captions": [
+        "임진왜란 당시 의병의 주요 활동지"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "“왜놈들이 쳐들어와서 난리네.”",
+      "narration": "곽재우, 붉은 옷을 입고 적과 맞서다\n“왜놈들이 쳐들어와서 난리네.”\n“걱정 마시게, 우리 장군님이 오신다고 하네.”\n“그럼 됐네, 됐어! 왜놈들은 붉은 옷을 입은 우리 장군님만 봐도 벌벌 떨면 서 도망가기 바쁘니까.”\n붉은 옷을 입고 일본군의 간담을 서늘하게 만든 곽재우 장군은 임진왜란 당시 어떤 활약을 했을까요? 군인도 아닌 일반 백성들은 왜 일본군과 맞서 싸웠을까요?\n의병을 모아 나라를 지키다!\n곽재우는 사실 장군이 아닌 선비였어요. 과거에 합격했지만, 임금인 선조가 합격자의 글들 가운데 문제가 있다고 지적하여 당시 과거 전체가 취소되는 불운을 겪었어요.",
+      "est_speech_ms": 44200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "의병박물관(경남 의령군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/31ca2e09c4173c54/fig_001.jpg",
+          "caption": "의병박물관(경남 의령군)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "“우린 꼼짝없이 왜놈들한테 다 죽게 생겼네.”",
+      "narration": "그 후 곽재우는 그가 태어났던 경상도 의령에서 학문을 익히고 무술을 연마하면서 지냈어요. 그런데 1592년 4월, 임진왜란이 일어나면서 온 나라가 온통 쑥대밭이 되었어요. 일본군의 침략에 조선의 관군들은 맥없이 무너졌어요. 심지어 임금도 궁궐을 떠나 피난길에 오를 정도였어요.\n“우린 꼼짝없이 왜놈들한테 다 죽게 생겼네.”\n“나랏님도 도망갔다는데 우린 어찌해야 하는가?”\n백성들은 갑자기 일어난 전쟁에 어찌할 바를 몰랐어요. 이런 상황을 보면서 곽재우는 결심했어요. 가족들에게 피해있으라고 한 뒤 자신의 전 재산을 털어 의병을 모았어요.",
+      "est_speech_ms": 43800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 2,
+      "section_title": "동에 번쩍 서에 번쩍, 홍의 장군이 나타났다!",
+      "narration": "“왜놈들이 곧 들이닥칠 것이다. 어찌 가만히 앉아 죽기만을 기다릴 것인가. 자, 모두 힘을 모아 나라를 지키자!”\n사람들은 결의에 찬 곽재우의 말을 듣고 용기를 내서 모여들기 시작했어요. 처음에는 곽재우 자신의 노비 10여명을 모으는 데에 불과했지만, 곽재우 부대는 나중에 2천 명에 달하는 규모로 커졌어요.\n동에 번쩍 서에 번쩍, 홍의 장군이 나타났다!\n당장의병은 많이 모였지만 일본군과 싸우기 위해서는 필요한 것이 많았어요. 급하게 모은 의병들은 훈련도 부족하고 무기도 변변치 않았기 때문이에요.\n“우리가 조총으로 무장한 왜놈들을 무찌를 수 있을까요?”\n“걱정마라. 여기는 우리에겐 익숙하나 왜놈들에겐 낯선 곳이다. 우리의 장점을 활용하면 능히 왜놈들을 이길 수 있다.”\n곽재우는 잘 훈련된 일본군과 맞서 싸우기 위해 다양한 전법을 활용했어요.",
+      "est_speech_ms": 59600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "의병을 모으는 곽재우"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/31ca2e09c4173c54/fig_018.jpg",
+          "caption": "의병을 모으는 곽재우",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 3,
+      "section_title": "“산 위에서 다섯 가지로 만든 횃불을 들고 그곳에서 함성을 질러라.”",
+      "narration": "곽재우는 일본군을 유인한 뒤에 보이지 않는 곳에 숨어 있다가 기습 공격을 하는 작전을 사용했어요. 이 작전은 대성공이었어요. 처음에는 그저 도망치는 줄 알고 따라왔던 일본군들은 숨어있던 우리 의병들에게 크게 패했어요.\n“산 위에서 다섯 가지로 만든 횃불을 들고 그곳에서 함성을 질러라.”\n산 위의 의병들의 모습을 본 일본군들은 함부로 다가오지 못했어요. 수많은 횃불을 보고 산 위에 무척 많은 병사들이 있는 것으로 착각했고, 또 그곳에 서 나오는 함성 소리에 기가 죽었기 때문이에요.\n곽재우는 또 눈에 잘 띄는 붉은 옷을 입고 적진을 가로지르기를 반복했어요. 게다가 자신과 똑같은 붉은 옷을 여러 명에게 입힌 후 전투에 내보냈어요. 이런 곽재우의 전략으로 인해 일본군은 큰 혼란에 빠졌어요.",
+      "est_speech_ms": 55400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 3,
+      "section_title": "“산 위에서 다섯 가지로 만든 횃불을 들고 그곳에서 함성을 질러라.”",
+      "narration": "붉은 옷을 입은 곽재우가 동에 번쩍 서에 번쩍 나타나서 위협했기 때문이에요. 덕분에 곽재우가 이끄는 의병들은 일본군들을 크게 무찌를 수 있었어요. 이 후 일본군들은 붉은 옷만 봐도 벌벌 떨게 되었어요.\n곽재우는붉은 옷을 입고 전장에 나섰기 때문에 붉을 ‘홍(紅)’에 옷‘의(衣)’\n자를 써서 홍의장군으로 불렸어요. 의병들은 홍의장군의 모습을 보면서 자신감을 갖고 일본군들을 무찌를 수 있는 용기를 얻었어요.\n임금인 선조마저 궁궐을 떠나 피난을 했다는 소식에 갈 길을 잃은 백성들에 게 곽재우 같은 의병들의 뛰어난 활약은 희망을 제공했어요. 조선의 관군이 정비되면서 전쟁을 승리로 이끌 힘을 키울 수 있었기 때문이에요.",
+      "est_speech_ms": 49400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "곽재우 장군과 의병들의 활약"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/31ca2e09c4173c54/fig_034.jpg",
+          "caption": "곽재우 장군과 의병들의 활약",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 4,
+      "section_title": "홀연히 산으로 들어가다.",
+      "narration": "홀연히 산으로 들어가다.\n곽재우는 의병들을 이끌고 눈부신 활약을 펼쳤어요. 임진왜란은 한반도 전체가 전쟁터로 변한 끔찍한 일이었어요. 이 때 백성들은 곽재우 같은 지역의 인사들과 함께 뜻을 모아 의병으로 참여해 일본군을 무찌르는데 앞장섰어요.",
+      "est_speech_ms": 20200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 4,
+      "section_title": "홀연히 산으로 들어가다.",
+      "narration": "하지만 전란 속에서 의병장으로 활약한 사람들에게 선조는 상을 주어 칭찬하기보다는 오히려 벌을 내리는 경우도 있었어요. 무장한 의병들이 행여 반란이라도 일으킬까봐 선조가 두려워했기 때문이에요.\n전쟁이 끝난 뒤에 곽재우도 몇 차례에 걸쳐 관직에 나갔지만, 관직 생활을 오래 이어가지는 못했어요. 그는 김덕령처럼 훌륭한 의병장이 모함을 받아 목숨을 잃는 모습을 보면서 자신도 화를 당할까 염려하기도 했다고 해요. 이후에도 계속 조정의 부름을 받았지만, 이를 사양하고 고향에서 지내다가 1617년 4월, 고향에서 숨을 거두었어요.",
+      "est_speech_ms": 43600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "홀연히 산으로 들어가다.",
+      "narration": "나라가 전쟁으로 위기에 빠진 순간에 빛나는 선비 정신을 일깨운 곽재우는 지금도 많은 사람들에게 큰 감명을 주고 있어요. 어려운 상황 속에서 자기만 살려고 하지 않고 자신의 전 재산을 털어 의병을 모으며 나라를 지킨 모습이 인상적이기 때문이에요. 오늘날 임진왜란 당시 의병장들의 활약을 다시 살펴보는 것은 나라가 어려움에 빠졌을 때 자신의 모든 것을 희생하며 나라를 구하고자했던 의병들의 뜻을 본받기 위해서가 아닐까요?",
+      "est_speech_ms": 34600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "임진왜란 당시 의병의 주요 활동지"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/31ca2e09c4173c54/fig_047.jpg",
+          "caption": "임진왜란 당시 의병의 주요 활동지",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

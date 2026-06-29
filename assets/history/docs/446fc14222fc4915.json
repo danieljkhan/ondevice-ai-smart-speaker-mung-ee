@@ -1,0 +1,459 @@
+{
+  "schema_version": 2,
+  "doc_hash": "446fc14222fc4915",
+  "source_file": "eh_r0370_0010.pdf",
+  "title": "과거와 현재의 모습을 함께 살펴볼 수 있는 서울 서촌",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 19,
+  "section_count": 7,
+  "image_count": 13,
+  "est_total_ms": 848300,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "경복궁의 서쪽에 있어서 붙여진 이름, 서촌",
+      "scene_indices": [
+        0,
+        1,
+        2
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3
+      ],
+      "image_captions": [
+        "대오서점(서울 종로구)",
+        "정선의 인왕제색도와 이중섭의 소(한국학중앙연구원)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "우리나라에 온 최초의 여성 선교사가 세운 근대 학교, 캐롤라이나 학당",
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "캠벨 선교사 흉상"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "image_captions": [
+        "윤동주 하숙집 터"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "동서양의 건축 양식이 혼합된 박노수 미술관",
+      "scene_indices": [
+        10
+      ],
+      "scene_seq": [
+        11
+      ],
+      "image_captions": [
+        "수성동 계곡과 정선이 그린 ‘수성동(水聲洞)’",
+        "박노수 미술관 전경"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "화가 이상범이 살던 개량 한옥",
+      "scene_indices": [
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        12,
+        13,
+        14
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "천재 시인 이상의 집을 들르다",
+      "scene_indices": [
+        14,
+        15
+      ],
+      "scene_seq": [
+        15,
+        16
+      ],
+      "image_captions": [
+        "이상범 가옥",
+        "이상의 집"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 정선이 발전시킨 진경산수화",
+      "scene_indices": [
+        16,
+        17,
+        18
+      ],
+      "scene_seq": [
+        17,
+        18,
+        19
+      ],
+      "image_captions": [
+        "금강전도와 인왕제색도(문화재청)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "경복궁의 서쪽에 있어서 붙여진 이름, 서촌",
+      "narration": "과거와 현재의 모습을 함께 살펴볼 수 있는 서울 서촌\n“서촌에 있는 수성동 계곡을 그려야겠소.”\n“중국의 자연을 상상해서 그리는 것이 아니라 우리의 자연을 그대로 그리겠다는 말씀이군요.”\n조선 후기 화가 정선은 우리의 자연을 사실적으로 그린 진경산수화로 유명합니다. 그는 수성동 계곡이 있는 서촌이라는 곳에 살았어요. 현대에 들어와서도 정선처럼 이름난 화가와 소설가들이 서촌에 많이 살았다고 해요. 예술가들의 마을, 서촌에 대해 알아볼까요?\n경복궁의 서쪽에 있어서 붙여진 이름, 서촌\n서촌은 조선시대부터 개항기, 그리고 현재에 이르기까지 여러 시대의 모습을 살펴볼 수 있는 곳이에요. 그래서 다니다 보면 오래된 사진첩을 들춰보는 듯한 느낌을 받게 되는 동네이지요.",
+      "est_speech_ms": 54000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대오서점(서울 종로구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_001.jpg",
+          "caption": "대오서점(서울 종로구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "경복궁의 서쪽에 있어서 붙여진 이름, 서촌",
+      "narration": "서촌은 경복궁의 서쪽에 위치하고 있어서 조선시대부터 서촌으로 불렸어요. 그래서 경복궁 북쪽에 자리 잡은 북촌 마을과 자주 비교되곤해요.",
+      "est_speech_ms": 11400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "경복궁의 서쪽에 있어서 붙여진 이름, 서촌",
+      "narration": "서촌은 조선시대 통역관이나 의술에 종사하던 의관과 같은 중인을 비롯해 뛰어난 예술가들이 모여 살던 곳이에요.\n반면, 조선 시대에 북촌은 관직이 높은 관리들과 대대로 큰 권력을 누린 양반들의 집이 모여 있던 곳이지요.\n인왕제색도와 같은 진경산수화로 유명한 정선과 독창적인 글씨체인 추사체의 대가 김정희 등도 서촌에 살았다고 전해요.\n이후 현대에 들어와서는 화가 이중섭, 시인 윤동주 등도 이곳 주민이었지요.\n긴 역사만큼이나 서촌에는 볼거리가 참 많아요.\n조선시대 여름 휴양지 수성동 계곡, 서양 선교사가 세운 배화학당 건물, 화가 이중섭이 살던 집, 시인 윤동주의 하숙집, 박노수 미술관, 대오서점, 화가 이상범가옥, 시인 이상이 살던 집 등이 있어요.\n그러면 이제부터 서촌 구석구석을 한 번 살펴볼까요?",
+      "est_speech_ms": 56600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정선의 인왕제색도와 이중섭의 소(한국학중앙연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_012.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_013.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_027.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "우리나라에 온 최초의 여성 선교사가 세운 근대 학교, 캐롤라이나 학당",
+      "narration": "우리나라에 온 최초의 여성 선교사가 세운 근대 학교, 캐롤라이나 학당\n지하철을 타고 서촌에 가려면 3호선 경복궁역에서 내리면 돼요. 경복궁역 1번 출구로 나와 300여 미터 가량 걷다 보면 배화여자고등학교가 나와요. 서촌에 있는 배화여자고등학교는 원래 이름이 캐롤라이나 학당이에요.\n학교 이름이 특이하죠? 이 학교는 우리나라에 온 최초의 여자 선교사로 알려진 캠벨에 의해 설립되었어요.\n1898년 미국인 선교사 조세핀 필 캠벨이 우리나라에 파견되었어요. 그녀는 기독교를 전파하는 선교 활동을 하는 동시에 여성들에게 근대 학문을 가르치고자했어요. 그래서 한성인달방 고간동(지금의 서울 종로구내자동)에 학교를 세웠는데, 당시 이름은 캐롤라이나 학당이었어요.",
+      "est_speech_ms": 54800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "우리나라에 온 최초의 여성 선교사가 세운 근대 학교, 캐롤라이나 학당",
+      "narration": "미국 사우스캐롤라이나에 있는 아이들이 낸 성금의 일부가 학당을 세우는 데 사용되어서 붙여진 이름이지요.\n학교가 처음 세워질 당시에는 여학생 2명, 남학생 3명이었는데, 점점 학생 수가 늘었어요. 정말 작은 학교지요?\n점차캐롤라니아 학당에 건물도 더 만들어지고 학생들이 머물 수 있는 기숙사도 설립되었어요. 그리고 1910년에는 학교 이름이 ‘꽃을 기른다.’라는 의미의 배화학당으로 바뀌었어요.\n1916년 배화학당은 지금의 서울 종로구 필운동으로 학교 건물을 옮겼어요. 지금은 배화여자중고등학교와 배화여자대학교라는 이름으로 바뀌어 오늘날까지 이어지고 있어요.\n배화학당을 세운 캠벨은 어떤 인물일까요?",
+      "est_speech_ms": 50400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "캠벨 선교사 흉상"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_035.jpg",
+          "caption": "캠벨 선교사 흉상",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": "우리나라에 온 최초의 여성 선교사가 세운 근대 학교, 캐롤라이나 학당",
+      "narration": "그녀는 기독교를 전파하는 선교사이면서 동시에 간호사이기도 했어요.\n그래서 그녀는 선교 활동을 하면서 아픈 환자들을 간호하고 진료하는 활동도 함께 했답니다.\n그녀는 ‘강모인(姜慕仁)’이라는 한국 이름도 가졌어요.\n1920년 67세의 나이로 한국에서 죽은 캠벨은 서울 마포 외국인 묘역에 묻혔어요. 그녀의 묘비에는 다음과 같이 그녀가 남긴 글이 적혀 있어요.\n“내가 조선에서 헌신하였으니 죽어도 조선에서 죽는 것이 마땅하다.”\n윤동주 시인의 숨결을 느낄 수 있는 하숙집 건물\n배화여자고등학교를 뒤로 하고 골목길을 따라 좀 더 들어가면 시인 윤동주가 살았던 옛 하숙집 건물을 만날 수 있어요.",
+      "est_speech_ms": 47800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "윤동주 시인이 누구냐고요? 다음 시 한 편을 읽어 볼래요?\n계절이 지나가는 하늘에는 가을로 가득 차 있습니다.\n나는 아무 걱정도 없이 가을 속의 별들을 다 헤일 듯합니다.\n가슴 속에 하나 둘 새겨지는 별을 이제 다 못 헤는 것은 쉬이 아침이 오는 까닭이요, 내일 밤이 남은 까닭이요, 아직 나의 청춘이 다하지 않은 까닭입니다.\n한 번 읽었거나 어디선가 들어본 시이지요?\n이 시는 많은 사람들로부터 사랑받고 있는 윤동주의 ‘별 헤는 밤’ 중 일부입니다. 윤동주는 1917년 중국 길림성 화룡현 명동촌에서 태어났어요.\n이후 윤동주는 1938년 연희전문학교(현재의 연세대학교)에 문과에 입학하였고, 같은 학과 후배 정병욱과 아주 친하게 지냈어요.",
+      "est_speech_ms": 50600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "이후 일본에서 유학 생활을 하던 윤동주는 일제에 의해 독립운동을 했다는 죄목으로 감옥살이를 하다가 그만 세상을 떠났어요. 정병욱은 윤동주 시인이 죽은 뒤 그의 시를 세상에 널리 알리는 활동을 했어요.\n윤동주는 연희전문학교에 다닐 때 후배 정병욱과 서촌에 있는 하숙집에서 하숙 생활을 했어요.\n원래 이곳은 소설가 김송의 집이었는데, ‘별 헤는 밤’, ‘자화상’, ‘또 다른 고향’ 등 지금까지도 사랑받고 있는 윤동주의 대표적인 시들이 이즈음 만들어졌다고 해요.\n한편, 옛 윤동주 하숙집 담장 위로 우산들이 펼쳐져 있는데, 이 우산들에는 시 ‘별 헤는 밤’의 일부가 적혀 있어요. 여러분들도 한번 우산을 잘 살펴보세요.",
+      "est_speech_ms": 48200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "아쉽게도 집의 원형이 그대로 남아 있지 않지만, 서촌 길목에는 그의 자취가 남아 있는 듯하네요.\n인왕산 능선 아래서촌에 맞닿아 있는 수성동은 물소리가 맑다고 해서 조선시대에 ‘수성동(水聲洞)’이라고 불렸어요.\n당시 이름난 명승지였던 수성동 계곡은 진경산수화의 대가인 정선의 ‘수성동’ 이라는 작품의 배경이 되기도 했어요. 조선 시대부터 선비들의 여름 휴양지로 알려진 수성동 계곡은 현재 현대식 건물인 빌라와 조선시대 한옥집들이 조화를 이루고 있어요.\n수성동 계곡의 입구에 서면, 정선이 그렸던 ‘수성동’이라는 작품과 같은 풍경을 볼 수 있어요. 조선 후기 화가 정선이 서 있던 자리에 여러분이 서서 같은 풍경을 바라보고 있다고 생각해 보세요.",
+      "est_speech_ms": 51800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "윤동주 하숙집 터"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_067.jpg",
+          "caption": "윤동주 하숙집 터",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "시간을 뛰어넘어 묘한 감정을 느낄 수 있을 거예요. 또한 수성동 계곡을 걷다 보면, 어디선가 옛 선비들이 나타나 말을 걸 것 같은 느낌도 들 거예요.\n그만큼 정선의 그림 ‘수성동’과 현재의 수성동 계곡 풍경은 크게 변한 것이 없답니다.",
+      "est_speech_ms": 18000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": "동서양의 건축 양식이 혼합된 박노수 미술관",
+      "narration": "현재는 수성동 계곡에서 청계천까지 이어지는 물길이 끊어졌지만, 원래는 수성동 계곡의 물이 청계천을 지나 한강까지 이어졌다고 해요.\n참, 수성동 계곡에는 지금도 도롱뇽이 살고 있어요. 천연기념물로 지정된 도롱뇽은 1급수에만 산다고 하니, 그만큼 수성동 계곡의 물이 깨끗하다는 것이겠지요.\n주변 환경은 많이 변했지만, 이곳 수성동 계곡 일대는 그렇게 조선 시대와 대한민국이 함께 섞여 있다고 할 수 있지요.\n동서양의 건축 양식이 혼합된 박노수 미술관\n수성동 계곡을 지나 몇 분을 걸어가면 박노수 미술관이 나와요. 현재의 박노수 미술관은 원래 일제 강점기 친일파로 이름 높던 윤덕영이 그의 딸을 위해 지은 주택이었어요. 광복 이후 화가 박노수가 이 집을 사들여 거주하였고, 이후 문화재로서의 가치를 인정받아 서울시 문화재자료 1호로 등록되었지요.",
+      "est_speech_ms": 60800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "수성동 계곡과 정선이 그린 ‘수성동(水聲洞)’",
+        "박노수 미술관 전경"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_075.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_076.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.3571
+        },
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_084.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "화가 이상범이 살던 개량 한옥",
+      "narration": "박노수 미술관은 조선 말기의 한옥, 중국과 서양의 건축 양식들을 섞어 지은 집으로 알려져 있어요. 그래서 한옥 같으면서도 현대적인 느낌이 드는 건축물로 평가받아요. 집안 내부로 들어가면 박노수 화가의 미술 작품도 감상할 수 있고, 햇살이 비쳐 들어오는 다락방 창문으로 바깥 풍경도 볼 수 있지요.\n화가 이상범이 살던 개량 한옥\n수성동 계곡을 거쳐 대오 서점을 지나면 개량 한옥으로 예쁘게 지어진 이상범 가옥을 만날 수 있어요. 이상범이 누구냐고요? 그는 일제 강점기부터 현대까지 활동했던 이름난 한국화가이면서, 동시에 손기정 일장기 말살 사건의 주인공 중의 한 명이었어요.",
+      "est_speech_ms": 46400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 4,
+      "section_title": "화가 이상범이 살던 개량 한옥",
+      "narration": "1936년 독일에서 열린 제36회 베를린 올림픽에 참가한 우리나라의 손기정 선수가 마라톤에서 금메달을 땄어요. 그러나 손기정 선수는 우리나라의 대표가 아니라 일본 대표로 마라톤에 출전했어요. 왜냐하면 당시 우리는 일본의 식민 지배를 받고 있었거든요.\n세계의 쟁쟁한 마라톤 선수들을 제치고 손기정이 금메달을 땄다는 것은, 당시 식민 지배를 받고 있던 우리 민족에게는 큰 기쁨이었어요.\n그래서 조선중앙일보와 동아일보 등 많은 신문에서 이 소식을 크게 다루었어요.\n그런데, 동아일보의 신문기자들은 손기정 선수의 운동복에 그려진 일장기가 마음에 들지 않았어요. 그래서 신문에 손기정 선수의 금메달 시상식 사진을 넣으면서 운동복에 그려진 일장기를 삭제해서 발행했어요.",
+      "est_speech_ms": 55400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 4,
+      "section_title": "화가 이상범이 살던 개량 한옥",
+      "narration": "이때 손기정 선수 사진의 일장기를 처음 삭제한 사람이 바로 당시 동아일보에서 미술 담당 기자로 일하던 이상범이었다고 해요.\n한편, 이상범은 친일인명사전에 이름이 올라있는 인물로 친일 활동을 했다는 비판도 받고 있어요. 이처럼 일제 강점기에는 독립운동이나 민족운동을 했던 사람들 중에서 나중에 친일 활동을 한 인물들이 꽤 있어요.\n그만큼 변절하지 않고 한결같이 독립운동을 한 인물이 더욱 존경받아야 한다는 의미이기도 하지요.\n화가 이상범이 집이자 화실로 사용했던 이 건물은 당시 유행했던 개량 한옥으로 지어졌어요.",
+      "est_speech_ms": 42600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 5,
+      "section_title": "천재 시인 이상의 집을 들르다",
+      "narration": "개량 한옥이란 전통적인 한옥 양식에 서양식, 일본식 건축 양식이 반영된 것을 말해요. 한옥의 왼편에는 이상범이 작품 활동을 하고 후배들을 가르쳤던 ‘청전화숙’이 있어요. ‘청전화숙’은 이상범의 호 ‘청전(靑田)’을 따서 붙인 이름이에요.\n전통 한옥과 서양 주택 양식이 조화를 이룬 개량 한옥의 모습을 보고 싶다면 이상범 가옥을 둘러볼 것을 추천해 드려요.\n천재 시인 이상의 집을 들르다\n이상범 가옥을 지나 경복궁 방향으로 수십 미터를 가면 ‘오감도’, ‘날개’ 등의 뛰어난 작품을 남긴 시인 이상의 집이 있어요.",
+      "est_speech_ms": 39600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "이상범 가옥"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_102.jpg",
+          "caption": "이상범 가옥",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 5,
+      "section_title": "천재 시인 이상의 집을 들르다",
+      "narration": "시인이자 소설가였던 이상은 1910년 사직동에서 이발사의 아들로 태어났어요. 그리고 세 살 때 큰아버지의 양자가 되어 현재 통인동 154번지로 옮겨왔지요.\n그는 이곳에서 1933년까지 살았어요. 사실 현재의 건물은 이상이 살던 집은 아니고, 집터의 일부가 이상의 집이었다고 해요.\n이상의 집으로 알려진 건물 안으로 들어가면 이상의 소설 ‘날개’가 전시되어 있어요. 집 안쪽에는 커다란 철문이 자리잡고 있는데, 철문을 열고 들어서면 어두컴컴한 공간에 계단이 나와요. 이 계단은 발코니로 연결되는 계단이자 이상에 대한 영상을 관람할 수 있는 좌석이기도 해요.",
+      "est_speech_ms": 45600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "이상의 집"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_110.jpg",
+          "caption": "이상의 집",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 17,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 정선이 발전시킨 진경산수화",
+      "narration": "계단에 앉아서 이상의 그림과 글을 통해 이상의 생애를 재구성한 짤막한 영상을 감상할 수 있는 재미있는 공간이랍니다.\n역사 속 작은 이야기: 정선이 발전시킨 진경산수화\n조선 후기에 이르러 중국의 산수화를 모방하는 화풍에서 벗어나 우리의 자연을 사실적으로 그린 진경산수화가 유행하였어요.",
+      "est_speech_ms": 23800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 18,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 정선이 발전시킨 진경산수화",
+      "narration": "진경산수화의 대표적인 화가는 18세기에 활약한 정선이에요. 정선은 중국의 그림 그리는 방법을 배운 뒤 중국의 자연을 상상해서 그리는 것이 아니라, 우리의 자연을 직접 보고 느낀 감정을 재구성하여 그리는 진경산수화를 크게 발전시켰어요.\n그는 서울 근교와 강원도의 이름난 곳을 두루 답사하며 그가 본 실제 풍경을 새로운 형식으로 묘사하였어요.\n그의 대표작인 ‘금강전도’는 금강산의 봉우리를 그리면서 오른쪽의 바위산은 힘차게 내려 그렸어요.\n반면 왼쪽의 흙산은 붓을 옆으로 뉘어 점을 찍듯이 부드럽게 그려 뾰족한 바위산과 대조를 이루게 하였어요.",
+      "est_speech_ms": 44800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "금강전도와 인왕제색도(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_122.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/446fc14222fc4915/fig_123.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 19,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 정선이 발전시킨 진경산수화",
+      "narration": "‘인왕제색도’는 정선이 수십 년 단짝 친구의 큰 별을 걱정하며 그린 그림이 에요. 비가 온 뒤 구름이 걷히려할 때의 인왕산 모습을 표현한 것이지요.\n정선은 물기 머금은 바위 봉우리의 묵직한 질감을 살리기 위하여 몇 번의 붓질을 더 했어요. 정말 그런 느낌이 들지 않나요?\n서촌을 다니다 보면 조선 시대부터 현대에 이르기까지 다양한 시대와 관련 있는 장소들을 만나게 된답니다. 여러분들도 서촌을 둘러보며 과거와 현대를 오가는 시간 여행을 해보지 않을래요?",
+      "est_speech_ms": 36200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

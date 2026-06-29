@@ -1,0 +1,355 @@
+{
+  "schema_version": 2,
+  "doc_hash": "3ba5b1cff4cc6d95",
+  "source_file": "eh_r0154_0010.pdf",
+  "title": "고려 침몰선, 바다에서 건져 올린 고려의 보물들",
+  "kind": "artifact",
+  "era": "고려",
+  "era_source": "keyword",
+  "scene_count": 13,
+  "section_count": 6,
+  "image_count": 11,
+  "est_total_ms": 594299,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "태안 앞바다에서 건져 올린 보물들(국립해양유산연구소)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "우리나라에서 처음으로 진행된 수중 발굴, 신안선",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "쭈꾸미 덕분에 발견된 태안선",
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "청자 매병의 쓰임새를 알려 준 마도 2호선",
+      "scene_indices": [
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "마도1호선에 실린 짐의 모습(태안해양유물전시관)",
+        "태안선에서 나온 ‘청자 사자형 뚜껑 향로’(태안해양유물전시관)",
+        "배에 물건을 싣는 고려 사람들",
+        "태안해양유물전시관",
+        "마도1호선 복원(태안해양유물전시관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "무신 정권 시기의 상황을 엿볼 수 있는 마도 3호선",
+      "scene_indices": [
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "마도 3호선에서 나온 조약돌로 만든 장기알(태안해양유물전시관)",
+        "고려 수중 유물 발굴 지도"
+      ],
+      "is_infographic": true
+    },
+    {
+      "section_index": 5,
+      "section_title": null,
+      "scene_indices": [
+        12
+      ],
+      "scene_seq": [
+        13
+      ],
+      "image_captions": [
+        "마도 해역에서 발견된 숟가락과 젓가락(태안해양유물전시관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "고려 침몰선, 바다에서 건져 올린 고려의 보물들\n“청자 입에 대나무 조각이 달려 있네.”\n“청자를 받을 사람의 이름이 적혀있다고 해.”\n지금까지 여러 차례 서해 앞바다에서 고려의 배와 유물들이 건져 올려졌어요. 고려청자를 비롯한 많은 유물은 고려 시대 사람들의 이야기를 들려주는 보물이에요.\n바다에서 발견된 고려의 배들에는 무엇이 있을까요? 바닷속에서 발견된 고 려 유물들은 어떤 이야기를 들려줄까요?",
+      "est_speech_ms": 32199,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "태안 앞바다에서 건져 올린 보물들(국립해양유산연구소)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/3ba5b1cff4cc6d95/fig_001.jpg",
+          "caption": "태안 앞바다에서 건져 올린 보물들(국립해양유산연구소)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "우리나라에서 처음으로 진행된 수중 발굴, 신안선",
+      "narration": "우리나라에서 처음으로 진행된 수중 발굴, 신안선\n고려 시대 서해 바다에는 다양한 배들이 오갔어요. 옛날에는 화물을 옮길 수 있는 중요한 교통수단이 배였거든요. 세금으로 거두어들인 곡물을 비롯해 진귀한 물품을 운반하던 배뿐만 아니라 중국과 일본을 오가던 무역 선도 있었지요.\n하지만 배들이 목적지까지 안전하게 도착하는 일은 쉬운 일이 아니었어요. 많은 배들이 강한 비바람에 길을 잃고, 거친 풍랑과 암초를 만나 침몰하기도 했지요.\n수백 년이 지나 고려 시대에 침몰한 배들이 하나둘 발견되기 시작했어요. 대부분의 배들이 부서진 상태였지만, 배 안에 실려 있던 다양한 유물과 기록을 통해 고려 시대에 조세를 어떻게 운반했는지, 당시 사람들은 어떻게 살았는지 알 수 있었어요.",
+      "est_speech_ms": 54600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "우리나라에서 처음으로 진행된 수중 발굴, 신안선",
+      "narration": "우리나라에서 처음으로 수중 발굴이 이루어진 곳은 전라남도 신안군 앞바다였어요. 1976년에 이 바다에서 침몰한 배가 발견되면서 수중 발굴 조사가 시작되었지요.\n배에서 나온 유물 등을 조사한 결과, 이 배는 1323년 중국 원나라에서 출발해서 일본으로 가던 무역선으로 밝혀졌어요. 그리고 배가 발견된 곳의 이름을 따서 신안선이란 이름이 붙여졌지요.\n그런데 신안선은 왜 일본으로 가는 길이 아닌 신안 앞바다에서 발견된 것일까요? 아마도 일본으로 가는 길에 고려에 들러 필요한 물품을 구해 가거나, 쉬었다 가려던 게 아니었을까요?\n배에서 나온 유물 대부분이 중국 도자기였지만, 전라남도 강진에서 만들어진 고려청자도 있었어요. 이를 통해 신안선이 고려에 들렀다고 짐작할 수 있었지요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "쭈꾸미 덕분에 발견된 태안선",
+      "narration": "쭈꾸미 덕분에 발견된 태안선\n신안선은 우리나라 바다에서 발견되었지만, 중국의 배였어요. 그렇다면 침몰한 우리나라 배가 발견된 적은 없을까요? 첫 번째로 발견된 것이 바로 충남 태안군 앞바다에서 침몰한 태안선이에요.\n태안선이 발견되는 과정은 좀 특별했어요. 2007년 충청남도 태안 앞바다에서 한 어부가 주꾸미를 건져 올렸어요.\n“아니 이게 뭐야? 쭈꾸미 빨판에 웬 대접이 붙어 있네.”\n쭈꾸미에 딸려 올라온 청자 대접을 본 어부는 예사로운 물건이 아님을 알고 곧바로 태안군청에 신고했어요.\n어부의 신고를 받고 나서 국립해양유산연구소는 발굴을 시작했어요. 그 결과 ‘청자 퇴화문 두꺼비모양 벼루’와 ‘청자 사자형뚜껑 향로’ 등 고려청자를 비롯해 글이 적힌 나무 조각인 목간과 뱃사람들이 사용하던 생활용품 등 약 2만 3천여 점의 유물들을 찾았어요. 학자들은 이 배가 1131년 즈음 침몰된 것으로 보고 있어요.",
+      "est_speech_ms": 65600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "쭈꾸미 덕분에 발견된 태안선",
+      "narration": "그런데 이 배에 실린 물품들은 어디로, 누구에게 가는 것이었을까요? 학자들은 개경에 사는 귀족들이 주문한 물건이라는 의견부터 나라에 낼 세금과 공납품이라는 등 다양한 의견을 냈지요. 그런데 이런 의견을 정리해 주는 물건이 발견되었어요.\n바로 목간이지요. 태안선에서 발견된 목간에는 물건을 받을 사람의 이름이 적혀있었어요. 관청과 관리의 이름이 발견되어 많은 물건들이 나라에 내는 세금이었음을 알 수 있었지요. 하지만 개인이 주문한 물건이나 상인들이 판매할 것도 뒤섞여 있었어요.\n태안선의 도자기들은 사이사이에 짚과 갈대를 넣고 나무로 덧대 깨지지 않도록 꼼꼼하게 포장되어 있었어요. 젓갈 등은 항아리에 담고 뚜껑을 덮어 쏟아지지 않게 했지요.",
+      "est_speech_ms": 53200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "쭈꾸미 덕분에 발견된 태안선",
+      "narration": "도자기 사이에서는 사람의 뼈도 발견되었어요. 배가 침몰하는 과정에서 배에서 빠져나오지 못하고 죽은 것으로 보여요.",
+      "est_speech_ms": 9600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "청자 매병의 쓰임새를 알려 준 마도 2호선",
+      "narration": "청자매병의 쓰임새를 알려 준 마도 2호선\n태안선의 발굴 성과에 힘입어 국립해양유산연구소는 더욱 적극적으로 수 중 발굴을 진행했어요. 그 노력 덕분에 2년 뒤인 2009년에 마도 1호선, 2010년에는 마도 2호선, 2011년에는 마도 3호선이 차례로 발견되었어요.\n이 배들이 발견된 곳은 충청남도 태안 마도 앞바다의 안흥량 일대예요. 그래서 배 이름에 ‘마도’라는 이름이 붙은 거지요. 안흥량 일대는 물살이 급해 배들이 곤란을 겪던 곳으로 옛날부터 사고가 잦았어요.",
+      "est_speech_ms": 38200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "마도1호선에 실린 짐의 모습(태안해양유물전시관)",
+        "태안선에서 나온 ‘청자 사자형 뚜껑 향로’(태안해양유물전시관)",
+        "배에 물건을 싣는 고려 사람들"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/3ba5b1cff4cc6d95/fig_035.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/3ba5b1cff4cc6d95/fig_037.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.3333
+        },
+        {
+          "path": "assets/history/images/3ba5b1cff4cc6d95/fig_038.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.6667
+        },
+        {
+          "path": "assets/history/images/3ba5b1cff4cc6d95/fig_041.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "청자 매병의 쓰임새를 알려 준 마도 2호선",
+      "narration": "마도 2호선에서는 청자 매병이 3점 나왔어요. 매병은 입이 작고 어깨가 넓으며 몸통이 길쭉하게 생긴 그릇으로, 주로 물이나 술과 같은 액체류를 보관하던 그릇이에요.\n그런데 특이하게도 이 청자 매병에는 목간이 달려 있었어요. 목간에는 ‘도방의 도장교오문부댁에 전할 꿀과 참기름’이라고 적혀있었어요. 이 목간 덕분에 물품을 받을 사람의 관직과 이름, 청자 매병에 담긴 내용물에 대해 알 수 있게 되었어요. 그리고 청자 매병이 술병뿐만 아니라 참기름과 꿀단지로도 사용되었음을 알게 되었지요.\n마도 2호선은 어떤 배였을까요? 나라에 바칠 세금과 공물을 실은 배였을 것으로 추측하고 있어요. 배에서는 쌀을 비롯한 곡물은 물론 사슴, 돼지, 개, 소, 고라니, 고래 등 동물 뼈와 닭과 오리 등 조류 뼈, 농어, 숭어, 참돔, 상어등어류뼈도 나왔어요.",
+      "est_speech_ms": 58400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "태안해양유물전시관",
+        "마도1호선 복원(태안해양유물전시관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/3ba5b1cff4cc6d95/fig_048.jpg",
+          "caption": "태안해양유물전시관",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/3ba5b1cff4cc6d95/fig_050.jpg",
+          "caption": "마도1호선 복원(태안해양유물전시관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "청자 매병의 쓰임새를 알려 준 마도 2호선",
+      "narration": "명태알 젓, 조기알젓 등 젓갈류도 있었어요. 또한 장기알도 발견되어 뱃사람들이 여가로 장기를 즐겼음을 짐작할 수 있어요.",
+      "est_speech_ms": 9800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "무신 정권 시기의 상황을 엿볼 수 있는 마도 3호선",
+      "narration": "무신 정권 시기의 상황을 엿볼 수 있는 마도 3호선\n마도 3호선은 발견 당시 다른 침몰선에 비해 비교적 온전한 상태였어요. 고려 시대 배의 형태와 구조 등을 잘 알게 해주는 귀중한 자료예요.\n마도 3호선은 1265년 무렵 전남 여수에서 출발하여 강화도로 가다가 마도 앞바다에서 침몰한 것으로 보고 있어요. 이 시기 고려는 무신들이 정권을 잡고 있었고, 강화도로 수도를 옮긴 채 몽골과 한창 전쟁 중이었어요.\n마도 3호선도 1, 2호선과 마찬가지로 세금으로 거둔 물품을 싣고 가던 배로 추측되고 있어요. 고려의 중앙 관리나 지배 계층에게 바칠 곡물과 먹거리 등이 실려 있었는데, 여수의 특산물인 전복, 홍합, 젓갈 등도 있었어요. 이것은 전쟁 중에도 고려의 지방에서 수도로 세금이 걷히고 있었음을 보여주는 증거에요.",
+      "est_speech_ms": 57200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "무신 정권 시기의 상황을 엿볼 수 있는 마도 3호선",
+      "narration": "배에서 발견된 목간에는 무신 정권 시기 상황을 알려 주는 내용이 적혀있어요. ‘우삼번별초’, ‘중방’과 같은 고려 무신 정권 시기의 관청의 이름이 나와요.\n삼별초는 무신 정권 시기에 만들어진 친위부대이고, 중방은 무신 정권의 최고 권력 기구였지요. 삼별초의 운영 체계 등을 엿볼 수 있는 내용이지요. 특히 물건을 받을 사람 이름 중에 무신 정권 최고 권력자 중 한 사람이었던 김준으로 보이는 이름이 있었어요.\n마도 3호선에서는 고내지로 불리는 입구가 넓은 그릇과 청동 대접과 수저 등이 나왔어요. 또 머리빗과 장기 놀이에 이용했던 조약돌도 나왔어요. 이 를 통해 고려 시대 식생활과 놀이 문화를 엿볼 수 있어요.",
+      "est_speech_ms": 48200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "마도 3호선에서 나온 조약돌로 만든 장기알(태안해양유물전시관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/3ba5b1cff4cc6d95/fig_066.jpg",
+          "caption": "마도 3호선에서 나온 조약돌로 만든 장기알(태안해양유물전시관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "무신 정권 시기의 상황을 엿볼 수 있는 마도 3호선",
+      "narration": "역사 속 작은 이야기: 고려 시대 뱃사람들은 어떤 생활을 했을까?\n전라도 포구에서 출발한 배가 고려 수도인 개경과 강화도에 이르는 데는 꽤 오랜 시일이 걸렸어요. 그러다 보니 뱃사람들은 배 위에서 일상적인 생활을 해야 했지요. 밥을 지어 먹고 반찬도 만들어 먹었어요. 세수도 하고 시간이 남을 때에는 여가생활도 즐겼어요.\n침몰된 배에서 발굴된 유물 중에는 뱃사람들이 사용했을 것으로 보이는 솥과 그릇, 장 단지, 떡시루, 숟가락, 국자, 나무 함지 등이 포함되었어요. 이 유물을 통해 뱃사람들의 생활을 추측할 수 있답니다.\n그런데 나무배 위에서 어떻게 불을 피워 밥을 해 먹었을까요? 발굴된 유물 중 불에 그을린 돌판이 있었어요. 배 위에 돌판을 놓고 그 위에 나무를 놓고 불을 붙여 솥을 데워 밥을 지어 먹었던 것 같아요.",
+      "est_speech_ms": 56600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "고려 수중 유물 발굴 지도"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/3ba5b1cff4cc6d95/fig_071.jpg",
+          "caption": "고려 수중 유물 발굴 지도",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "그렇다면 뱃사람들은 남는 시간에는 무엇을 하며 지냈을까요? 장기알이 발견된 것을 통해 장기를 두며 놀았음을 짐작할 수 있어요.\n바다 깊은 곳에 몇 백 년 동안 깊이 잠들어 있던 보물선은 고려 시대의 모습을 새롭게 알게 해주었어요. 어떤 학자는 고려의 비밀을 풀어주었다고 하고, 또 바다에서 발굴한 고려 시대 이야기라고도 해요. 그만큼 고려의 역사를 이해하는 데 귀중한 자료가 많이 나왔다는 증거겠지요?\n지금도 국립해양유산연구소 등에서는 바다속에 잠들어 있는 역사적 보물을 찾기 위해 노력하고 있어요. 앞으로 어린이들도 역사의 비밀을 풀어줄 바다에서 건져 올린 유물에 관심을 갖기를 바라요.",
+      "est_speech_ms": 48200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "마도 해역에서 발견된 숟가락과 젓가락(태안해양유물전시관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/3ba5b1cff4cc6d95/fig_080.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/3ba5b1cff4cc6d95/fig_085.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    }
+  ]
+}

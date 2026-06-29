@@ -1,0 +1,402 @@
+{
+  "schema_version": 2,
+  "doc_hash": "8a0f7b2aaaa15fc5",
+  "source_file": "eh_r0080_0010.pdf",
+  "title": "황금의 나라 신라의 모습을 간직한 경주 대릉원",
+  "kind": "artifact",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 15,
+  "section_count": 7,
+  "image_count": 12,
+  "est_total_ms": 699900,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "경주 대릉원(경북 경주시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "대릉원의 천마총과 황남대총을 발굴하다",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "image_captions": [
+        "천마총 출토 유물",
+        "말다래의 모습",
+        "다양한 신라의 금관(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": null,
+      "scene_indices": [
+        8
+      ],
+      "scene_seq": [
+        9
+      ],
+      "image_captions": [
+        "다양한 종류의 금제품들(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "황남대총에 로만글라스가 묻힌 까닭은?",
+      "scene_indices": [
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "신라 고분에서 출토된 로만글라스(문화재청)",
+        "대롱불기로 유리그릇 만들기",
+        "동서교역로"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기 : 신라 고분, 금관을 지켜내다",
+      "scene_indices": [
+        12,
+        13
+      ],
+      "scene_seq": [
+        13,
+        14
+      ],
+      "image_captions": [
+        "천마총 돌무지 덧널무덤의 구조"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "오랜 세월 도굴꾼으로부터 안전하게 유물을 지킨 신라의 고분!",
+      "scene_indices": [
+        14
+      ],
+      "scene_seq": [
+        15
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "황금의 나라 신라의 모습을 간직한 경주 대릉원\n동쪽 끝에 있는 신라라는 나라에는 황금이 엄청 많다며?”\n“그러게 황금이 많아서 개나 원숭이의 목줄도 금으로 만든다고 하더군.”\n“정말 그 말이 사실일까?”\n우리나라에서 멀리 떨어진 서역 사람들에게 신라는 황금의 나라로 불렸어요. 이들은 신라를 집과 밥그릇도 금으로 만들만큼 금이 풍부한 나라로 상상했어요.\n신라에는 서역 사람들이 상상한 만큼 정말 금이 많았을까요?\n신라는 금을 어떻게 활용했을까요?",
+      "est_speech_ms": 35800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "경주 대릉원(경북 경주시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a0f7b2aaaa15fc5/fig_001.jpg",
+          "caption": "경주 대릉원(경북 경주시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "대릉원의 천마총과 황남대총을 발굴하다",
+      "narration": "대릉원의 천마총과 황남대총을 발굴하다\n신라 천년의 역사를 간직한 경주에는 왕과 왕비, 귀족의 무덤이 많이 있어요.\n그중 가장 규모가 큰 고분이 많이 모여 있는 곳이 대릉원이에요. 넓은 벌판에 23개의 고분이 모여 있는 대릉원은 신라만의 독특한 풍경을 만들어 지나가는 사람들의 호기심을 자극한답니다. 대릉원의 한가운데에는 신라인이 만든 고분 중 가장 큰 황남대총이 있어요.\n1973년 경주 개발 사업을 진행하던 정부는 고대 신라 문화의 비밀을 밝히기 위해 황남대총을 발굴하기로 했어요. 고고학자들을 중심으로 조사단이 만들어졌어요.",
+      "est_speech_ms": 44000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "대릉원의 천마총과 황남대총을 발굴하다",
+      "narration": "고분 발굴을 맡은 조사단에게는 큰 고민이 있었어요. 2년 전에 무령왕릉을 단 하루 만에 급하게 발굴한 일이었어요. 사라진 옛 백제 역사를 되살릴 수 있는 기회를 급하게 발굴을 해 잃어버렸던 일이 떠올랐어요.\n무령왕릉보다 훨씬 거대한 황남대총을 함부로 발굴할 수는 없었어요. 고민 끝에 조사팀은 황남대총 옆의 작은 고분을 시험 삼아 발굴해 보기로 했어요.\n그 고분은 표면이 손상되고 흙이 무너져 있어서 도굴꾼에 의해 훼손되었을 것이라 조사단은 예상했어요.\n고분을 감싸고 있던 흙을 조금씩 걷어냈어요. 흙을 모두 걷어내자 그 밑에는 많은 돌들이 쌓여 있었어요. 돌을 하나씩 들어내자 예상 밖의 일이 벌어졌어요.",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "대릉원의 천마총과 황남대총을 발굴하다",
+      "narration": "시험 삼아 발굴한 작은 고분에서 금관을 비롯해 금제 허리띠, 금제 관모, 목걸이 등 수많은 유물들이 쏟아져 나온 것이에요. 도굴되지 않고 온전히 보존된 신라 왕릉이었던 것이지요.\n많은 유물 중에서 이전에는 볼 수 없던 특별한 유물이 한 점 출토되었어요. 그것은 ‘장니천마도’에요. 장니란 말을 탄 사람의 옷에 흙이 튀지 않도록 안장 양쪽에 매단 기구로, 말다래라고도 해요.\n자작나무껍질로 장니를 만들고, 그 위에 하늘을 나는 흰색 빛깔의 멋진 천마를 그려 넣은 유물이었어요. 천마도는 옛 신라인의 그림솜씨를 알 수 있는 중요한 유물이에요. 그래서 고분의 이름도 ‘천마총’이라 지었답니다.\n그런데 왕의 무덤이라 추측하면서도 이름에 ‘릉’이 아닌 ‘총’을 썼을까요?",
+      "est_speech_ms": 52000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "①금관 ②금제 허리띠 ③금제 관식 ④장니 천마도 (문화재청)\n‘총’은 발굴한 유물로 보아 왕의 무덤으로 보이지만 정확한 이름을 알 수 없는 경우에 사용을 해요.\n천마총을 통해 자신감을 쌓은 조사단은 드디어 2년 4개월이 걸린 황남대총의 발굴을 시작했어요. 황남대총은 무덤의 봉우리가 두 개였어요. 조사단은 먼저 북쪽 무덤부터 발굴을 했어요.\n크기가 가장 큰 황남대총은 발굴된 유물의 양도 천마총보다 훨씬 많았어요. 유물을 통해 먼저 만든 남쪽 무덤이 왕의 것이고, 북쪽 무덤은 왕비의 무덤으로 밝혀졌어요. 사람의 뼈와 함께 금관, 장신구, 무기, 그릇, 유리병 등 수많은 유물이 출토되었어요.",
+      "est_speech_ms": 46200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "천마총 출토 유물"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a0f7b2aaaa15fc5/fig_027.jpg",
+          "caption": "천마총 출토 유물",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "거의 썩어 없어졌지만 화려한 비단옷을 입고 있었다는 것도 알 수 있었어요.\n황남대총의 유물 중 가장 눈에 띄는 것은 왕비의 금관이었어요. 왕비도 금 관을 사용했다는 것을 새로 알게 되었어요. 하지만 더 특이한 것은 금관의 재료였어요.\n왕의 것은 구리판에 도금을 해 만든 금동관인데, 왕비의 것은 순금으로 만든 금관이었어요. 왜 왕비의 관을 왕의 관보다 더 좋은 재료로 만들었는지는 아직도 수수께끼로 남아있어요.",
+      "est_speech_ms": 33000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "말다래의 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a0f7b2aaaa15fc5/fig_033.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/8a0f7b2aaaa15fc5/fig_042.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "신라에는 얼마나 많은 금관이 있었을까?\n황금의 나라 신라! 이 말은 아주 오래 전부터 세상에 알려져 있었어요. 그러나 대릉 원의 천마총과 황남대총을 발굴하고 나서야 그 모습을 제대로 이해할 수 있었어요.\n①교동금관 ②황남대총 북분금관 ③금관총금관 ④천마총금관 ⑤금령총금관 ⑥서봉총금관\n전 세계에서 지금까지 출토된 금관은 모두 14개예요. 그중 10개가 우리나라 에서 나왔고, 또 그중에 6개를 신라인들이 만든 것이에요.\n금관은 금을 망치로 두드려 얇게 펴고 이를 잘라서 만들었어요. 관의 아래 부분에 둥근 테를 만들고, 나뭇가지(出) 모양과 사슴뿔 모양으로 금판을 잘라 금못으로 고정시켜 세웠어요.",
+      "est_speech_ms": 47800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "다양한 신라의 금관(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a0f7b2aaaa15fc5/fig_046.jpg",
+          "caption": "다양한 신라의 금관(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "그리고 굽은 옥과 작고 동그란 모양으로 금판을 오려 금실로 매달아 장식을 했어요. 금관 좌우에는 길게 드리개를 붙여 꾸몄지요. 이런 모양의 금관은 4세기 중반 마립간(신라왕을 부르는 말로 거서간, 차차웅, 이사금이란 명칭도 사용)이 신라를 다스리던 시대에 만들어졌어요.\n마립간이 신라를 다스리던 시기 고분 속에서 금관을 비롯해 관모, 관모장식, 허리띠, 팔찌, 귀걸이, 반지, 목걸이 등 많은 금제 장식품이 쏟아져 나왔어요.\n신발과 그릇을 비롯한 다양한 생활 도구도 금으로 만들어 함께 묻었죠. 같은 시기의 고구려와 백제, 그리고 중국과 비교해도 금으로 만든 물건의 종류나 양이 엄청 많았어요.",
+      "est_speech_ms": 47200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "금관은 6세기 중반 이후 마립간에서 왕이 다스리는 나라가 되면서 사라졌어요. 황남대총과 같이 큰 규모의 돌무지 덧널무덤도 함께 사라졌어요. 신라에 무슨 일이 벌어진 것일까요?\n나라 임금의 명칭을 왕으로 처음 바꾼 사람은 지증왕이었어요. 나라의 기초를 튼튼히 다진 지증왕을 이어 법흥왕과 진흥왕이 나라를 다스리면서 신라의 국력은 크게 성장하였어요.\n그 힘으로 고구려와 백제를 공격해 영토도 크게 넓혔고, 불교를 받아들이면서 나라는 크게 안정되었어요.\n왕의 힘을 키우고자했던 마립간 시기 왕들은 화려한 금관을 만들어 자신의 권위를 주위에 과시하고자했어요. 그러나 국력이 이전보다 더욱 강해지자 일부러 자신을 과시할 필요가 없었어요.",
+      "est_speech_ms": 52400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "다양한 종류의 금제품들(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a0f7b2aaaa15fc5/fig_056.jpg",
+          "caption": "다양한 종류의 금제품들(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "황남대총에 로만글라스가 묻힌 까닭은?",
+      "narration": "게다가 불교가 나라의 종교가 되고 장례 문화도 바뀌면서 더 이상 금관을 만들 필요도 사라졌어요.\n신라가 나라의 기틀을 쌓아가면서 금관이 나타났어요. 그러나 신라가 강성해지자 금관도 사라졌어요.\n황남대총에 로만글라스가 묻힌 까닭은?\n황남대총 발굴 당시 금과 은으로 만든 유물과 함께 180여 개의 유리 조각들도 출토되었어요. 깨진 작은 유리 조각들은 처음에 크게 눈길을 끌지 못했어요. 하지만 원래 모습으로 복원하자 사람들은 모두 깜짝 놀라고 말았어요.",
+      "est_speech_ms": 37200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "황남대총에 로만글라스가 묻힌 까닭은?",
+      "narration": "복원된 유물은 새의 머리 모양을 한 유리병과 유리잔이었어요. 이 유리병은 유리 성분을 분석해 보니 옛 로마제국에서 만든 것이었어요. 1500여 년 전 신라에, 그것도 아시아 서쪽 끝에 있던 로마제국의 유리병이 동쪽 끝의 신 라에서 발견되었으니 무척 신기한 일이었어요.\n유리는 5천 년 전 지중해 동쪽 연안에서 생활하던 상인들이 우연히 처음 발견했어요. 그리고 기원전 1세기쯤 이 지역의 유리 장인들이 ‘대롱불기’라는 기술을 개발하면서 본격적으로 유리그릇이 제작되기 시작했어요.\n‘대롱불기’는 녹은 유리 덩어리를 금속관(대롱) 끝에 매달고, 입으로 바람을 불어넣어 유리를 부풀려 그릇을 만드는 기술이에요. 유리 장인들은 대롱불기 기술로 얇고 투명한 유리그릇을 만들 수 있었고, 다양한 모양의 유리제품을 대량생산할 수 있게 되었어요. 이 기술은 로마에 전해졌고, 로마와 함께 유리그릇은 전 세계로 수출되었어요.",
+      "est_speech_ms": 65800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "신라 고분에서 출토된 로만글라스(문화재청)",
+        "대롱불기로 유리그릇 만들기"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a0f7b2aaaa15fc5/fig_069.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/8a0f7b2aaaa15fc5/fig_070.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.1667
+        },
+        {
+          "path": "assets/history/images/8a0f7b2aaaa15fc5/fig_071.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.3333
+        },
+        {
+          "path": "assets/history/images/8a0f7b2aaaa15fc5/fig_076.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "황남대총에 로만글라스가 묻힌 까닭은?",
+      "narration": "남아 있는 기록이 없어 유리그릇들이 어떻게 신라까지 와서 고분에 묻혔는지는 알 수 없어요. 다만 초원길이나 바닷길 등 당시 동서양을 이어주던 교역로를 통해 중국과 고구려를 거쳐 신라에 들어왔을 것으로 추측하고 있어요.\n지금도 유리그릇에 대해 풀지 못한 수수께끼가 많이 남아있어요.\n하지만 왕과 함께 묻힌 유리그릇들을 통해 당시 신라인들이 금과 함께 유리그릇을 매우 귀하게 여겼다는 것을 알 수 있어요.\n또한 먼 옛날부터 우리나라가 멀리 떨어진 서역이나 로마와도 연결되어 있었다는 것을 유리그릇은 증명하고 있어요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "동서교역로"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a0f7b2aaaa15fc5/fig_081.jpg",
+          "caption": "동서교역로",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기 : 신라 고분, 금관을 지켜내다",
+      "narration": "역사 속 작은 이야기: 신라 고분, 금관을 지켜내다\n대릉원의 천마총과 황남대총 발굴에서 수많은 옛 신라의 유물들이 원래 모습 그대로 출토되었어요. 출토된 유물들을 통해 신라인들이 사용했던 물건과 제작 방법뿐만 아니라 멀리 떨어진 다른 문화와의 교류 등 신라 사회 모습을 생생하게 되살릴 수 있었어요.\n이처럼 고분에 많은 신라의 유물들이 온전하게 남아있게 된 까닭은 무엇일까요?\n삼국 시대를 살았던 옛 조상들은 사람이 죽어도 영혼이 있어 살아있을 때와 똑같이 생활한다고 믿었어요. 그래서 무덤을 만들 때 돌이나 벽돌로 방을 만들었어요.\n그리고 방 안에는 널과 함께 무덤 주인이 사용할 여러 물건을 함께 묻었지요. 벽에는 사신도나 생활모습을 담은 그림을 그려 넣었어요.",
+      "est_speech_ms": 54200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기 : 신라 고분, 금관을 지켜내다",
+      "narration": "장례가 끝나면 방의 입구를 돌로 막고, 그 위로 돌이나 흙을 쌓아 무덤을 만들었어요.(굴식 돌방무덤/벽돌무덤)\n신라의 무덤은 고구려나 백제와는 달랐어요. 돌 대신에 나무를 덧대어 공간을 만들고 그 안에 관을 넣었어요. 그리고 덧널 위에 냇가에서 가져온 돌을 쌓고, 또 그 위에 흙을 쌓아 마무리했어요. 고구려나 백제처럼 무덤 입구를 따로 만들지 않았다는 점도 큰 차이가 있어요.\n고분의 위치를 찾아낸 도굴꾼들은 무덤의 입구가 어디 있는지를 먼저 찾았어요. 입구만 찾으면 무덤 안으로 들어가는 것은 너무 쉬운 일이었어요. 그러다보니 고구려나 백제의 고분은 도굴꾼에게 쉬운 약탈 대상이 되었어요.",
+      "est_speech_ms": 47600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "천마총 돌무지 덧널무덤의 구조"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a0f7b2aaaa15fc5/fig_095.jpg",
+          "caption": "천마총 돌무지 덧널무덤의 구조",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 6,
+      "section_title": "오랜 세월 도굴꾼으로부터 안전하게 유물을 지킨 신라의 고분!",
+      "narration": "안타깝게도 고구려와 백제의 수많은 유물들이 도굴꾼에 의해 사라져버렸어요.\n그러나 신라의 고분은 입구가 따로 없고, 어디를 파더라도 빠른 시간 안에 흙과 돌을 파헤칠 수가 없었어요. 고분을 찾은 도굴꾼들은 무덤 속에 값진 유물들이 있다는 것을 알면서도 군침만 흘릴 수밖에 없었지요.\n오랜 세월 도굴꾼으로부터 안전하게 유물을 지킨 신라의 고분!\n고분은 세상 밖으로 신라의 문화유산을 온전하게 드러내며, 지금 우리에게 옛 신라의 모습을 생생하게 보여주고 있어요.",
+      "est_speech_ms": 37600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

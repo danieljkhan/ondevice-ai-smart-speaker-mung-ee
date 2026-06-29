@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "stage": 5,
+  "title": "Tiny readers",
+  "cards": [
+    {
+      "schema_version": 1,
+      "card_id": "fe_s5_moon_1",
+      "stage": 5,
+      "type": "reader",
+      "text": "I see the moon",
+      "tokens": [
+        "i",
+        "see",
+        "the",
+        "moon"
+      ],
+      "ko_gloss": "달이 보여",
+      "syllables": [
+        "i",
+        "see",
+        "the",
+        "moon"
+      ],
+      "first_sound": "i",
+      "image": "assets/funny_english/images/fe_s5_moon_1.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s5_moon_1.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "i",
+        "see",
+        "the",
+        "moon"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "I see the moon",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s5_moon_2",
+      "stage": 5,
+      "type": "reader",
+      "text": "The moon is big",
+      "tokens": [
+        "the",
+        "moon",
+        "is",
+        "big"
+      ],
+      "ko_gloss": "달이 커",
+      "syllables": [
+        "the",
+        "moon",
+        "is",
+        "big"
+      ],
+      "first_sound": "t",
+      "image": "assets/funny_english/images/fe_s5_moon_2.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s5_moon_2.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "the",
+        "moon",
+        "is",
+        "big"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "The moon is big",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    },
+    {
+      "schema_version": 1,
+      "card_id": "fe_s5_moon_3",
+      "stage": 5,
+      "type": "reader",
+      "text": "I like the moon",
+      "tokens": [
+        "i",
+        "like",
+        "the",
+        "moon"
+      ],
+      "ko_gloss": "달이 좋아",
+      "syllables": [
+        "i",
+        "like",
+        "the",
+        "moon"
+      ],
+      "first_sound": "i",
+      "image": "assets/funny_english/images/fe_s5_moon_3.jpg",
+      "model_audio": "assets/funny_english/audio/fe_s5_moon_3.wav",
+      "accept_threshold": 0.6,
+      "hotwords": [
+        "i",
+        "like",
+        "the",
+        "moon"
+      ],
+      "asset_license": {
+        "license": "PD",
+        "source": "Mungi Funny English starter curriculum",
+        "title": "I like the moon",
+        "author": "Mungi project",
+        "notice": "Card text: original Mungi curriculum. Model audio: Supertonic F2 synthesized (2026-06-12). Card image: AI-generated (GPT Image, 2026-06-12), Mungi project."
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0.0",
+  "rules": {
+    "is_fact_query": {
+      "ko": {
+        "any_of": [
+          "뭐야",
+          "왜",
+          "어떻게",
+          "어디",
+          "언제"
+        ],
+        "regex_any_of": []
+      },
+      "en": {
+        "any_of": [
+          "what",
+          "why",
+          "how",
+          "where",
+          "when"
+        ],
+        "regex_any_of": []
+      }
+    },
+    "is_emotional": {
+      "ko": {
+        "any_of": [
+          "속상",
+          "슬프",
+          "무서",
+          "화나",
+          "외로",
+          "싫어"
+        ],
+        "regex_any_of": []
+      },
+      "en": {
+        "any_of": [
+          "sad",
+          "scared",
+          "angry",
+          "lonely",
+          "hate"
+        ],
+        "regex_any_of": []
+      }
+    },
+    "is_greeting": {
+      "ko": {
+        "any_of": [
+          "안녕"
+        ],
+        "regex_any_of": []
+      },
+      "en": {
+        "any_of": [
+          "hi",
+          "hello"
+        ],
+        "regex_any_of": []
+      }
+    },
+    "is_curious": {
+      "ko": {
+        "any_of": [
+          "궁금",
+          "신기"
+        ],
+        "regex_any_of": []
+      },
+      "en": {
+        "any_of": [
+          "curious",
+          "wonder"
+        ],
+        "regex_any_of": []
+      }
+    },
+    "is_help_request": {
+      "ko": {
+        "any_of": [
+          "도와줘"
+        ],
+        "regex_any_of": []
+      },
+      "en": {
+        "any_of": [
+          "help",
+          "can you"
+        ],
+        "regex_any_of": []
+      }
+    }
+  }
+}

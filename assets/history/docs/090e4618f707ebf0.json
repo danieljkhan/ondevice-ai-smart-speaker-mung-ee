@@ -1,0 +1,434 @@
+{
+  "schema_version": 2,
+  "doc_hash": "090e4618f707ebf0",
+  "source_file": "eh_r0052_0010.pdf",
+  "title": "고구려의 영토 확장을 알려주는 광개토대왕릉비와 충주 고구려비",
+  "kind": "artifact",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 20,
+  "section_count": 8,
+  "image_count": 10,
+  "est_total_ms": 868000,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "광개토 대왕릉비(중국 지린성 지안시), 국사편찬위원회"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "5세기 고구려의 발전",
+      "scene_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "image_captions": [
+        "5세기 고구려의 세력 확대"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "광개토 대왕릉비가 발견되기까지",
+      "scene_indices": [
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": null,
+      "scene_indices": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "광개토 대왕릉비의 표면(국사편찬위원회)"
+      ],
+      "is_infographic": true
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        12
+      ],
+      "scene_seq": [
+        13
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "충주 고구려비의 발견과 비문 내용",
+      "scene_indices": [
+        13,
+        14,
+        15
+      ],
+      "scene_seq": [
+        14,
+        15,
+        16
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "- 충주 고구려비 -",
+      "scene_indices": [
+        16
+      ],
+      "scene_seq": [
+        17
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 광개토 대왕릉비의 비문에 관한 여러 주장들",
+      "scene_indices": [
+        17,
+        18,
+        19
+      ],
+      "scene_seq": [
+        18,
+        19,
+        20
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "고구려의 영토 확장을 알려주는 광개토대왕릉비와 충주 고구려비\n“폐하! 왜의 군대가 저희 신라의 여러 성을 함락시키고 백성들을 괴롭히고 있습니다. 부디 구원병을 보내 저희를 도와주소서.”\n“알았다. 5만의 군대를 신라에 보내 왜군을 물리치도록 하라.”\n400년, 백제·가야·왜 연합군의 공격을 받은 신라가 다급히 고구려에 도움을 요청하였어요. 이에 광개토대왕(재위 391～413)은 보병과 기병 5만을 신라에 보내어 백제·가야·왜 연합군 물리쳤어요.\n이렇게 오래전 이야기가 어떻게 지금까지 전해질 수 있었을까요?",
+      "est_speech_ms": 41200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "광개토 대왕릉비(중국 지린성 지안시), 국사편찬위원회"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/090e4618f707ebf0/fig_001.jpg",
+          "caption": "광개토 대왕릉비(중국 지린성 지안시), 국사편찬위원회",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "5세기 고구려의 발전",
+      "narration": "5세기 고구려의 발전\n4세기 말에 왕위에 오른 광개토대왕은 중국의 혼란한 상황과 안정된 왕권을 바탕으로 대규모 정복 활동을 펼쳤어요. 우선 그는 만주의 랴오둥 방면으로 영토를 확장하고자했어요. 당시의 랴오둥 지역은 동북아시아의 주도권을 잡는 데 있어 상당히 중요한 곳이었거든요.\n왜냐하면, 랴오둥 지역이 중국과 고구려를 이어주는 길목에 위치하고 있을 뿐만 아니라 자원과 물자가 풍부하였기 때문이지요.\n이러한 랴오둥 지역을 차지하기 위해 기회를 엿보던 고구려는 마침내 광개토대왕 때 그 꿈을 이룰 수 있었어요. 랴오둥 지역을 차지한 덕분에 고구려는 군사력이 더욱 막강해졌어요. 광개토 대왕은 강한 군사력을 앞세워 활발한 정복 전쟁을 이어나갔어요.",
+      "est_speech_ms": 53800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "5세기 고구려의 발전",
+      "narration": "이후 고구려는 동쪽으로 숙신과 동부여를 정복하고, 남쪽으로 백제를 공격해 임진강과 한강 상류 지역을 차지했어요. 그리고 신라의 구원 요청을 받아들여 군대를 보내 백제ㆍ가야ㆍ왜 연합군을 물리치고 한반도 남부 지역에도 영향력을 확대했어요.",
+      "est_speech_ms": 19600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "5세기 고구려의 세력 확대"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/090e4618f707ebf0/fig_016.jpg",
+          "caption": "5세기 고구려의 세력 확대",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "5세기 고구려의 발전",
+      "narration": "광개토 대왕의 활발한 정복 활동 덕분에 고구려는 장수왕(재위 413～491) 때이르러 전성기를 맞이했어요\n5세기 초에 즉위한 장수왕은 아버지 광개토 대왕의 업적을 기념하기 위해 수도인 국내성 부근에 광개토대왕릉비를 세웠어요.\n이어 427년에는 국내성에서 평양으로 수도를 옮겼어요. 국내성에 기반을 둔 귀족들의 세력을 약화시켜 왕권을 강화하고, 바닷길을 이용해 보다 적극적인 국제 교류를 펼치기 위해서였지요.\n평양으로 천도한 이후 장수왕은 남쪽으로의 영토 확장을 계획하고 남하 정책을 본격적으로 추진했어요. 먼저 백제를 공격해 수도를 함락시킨 뒤 남한강 유역으로 진출했지요.",
+      "est_speech_ms": 48400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "5세기 고구려의 발전",
+      "narration": "이로써 고구려의 세력 범위는 랴오둥 지역에서부터 한반도 중부 지역까지 이르게 되었어요.\n이러한 사실은 당시 고구려가 한반도 중부 지역을 차지한 뒤에 세운 충주 고구려비를 통해 잘 알 수 있어요.\n비문에서는 고구려를 ‘태왕의 나라’로, 신라를 ‘고구려 아래에 있는 동쪽 오랑캐’로 기록하고 있는데, 고구려왕이 신라의 왕과 신하들에게 의복을 주었다는 내용도 담겨 있답니다.\n지금부터 동북아시아 최강국을 이룩한 고구려 광개토대왕과 장수왕의 업적을 알려주는 광개토대왕릉비와 충주 고구려비에 대해 자세히 알아볼까요?",
+      "est_speech_ms": 42000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/090e4618f707ebf0/fig_033.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "광개토 대왕릉비가 발견되기까지",
+      "narration": "광개토대왕릉비가 발견되기까지\n아주 오랜 옛날부터 현대에 이르기까지 사람이 죽으면 그 사람의 시신을 묻는 무덤을 만들었어요. 그리고 무덤 앞에 그 인물이 살아있을 때의 활동이나 업적을 기념하는 글을 새긴 돌을 세워 놓았어요. 그 돌을 비석이 라고 해요. 그냥 ‘비’라고도 하지요.\n고구려의 장수왕도 아버지 광개토 대왕의 업적을 기념하기 위해 비석을 세웠어요. 이 비석이 바로 광개토대왕릉비랍니다. 이 비석은 높이가 6.39미터, 무게가 37톤이나 되는 어마어마한 규모를 자랑해요. 동아시아에서 가장 큰 비석으로 알려져 있어요.",
+      "est_speech_ms": 42800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "광개토 대왕릉비가 발견되기까지",
+      "narration": "414년(장수왕 2)에 세워진 광개토대왕릉비는 668년에 고구려가 멸망한 이후 돌보는 사람 없이 방치되었어요.\n이후 조선 세종 때 만들어진 ‘용비어천가’에 이 비석에 대해 조금 소개한 내용이 있어요. ‘용비어천가’는 조선을 건국한 태조 이성계의 업적을 노래한 시인데, 여진족이 세운 금나라 땅에 아주 큰 비석이 있다고 서술되어 있어요.\n조선 성종 때 편찬된 지리서인 신증동국여지승람에는 고구려의 장군총을 금나라 황제의 묘로 잘못 소개한 글이 있어요.\n이 서적에도 광개토대왕릉비의 존재에 대해 소개하고 있어요. ‘용비어천가’처럼 비석의 주인공에 대한 내용은 없고 단순히 옛 금나라 땅에 큰 비석이 있다는 것만 서술되어 있어요.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "광개토 대왕릉비가 발견되기까지",
+      "narration": "이처럼 조선 전기의 일부 기록에 따르면 당시 사람들은 광개토대왕릉비의 존재는 알았지만, 고구려의 비석이 아니라 여진족이 세운 금나라 황제의 비석이라고 잘못 알고 있었어요.\n왜냐하면, 당시 조선인들은 만주 지역이 여진족의 땅이었다고 생각했기 때문이죠. 그래서 그곳에 있는 광개토대왕릉비를 직접 조사하거나 비문 내용을 확인하지는 않았어요.\n여기에 17세기 이후 만주족이 세운 청나라가 만주 지역을 자신들의 고향이라고 여겨 사람이 살지 못하는 지역으로 만들었지요. 그래서 비석의 존재는 사람들의 기억 속에 묻히게 되었지요.",
+      "est_speech_ms": 43600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "광개토대왕릉비가 다시 발견된 것은 1876년(고종 13) 이 지역에 청나라 의 행정구역이 설치되면서예요.\n1877년 이 지역의 책임자로 온 어느 청나라 관리가 이끼로 덮여 있던 광개토대왕릉비를 발견했어요.\n그는 광개토대왕릉비 중에서 이끼가 덮여 있지 않은 일부를 탁본하였어요. 탁본은 비석에 새겨진 글자를 알기 위해 먹을 이용해 종이에 글자를 본뜨는 방법을 말해요.\n당시 청나라 관리는 자신이 뜬 탁본을 여러 사람에게 소개하였는데, 탁본 내용을 통해 광개토대왕릉비의 존재가 세상에 널리 알려지게 되었어요.\n광개토대왕릉비의 내용",
+      "est_speech_ms": 44000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/090e4618f707ebf0/fig_048.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/090e4618f707ebf0/fig_049.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.2
+        },
+        {
+          "path": "assets/history/images/090e4618f707ebf0/fig_050.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.4
+        },
+        {
+          "path": "assets/history/images/090e4618f707ebf0/fig_051.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.6
+        },
+        {
+          "path": "assets/history/images/090e4618f707ebf0/fig_052.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.8
+        },
+        {
+          "path": "assets/history/images/090e4618f707ebf0/fig_053.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "광개토대왕릉비는 6.39미터나 되는 큰 화강암을 다듬지 않고 그대로 이용해서 만들어졌어요. 그래서 표면이 매끄럽지 않고 울퉁불퉁하지요. 그런데 비석 표면을 가만히 들여다보면 그 울퉁불퉁한 표면에 반듯하게 그어진 바둑판 같은 선을 볼 수 있어요.",
+      "est_speech_ms": 20400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "글자 간격을 균등하게 새기기 위해 가로 세로로 바둑판처럼 가는 선을 그어 공간을 만든 것이지요. 정말 고구려 사람들의 치밀함과 섬세함이 놀랍지 않나요?\n이러한 각각의 공간에 손바닥만 한 글자들이 새겨져 있는데, 자그마치 4면에 44행으로 총 1,775자나 되는 한자가 새겨져 있어요. 정말 대단하지요?\n한 가지 안타까운 것은 그중 150자 정도는 닳아서 어떤 글자인지 해석이 안 된다고 하네요.\n그럼 광개토대왕릉비의 4개 표면에 있는 글자들은 어떤 내용을 담고 있을까요? 학자들의 연구에 따르면 광개토대왕릉비의 비문은 크게 세 부분으로 구성되어 있어요.",
+      "est_speech_ms": 45400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "광개토 대왕릉비의 표면(국사편찬위원회)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/090e4618f707ebf0/fig_063.jpg",
+          "caption": "광개토 대왕릉비의 표면(국사편찬위원회)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "비문의 첫 번째 부분에는 추모왕(주몽)의 고구려 건국 이야기, 그리고 유리왕(유리명왕)·대주류왕(대무신왕)부터 광개토대왕에 이르는 왕들의 계보와 업적 및 비석을 세우게 된 배경 등이 기록되어 있어요.\n두 번째 부분에는 광개토 대왕의 정복 활동과 정복한 곳을 둘러본 내용 등이 시간순으로 기록되어 있어요. 세 번째 부분에는 광개토 대왕의 무덤을 지키는 사람들의 명단과 무덤을 지키는 규정 등이 기록되어 있지요.\n한편, 광개토대왕릉비에는 광개토대왕의 정복 활동을 비롯해 당시 고구려 사람들이 자신들을 어떻게 생각했는지 알 수 있는 기록이 있어요. 아래의 내용을 통해 동아시아의 강대국으로 성장한 고구려가 스스로 천하의 중심이라는 자부심을 가지고 있었음을 알 수 있지요.",
+      "est_speech_ms": 54600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "시조 추모왕(주몽)이 나라를 세웠다. 시조 주몽은 북부여에서 태어났는데, 하늘의 아들이다. … (왕의) 은혜로운 덕이 하늘까지 미쳤고 세력은 온 세계에 떨쳤다. (나쁜 무리를) 쓸어 없애니, 백성들이 편안히 살게 되었다. … 백잔(백제)과 신라는 옛날부터 (고구려에) 속한 백성으로 조공을 바쳐 왔다.\n- 광개토대왕릉비 -\n광개토대왕릉비의 첫머리에 적힌 글을 통해 고구려인이 자신들을 하늘의 자손이라고 생각하였음을 알 수 있어요. 또 광개토대왕을 정복한 지역의 백성에게 은혜를 베푸는 존재로 묘사하였음도 확인할 수 있어요.",
+      "est_speech_ms": 40800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": "충주 고구려비의 발견과 비문 내용",
+      "narration": "그리고 백제와 신라가 고구려에 종속된 나라라고 생각하고 조공을 받았다는 기록도 보이네요.\n이처럼 당시 고구려인은 자신들의 나라가 백제와 신라를 거느리며 동아시아의 독자적인 세력을 가진 강대국으로 자부했음을 짐작할 수 있지요.\n충주 고구려비의 발견과 비문 내용\n1979년 4월 8일, 당시 충청북도 중원군의 입석(立石)마을 입구 선돌에서 글씨가 발견되었다는 소식을 듣고 학자들이 모였어요.\n마을을 지키는 신성한 돌로 여겨진 선돌은 1972년에 일어난 대홍수 때 쓰러졌었는데, 이 마을 청년들이 다시 세워 마을의 상징으로 삼고 있었어요.",
+      "est_speech_ms": 44600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 5,
+      "section_title": "충주 고구려비의 발견과 비문 내용",
+      "narration": "이후 향토문화연구회 사람들이 이 선돌을 살펴보다가 글자를 발견하게 되었고, 심상치 않은 느낌이 들어 역사학자들에게 연락하게 된 것이지요.\n연락을 받고 부리나케 달려온 역사학자들이 돌에 낀 이끼를 걷어내고 탁본을 하였어요. 그러자 첫머리에서 ‘고려 태왕(高麗太王)’이란 글자가 선명히 드러났지요.\n‘고려(高麗)’는 고구려의 다른 이름이기도 하지요.",
+      "est_speech_ms": 28200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 16,
+      "section_index": 5,
+      "section_title": "충주 고구려비의 발견과 비문 내용",
+      "narration": "마을의 수호신 역할을 하던 선돌이 갑자기 한반도 유일의 고구려비로 탈바꿈하는 순간이었어요.\n이 비석은 충청북도 중원군에서 발견된 고구려비라는 의미로 ‘중원고구려비’로 이름 붙여졌어요. 이후 중원군이 충주시와 합쳐지면서 비석의 명칭이 ‘충주고구려비’로 바뀌게 되었지요.\n화강암으로 만들어진 충주 고구려비에는 비의 네 면에 한자로 총 칠백여 자가 새겨져 있어요. 그러나 비, 바람 등 세월의 흔적에 의해 많은 글자가 닳아서 지금은 이백여 자만 읽을 수 있답니다.\n그 내용 중 일부를 소개하면 다음과 같아요.\n고구려 대왕이 신라 매금(신라 왕)을 만나 영원토록 친선을 맺기 위해 중원(충주)에 왔으나 … 동이(동쪽의 오랑캐) 매금에게 옷을 내려 주었다.",
+      "est_speech_ms": 51800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 17,
+      "section_index": 6,
+      "section_title": "- 충주 고구려비 -",
+      "narration": "- 충주고구려비 -\n충주고구려비에는 신라의 왕을 ‘동이(동쪽 오랑캐) 매금(마립간)’이라 표현하고 있어요. 아울러 신라의 왕과 신하를 고구려로 불러들여 관리들이 입는 옷을 나누어 준 사실도 기록되어 있어요.\n이를 통해 5세기 장수왕 때 고구려가 적극적인 남진 정책을 실시하여 백제를 밀어내고 한강 유역을 장악하였음을 알 수 있지요.\n또한 당시 동아시아의 강대국으로 성장한 고구려가 고구려 중심의 천하 관을 과시하였음을 보여 주지요.",
+      "est_speech_ms": 34800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 18,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 광개토 대왕릉비의 비문에 관한 여러 주장들",
+      "narration": "역사 속 작은 이야기: 광개토대왕릉비의 비문에 관한 여러 주장들\n광개토대왕릉비는 당시 동아시아 강국으로서 고구려의 위상을 알 수 있을 뿐만 아니라 백제와 신라의 상황, 왜(일본)와의 관계 등도 알려주는 귀중한 유물이에요.\n그런데, 비석에 기록된 일부 내용을 두고 우리나라와 일본이 서로 다른 해석을 한 적이 있어요.\n이는 일본의 역사 왜곡 문제로 확대되어 한국과 일본, 두 나라의 뜨거운 역사 분쟁으로 이어졌어요. 이는 광개토대왕릉비의 비문에 있는 20여 자 정도 되는 짧은 문장을 어떻게 해석하느냐에 따라 주장이 완전히 달라졌기 때문이죠. 그 내용은 다음과 같아요.",
+      "est_speech_ms": 45800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 19,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 광개토 대왕릉비의 비문에 관한 여러 주장들",
+      "narration": "而倭以辛卯年來渡海破百殘□□□羅以爲臣民\n한자로 된 이 문장을 일본 학자들은 ‘왜(일본)가 신묘년(391년)에 바다를 건너와 백제를 격파하여 신민(신하와 백성)으로 삼았다.’라고 풀이하였어요. 그러나 우리나라 학자들은 다르게 해석을 하였어요.\n광개토대왕릉비가 광개토대왕의 업적을 기념하는 내용이므로 백제와 신라를 격파한 주체는 당연히 고구려라고 해석을 하였지요.\n한편, 북한의 학자들은 고구려가 왜를 격퇴하였으며, 백제가 왜와 연결하여 신라를 침략하여 신하와 백성으로 삼았다고 보았어요. 즉 백제가 친하게 지내던 왜를 끌어들여 신라를 침략하였고, 이후 고구려가 백제와 왜를 격퇴했다는 내용이지요.",
+      "est_speech_ms": 49400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 20,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 광개토 대왕릉비의 비문에 관한 여러 주장들",
+      "narration": "반면, 재일(在日) 역사학자이진희는 비가 일본에 의해 조작되었다고 주장하면서 학계의 주목을 받았어요. 즉, 19세기 말에 일본이 사람을 만주에 보내 광개토대왕릉비의 비문을 파괴하고 석회를 바른 후 다시 새겨 비문을 조작했다는 것이었어요. 그러나 비석을 연구하는 한 중국 학자는 당시 일본인에 의한 비문 조작은 없었다고 주장하기도 했어요.\n19세기 말 광개토대왕릉비가 다시 발견될 당시, 일본은 한반도를 침략하려는 목적을 가지고 있었어요. 그래서 옛 가야 지역에 임나일본부라는 기관을 설치하고 백제와 신라를 정복하였다는 것(임나일본부설)을 주장하였는 데, 광개토대왕릉비의 내용을 그 증거로 내세우려했던 것이지요. 하지만 현재 일본이 주장한 임나일본부설은 부정되고 있어요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

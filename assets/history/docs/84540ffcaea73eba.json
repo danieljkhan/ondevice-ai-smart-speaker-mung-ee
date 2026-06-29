@@ -1,0 +1,384 @@
+{
+  "schema_version": 2,
+  "doc_hash": "84540ffcaea73eba",
+  "source_file": "eh_r0035_0010.pdf",
+  "title": "충청 지역의 구석기 유적",
+  "kind": "artifact",
+  "era": "선사",
+  "era_source": "keyword",
+  "scene_count": 13,
+  "section_count": 5,
+  "image_count": 15,
+  "est_total_ms": 523500,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "충청 지역의 구석기 유적",
+      "scene_indices": [
+        0,
+        1
+      ],
+      "scene_seq": [
+        1,
+        2
+      ],
+      "image_captions": [
+        "단양 금굴(충북 단양군), 국가유산청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "도구를 이용하여 사냥하다",
+      "scene_indices": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "단양수양개 출토 유물(주먹도끼, 긁개, 슴베찌르개), 국가유산청)",
+        "슴베찌르개 만들기와 사냥하기"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "구석기 사람들의 소중한 집터, 동굴",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "단양 금굴(국가유산청)",
+        "상시 바위그늘 유적(단양군 매포읍 상시리)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "구석기 사람들, 집을 짓기 시작하다",
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [
+        "구석기 시대의 생활 모습"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "역사 속 작은 이야기: 뗀석기 어떻게 만들었을까",
+      "scene_indices": [
+        10,
+        11,
+        12
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13
+      ],
+      "image_captions": [
+        "공주 석장리 유적 막집(복원), 국가유산청",
+        "충청 지역의 구석기 유적",
+        "석기 제작소(단양 수양개 유적), 국가유산청"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "충청 지역의 구석기 유적",
+      "narration": "충청 지역의 구석기 유적\n“여기 돌조각들이 있어요. 이곳에서 옛날 사람들이 살았나 봐요?” “이곳은 구석기 시대 사람들이 뗀석기를 만들었던 곳이에요.” “구석기 사람들은 뗀석기를 어떻게 사용하였을까?”\n구석기 시대에 살았던 사람의 흔적이 우리나라 곳곳에 있는 동굴에서 발견되었어요. 당시 사람들이 쓰던 석기들도 함께 발견되었어요. 구석기 시대 사람들은 어떻게 생활하였을까요?\n자연 속에서 먹을거리를 구하다\n구석기 시대 사람들은 어떻게 먹고 살았을까요? 구석기 시대 사람들은 자연과 더불어 살아갔어요. 먹을거리 또한 자연 속에서 얻어야 했지요. 가장 손쉬운 방법은 자연이 준 그대로 식물의 열매, 뿌리, 잎 따위를 따서 먹는 채집이 었어요.",
+      "est_speech_ms": 51400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "단양 금굴(충북 단양군), 국가유산청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_001.jpg",
+          "caption": "단양 금굴(충북 단양군), 국가유산청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "충청 지역의 구석기 유적",
+      "narration": "그렇다고 채집이 마냥 쉽지만은 않았어요. 어느 곳에 가야 먹을 수 있는 식물이 많은지, 어떤 식물은 먹으면 위험한지, 어느 계절에 무슨 나무 열매가 나는지 등등을 알아야 했어요. 그들은 온종일 먹을 것을 찾아다녀야 했어요. 게다가 독충과 맹수를 만나 목숨이 위태롭기도 하였어요.\n또 큰 나무에 달린 열매를 따다가, 땅을 파서 식물의 뿌리를 캐다가 다치는 일도 생겼어요. 구석기 사람들은 채집에 대한 계획도 짜고, 준비도 했어요. 그리고 함께 움직였어요.\n이렇게 지내다 보면 어느덧 부근에 있던 먹을거리가 바닥나기 마련이었어요. 그들은 먹을거리를 찾아 또 지낼 곳을 옮겨야 했지요.",
+      "est_speech_ms": 46200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "도구를 이용하여 사냥하다",
+      "narration": "도구를 이용하여 사냥하다\n구석기 시대 사람들에게 채집 활동은 매우 중요한 일이었어요. 하지만 고기를 먹지 못하면 단백질을 얻지 못해서 건강할 수가 없어요. 따라서 짐승을 잡아 고기를 섭취하는 것 역시 중요했어요. 게다가 그 가죽으로 옷도 해 입을 수도 있었지요.\n그러나 사냥은 매우 힘들고 위험한 일이었어요. 사냥을 나갔다가 오히려 사나운 짐승에게 당하는 경우가 많았어요. 사람들은 사냥을 할 때 협동이 필요하다는 것을 알았어요.\n혼자서는 거의 불가능했거든요. 치밀한 작전을 짜고 역할도 나누었어요. 운이 좋아 사냥에 성공하면, 서로 기뻐하였지요. 사냥은 그저 용맹하기만 해서 되는 일이 아니었어요. 서로 지혜를 모아 최대로 활용해야 성공할 수 있었지요.",
+      "est_speech_ms": 53200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "도구를 이용하여 사냥하다",
+      "narration": "사냥에는 도구가 꼭 필요했어요. 유용한 도구가 개발되고 사냥 기술이 발달하면서 짐승을 더 많이 잘 잡을 수 있었어요. 그렇다면 구석기 시대 사람들은 어떤 도구들을 사용하였을까요?\n구석기 시대에는 주변의 돌을 이용해 다양한 도구를 만들었어요. 돌멩이를 깨거나, 큰 돌에서 돌조각을 떼어 내고 다듬어 도구로 사용했지요. 이렇게 만든 도구를 뗀석기라고 해요.",
+      "est_speech_ms": 28800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "도구를 이용하여 사냥하다",
+      "narration": "단양 수양개 유적에서는 찍개, 찌르개, 주먹도끼, 밀개, 긁개, 슴베찌르개 등 다양한 석기들이 출토되었어요. 이 석기들을 통해 우리는 구석기 사람들의 생활 모습을 짐작해 볼 수 있어요.\n주먹도끼는 찍는 날과 자르는 날 두 가지가 모두 있어서 다양한 용도로 사용할 수 있는 만능 도구였어요. 긁개는 짐승의 가죽을 벗기거나, 나무나 뼈를 깎는 도구로 사용되었어요. 밀개는 살을 저미거나 뼈를 깎는다거나 나무껍질을 벗겨 내는 데 사용하였어요. 찍개는 나무를 다듬거나 사냥한 짐승의 뼈를 찍고, 살을 자를 때 사용하는 도구였어요. 찌르개는 짐승을 찌르거나 가죽에 구멍을 뚫을 때 사용했어요.",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "단양수양개 출토 유물(주먹도끼, 긁개, 슴베찌르개), 국가유산청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_023.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_024.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_025.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": "도구를 이용하여 사냥하다",
+      "narration": "특히 대표적 유물인 슴베찌르개를 살펴보면 구석기 사람들의 사냥 모습을 구체적으로 상상해 볼 수 있어요.\n슴베찌르개는 얇은 돌 조각을 뾰족하게 다듬어 나무 막대기에 연결하여 묶을 수 있도록 만든 사냥 도구에요. 이렇게 나무와 결합한 슴베찌르개는 사냥감과 일정한 거리를 유지할 수 있고, 멀리까지 던져 맞힐 수도 있어 사냥에 유리하였어요.",
+      "est_speech_ms": 27600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "슴베찌르개 만들기와 사냥하기"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_032.jpg",
+          "caption": "슴베찌르개 만들기와 사냥하기",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "구석기 사람들의 소중한 집터, 동굴",
+      "narration": "구석기 사람들의 소중한 집터, 동굴\n구석기 시대 사람들은 어디에서 살았을까요? 구석기 사람들은 주로 동굴에 서 살았어요. 보통 동굴은 축축하고 물이 흥건히 괴어 있는 경우가 많지요. 그래도 추위와 비바람을 피하기에는 동굴만한 것이 없었지요. 더구나 동굴 밖으로 앞에 강이 흐르고 작은 들판까지 있다면 그들에게 더할 나위 없는 보금자리가 되었지요.\n가운데 보이는 구멍이 동굴이에요.\n동굴 안에 땅을 파거나 돌을 쌓아 불을 피울 자리를 만들었어요. 그리고 그 주위에 둘러앉아 몸을 녹이거나 잡아 온 동물을 익혀 먹었어요. 잠자리에 들 때에는 낮에 구해온 나뭇잎 등을 깔고, 사냥한 동물의 가죽을 이불 삼아 추운 날씨를 이겨 냈어요. 구석기 시대 사람들은 수십만 년이 넘는 세월 동안 자연에서 얻은 보금자리인 동굴에서 주로 살았어요.",
+      "est_speech_ms": 58600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "단양 금굴(국가유산청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_038.jpg",
+          "caption": "단양 금굴(국가유산청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "구석기 사람들의 소중한 집터, 동굴",
+      "narration": "동굴 외에 바위 그늘에서도 많이들 살았어요. 그러한 모습은 단양상시 바위 그늘 유적에서 확인해 볼 수 있어요. 바위 그늘은 암벽 위쪽이 기울어지거나 아래쪽이 움푹 들어가서 비나 햇빛을 피할 수 있는 공간이었지요. 사람들은 그곳 안쪽에 불을 피우고 추위와 맹수의 위협을 피하며 살았어요.",
+      "est_speech_ms": 23200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "상시 바위그늘 유적(단양군 매포읍 상시리)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_042.jpg",
+          "caption": "상시 바위그늘 유적(단양군 매포읍 상시리)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "구석기 사람들, 집을 짓기 시작하다",
+      "narration": "구석기 사람들, 집을 짓기 시작하다\n구석기 시대 사람들은 동굴에서만 살았을까요? 살만한 동굴을 찾지 못하면 어떻게 해야 할까요? 동굴 대신 머물 수 있는 공간이 필요했어요. 공주 석장리 유적의 집터 자리에서 구석기 사람들이 지었던 집의 흔적을 확인해 볼 수 있어요.\n석장리에 살던 당시 사람들은 평지에 풀이나 나뭇가지로 거칠게 ‘막집’을 지어 살았어요. 자세히 살펴볼까요?\n집자리는 담을 쳐서 집을 바깥과 구별하고, 출입하는 문을 만들었어요. 기둥을 세우고 겉에 막을 쳐서 비바람을 막았어요. 내부에는 돌을 둥그렇게 둘러 불을 피우는 자리가 있었어요. 석장리 사람들은 불을 이용하여 음식을 만들어 먹기도 하고 집안을 따뜻하게도 했어요.",
+      "est_speech_ms": 51200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "구석기 시대의 생활 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_047.jpg",
+          "caption": "구석기 시대의 생활 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "구석기 사람들, 집을 짓기 시작하다",
+      "narration": "석장리 집자리 유적을 통해 구석기 사람들이 어떻게 생활하였는지 상상해 볼 수 있어요.\n구석기 사람들은 먹을 것을 찾아 끊임없이 옮겨 다녀야 했어요. 그러니 굳이 힘들게 집을 지을 필요가 없었어요. 그런데 왜 집을 지을 생각을 하였을까요?",
+      "est_speech_ms": 19000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "역사 속 작은 이야기: 뗀석기 어떻게 만들었을까",
+      "narration": "어떤 곳에서는 오래 머물러도 먹을거리가 해결되었어요. 그래서 고생스럽지만 집을 지어야겠다고 생각했어요. 아마도 바위 그늘과 같은 형태를 본떠서 주변에서 쉽게 구할 수 있는 나무로 집을 지었겠지요. 비록 지금 보기에 엉성하고 보잘것없어 보이지만 사람들이 들어가 생활할 공간을 만들었다는 것은 대단한 발전이었지요.\n역사 속 작은 이야기: 뗀석기 어떻게 만들었을까\n인류는 도구를 사용하면서 발달했어요. 자연을 극복할 수 있었고, 동물을 지배할 수 있었어요. 도구가 늘어날수록 인간의 지식은 늘어나고 문명화되었어요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "공주 석장리 유적 막집(복원), 국가유산청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_058.jpg",
+          "caption": "공주 석장리 유적 막집(복원), 국가유산청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "역사 속 작은 이야기: 뗀석기 어떻게 만들었을까",
+      "narration": "그런데 인류는 나무를 도구로 사용하지는 않았을까요? 물론 나무를 도구로 사용했을 가능성은 충분하지만, 아쉽게도 나무로 만든 도구는 모두 썩었기 때문에 유물로 남아 있지 않아 확인할 수 없어요. 대신 돌로 만든 도구가 남아 있어 인류가 도구를 어떻게 사용했는지 확인할 수 있지요.",
+      "est_speech_ms": 22600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "충청 지역의 구석기 유적"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_063.jpg",
+          "caption": "충청 지역의 구석기 유적",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 4,
+      "section_title": "역사 속 작은 이야기: 뗀석기 어떻게 만들었을까",
+      "narration": "단양 수양개 유적에서 특별한 유물이 발굴되었어요. 바로 뗀석기를 만든 흔적이 남아 있는 석기 제작소에요. 모루돌과 몸돌, 그리고 떨어진 조각돌(격지)이 출토되었어요. 이를 통해 구석기 시대 사람들이 어떻게 뗀석기를 만들었는지 알 수 있게 되었어요.\n우리는 지금까지 단양, 공주 등의 구석기 유적과 유물을 통해 구석기 사람들의 생활 모습을 살펴보았어요.\n지금의 눈으로 보면 엉성하고 우스꽝스러워 보일 수 있지만 당시 사람들에게는 생존이고 발전이었어요. 이후 구석기 사람들은 어떤 모습으로 살았을까요? 앞으로 공부하게 될 유물과 유적이 우리를 또 어떻게 안내해 줄까요?",
+      "est_speech_ms": 46200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "석기 제작소(단양 수양개 유적), 국가유산청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_069.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_075.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.4643
+        },
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_076.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5893
+        },
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_077.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.7143
+        },
+        {
+          "path": "assets/history/images/84540ffcaea73eba/fig_078.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    }
+  ]
+}

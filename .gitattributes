@@ -1,0 +1,68 @@
+# Line ending normalization
+#
+# Prevents CRLF injection on Windows checkouts (when git core.autocrlf=true is
+# active) that breaks scripts deployed to Linux/Jetson via scp. Scripts on
+# Jetson are parsed by bash which rejects CRLF with a "예기치 않은 토큰" error.
+#
+# This file makes git store and check out these extensions with LF on every
+# platform, regardless of the user's core.autocrlf setting.
+
+# Default: let git decide based on content, normalize detected text to LF.
+* text=auto eol=lf
+
+# Shell / bash — MUST be LF (bash parse errors on CRLF)
+*.sh        text eol=lf
+*.bash      text eol=lf
+
+# Python — LF everywhere for diff cleanliness + cross-platform stability
+*.py        text eol=lf
+*.pyi       text eol=lf
+
+# Config / data
+*.json      text eol=lf
+*.yaml      text eol=lf
+*.yml       text eol=lf
+*.toml      text eol=lf
+*.ini       text eol=lf
+*.cfg       text eol=lf
+
+# Docs
+*.md        text eol=lf
+*.rst       text eol=lf
+*.txt       text eol=lf
+
+# Systemd / service units
+*.service   text eol=lf
+*.socket    text eol=lf
+*.timer     text eol=lf
+
+# Git / CI
+.gitignore          text eol=lf
+.gitattributes      text eol=lf
+.pre-commit-config.yaml text eol=lf
+
+# Windows-native scripts — explicit CRLF (keep as-is)
+*.bat       text eol=crlf
+*.cmd       text eol=crlf
+*.ps1       text eol=crlf
+
+# Binary
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.gif       binary
+*.ico       binary
+*.pdf       binary
+*.wav       binary
+*.mp3       binary
+*.onnx      binary
+*.ort       binary
+*.gguf      binary
+*.safetensors binary
+*.bin       binary
+*.pt        binary
+*.pth       binary
+*.whl       binary
+*.tar.gz    binary
+*.tar.bz2   binary
+*.zip       binary

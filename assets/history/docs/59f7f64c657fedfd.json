@@ -1,0 +1,425 @@
+{
+  "schema_version": 2,
+  "doc_hash": "59f7f64c657fedfd",
+  "source_file": "eh_r0190_0010.pdf",
+  "title": "조선의 으뜸 궁궐, 경복궁",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 19,
+  "section_count": 9,
+  "image_count": 8,
+  "est_total_ms": 796500,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "경복궁 근정전(서울 종로구), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "조선 왕조 500년의 역사를 품고 있는 경복궁",
+      "scene_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        5
+      ],
+      "scene_seq": [
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "나랏일을 하는 곳은 앞쪽, 쉬는 공간은 뒤쪽에 두다",
+      "scene_indices": [
+        6
+      ],
+      "scene_seq": [
+        7
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "경복궁 건물 이름에 담긴 의미는?",
+      "scene_indices": [
+        7,
+        8
+      ],
+      "scene_seq": [
+        8,
+        9
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "왕의 즉위식이 거행된 곳은? 근정전",
+      "scene_indices": [
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "근정전 지붕의 잡상"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": null,
+      "scene_indices": [
+        12,
+        13,
+        14
+      ],
+      "scene_seq": [
+        13,
+        14,
+        15
+      ],
+      "image_captions": [
+        "교태전의 아미산과 자경전의 십장생굴뚝(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "임금과 신하들이 연회를 열었던 경회루",
+      "scene_indices": [
+        15
+      ],
+      "scene_seq": [
+        16
+      ],
+      "image_captions": [
+        "경회루와 경회루 누각에서 본 경복궁의 풍경(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 8,
+      "section_title": "역사 속 작은 이야기: 궁궐 안에 또 다른 궁, 건청궁",
+      "scene_indices": [
+        16,
+        17,
+        18
+      ],
+      "scene_seq": [
+        17,
+        18,
+        19
+      ],
+      "image_captions": [
+        "건청궁과 향원정(문화재청)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "조선의 으뜸 궁궐, 경복궁\n“이제 새로운 도읍지 한양에 궁궐을 세우도록 하시오.”\n“신, 정도전 분부 받들겠사옵니다.”\n새 왕조 조선이 건국된 이후 한양이 새로운 도읍지로 정해지고 조선의 첫 궁궐이 세워졌어요. 바로 경복궁이지요.\n경복궁은 어떤 모습을 한 궁궐이었을까요?\n경복궁에는 어떤 정신이 담겨 있을까요?",
+      "est_speech_ms": 24400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "경복궁 근정전(서울 종로구), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/59f7f64c657fedfd/fig_001.jpg",
+          "caption": "경복궁 근정전(서울 종로구), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "조선 왕조 500년의 역사를 품고 있는 경복궁",
+      "narration": "조선 왕조 500년의 역사를 품고 있는 경복궁\n태조 이성계는 새 왕조를 세운지 채 한 달도 안 돼 천도를 결심했어요.\n처음에는 한양으로 천도를 명했지만 새로운 후보지로 계룡산과 무악이 거론되면서 천도는 한동안 미뤄야했어요.\n최종적으로 한양을 도읍지로 결정하고 도읍지 설계의 총책임을 정도전에게 맡겼어요. 정도전을 비롯한 신하들은 궁궐, 종묘, 사직, 도로, 시장 등을 설계하고, 각종 공사를 시작했어요.\n궁궐은 1395년 9월 29일에 완공되었고, 이성계는 12월 28일에 서둘러 새 궁궐인 경복궁으로 옮겨왔어요.",
+      "est_speech_ms": 42200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "조선 왕조 500년의 역사를 품고 있는 경복궁",
+      "narration": "경복궁이 처음 지어졌을 때에는 390여 칸의 규모로, 다른 나라 궁궐에 비해 그리 크지 않았어요. 검소함을 중요하게 여긴 사대부들의 정신이 잘 구현된 궁궐이었지요. 비록 규모는 작지만 그 안에 담겨 있는 의미와 아름다움은 어느 나라 궁궐 못지않답니다.\n자연과의 조화를 보여주는 궁궐을 돌아보면, 저절로 감탄사가 나오기도 해요.\n인왕산과 북악산의 능선과 경복궁의 지붕선이 만들어낸 곡선의 조화는 매우 아름다워요. 궁궐 바닥에 깔린 돌 하나하나에는 자연스러움이 깃들어 있어요.\n그런데 왜 궁궐 이름이 경복궁이 된 것일까요?",
+      "est_speech_ms": 42600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "조선 왕조 500년의 역사를 품고 있는 경복궁",
+      "narration": "궁궐이 다 지어진 어느 날, 잔치가 벌어졌어요. 이때 태조 이성계가 정도전에게 금으로 된 각대(벼슬아치가 예복에 두르는 띠)를 내리고 그 공을 칭찬하며, 명했어요.\n“그대는 마땅히 궁궐의 이름을 지어 나라와 더불어 길이 빛나게 하시오.”\n“신정도전 분부 받들겠사옵니다. 이미 술에 취하고 덕에 배불렀나이다. 군자는 만 년 동안 큰 복을 받으시리라.”\n정도전은 시를 외더니 마지막 구절의 한자 두 글자를 따 ‘경복’ 이라는 이름을 지어 올렸어요.",
+      "est_speech_ms": 34200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "조선 왕조 500년의 역사를 품고 있는 경복궁",
+      "narration": "경복궁은 조선 왕조의 법궁이에요. 법궁은 왕이 머물며 나랏일을 하는 제1의 궁궐을 말해요. 여러 가지 사정이 생겨 법궁에 머물 수 없을 때를 대비해 지은 궁을 이궁이라고 하지요.\n이후 경복궁은 점점 조선의 으뜸 궁궐로서의 모습을 갖추게 돼요. 태종 때 경회루가 지어졌고요. 세종 때에는 집현전이 세워지고 세종이 큰 관심을 가진 천문기기들도 설치되었지요.\n그런데 경복궁에 안타까운 일이 발생했어요.\n조선이 세워진 지 200년 후인 1592년에 임진왜란이 발생했고, 경복궁이 불에 타버렸지요.\n이후 270여 년 동안 경복궁은 방치되어 있었어요. 다시 경복궁을 지은 사람은 고종의 아버지인 흥선대원군이에요.",
+      "est_speech_ms": 49400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "하지만 일제 강점기 때에 다시 일본에 의해 건물들이 헐리고, 근정전 앞에 조선총독부가 들어서는 아픔을 겪기도 했어요.\n정문인 광화문은 경복궁의 동문인 건춘문 뒤쪽으로 옮겨져 버렸어요.\n1995년 조선총독부 건물이 철거되면서 경복궁은 본격적으로 복원되기 시작했고, 서울의 심장부를 지키며 조선 왕조 500년의 역사를 보여주고 있답니다.\n지금부터 조선의 으뜸 궁궐과 그에 얽힌 이야기들을 하나하나 살펴볼까요?",
+      "est_speech_ms": 34200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/59f7f64c657fedfd/fig_041.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "나랏일을 하는 곳은 앞쪽, 쉬는 공간은 뒤쪽에 두다",
+      "narration": "나랏일을 하는 곳은 앞쪽, 쉬는 공간은 뒤쪽에 두다\n경복궁은 왕실의 위엄과 격식을 잘 보여주는 구조예요. 중심 건물인근정전을 기준으로 좌우 대칭을 이루고 있지요.\n근정전을 중심으로 동쪽에는 세자의 생활공간인 자선당이, 서쪽에는 신하들이 일하는 관청인 궐내 각사가 있었어요.\n근정전을 중심으로 임금이 다니는 길인 어도를 따라 주요 건물들이 일직선상으로 놓여 있어요. 그 공간들도 기능에 따라 구분되었지요. 왕과 신하들이 함께 나랏일을 의논하는 곳을 외전이라고 해요.\n국가의 중요한 의식을 치르는 근정전, 임금이 평소 신하들과 함께 나랏일을 의논하는 사정전이 이에 해당하지요. 외전들은 경복궁 앞쪽에 위치해요.",
+      "est_speech_ms": 50200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "경복궁 건물 이름에 담긴 의미는?",
+      "narration": "왕이 생활하는 공간인 강녕전, 왕비가 생활하는 공간인 교태전, 왕의 어머니인 대비가 생활하는 공간인 자경전, 세자가 생활하는 공간인 자선당을 아울러 내전이라고 해요.\n주로 궁의 뒤쪽에 위치하고 있지요. 그런데 나중에 왕위를 이을 세자는 떠오르는 해와 같은 존재이므로 세자 부부가 생활하는 자선당은 동쪽에 두고 동궁이라고 불렀어요.\n경복궁 건물 이름에 담긴 의미는?\n우리나라 궁궐은 각 건물에도 이름이 있어요. 경복궁 안 건물에도 근정전, 사정전, 강녕전 등의 이름이 있는데요. 이 건물들의 이름을 지은 사람도 정도전이에요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "경복궁 건물 이름에 담긴 의미는?",
+      "narration": "근정전은 임금이 나랏일을 함에 있어 부지런해야 한다는 뜻이에요.\n정도전은 “아침에는 나랏일을 듣고, 낮에는 어진 이를 찾아보고, 저녁에는 법령을 닦고, 밤에는 몸을 편안하게 한다.”, “어진 사람을 부지런히 구하고, 어진 사람을 빨리 등용해야 한다.”라는 이야기를 하며, 근정전이라고 이름을 붙였지요.\n사정전은 나랏일을 함에 있어 생각하고 또 생각해야 함을 강조한 이름이지요.",
+      "est_speech_ms": 29800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 5,
+      "section_title": "왕의 즉위식이 거행된 곳은? 근정전",
+      "narration": "정도전은 “세상의 이치는 생각하면 얻을 수 있고, 생각하지 아니하면 잃어 버리는 법입니다.” 라는 이야기를 했어요.\n강녕전은 임금이 홀로 있을 때에도 공부를 하며, 스스로 덕을 닦고, 마음을 바르게 하라는 의미를 담아 붙인 이름이에요. 이렇게 해야 강녕(평안)을 비롯한 여러 가지 복을 받을 수 있다는 것이지요.\n이렇듯 궁궐 건물 이름 하나 하나에도 유교적인 의미가 담겨 있어요.\n정도전 등 신진 사대부 세력이 조선을 유교적 이상적인 국가로 만들고 싶어했음을 짐작할 수 있지요.\n왕의 즉위식이 거행된 곳은? 근정전",
+      "est_speech_ms": 40400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "왕의 즉위식이 거행된 곳은? 근정전",
+      "narration": "근정전은 왕의 즉위식, 외국 사신을 맞는 행사, 신하들로부터 인사를 받는 행사 등을 열던 곳이에요. 근정전으로 들어가기 위해서는 세 개의 문을 통과해야 해요. 경복궁의 정문인 광화문과 흥례문, 근정문이지요.\n이렇게 세 개의 문을 통과하고 나면 넓은 뜰이 보여요.\n뜰은 울퉁불퉁한 얇은 돌인 박석이 깔려 있지요. 그런데 모양을 잘 들여다보면 네모반듯하지 않고 울퉁불퉁해요.\n넓은 뜰 멀리로 보이는 2층 건물이 바로 근정전이에요. 높고 넓은 단인 월대 위에 지어진 건물로 우리나라에 남아 있는 목조 건축물 중 가장 큰 규모라고 해요.\n이곳에서는 어떤 일들이 있었을까요? 가장 대표적인 일이 왕의 즉위식이지요.\n새로운 왕은 가마를 타고 근정전 뜰을 지나 의자(용상)에 앉아 새로운 왕이 되었음을 선포했지요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "왕의 즉위식이 거행된 곳은? 근정전",
+      "narration": "수많은 신하들은 이마에 두 손을 가지런히 모으로 절을 하면서 ‘천세, 천세, 천천세’를 외쳤어요. 왕이 건강하게 오래 살면서 나라를 잘 다스려 주기를 기원한 거지요.\n근정전에는 여러 가지 동물들도 자리하고 있어요. 근정전 2층 월대 난간에 는 주작, 현무, 청룡, 백호 등의 신령스러운 동물을 세워두었지요.\n동서남북을 관장하는 신성한 동물들이 왕을 지키도록 한 거예요. 또 쥐, 소, 양, 뱀 등 열두 띠 동물을 한 쌍씩 세워놓았어요. 시간과 방위를 상징하는 동물을 세워 왕과 근정전을 지키려했던 거예요.",
+      "est_speech_ms": 39000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "근정전 지붕의 잡상"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/59f7f64c657fedfd/fig_072.jpg",
+          "caption": "근정전 지붕의 잡상",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "그런데 열두 띠 동물 중 보이지 않는 동물이 3가지 있어요.\n바로 용, 개, 돼지랍니다. 왜 그런 것일까요?\n임금이 용을 상징하니 따로 용을 세워두지 않았던 것이지요. 개와 돼지는 좋은 기운을 주는 복이 있는 동물이 아니라고 여겼기에 세우지 않았을 거라고 추측하고 있어요.\n근정전 지붕을 올려다보세요. 지붕 추녀마루 끝에 여러 동물들이 세워져 있지요. 이들을 잡상이라고 해요. 이 잡상을 ‘어처구니’라고 부르는데 경복궁 하늘을 지키고 있지요.\n우리가 사용하는 ‘어처구니가 없다.’는 말은 건물을 지어놓고 잡상을 깜박 잊어 세우지 않았을 때 ‘어처구니가 없네.’ 라고 하는 데서 유래된 말이에요.",
+      "est_speech_ms": 46400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "궁궐 여인들을 위한 공간은? 교태전의 아미산과 자경전꽃담\n경복궁에서 가장 아름다운 정원을 가진 건물이 있어요. 바로 교태전이지요. 왕비가 생활하는 공간으로, 왕이 생활하는 강녕전과 함께 기와지붕에 있는 용마루(지붕 가운데 부분에 있는 가장 높은 수평 마루)가 없어요. 그 이유는 용을 상징하는 왕이 지내는 곳이기 때문이라는 의견이 있어요.",
+      "est_speech_ms": 27600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "교태전 뒤뜰에는 작은 동산 같은 정원이 있어요. 중국의 이름난 산 이름을 따서 아미산이라고 불렀지요.\n경회루 연못을 만들 때 퍼낸 흙으로 만든 정원인데, 모란, 진달래, 철쭉 등 예쁜 꽃과 앵두나무, 매화나무 등 작은 나무들이 심어져 있어요. 사계절 서로 다른 꽃들이 피며 아름다움을 자아내지요.\n이 정원에서 가장 눈에 띄는 것은 아름다운 장식이 새겨진 굴뚝이지요. 교태전 구들과 연결된 육각형 굴뚝으로 당초무늬, 학, 봉황, 매화, 대나무, 국화 등이 새겨져 있어요.\n아미산과 더불어 평생 밖에 자유롭게 나가지 못하는 궁중 여인을 배려한 아름다운 곳이 또 있어요. 바로 대비전인자경전에 있는 담장과 굴뚝이지요. 담장에는 아름다운 다양한 무늬들이, 굴뚝에는 죽지 않고 오래 산다는 십장생이 새겨져 있어요.",
+      "est_speech_ms": 55800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "교태전의 아미산과 자경전의 십장생굴뚝(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/59f7f64c657fedfd/fig_087.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/59f7f64c657fedfd/fig_088.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 7,
+      "section_title": "임금과 신하들이 연회를 열었던 경회루",
+      "narration": "임금과 신하들이 연회를 열었던 경회루\n경복궁의 꽃으로 불리는 곳이 있어요. 바로 경회루지요. 경복궁 서북쪽에 있는 연못에 세운 누각으로 태종 때 처음 만들어졌어요.\n2층 누각으로 우리나라에 누각 중 규모가 가장 큰 것이랍니다. 48개의 기둥이 건물을 받치고 있는데, 안쪽에는 하늘을 뜻하는 둥근 기둥을, 바깥쪽에는 땅을 뜻하는 네모난 기둥을 세웠지요.\n이곳에서는 나라에 좋은 일이 있을 때나 외국 사신이 올 때에는 잔치를 베풀었어요. 왕에게 공부를 가르치는 경연을 하고, 훌륭한 인재를 뽑는 과거 시험을 보기도 했지요. 가끔 기우제를 지내기도 했대요.\n넓디넓은 경회루 누각에서 본 경복궁의 봄, 여름, 가을, 겨울 모습은 한 폭의 그림 같답니다.\n무엇보다 놀라운 점은 연못물이 고이지 않고, 늘 흐른다는 거예요.",
+      "est_speech_ms": 56800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "경회루와 경회루 누각에서 본 경복궁의 풍경(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/59f7f64c657fedfd/fig_095.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/59f7f64c657fedfd/fig_096.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 17,
+      "section_index": 8,
+      "section_title": "역사 속 작은 이야기: 궁궐 안에 또 다른 궁, 건청궁",
+      "narration": "그 이유는 경회루의 바닥을 약간 기울게 만들었기 때문이에요. 또 연못으로 들어온 물들이 방향을 바꾸며 휘돌아 흐르도록 구조를 만들어 항상 연못물이 깨끗했답니다.\n역사 속 작은 이야기: 궁궐 안에 또 다른 궁, 건청궁\n경복궁에는 궁궐 건물과는 다른 모습을 한 곳이 있어요. 바로 건청궁이지요. 궁궐 속의 또 하나의 궁이라고 할 수 있는 곳이에요.\n건청궁은 경복궁이 맨 처음 지어질 때는 없었어요. 고종이 왕위에 오른 뒤 10년이 지나 지어진 곳이지요. 고종은 아버지 흥선대원군의 간섭에서 벗어나 스스로 나라를 다스리고 싶어했어요. 그래서 경복궁 북쪽에 건청궁을 지어 독자적인 정치를 하겠다는 의지를 표현했어요.",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 18,
+      "section_index": 8,
+      "section_title": "역사 속 작은 이야기: 궁궐 안에 또 다른 궁, 건청궁",
+      "narration": "건청궁은 높은 양반집처럼 지어진 궁이지요. 솟을대문이 있고, 높은 담으로 둘러싸여 있어요. 건물에 단청도 없고, 사랑채(장안당)와 안채(곤녕합)로 구분되어 있지요. 고종은 장안당에서 신하들과 나랏일을 의논하고, 외국 사신들을 만나기도 했어요. 후에 관문각이라는 서양식 건물이 들어서기도 했어요.\n건청궁은 처음으로 전기를 들여와 전깃불을 밝힌 곳이랍니다. 또한 왕비(명성 황후)가 일본 자객들에 의해 살해되는 슬픈 역사를 간직한 곳이기도 하고요.\n건청궁 앞에는 아름다운 인공 연못인 향원지와 육각형의 정자인 향원정이 있어요. 향원지를 거닐며 고종과 왕비(명성 황후)는 잠시 세상 근심을 잊곤했을 거예요.",
+      "est_speech_ms": 49000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "건청궁과 향원정(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/59f7f64c657fedfd/fig_114.jpg",
+          "caption": "건청궁과 향원정(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 19,
+      "section_index": 8,
+      "section_title": "역사 속 작은 이야기: 궁궐 안에 또 다른 궁, 건청궁",
+      "narration": "조선 왕조 500년 역사를 함께 한 경복궁을 돌아보니, 조선의 으뜸 궁궐다운 모습을 엿볼 수 있지요? 현재 일제 강점기에 파괴된 궁궐 복원 공사가 진행 중이니, 제 모습을 갖추고 우리 앞에 나타날 경복궁을 기대해 보아요.",
+      "est_speech_ms": 17400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

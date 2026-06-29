@@ -1,0 +1,436 @@
+{
+  "schema_version": 2,
+  "doc_hash": "6ad1cfa59454c8ea",
+  "source_file": "eh_r0310_0010.pdf",
+  "title": "정조의 개혁 의지가 담긴 수원 화성",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 16,
+  "section_count": 9,
+  "image_count": 12,
+  "est_total_ms": 632900,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "수원 화성(경기 수원시), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "정조, 수원 화성을 건설하다",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "수원 화성 축조 모습"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        4
+      ],
+      "scene_seq": [
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "정문과 후문에 옹성을 쌓은 이유는? 장안문과 팔달문",
+      "scene_indices": [
+        5
+      ],
+      "scene_seq": [
+        6
+      ],
+      "image_captions": [
+        "옹성을 갖춘 장안문과 팔달문"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "왜 속이 텅 빈 건축물을 만들었을까? 공심돈",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "서북 공심돈 내부 모형(수원화성박물관)과 동북 공심돈(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "물길이 통과하는 문이 있다고? 화홍문",
+      "scene_indices": [
+        8
+      ],
+      "scene_seq": [
+        9
+      ],
+      "image_captions": [
+        "화홍문(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "화성에 임금이 머물 궁을 지은 이유는? 화성 행궁",
+      "scene_indices": [
+        9
+      ],
+      "scene_seq": [
+        10
+      ],
+      "image_captions": [
+        "수원 화성 행궁(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 특별했던 수원 화성 공사",
+      "scene_indices": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 8,
+      "section_title": "수원 화성 건설의 일등 공신, 거중기와 녹로",
+      "scene_indices": [
+        14,
+        15
+      ],
+      "scene_seq": [
+        15,
+        16
+      ],
+      "image_captions": [
+        "거중기와 녹로(수원화성박물관)",
+        "『화성성역의궤』의 거중기(한국학중앙연구원)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "정조의 개혁 의지가 담긴 수원 화성\n“수원 화성에서 큰 잔치가 열린다는군.”\n“잘하면 화성에 행차하시는 임금님의 모습을 가까이서 볼 수 있을지도 모르겠네.”\n“앞으로도 임금님께서 화성 근처에 있는 사도 세자의 무덤에 자주 오실 테니, 뵐 기회가 더욱 많아지겠지.”\n수원 화성이 건설된 것은 조선 제22대 왕인 정조 임금 때예요.\n정조가 수원 화성을 지은 이유는 무엇일까요?\n수원 화성만의 특징은 어떤 것일까요?",
+      "est_speech_ms": 32000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "수원 화성(경기 수원시), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6ad1cfa59454c8ea/fig_001.jpg",
+          "caption": "수원 화성(경기 수원시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "정조, 수원 화성을 건설하다",
+      "narration": "정조, 수원 화성을 건설하다\n정조는 어린 나이에 아버지(사도 세자)를 여의었어요. 아버지의 죽음을 본 정조는 아버지에 대한 그리움과 안타까움이 컸지요. 그래서 그는 왕위에 오른 후에 아버지의 묘를 더 좋은 곳으로 옮기기로 했어요.\n정조는 화산에 아버지의 무덤인 현륭원을 만들었어요.\n그리고 원래 화산에 거주하던 주민들을 옮겨 살게 할 계획도시를 만들었는데, 그곳이 바로 화성이에요. 지금의 행정구역 명칭은 수원이지요.\n화성은 새로운 정치를 펼치고자했던 정조의 꿈이 담긴 신도시였지요.\n1794년(정조 18) 1월에 시작한 공사는 10년 정도 걸릴 것이라고 예상했어요. 그런데 1796년(정조 20) 9월 초에 완공했어요.",
+      "est_speech_ms": 50600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "정조, 수원 화성을 건설하다",
+      "narration": "3년도 채 되지 않았는데, 어떻게 그처럼 빨리 완공할 수 있었을까요?\n그 이유는 철저한 계획을 바탕으로 정약용이 고안한 거중기를 비롯한 여러 기구들을 이용하고, 적절한 임금을 지급하였을 뿐만 아니라 공사 책임제 등을 실시한 덕분이었어요..\n정조는 화성이 한양과 다른 지역을 연결하는 길목에 위치하고 있는 점을 이용해 상업 도시로 만들었어요. 상인들이 자유롭게 장사할 수 있게 여러 가지 정책도 펼쳤어요.\n나라에서 돈을 빌려주고, 상점도 만들어 주었지요.",
+      "est_speech_ms": 36800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "수원 화성 축조 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6ad1cfa59454c8ea/fig_019.jpg",
+          "caption": "수원 화성 축조 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "정조, 수원 화성을 건설하다",
+      "narration": "또 백성들이 편안하게 농사지을 수 있도록 넓은 농장과 저수지도 곳곳에 만들었어요.\n수원 화성은 정조의 개혁을 뒷받침하는 도시였어요.\n정조는 수원에서 자신을 지켜줄 수 있는 친위부대인 장용영의 군사들을 훈련시켰어요.\n그는 강력한 군사력을 갖추려고 노력했어요. 그래서 정치권력을 갖기 위해 서로 싸우고 견제하는 신하들의 대립을 조정하려고 했지요.\n수원 화성은 우리나라 성곽 건축의 꽃으로 꼽히는 건축물이에요.\n봉돈, 공심돈, 암문과 같은 특별한 시설들을 갖추고 있어요. 각각의 건축물들은 기능이 훌륭할 뿐만 아니라 아름답기까지하답니다",
+      "est_speech_ms": 44400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "화성은 우리나라의 전통 성곽 기술과 당시 외국의 성 쌓는 기술을 연구하고 그 장점만을 모아 만들어진 성이에요.\n또한 수원 화성은 사람들이 살 수 있는 읍성의 기능이 있으면서도 혹시라도 전쟁이 나면 방어할 수 있도록 여러 군사시설을 갖추었어요.\n정조는 공사가 마무리된 후 화성성역의궤라는 책을 펴내도록 했어요.\n화성 공사와 관련된 각종 기록을 모으고 정리한 것이죠.\n이 책 덕분에 일부분이 무너지고 사라진 화성을 제대로 복원할 수 있었어요.\n여러분들이 직접 가보면 언덕을 따라 성을 쌓은 모습을 확인할 수 있어요. 곳곳에 벽돌을 이용해 쌓은 성곽의 모습도 볼 수 있고요.\n자, 지금부터 수원 화성의 특징을 살펴보고 얽힌 이야기에 대해서 알아볼까요?",
+      "est_speech_ms": 52200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/6ad1cfa59454c8ea/fig_045.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "정문과 후문에 옹성을 쌓은 이유는? 장안문과 팔달문",
+      "narration": "정문과 후문에 옹성을 쌓은 이유는? 장안문과 팔달문\n장안문과 팔달문은 수원 화성의 북쪽과 남쪽에 있는 문이에요. 둘 중 어떤 것이 정문일까요? 바로 북문인 장안문이에요.\n장안문은 임금님이 한양에서 수원으로 행차할 때 가장 먼저 통과하게 되는 문이라 북쪽에 있는데도 정문이 될 수 있었지요.\n정문인 장안문과 남문인 팔달문은 특이한 모양을 한 성문이에요.\n모두 항아리를 반으로 쪼개 놓은 것 같은 반원형의 옹성으로 둘러싸여 있어요. 그런데 왜 이런 특이한 구조의 옹성을 만든 것일까요? 그것은 바로 적군이 성문 앞으로 다가오면, 성문 위와 옹성에서 동시에 공격하기 위해서였어요. 만약 옹성 안에 적군이 들어오면 독안에 든 쥐나 마찬가지였어요.",
+      "est_speech_ms": 51800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "옹성을 갖춘 장안문과 팔달문"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6ad1cfa59454c8ea/fig_047.jpg",
+          "caption": "옹성을 갖춘 장안문과 팔달문",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 4,
+      "section_title": "왜 속이 텅 빈 건축물을 만들었을까? 공심돈",
+      "narration": "왜 속이 텅 빈 건축물을 만들었을까? 공심돈\n우리나라 성곽 중 수원 화성에만 볼 수 있는 건축물은 무엇일까요? 바로 공심돈이지요. 공심돈은 중국의 성에서 흔히 볼 수 있던 건축물이에요.",
+      "est_speech_ms": 14600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "왜 속이 텅 빈 건축물을 만들었을까? 공심돈",
+      "narration": "원래 수원 화성에는 공심돈이 세 개 있었는데, 지금은 두 개만 남아 있지요.\n앞에서 본 서북 공심돈은 높이가 약 13m인데 아래는 돌을 다듬어 쌓고 윗부분은 벽돌을 구워서 만든 것이 특징이에요.\n안이 텅 빈 구조로 군사들이 안에서 밖의 적군을 살피며 화살이나 화포로 공격할 수 있게 만들었지요. 적의 공격에도 끄떡없이 공격을 퍼부을 수 있는 구조예요. 수원 화성이 만들어진 후 이곳을 방문한 정조가 서북 공심돈을 보고 크게 기뻐했다고 해요.\n그런데 그 사실 아세요?\n수원 화성은 적군의 공격을 효과적으로 방어하기 위해 만들어진 건축물인데, 화성을 쌓은 후에 이곳에서 실제로 전쟁이 벌어진 적은 없었답니다.",
+      "est_speech_ms": 48500,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "서북 공심돈 내부 모형(수원화성박물관)과 동북 공심돈(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6ad1cfa59454c8ea/fig_059.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6ad1cfa59454c8ea/fig_060.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 5,
+      "section_title": "물길이 통과하는 문이 있다고? 화홍문",
+      "narration": "물길이 통과하는 문이 있다고? 화홍문\n화성에는 물길이 통과하는 두 개의 문이 있어요. 북수문과 남수문이지요.\n북수문의 이름이 바로 화홍문이에요. 문 모양이 무지개처럼 생겨 화홍문이라고 불렀어요. 화홍문을 통과한 물은 수원성을 가로 질러 흐르지요.\n그런데 잘 들여다보세요. 다리 위 누각에 구멍이 보이지요.\n바로 적이 쳐들어올 때 공격할 수 있는 총이나 활을 쏠 수 있는 구멍을 만들어 놓은 거랍니다.",
+      "est_speech_ms": 32000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "화홍문(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6ad1cfa59454c8ea/fig_068.jpg",
+          "caption": "화홍문(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 6,
+      "section_title": "화성에 임금이 머물 궁을 지은 이유는? 화성 행궁",
+      "narration": "화성에 임금이 머물 궁을 지은 이유는? 화성행궁\n화성에는 행궁이 있어요. 행궁은 임금님이 밖으로 행차했을 때 머무는 궁이에요. 그런데 모든 성에 행궁이 있을까요?\n그렇지는 않답니다. 조선 시대에는 온양 행궁을 비롯하여 모두 5개의 행궁이 있었어요. 그중 가장 마지막에 세워진 것이 화성행궁이에요.\n이곳에 행궁을 지은 이유는 정조가 아버지 사도 세자의 무덤인 현륭원에 행차할 때 머물기 위해서였지요.\n정조는 화성행궁을 다른 곳에 있는 것보다 큰 규모로 지었어요. 그 이유는 훗날 순조에게 왕위를 물려주고 자신이 이곳에서 살려고 했기 때문이래요.",
+      "est_speech_ms": 44200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "수원 화성 행궁(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6ad1cfa59454c8ea/fig_077.jpg",
+          "caption": "수원 화성 행궁(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 특별했던 수원 화성 공사",
+      "narration": "행차할 때 머물기 위해서였지요.\n정조는 화성행궁을 다른 곳에 있는 것보다 큰 규모로 지었어요. 그 이유는 훗날 순조에게 왕위를 물려주고 자신이 이곳에서 살려고 했기 때문이래요.\n역사 속 작은 이야기: 특별했던 수원 화성 공사",
+      "est_speech_ms": 18000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/6ad1cfa59454c8ea/fig_088.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 특별했던 수원 화성 공사",
+      "narration": "일꾼: 웬일로 저를 찾아오셨나요?\n학생: 수원 화성을 답사하고 나서 화성 건설에 참여하셨던 분을 꼭 한 번 만나 뵙고 싶었거든요.\n일꾼: 무엇이 그리 궁금해서입니까? 저는 건설의 총책임자도 아니고 동원된 일꾼이었을 뿐인데.\n학생: 그래서 더 만나 뵙고 싶었던 거예요. 수원 화성 건설이라는 큰 공사가 2년 8개월 만에 끝났다고 하던데, 포크레인도 없던 시대에 어떻게 가능했나요?\n일꾼: 포크레인은 없었지만, 정약용 선생이 만든 거중기와 녹로 등 신식 기구가 있지 않았습니까?\n학생: 그게 그렇게 큰 역할을 했나요?",
+      "est_speech_ms": 40200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 특별했던 수원 화성 공사",
+      "narration": "일군: 당연하죠. 무거운 돌덩이도 힘들이지 않고 들어 올려 옮길 수 있으니, 얼마나 대단한 기구입니까?\n학생: 수원 화성이 예상보다 빨리, 또 성공적으로 완공된 또 다른 이유가 있다면서요.\n일꾼: 무엇보다 일꾼들에게 품삯을 주었기 때문이 아니었을까요? 동원된 일꾼들에게 임금을 주니 더 힘을 내 열심히 일을 했지요. 또 공사 책임제를 실시해 각 건축물에 책임자의 이름과 벼슬을 새겼어요. 혹여 문제가 생기면 책임을 져야 하니 다들 최선을 다해 공사를 했겠지요?\n학생: 그런 노력 덕분에 이렇게 아름답고 훌륭한 수원 화성이 건설된 것이 군요. 덕분에 그 가치를 인정받아 유네스코 세계 유산이 된 것이고요.",
+      "est_speech_ms": 47600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 특별했던 수원 화성 공사",
+      "narration": "일꾼: 나중에 전쟁이 일어나 수원 화성이 파괴되어도 다시 그대로 복원할 수 있을 것입니다. 성을 건설하는 과정을 그림과 글로 남겨 놓았거든요.\n학생: 아, 화성성역의궤 말씀하시는군요. 그 덕분에 6·25 전쟁 때 폭격으로 파괴된 화성을 다시 원래 모습대로 복원할 수 있었답니다. 오늘 수 원 화성 공사와 관련된 의미 있는 이야기들을 들려주셔서 감사합니다.",
+      "est_speech_ms": 28200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 8,
+      "section_title": "수원 화성 건설의 일등 공신, 거중기와 녹로",
+      "narration": "수원 화성 건설의 일등 공신, 거중기와 녹로\n수원 화성의 건설 공사 기간이 예상보다 훨씬 줄어들 수 있었던 이유 중 하나는 바로 거중기와 녹로 때문이었어요.\n거중기는 정약용이 중국의 기기도설이라는 책을 참고해 만들어낸 기구예요.\n도르래의 원리를 이용해 작은 힘으로 무거운 물건을 들어 올리는 기구랍니다. 수원 화성 건설 때 거중기는 1대가 사용되었대요. 왕실에서 직접 만들어 공사 현장으로 내려 보냈다고 하니 정조가 얼마나 수원 화성 건설에 공을 들였는지 알 수 있지요?\n거중기와 함께 사용되었던 기구가 또 있어요. 바로 녹로지요.",
+      "est_speech_ms": 43000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "거중기와 녹로(수원화성박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6ad1cfa59454c8ea/fig_106.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/6ad1cfa59454c8ea/fig_107.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 8,
+      "section_title": "수원 화성 건설의 일등 공신, 거중기와 녹로",
+      "narration": "이것도 정약용에 의해 발명된 기구에요. 성이나 집을 지을 때 이용된 기구로\n도르래의 원리를 이용해 무거운 물건을 높이 들어 올릴 수 있어요.\n공사 기간을 줄이고 백성들의 힘을 덜어주는 데 큰 역할을 하였답니다.\n조선 시대 성곽 건축의 꽃이라고 불리는 수원 화성을 살펴보니 왜 그렇게 불리는지 알겠죠?\n특별한 시설과 아름다움을 갖춘 성을 짓기 위해 공사에 참여한 백성들의 땀방울도 느껴지나요? 수원 화성을 직접 답사하며 정조가 이곳에서 어떤 개혁 정치를 펼치고자했는지 생각해보는 시간을 갖길 바랍니다.",
+      "est_speech_ms": 40800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "『화성성역의궤』의 거중기(한국학중앙연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/6ad1cfa59454c8ea/fig_116.jpg",
+          "caption": "『화성성역의궤』의 거중기(한국학중앙연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

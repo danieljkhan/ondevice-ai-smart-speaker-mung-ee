@@ -1,0 +1,42 @@
+[Unit]
+Description=Mungi conversation data download portal (Tailscale-only, PIN-gated)
+After=tailscaled.service network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=mungi
+WorkingDirectory=/opt/mungi-repo
+EnvironmentFile=-/var/lib/mungi/config/mungi.env
+# Flag enforcement: ExecCondition exits 0 (condition MET -> start) ONLY when the feature
+# flag is exactly "1"; any other value exits non-zero (condition FAILED -> unit stays
+# inactive, not failed). The app also no-ops at startup when the flag is unset.
+ExecCondition=/usr/bin/test "${MUNGI_DOWNLOAD_PORTAL}" = "1"
+ExecStart=/opt/mungi-repo/.venv/bin/python -m parental.download_portal
+Restart=on-failure
+RestartSec=5
+
+# Resource bounds (BLOCK 5).
+MemoryMax=128M
+TasksMax=32
+LimitNOFILE=256
+Nice=10
+
+# Sandbox (MAJOR 10).
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=read-only
+PrivateTmp=yes
+ReadOnlyPaths=/var/lib/mungi/conversations
+ReadWritePaths=/var/lib/mungi/logs
+UMask=0077
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+
+# On-demand only: intentionally NO [Install] section, so the portal never
+# auto-starts on boot (no resident memory cost on the 8GB Jetson). Start it
+# only when downloading conversation data:
+#   sudo systemctl start mungi-download-portal.service
+# Stop it from the portal's web "포털 종료" button, or `sudo systemctl stop …`.
+# (`systemctl enable` is intentionally unavailable for this unit.)

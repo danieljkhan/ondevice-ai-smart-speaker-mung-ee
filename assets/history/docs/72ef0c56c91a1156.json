@@ -1,0 +1,314 @@
+{
+  "schema_version": 2,
+  "doc_hash": "72ef0c56c91a1156",
+  "source_file": "eh_r0122_0010.pdf",
+  "title": "고려 왕궁이 있었던 개성 만월대 유적",
+  "kind": "artifact",
+  "era": "고려",
+  "era_source": "keyword",
+  "scene_count": 11,
+  "section_count": 4,
+  "image_count": 11,
+  "est_total_ms": 497200,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "남북이 함께 발굴한 개성 만월대",
+      "scene_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "개성 만월대 남북공동발굴조사(개성만월대남북공동발굴디지털기록관)",
+        "만월대(문화재청)",
+        "①-연화문 수막새, ②-범자문 수막새, ③-귀면문 수막새, ④-귀목문 수막새 (문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        4,
+        5,
+        6
+      ],
+      "scene_seq": [
+        5,
+        6,
+        7
+      ],
+      "image_captions": [
+        "전남 강진 출토 청자기와(국립중앙박물관)",
+        "개성 만월대에서 출토된 금속활자(문화재청)",
+        "개경 왕궁 복원 모습(국립중앙박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        7
+      ],
+      "scene_seq": [
+        8
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "역사 속 작은 이야기 : 개경에도 첨성대가 있어요",
+      "scene_indices": [
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "조선 시대 강세황이 그린 『송도기행첩』 중 송도전경(국립중앙박물관)",
+        "경주 첨성대\n(국사편찬위원회)",
+        "개경 첨성대\n(국립중앙박물관)",
+        "조선의 간의대와 간의\n(충북대 한국천문연구원)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "남북이 함께 발굴한 개성 만월대",
+      "narration": "고려 왕궁이 있었던 개성 만월대 유적\n“오백년 이어온 도읍지를 홀로 말을 타고 들어가 보니 산과 강은 옛날과 다름없으나, 충신은 어디에도 없구나. 아아! 태평성대를 누리던 지난날이 하룻밤 꿈과 같구나.”\n위 시조는 고려가 망한 후 옛 고려의 충신 길재가 개경 모습을 보고 옛 시절을 그리며 읊은 것이에요. 지금은 옛 고려 왕궁의 흔적만 남은 궁궐터에서 우리는 무엇을 찾고, 무엇을 말할 수 있을까요?\n남북이 함께 발굴한 개성 만월대\n만월대는 고려의 수도 개경에 있었던 옛 궁궐터를 말해요. 고려 말 홍건적이 침략해 와 개경을 점령하였는데, 그 때 불에 타 없어지고 최근까지 폐허로 방치되고 있었어요. 그러던 중 고려 궁궐터의 중심인 만월대에 2007년 남북 역사학자들이 모였어요. 이후 남북의 공동 발굴로 수백 년 동안 땅속에 묻혀있던 고려 왕궁이 모습을 드러내기 시작했어요.",
+      "est_speech_ms": 61800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "개성 만월대 남북공동발굴조사(개성만월대남북공동발굴디지털기록관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/72ef0c56c91a1156/fig_001.jpg",
+          "caption": "개성 만월대 남북공동발굴조사(개성만월대남북공동발굴디지털기록관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "남북이 함께 발굴한 개성 만월대",
+      "narration": "발굴은 조사구역을 구분하기 위한 측량으로 시작되었어요. 발굴단은 바둑판 모양으로 줄을 설치해 조심스럽게 발굴을 했어요.",
+      "est_speech_ms": 10200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "남북이 함께 발굴한 개성 만월대",
+      "narration": "흙을 1m 정도 걷어내자 궁궐 지붕에 있었던 기와 조각이 무더기로 쏟아져 나왔어요. 많은 기와 조각 중에 발굴단의 눈길을 끄는 것이 있었어요. 불교가 탄생한 고대 인도의 글자가 새겨진 기와였죠.\n불교를 국교로 믿었던 고려는 개경뿐만 아니라 전국에 많은 사찰을 만들었어요. 왕궁도 불교와 관련된 문양을 이용해 꾸몄어요.\n처음에는 연꽃무늬를 많이 사용했는데, 만월대 발굴을 통해 왕궁에서 고대 인도어를 무늬로 한 기와가 사용되었다는 것을 확인할 수 있었어요.\n가장 많이 출토된 기와는 귀목문 수막새였어요. 귀목문수막새와 귀면문수막새를 이용해 재앙이나 질병을 일으키는 귀신이 궁궐로 들어오는 것을 막고자했어요.",
+      "est_speech_ms": 50100,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "만월대(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/72ef0c56c91a1156/fig_011.jpg",
+          "caption": "만월대(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 0,
+      "section_title": "남북이 함께 발굴한 개성 만월대",
+      "narration": "화려했던 고려 왕궁의 모습을 짐작할 수 있는 청자기와도 출토되었어요. 청자기와는 일반 기와와는 달리 청자를 만들었어요.\n일반 기와보다 만들기 힘들고, 비용이 많이 들어 평민들의 집에서는 사용을 못했어요. 주로 왕궁이나 절처럼 중요한 건물에서 사용했어요.\n“궁 후원에 연못을 팠다. 거기에 정자를 세우고 그 이름을 양이정이라 했는데, 양이정에 청자를 덮었다.”",
+      "est_speech_ms": 29000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "①-연화문 수막새, ②-범자문 수막새, ③-귀면문 수막새, ④-귀목문 수막새 (문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/72ef0c56c91a1156/fig_018.jpg",
+          "caption": "①-연화문 수막새, ②-범자문 수막새, ③-귀면문 수막새, ④-귀목문 수막새 (문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "옛 역사책에는 고려 왕궁에 청자기와를 사용했다는 기록이 있어요. 만월대 발굴을 통해 이 기록이 사실임을 증명했어요.\n2015년 남북 공동발굴이 끝나갈 무렵 작은 유물 하나에 발굴단은 환호성을 외쳤어요. 흙을 모아 체질을 하다 손톱 크기의 아주 작은 금속활자 한 개가 나왔거든요.\n우리나라는 세계 최초로 금속활자를 만든 나라에요. 직지심체요절이란 책을 통해 이 사실을 증명했지만 활자 대부분은 없어지고 단 2점만이 남아 있어요. 그나마 출토된 곳이 명확하지 않아 그 가치가 떨어졌죠.\n발굴지가 확실한 금속활자가 발견되면서 고려가 세계 최초로 금속활자를 만들어 사용했다는 사실이 분명해졌어요.",
+      "est_speech_ms": 49000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "전남 강진 출토 청자기와(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/72ef0c56c91a1156/fig_025.jpg",
+          "caption": "전남 강진 출토 청자기와(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "공동발굴로 1점의 금속활자를 발견한 이후 북한 역사학자들이 추가 발굴을 통해 만월대에서 5점의 금속활자를 더 찾아내 지금은 모두 8점의 금속활자를 갖게 되었어요.\n발굴단은 출토된 많은 기와 조각과 함께 주춧돌, 축대를 통해 사라진 고려 왕궁 건물들의 위치와 모양을 확인했어요. 뿐만 아니라 불교문화를 담은 기와와 청자기와를 통해 궁궐을 어떻게 장식했는지도 알 수 있었죠.\n남북공동발굴은 사라진 옛 고려 왕궁의 모습을 좀 더 자세히 알 수 있는 중요한 계기가 되었어요.",
+      "est_speech_ms": 38400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "개성 만월대에서 출토된 금속활자(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/72ef0c56c91a1156/fig_032.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/72ef0c56c91a1156/fig_041.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "개경은 어떤 모습의 수도였을까?\n왕건은 궁예를 몰아내고 자신의 고향인 개경을 수도로 삼아 고려를 세웠어요. 개경은 고려의 중심지로 당시에는 개경, 송도, 송경 등으로 불렸지요. 현재 개성에는 수도를 방어하던 외성(나성)을 비롯해 내성, 황성, 궁성 등 네 개의 성터와 만월대로 불리는 고려의 왕궁 유적이 남아있어요.\n개경은 고구려 평양성과 같이 평지와 산을 연결하여 성을 쌓았어요.\n제일 먼저 쌓은 성은 궁성과 황성이었어요. 궁성과 황성 안에는 임금을 비롯한 왕실 사람들의 거처와 신하들이 모여 나랏일을 의논하던 정전을 만들었어요.",
+      "est_speech_ms": 42800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "개경 왕궁 복원 모습(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/72ef0c56c91a1156/fig_046.jpg",
+          "caption": "개경 왕궁 복원 모습(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "송악산 아래 만든 궁궐은 정전을 중심으로 여러 건물을 높은 언덕 위에 축대를 쌓아 만들었어요. 축대를 이용해 땅의 모양을 크게 훼손하지 않고, 궁궐을 더 웅장하고 위엄 있게 보이도록 신경썼어요.\n이것은 조선시대 경복궁을 비롯한 여러 궁궐을 평지에 만든 것과는 크게 다른 점이죠.\n고려가 세워지고 100년 가까이 번성하던 개경이 한 순간에 불타버리는 일이 벌어졌어요. 고려의 북쪽에서 힘을 키운 거란이 세 차례에 걸쳐 고려를 침략한 것이에요. 세 차례의 침략 중 2차 전쟁 때 거란군은 개경을 점령하였고, 물러가면서 궁궐과 민가를 모두 불태워버렸어요.\n거란군을 물리친 고려 조정은 불타 없어진 궁궐과 민가를 다시 짓고 개경을 다시 정비하였어요. 그리고 개경의 방어를 위해 약 24만 명의 백성을 동원하여 20여 년 동안 외성(나성)을 쌓았어요.",
+      "est_speech_ms": 60000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "역사 속 작은 이야기 : 개경에도 첨성대가 있어요",
+      "narration": "개경 전체를 방어하기 위해 쌓은 외성은 길이가 약 23km 정도로 매우 길어 방어가 힘들었어요. 그래서 고려 후기 왜구의 침입이 잦아질 무렵 외성과 궁성을 연결하여 내성을 쌓았어요.\n내성의 남대문에서 황성의 광화문으로 이어지는 길의 좌우에는 시전 (상점)이 늘어서 있었어요. 시전 주변으로 많은 백성들이 모여 살았어요.\n역사 속 작은 이야기: 개경에도 첨성대가 있어요\n첨성대 하면 신라 경주에 있는 첨성대가 생각나지 않나요?\n그런데 고려 개경에도 같은 이름의 천문 관측대가 있어요. 돌판과 이를 받치고 있는 다섯 개의 돌기둥만 남아 있어 신라의 첨성대보다는 단순해 보여요, 하지만 고려시대에도 천문 관측이 이뤄졌음을 알 수 있는 귀중한 유적이지요.",
+      "est_speech_ms": 52400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "조선 시대 강세황이 그린 『송도기행첩』 중 송도전경(국립중앙박물관)",
+        "경주 첨성대\n(국사편찬위원회)",
+        "개경 첨성대\n(국립중앙박물관)",
+        "조선의 간의대와 간의\n(충북대 한국천문연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/72ef0c56c91a1156/fig_058.jpg",
+          "caption": "조선 시대 강세황이 그린 『송도기행첩』 중 송도전경(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/72ef0c56c91a1156/fig_064.jpg",
+          "caption": "경주 첨성대\n(국사편찬위원회)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.6667
+        },
+        {
+          "path": "assets/history/images/72ef0c56c91a1156/fig_066.jpg",
+          "caption": "개경 첨성대\n(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.8333
+        },
+        {
+          "path": "assets/history/images/72ef0c56c91a1156/fig_068.jpg",
+          "caption": "조선의 간의대와 간의\n(충북대 한국천문연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "역사 속 작은 이야기 : 개경에도 첨성대가 있어요",
+      "narration": "고려 역사책을 살펴보면 5,000여 개의 천문 관측 기록이 남아 있어요.\n많은 기록뿐만 아니라 천문 현상을 신라 때보다 더 자세하게 기록했어요. 태양의 흑점과 오로라를 관측한 기록도 있고, 태양의 운동을 자세히 기록한 것도 있어요.\n그런데 모든 시대에 모든 임금들은 왜 천문 관측을 중요시했을까요?\n임금은 하늘을 대신하여 백성을 다스리는 사람이었어요. 임금이 되면 하늘을 관측해 사계절의 변화를 백성들에게 정확하게 알려주는 일이 매우 중요했어요. 그래야 백성들은 때를 맞춰 농사를 짓고 추수를 할 수 있었어요.",
+      "est_speech_ms": 41600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": "역사 속 작은 이야기 : 개경에도 첨성대가 있어요",
+      "narration": "반면에 자연재해로 큰 피해가 생기면 백성들은 임금이 나라를 잘못 다스려서 벌어진 일이라 생각하고 원망을 했어요. 천문 관측은 백성들의 삶을 풍요롭게 만들기 위해 임금이 꼭 해야 할 일이었어요.\n고려의 천문과학 기술은 조선으로도 이어졌어요. 세종은 더 정교하게 천문 관측을 할 수 있는 간의를 만들기도 했어요. 천문 관측기구 속에는 하늘을 우러러 백성들의 평안한 삶을 원했던 조상들의 뜻이 담겨있어요.\n약 500년을 유지한 고려는 점점 힘을 잃고 멸망했어요. 화려했던 개경도 흔적만 남았어요. 흔적만 남은 만월대에서 남북공동발굴조사단은 사라졌던 고려의 많은 것을 찾아냈어요.\n남북이 함께 노력해 찾을 수 있는 고려의 역사는 또 무엇이 있을까요?\n남북이 함께 찾아가는 역사를 기대해 보아요.",
+      "est_speech_ms": 56400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

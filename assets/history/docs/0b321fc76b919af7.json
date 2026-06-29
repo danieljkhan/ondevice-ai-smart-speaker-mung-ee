@@ -1,0 +1,238 @@
+{
+  "schema_version": 2,
+  "doc_hash": "0b321fc76b919af7",
+  "source_file": "eh_n0270_0010.pdf",
+  "title": "윤관,",
+  "kind": "people",
+  "era": "고려",
+  "era_source": "keyword",
+  "scene_count": 10,
+  "section_count": 5,
+  "image_count": 4,
+  "est_total_ms": 417000,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "윤관,",
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "척경입비도(국사편찬위원회)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "여진 기병 부대가 고려를 침략해 오다",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "고려군이 여진에게 크게 패하다",
+      "scene_indices": [
+        3,
+        4
+      ],
+      "scene_seq": [
+        4,
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "별무반을 만들어 여진을 정벌하다",
+      "scene_indices": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "여러 역할로 구성된 별무반",
+        "별무반의 전투 모습(전쟁기념관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        9
+      ],
+      "scene_seq": [
+        10
+      ],
+      "image_captions": [
+        "동북9성의 위치"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "윤관,",
+      "narration": "윤관,\n여진을 정벌하고 동북9성을 개척하다\n“폐하! 여진은 말을 타고 싸우는 병사가 많아 보병으로 구성된 우리 병사로는 감당하기가 어렵습니다.”\n“국경 지역에서 여진을 대적하기 힘든데 장군은 어찌하면 좋을 것 같소?”\n“우리 군도 기병 중심의 특별한 군대를 만들어 싸워야 합니다.”\n“좋소. 그렇게 하도록 하시오.”\n여진과 맞서 싸울 특별한 군대를 만들자고 건의한 이 사람은 누구일까요? 그가 만든 군대는 어떤 활약을 했을까요?",
+      "est_speech_ms": 33200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "척경입비도(국사편찬위원회)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0b321fc76b919af7/fig_002.jpg",
+          "caption": "척경입비도(국사편찬위원회)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "여진 기병 부대가 고려를 침략해 오다",
+      "narration": "여진 기병 부대가 고려를 침략해 오다\n거란과의 전쟁이 끝나고 고려의 서북방 국경은 안정되었어요. 하지만 이번엔 동북방 국경이 말썽이었어요. 동북방에 있던 여진이 점차 세력을 키우더니 고려의 국경을 자주 침범한 것이지요.\n그러나 고려와 여진이 처음부터 사이가 나빴던 것은 아니었어요. 여진족은 오래전 한반도 북부와 만주 일대에 흩어져 살던 부족이에요.\n시대에 따라 ‘숙신’, ‘말갈’ 등의 이름으로도 불리었지요. 고구려 유민들과 함께 발해를 세웠던 말갈족도 여진의 한 부족이었어요. 두만강 일대에 살던 여진족들은 고려를 부모의 나라로 섬기었고, 고려도 여진족이 항복해 오면 집과 땅을 주면서 잘 대접했어요.",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "여진 기병 부대가 고려를 침략해 오다",
+      "narration": "발해가 거란에게 망한 후 여진족은 수많은 작은 부족들로 나뉘어져 있었어요.\n그러던 차에 ‘완옌부’라는 강한 여진 부족이 나타나 주변의 부족들을 하나씩 흡수하며 고려와 거란 쪽으로 세력을 확대하기 시작했어요.\n그리고 그들의 세력이 고려 동북방 두만강 일대에까지 영향을 미치게 되었고, 결국완옌부의 기병 부대가 고려를 침략하게 된 것이에요.\n대규모 기병으로 고려 국경을 침범한 여진을 고려는 더 이상 부드럽게 대할 수가 없었어요. 이에 군대를 동원해 그들을 누르고, 고려 동북방 국경의 불안을 잠재우고자하였어요.",
+      "est_speech_ms": 41800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "고려군이 여진에게 크게 패하다",
+      "narration": "고려군이 여진에게 크게 패하다\n여진의 군대가 국경을 침범하자고려는 정주성 밖에 군대를 배치시켰지요.\n이에 당시 고려 국왕이었던 숙종은 임간 등을 보내 여진을 정벌하도록 했지요. 하지만 고려군은 적진 깊숙이 들어갔다가 크게 패하고 말았어요.\n여진 군대를 너무 얕잡아 봤던 것이죠. 승기를 잡은 여진 군대는 고려의 여러 성을 공격해 수많은 백성들을 죽이고 식량과 재물을 약탈해 갔어요.\n고려군의 패배에 놀란 숙종은 윤관에게 다시 여진 정벌을 명했어요. 하지만 이게 또 웬일인가요.",
+      "est_speech_ms": 39000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "고려군이 여진에게 크게 패하다",
+      "narration": "윤관이 이끌었던 군대마저 전쟁에 져서 절반 가까이 잃고 말았어요. 예상하지 못한 결과에 고려는 큰 충격을 받았어요.\n예전에 고려를 섬겼던 그 여진이 아니었던 것이지요. 윤관은 실패의 원인을 따져 보았어요.\n“폐하! 신이 여진과 싸워보니 예전의 그들과는 달리 매우 강성하였습니다. 그러니 지금은 군사를 잘 훈련시켜 훗날을 기약하여야 할 것입니다. 신이 패한 이유는 여진이 기병 위주의 군사들이라면 우리는 보병 위주의 군사들이어서 감당할 수 없었기 때문입니다.”\n기병은 말을 타고 싸우는 병사를 말하고, 보병은 발로 걷거나 뛰며 싸우는 병사를 가리키죠. 원래도 기병이 보병보다 전투력이 강하지만, 특히 유목 민족인 여진의 기병은 훨씬 날래고 용맹하였어요.",
+      "est_speech_ms": 52800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "별무반을 만들어 여진을 정벌하다",
+      "narration": "이에 윤관은 기병 위주의 여진과 맞서 싸울 특별한 군대를 만들자고 숙종에 게 건의했어요. 이 군대를 특별히 만든 군대라 해서 ‘별무반’이라 불렀어요.\n별무반을 만들어 여진을 정벌하다\n별무반은 크게 기병으로 이루어진 신기군, 보병으로 조직된 신보군, 승려들로 꾸린 항마군으로 구성되었어요.\n여기에 활을 주무기로 하는 부대, 기계식 활의 일종인 노(弩)를 다루는 부대, 돌격 부대, 화공 부대(불화살 공격 담당) 등 각종 특수 무기를 사용하는 부대들도 포함되었어요.\n윤관은 관리에서부터 상인, 그리고 노비까지도 병사로 만들었어요.",
+      "est_speech_ms": 42000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "여러 역할로 구성된 별무반"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0b321fc76b919af7/fig_033.jpg",
+          "caption": "여러 역할로 구성된 별무반",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "별무반을 만들어 여진을 정벌하다",
+      "narration": "그야말로 고려의 모든 국력을 모아 여진을 정벌하겠다는 의지를 보였다 할 수 있지요. 고려는 기존의 군대와 함께 윤관이 건의해서 만든 이 별무반을 훈련시키며 다시 여진과 싸울 준비를 하였어요.\n1107년 모든 준비를 마친 윤관은 17만 대군을 이끌고 여진 정벌에 나섰어요. 윤관의 군대는 여진족 마을을 휩쓸며 북으로 진격하였어요.\n몇몇 여진족 부대가 나서 고려군을 막아보았지만 헛수고였어요. 고려의 공격을 예상하지 못한 여진족은 당황하며 흩어져 도망가기에 바빴지요.\n고려군은 승리를 계속하여 100곳이 넘는 여진족 마을을 점령했고, 수천 명의 포로를 잡는 대승을 거두었어요.",
+      "est_speech_ms": 47600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "별무반을 만들어 여진을 정벌하다",
+      "narration": "이어 윤관은 여진족을 몰아낸 지역에 성을 쌓고 고려 백성들을 옮겨 살도록 하였어요. 윤관이 개척한 이곳을 고려의 영토로 확실히 만들기 위해서였죠. 그리고 개척한 곳이 고려의 영토라는 것을 분명하게 하고자 선춘령에 비석을 세웠어요.\n성을 쌓은 함주 · 영주 · 웅주 · 길주 · 복주 · 통태진 · 숭녕진 · 진양진 · 공험진 등\n9개성을 보통 ‘동북 9성’이라 불러요. 그래서 윤관이 여진을 정벌하고 동북 9성을 개척했다라고 하지요.\n윤관이 개척한 동북 9성은 과연 고려의 영토로 계속 유지되었을까요?\n아쉽지만 동북 9성은 끝내 고려의 영토로 계속 유지되지 못하였어요. 동북 9성을 개척한 이후 고려는 빼앗긴 땅을 되찾으려는 여진족들의 끊임없는 공격에 시달려야 했어요.",
+      "est_speech_ms": 52400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "별무반의 전투 모습(전쟁기념관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0b321fc76b919af7/fig_048.jpg",
+          "caption": "별무반의 전투 모습(전쟁기념관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "별무반을 만들어 여진을 정벌하다",
+      "narration": "게다가 성들이 서로 멀리 떨어져 있는데다, 고려군은 이 지역의 지리도 몰라 방어하기에 불리했지요. 더구나 군대를 유지하는데도 비용이 많이 들었어요.",
+      "est_speech_ms": 12200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "고려군은 점차 지쳐갔고, 여진족은 동북 9성을 돌려 달라고 고려 조정에 간청을 하였어요. 고려 조정은 여진으로부터 다시는 고려 땅을 공격하지 않겠다는 맹세를 받고 결국 동북 9성을 여진에게 돌려주었어요.\n여진을 정벌하여 동북 9성을 쌓았던 역사는 다시 조선시대로 이어졌어요. 세종 때 여진족을 몰아내고 4군 6진을 개척해 우리나라의 영토로 만들었지요.\n지금 살고 있는 우리나라 영토도 이때 만들어진 것이에요.\n만약 윤관이 여진족과 맞서 싸울 생각을 안했다면 지금의 우리 영토는 어떤 모습을 하고 있었을까요?",
+      "est_speech_ms": 41800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "동북9성의 위치"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/0b321fc76b919af7/fig_057.jpg",
+          "caption": "동북9성의 위치",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

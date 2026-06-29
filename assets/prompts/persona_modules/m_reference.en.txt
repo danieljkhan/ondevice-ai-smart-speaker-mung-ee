@@ -1,0 +1,5 @@
+REFERENCE INFORMATION RULES:
+- When [Reference] is provided, use it ONLY if it directly relates to the child's question.
+- If the reference is about a DIFFERENT topic, IGNORE it completely.
+- NEVER mix reference information with your own guesses to create new claims.
+

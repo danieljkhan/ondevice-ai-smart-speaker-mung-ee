@@ -1,0 +1,197 @@
+{
+  "version": "1.0.0",
+  "description": "Child-safety blocklist for Mungi (children under 10)",
+  "categories": {
+    "violence": {
+      "severity": "BLOCK",
+      "terms": [
+        "죽이다",
+        "죽여",
+        "죽일",
+        "살인",
+        "살해",
+        "칼로 찌르",
+        "총으로 쏘",
+        "때려죽",
+        "피가 나",
+        "피투성이",
+        "잔인",
+        "고문",
+        "학대",
+        "폭행",
+        "kill",
+        "murder",
+        "stab",
+        "shoot",
+        "blood",
+        "torture",
+        "abuse",
+        "violent"
+      ]
+    },
+    "profanity": {
+      "severity": "REPLACE",
+      "terms": [
+        "시발",
+        "씨발",
+        "씨팔",
+        "ㅅㅂ",
+        "ㅆㅂ",
+        "개새끼",
+        "병신",
+        "ㅂㅅ",
+        "지랄",
+        "ㅈㄹ",
+        "미친놈",
+        "미친년",
+        "꺼져",
+        "닥쳐",
+        "fuck",
+        "shit",
+        "damn",
+        "bastard",
+        "bitch"
+      ]
+    },
+    "sexual": {
+      "severity": "BLOCK",
+      "terms": [
+        "섹스",
+        "성관계",
+        "성행위",
+        "야동",
+        "포르노",
+        "음란",
+        "자위",
+        "sex",
+        "porn",
+        "nude",
+        "naked",
+        "erotic",
+        "intercourse"
+      ]
+    },
+    "self_harm": {
+      "severity": "BLOCK",
+      "terms": [
+        "자살",
+        "자해",
+        "손목을 긋",
+        "죽고 싶",
+        "죽고싶",
+        "살기 싫",
+        "목을 매",
+        "투신",
+        "유서",
+        "suicide",
+        "self-harm",
+        "cut myself",
+        "want to die",
+        "end my life"
+      ]
+    },
+    "substance": {
+      "severity": "REPLACE",
+      "terms": [
+        "마약",
+        "대마",
+        "필로폰",
+        "코카인",
+        "본드 흡입",
+        "환각제",
+        "술 마시",
+        "담배 피",
+        "흡연",
+        "drug",
+        "cocaine",
+        "marijuana",
+        "heroin",
+        "meth",
+        "smoking",
+        "alcohol"
+      ]
+    },
+    "bullying": {
+      "severity": "BLOCK",
+      "terms": [
+        "왕따",
+        "따돌림",
+        "괴롭히다",
+        "괴롭혀",
+        "은따",
+        "전따",
+        "찐따",
+        "기합",
+        "빵셔틀",
+        "일진",
+        "bully",
+        "bullying",
+        "harass",
+        "harassment",
+        "outcast"
+      ]
+    },
+    "gambling": {
+      "severity": "BLOCK",
+      "terms": [
+        "도박",
+        "베팅",
+        "슬롯머신",
+        "카지노",
+        "토토",
+        "사행성",
+        "포커판",
+        "gamble",
+        "gambling",
+        "casino",
+        "slot machine",
+        "poker"
+      ]
+    },
+    "horror": {
+      "severity": "REPLACE",
+      "terms": [
+        "귀신",
+        "유령",
+        "저주",
+        "악령",
+        "살인마",
+        "시체",
+        "좀비",
+        "면도날",
+        "ghost",
+        "haunted",
+        "curse",
+        "demon",
+        "zombie"
+      ]
+    },
+    "dangerous_advice": {
+      "severity": "BLOCK",
+      "terms": [
+        "비누로는 안 씻",
+        "비누 쓰지 마",
+        "비누 안 써도",
+        "파란색 세척제",
+        "칼로 이를",
+        "칼로 이빨",
+        "칼로 뚫",
+        "면도날로",
+        "세제 마셔",
+        "세제를 먹"
+      ]
+    },
+    "minimization_danger": {
+      "severity": "BLOCK",
+      "terms": [
+        "화산 근처에서 안전",
+        "화산 옆에 살아도",
+        "지진이 재밌",
+        "미세먼지가 예쁘",
+        "미세먼지가 재밌",
+        "번개가 안전",
+        "태풍이 재밌"
+      ]
+    }
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "schema_version": 2,
+  "doc_hash": "8984b5d81676d32b",
+  "source_file": "eh_r0376_0010.pdf",
+  "title": "일제 강점기 식민 지배의 아픔을 간직한 항구 도시, 군산",
+  "kind": "artifact",
+  "era": "일제강점기",
+  "era_source": "keyword",
+  "scene_count": 18,
+  "section_count": 11,
+  "image_count": 15,
+  "est_total_ms": 834399,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "군산 신흥동 일본식 가옥(전북 군산시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "군산의 역사",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "군산근대역사박물관",
+      "scene_indices": [
+        3
+      ],
+      "scene_seq": [
+        4
+      ],
+      "image_captions": [
+        "군산근대역사박물관"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "옛 군산세관",
+      "scene_indices": [
+        4
+      ],
+      "scene_seq": [
+        5
+      ],
+      "image_captions": [
+        "호남관세박물관(옛 군산세관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "군산 3·1 운동 100주년 기념관",
+      "scene_indices": [
+        5,
+        6
+      ],
+      "scene_seq": [
+        6,
+        7
+      ],
+      "image_captions": [
+        "군산 3·1 운동 100주년 기념관"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "옛 조선은행 군산 지점",
+      "scene_indices": [
+        7
+      ],
+      "scene_seq": [
+        8
+      ],
+      "image_captions": [
+        "군산근대건축관(옛 조선은행 군산 지점)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "부잔교(뜬다리 부두)",
+      "scene_indices": [
+        8
+      ],
+      "scene_seq": [
+        9
+      ],
+      "image_captions": [
+        "부잔교"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "동국사",
+      "scene_indices": [
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "동국사 대웅전",
+        "동국사에 있는 일본식 종",
+        "동국사에 있는 참사문 비"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 8,
+      "section_title": "군산 신흥동 일본식 가옥(옛 히로쓰 가옥)",
+      "scene_indices": [
+        12
+      ],
+      "scene_seq": [
+        13
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 9,
+      "section_title": "이영춘 가옥",
+      "scene_indices": [
+        13,
+        14,
+        15
+      ],
+      "scene_seq": [
+        14,
+        15,
+        16
+      ],
+      "image_captions": [
+        "군산 신흥동 일본식 가옥",
+        "이영춘 가옥의 외부와 내부"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 10,
+      "section_title": "역사 속 작은 이야기: 군산 동국사에 있는 평화의 소녀상",
+      "scene_indices": [
+        16,
+        17
+      ],
+      "scene_seq": [
+        17,
+        18
+      ],
+      "image_captions": [
+        "군산 평화의 소녀상"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "일제 강점기 식민 지배의 아픔을 간직한 항구 도시, 군산\n“이번 영화는 일제 강점기가 배경인데, 당시의 모습을 간직한 집에서 몇 장면을 찍어야 합니다. 어디 좋은 곳이 없을까요?\n“군산에 가면 일본식으로 지어진 집들이 여러 채 남아 있습니다. 거기서 영화를 찍으면 좋을 것 같군요.”\n군산은 전라도 서해안에 있는 도시로서, 100여 년 전 외국 사람들에게도 개방한 항구 도시 중 한 곳이었어요. 특히 일제 강점기에는 전라도 지역에서 생산한 쌀을 일본에 보내는 통로가 되면서 많은 일본인들이 일본식 건물을 지어 생활하게 되었어요.\n그럼 지금부터 당시 생활 모습을 엿볼 수 있는 군산의 여러 유적을 하나씩 살펴볼까요?",
+      "est_speech_ms": 48600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "군산 신흥동 일본식 가옥(전북 군산시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_001.jpg",
+          "caption": "군산 신흥동 일본식 가옥(전북 군산시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "군산의 역사",
+      "narration": "군산의 역사\n군산은 금강 하구와 바다가 만나는 지점에 자리 잡은 고장이다 보니 과거부터 교통의 요지였어요. 그래서 오랜 세월 전라도 호남평야에서 생산된 쌀이 군산으로 모였어요. 군산은 부산, 원산, 인천, 목포, 진남포, 마산에 이어 1899년에 개항되었어요. 개항은 항구를 열었다는 뜻으로, 외국의 배와 사람들이 항구를 드나들 수 있다는 것을 의미해요.\n이러한 이유로 군산은 일찍부터 외국의 근대 문물이 전해졌고, 외국인들도 자주 드나들었어요. 특히 많은 일본 상인들이 쌀을 사기 위해 군산에 모여들었어요.",
+      "est_speech_ms": 41000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "군산의 역사",
+      "narration": "한편 1910년에 대한제국의 국권을 빼앗은 일본은 자기네 나라에서 쌀이 부족해서 쌀값이 급격히 오르자 한반도에 산미 증식 계획을 실시했어요. 1920년대부터 시작된 이 계획은 한반도의 쌀 생산량을 늘려 많은 쌀을 일본에 보내 식량 부족 문제를 해결하려는 정책이었어요.\n산미증식계획이 실시되면서 쌀을 일본으로 보내는 주요 창구가 된 군산은 더욱 큰 항구 도시가 되었어요. 많은 일본인들이 모여들면서 군산에는 일본식 건물들도 많이 들어섰어요.\n아직도 군산에는 당시에 지어진 일본식 집, 세관, 은행, 절 등이 남아 있어서 일제 강점기 군산항의 모습을 짐작할 수 있답니다.\n일제 강점기 식민 지배의 아픔을 간직한 항구 도시, 군산",
+      "est_speech_ms": 51200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_016.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_021.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "군산근대역사박물관",
+      "narration": "군산근대역사박물관\n군산의 역사를 알고 싶다면 가장 먼저 군산근대역사박물관을 들러보세요. 1층에는 군산의 과거를 확인하고, 현재와 미래를 짐작할 수 있는 유물과 영상을 함께 배치하여 관람객의 이해를 돕고 있어요. 2층에는 일본에 맞서 의병을 일으킨 임병찬의병장의 활동 내용이 전시되어 있어요.\n특히 전라도 최초로 3ㆍ1 운동이 일어난 군산 지역의 독립 만세 운동에 대해서도 자세히 소개되어 있어요. 3층에는 1930년대 군산의 거리를 재현해 놓았어요. 한편, 군산근대역사박물관에서 군산 근대항 스탬프 투어를 할 수 있는 전단지를 받을 수 있어요.",
+      "est_speech_ms": 45200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "군산근대역사박물관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_022.jpg",
+          "caption": "군산근대역사박물관",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 3,
+      "section_title": "옛 군산세관",
+      "narration": "스탬프를 하나씩 찍으며 근대 유적이 있는 곳을 찾아다니다보면 어느새 군산의 주요 유적지를 거의 다 둘러볼 수 있지요.\n옛 군산세관\n군산근대역사박물관 오른쪽에는 옛 군산 세관 건물이 위치하고 있어요. 1908년 대한제국 시기에 만들어진 이 건물은 일제 강점기를 거쳐 광복 이후에도 군산 세관으로 이용되었어요.\n이후 1993년에 보수 공사를 마친 후 지방 문화재로 지정되면서 현재 호남 관세박물관관으로 사용되고 있어요. 원래 보수 공사를 할 당시에는 이 건물을 철거하려고 했다고 해요.\n쌀을 아주 싼 값에 많은 양을 사가는 바람에 한국인들을 경제적으로 어렵게 만든 대표적인 곳이었기 때문이지요. 그러나 ‘아픈 역사도 소중한 역사’ 라는 반대 여론을 수용해 본관 건물을 박물관으로 바꾸었어요.",
+      "est_speech_ms": 56600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "호남관세박물관(옛 군산세관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_029.jpg",
+          "caption": "호남관세박물관(옛 군산세관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 4,
+      "section_title": "군산 3·1 운동 100주년 기념관",
+      "narration": "현재 호남관세박물관에는 군산 세관의 역사를 알 수 있는 여러 자료와 함께 일제 강점기 군산 시내 사진 등이 전시되어 있어요. 한편 옛 군산 세관 본관 뒤편에 있던 세관 창고 건물은 2018년에 인문학 카페로 단장을 한 후 시민들이 즐길 수 있는 역사ㆍ문화 공간으로 운영되고 있어요.\n군산 3·1 운동 100주년 기념관\n군산은 한강 이남에서는 최초로 3·1 운동이 일어난 곳이에요. 1919년 3월 5일에 시작된 군산 지역의 3·1 운동은 구암교회를 중심으로 당시 군산 지역에서 활동하던 선교사와 기독교 신자들이 주도하였어요. 그래서 옛 구암 교회가 있는 동산 안에 기념관이 건립되었어요.",
+      "est_speech_ms": 47400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 4,
+      "section_title": "군산 3·1 운동 100주년 기념관",
+      "narration": "기념관 안에는 유관순과 손병희의 모습이 조각되어 있고, 군산 3·5만세 시위의 모습이 디오라마(하나의 장면을 일정 공간 안에 입체적으로 전시한 것) 형태로 전시되어 있어요.\n특히 전라도 지역의 3·1 운동을 이끌던 당시 군산영명학교 교사 문용기의 피 묻은 옷이 전시되어 있어요. 문용기는 만세 시위를 벌이다 일본 경찰의 칼에 잔혹하게 목숨을 잃었어요. 군산 3·1 운동 100주년 기념관에 전시된 유물을 보고 있노라면 3·1 운동 당시 우리 민족이 외친 만세 소리가 귓가에 맴돌면서 나라 사랑의 마음을 느낄 수 있을 거예요.",
+      "est_speech_ms": 42000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "군산 3·1 운동 100주년 기념관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_042.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_044.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 5,
+      "section_title": "옛 조선은행 군산 지점",
+      "narration": "옛 조선은행 군산 지점\n옛 조선은행 군산 지점은 일제가 식민지 지배를 위해 세운 건물이에요. 이 건물은 밖에서 보기에는 2층 건물이지만 실제로는 4층 건물 높이 정도 되는데, 세워질 당시에는 군산 최대의 건물이었다고 해요.\n일제 강점기에 조선은행은 당시 일본인들이 많은 땅을 살 수 있도록 큰 돈을 빌려주었어요. 그 결과 많은 일본인들이 군산을 비롯한 인근 여러 지역의 땅을 사서 농장을 넓혀갔어요.\n광복 이후 이 건물은 은행, 예식장 등으로 사용되다가 2013년에 군산근대건축관이라는 전시관으로 새롭게 단장했어요. 은행으로 지어진 건물이 시대의 흐름에 따라 다양한 용도로 사용되었음을 알 수 있지요.",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "군산근대건축관(옛 조선은행 군산 지점)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_048.jpg",
+          "caption": "군산근대건축관(옛 조선은행 군산 지점)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 6,
+      "section_title": "부잔교(뜬다리 부두)",
+      "narration": "부잔교(뜬다리부두)\n일제 강점기에 군산항을 통해 전라도 지역의 쌀을 강제 수출하던 일본은 조수 간만의 차가 커서 어려움을 겪었어요. 군산항이 썰물 때면 갯벌이 드러나 배가 정박하는 데 힘들었던 것이죠. 그래서 일본은 바닷물의 수위에 따라 위아래로 움직이는 다리와 다리에 연결된 콘크리트 시설을 일체형으로 만들었어요.\n이 일체형 구조물을 부잔교라고 하는데, 뜬다리부두라고 불리기도 해요. 부잔교의 한쪽 부분만 고정시켜 놓아서 밀물과 썰물 등 물의 높이에 따라 다리가 아래위로 오르내리기 때문에, 언제든 안전하게 배를 댈 수 있는 것이죠.\n일제 강점기 군산 지역에는 총 6개의 부잔교가 만들어졌는데, 현재 3개만 남아 있어요. 군산의 부잔교는 과학적인 건축물이긴하지만, 일본이 강제로 쌀을 수탈해 간 흔적을 보여주는 역사의 아픔이 느껴지는 곳이지요.",
+      "est_speech_ms": 61400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "부잔교"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_055.jpg",
+          "caption": "부잔교",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 7,
+      "section_title": "동국사",
+      "narration": "동국사\n군산의 금광동에 있는 동국사는 일본식 건축 양식으로 만들어진 절이에 요. 일본인 승려가 이 절을 지을 때 일본에서 가지고 온 재료를 사용했다고 해요.\n이 절의 처음 이름은 금강사였는데, 광복 이후 동국사 바뀌어서 오늘에 이르고 있어요.\n한국의 절은 추위에 견디기 위해 두꺼운 벽으로 되어 있지만, 일본식 절인 동국사는 많은 창문이 있는 것이 특징이에요. 또한 동국사 안에는 국내 유일의 일본식 종도 있어요.\n일제 강점기에 일본은 한국인들의 정신을 없애기 위해 여러 정책을 실시했어요. 우리글과 우리말을 사용하지 못하게 하고, 일본식 성과 이름으로 바꿀 것을 강요했지요.",
+      "est_speech_ms": 46400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "동국사 대웅전",
+        "동국사에 있는 일본식 종"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_063.jpg",
+          "caption": "동국사 대웅전",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_069.jpg",
+          "caption": "동국사에 있는 일본식 종",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 7,
+      "section_title": "동국사",
+      "narration": "당시 일본 불교는 한국 불교를 흡수하기 위해 한반도에서 적극적인 포교 활동을 하면서 일제의 강압적인 통치에 협조했어요.\n동국사에는 이러한 일본 불교의 잘못을 참회하는 내용이 담긴 ‘참사문비’가 있어요. ‘참사문’이란 참회와 사죄의 글이라는 뜻이에요. 이 비는 과거 일본의 잘못된 행동을 반성하는 일본 사람들이 세웠는데, 다음과 같은 내용이 새겨져 있어요.",
+      "est_speech_ms": 28800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 7,
+      "section_title": "동국사",
+      "narration": "우리 일본 불교는 여러 아시아 민족에 대한 침략 전쟁을 성스러운 전쟁이라고 좋게 평가하고 적극적으로 도왔다. 특히 일본은 조선의 명성 황후를 죽이는 폭력적인 범죄를 저질렀으며, 조선의 국권을 빼앗았다. 또한 일본 불교는 한국인들을 일본인으로 만드는 것을 도왔다.\n일본은 그들이 저지른 침략의 역사를 왜곡하고, 자신들의 잘못을 인정하지 않고 있어요. 그러나 이 비석을 만든 일본인들처럼 양심적인 사람들도 많이 있지요.\n우리들은 이러한 양심적인 일본인들과 손을 잡고 잘못된 일본인들의 생각을 바로잡기 위해 노력해야 할 거예요.",
+      "est_speech_ms": 43200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "동국사에 있는 참사문 비"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_078.jpg",
+          "caption": "동국사에 있는 참사문 비",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 8,
+      "section_title": "군산 신흥동 일본식 가옥(옛 히로쓰 가옥)",
+      "narration": "군산 신흥동 일본식 가옥(옛 히로쓰 가옥)\n군산의 신흥동 일대에는 일제 강점기에 부유한 일본인들이 살던 고급 주택이 몇 채 남아 있어요. 그중에서도 군산 신흥동 일본식 가옥이 대표적이에요.\n이 가옥의 원래 이름은 히로쓰 가옥인데, 일제 강점기에 군산 지역에서 활동한 히로쓰라는 상인의 이름에서 붙여진 이름이에요. 나무로 만들어진 이 가옥의 1층에는 온돌방, 부엌, 식당, 화장실 등이 있고, 2층에는 일본식 다다미방 2칸이 있어요.",
+      "est_speech_ms": 34600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 9,
+      "section_title": "이영춘 가옥",
+      "narration": "또한 정원도 일본식으로 꾸며져 있어요. 군산 신흥동 일본식 가옥은 광복 후 개인에게 소유권이 넘어갔다가 2005년에 문화재로 지정된 후 일반 사람들에게 공개되고 있어요.\n이영춘 가옥\n이영춘 가옥은 원래 일제 강점기에 군산에 살던 일본인 대지주 구마모토가 지은 별장이었어요. 구마모토는 군산 지역에 큰 농장을 갖고 있었는데, 한국인 농민들을 고용하여 농장을 운영하였어요.\n당시 구마모토 농장에 소속된 농민만 2만여 명이나 되었다니, 당시 이 거대한 농장의 규모를 짐작할 수 있겠죠?\n구마모토는 농장의 생산량을 늘리기 위해서는 자신의 농장에서 일하는 농민들이 건강해야 한다고 생각하였어요. 그래서 한국인의사 이영춘을 고용하여 농장에서 일하는 농민들의 건강을 돌보게 하였어요.\n광복 이후 이영춘이 이 별장에 살게 되면서 이영춘 가옥이라고 불리게 되었어요.",
+      "est_speech_ms": 62599,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "군산 신흥동 일본식 가옥"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_088.jpg",
+          "caption": "군산 신흥동 일본식 가옥",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 9,
+      "section_title": "이영춘 가옥",
+      "narration": "이영춘 가옥은 일본식, 서양식 건축 양식에 우리 한옥의 양식까지 절충해서 만들어졌어요.\n건물 외부는 유럽에서 볼 수 있는 서양식이며, 평면 구조는 일본식을 바탕으로 하고 있어요. 또 온돌방은 전통적인 한옥 양식인데, 이러한 특이한 모습 때문에 광복 이후 여러 한국 영화나 드라마의 촬영 장소로 사용되었어요. 그리고 2003년에 전라북도 유형 문화재로 지정되면서 오늘까지 군산의 유명한 답사지로 소개되고 있지요.\n일제 강점기에 지어진 일본식 건물들을 왜 지금까지 보존하고 있을까요?\n일제 강점기 군산에 살던 소수의 일본인은 이 같은 고급주택을 지어 편안한 삶을 살았으나, 당시 대다수 한국인들은 일제의 지배를 받으며 경제적으로 많은 어려움을 겪었어요.",
+      "est_speech_ms": 53600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "이영춘 가옥의 외부와 내부"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_099.jpg",
+          "caption": "이영춘 가옥의 외부와 내부",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 9,
+      "section_title": "이영춘 가옥",
+      "narration": "이처럼 아픈 역사를 보여주는 생생한 유적이기에 기억하고 보존해야 하는 것이에요. 즉, 아픈 역사를 잊지 않고 기억할 때 아픈 역사를 되풀이하지 않을 수 있어요.",
+      "est_speech_ms": 12800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 17,
+      "section_index": 10,
+      "section_title": "역사 속 작은 이야기: 군산 동국사에 있는 평화의 소녀상",
+      "narration": "역사 속 작은 이야기: 군산 동국사에 있는 평화의 소녀상\n군산에 있는 일본식 절인 동국사의 참사문 비석 앞에는 평화의 소녀상이 세워져있어요. 평화의 소녀상은 일제 강점기에 강제로 일본에 의해 끌려가서 인권을 빼앗긴 채 참혹한 삶을 살았던 일본군 '위안부' 피해자들의 명예와 인권회복을 위해 만든 조각상이에요.\n전쟁의 아픔과 일본군 '위안부' 문제를 기억하고 평화를 기원하기 위해서 세워졌지요. 2011년 위안부 문제 해결을 촉구하는 1,000차 수요 집회를 계기로 세워졌는데, 이를 계기로 이후에 여러 곳에 설치되었어요.",
+      "est_speech_ms": 42600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "군산 평화의 소녀상"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8984b5d81676d32b/fig_002.jpg",
+          "caption": "군산 평화의 소녀상",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 18,
+      "section_index": 10,
+      "section_title": "역사 속 작은 이야기: 군산 동국사에 있는 평화의 소녀상",
+      "narration": "군산 동국사에 있는 평화의 소녀상은 2015년에 우리나라에서는 처음으로 절 안에 세워졌어요. 군산 평화의 소녀상 건립 위원회가 시민들을 대상으로 모금했는데, 모금에는 일제 강점기 자국의 과거사를 반성하는 일본의 시민단체 '동지회'가 참여했어요.\n또한 군산 평화의 소녀상 건립을 처음으로 축하하는 기념식 날에 일본군 '위안부' 피해자인 이옥선 할머니가 참여해 그 의미를 더했지요.\n이처럼 군산에는 일제 강점기의 아픔을 느낄 수 있는 여러 건물들을 비롯해 과거 일본의 잘못된 행동에 대한 반성을 촉구하는 기념물에 이르기까지 과거와 현재가 공존하는 유적들이 곳곳에 있어요.\n군산의 여러 유적을 답사하다보면 역사가 지나가버린 과거의 문제가 아니라 현재에도 이어지고 있는 현실이라는 것을 느낄 수 있답니다.",
+      "est_speech_ms": 58200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

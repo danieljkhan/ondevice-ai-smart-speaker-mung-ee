@@ -1,0 +1,366 @@
+{
+  "schema_version": 2,
+  "doc_hash": "a66aaea1c9f7b407",
+  "source_file": "eh_r0240_0010.pdf",
+  "title": "조선 시대 최고의 배움터,",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 15,
+  "section_count": 6,
+  "image_count": 10,
+  "est_total_ms": 653300,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "조선 시대 최고의 배움터,",
+      "scene_indices": [
+        0,
+        1,
+        2
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3
+      ],
+      "image_captions": [
+        "성균관 명륜당(서울 종로구), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "성균관에는 여러 가지 시설들이 있어요",
+      "scene_indices": [
+        3
+      ],
+      "scene_seq": [
+        4
+      ],
+      "image_captions": [
+        "존경각(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "성균관은 유생들이 공부하는 곳이에요",
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [
+        "대성전 석전대제 모습(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "성균관 유생들은 이렇게 공부하였어요",
+      "scene_indices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "지방에는 향교가 있어요",
+      "scene_indices": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "나주향교 대성전과 내부 모습((전남 나주시), 문화재청",
+        "장수향교 대성전(전북 장수군), 문화재청",
+        "성주향교 명륜당(경북 성주군), 문화재청",
+        "강릉향교 대성전(강원 강릉시), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": null,
+      "scene_indices": [
+        14
+      ],
+      "scene_seq": [
+        15
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "조선 시대 최고의 배움터,",
+      "narration": "조선 시대 최고의 배움터,\n성균관\n“정말 축하하네. 이번에 그 어렵다는 성균관에 입학했다고?”\n“고맙네. 난 과거 공부도 열심히 할 생각이네.”\n“나도 자네처럼 성균관에 꼭 들어갈 것이네.”\n옛날부터 지금까지 교육은 나라의 미래를 좌우한다고 생각해 매우 중요하게 여겨 왔어요.\n조선 시대에는 최고 교육 기관으로 성균관이라는 학교가 있었어요.\n조선시대 성균관은 어떤 곳이었을까요?",
+      "est_speech_ms": 29800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "성균관 명륜당(서울 종로구), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/a66aaea1c9f7b407/fig_002.jpg",
+          "caption": "성균관 명륜당(서울 종로구), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "조선 시대 최고의 배움터,",
+      "narration": "옛날에도 학교가 있었을까요?\n어느 시대나 나라에 필요한 인재를 키우기 위해 교육 기관을 설치했어요.\n고구려의 태학, 신라의 국학, 고려의 국자감 등이 그런 곳이었어요. 고려 시대의 국자감이 고려 말기 공민왕 때 성균관으로 이름이 바뀌었고, 이것 이 조선시대로 이어졌어요.\n조선은 나라를 다스릴 기본 학문을 유학으로 정하였어요. 그래서 조선의 교육 기관은 유학에 바탕을 두고 인재들을 길러 내고자 힘썼지요.\n“나라가 잘 되려면 똑똑한 관리들이 많아야 한다. 한양에 성균관을 지어 전국의 인재를 모으도록 하라.”",
+      "est_speech_ms": 40800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "조선 시대 최고의 배움터,",
+      "narration": "조선을 세운 태조 이성계는 한양을 새 도읍지로 정하고 궁궐과 여러 건물들을 세웠어요. 그리고 고려의 교육 제도를 이어받아 한양의 숭교방(지금의 종로구 명륜동)에 성균관을 새로 짓게 하였지요.\n성균관은 조선시대 나라에서 운영했던 최고 교육 기관이었어요.\n오늘날의 국립 대학교에 해당한다고 볼 수 있지요.\n성균관에서는 두 가지 일을 했어요. 하나는 학생들에게 유학을 가르쳐 훌륭한 관리를 만드는 것이었어요. 또 하나는 유학이라는 학문을 만들고 발전시킨 공자를 비롯한 여러 유학자들에게 제사를 지내는 일이었어요.",
+      "est_speech_ms": 42000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/a66aaea1c9f7b407/fig_028.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "성균관에는 여러 가지 시설들이 있어요",
+      "narration": "성균관에는 여러 가지 시설들이 있어요\n성균관에는 강의실을 비롯해 도서관, 기숙사, 식당 같은 시설이 잘 갖추어져 있었어요. 성균관 명륜당은 유생들이 수업을 받고 공부를 하는 건물로 오늘날 학교 교실과 같은 곳이에요.\n명륜당 뒤의 존경각은 성균관의 도서관으로 쓰였지요.\n명륜당 앞뜰에는 동쪽과 서쪽에 각각 동재와 서재가 있어 서로 마주 보고 있어요. 동재와 서재는 학생들이 먹고 자고 생활하는 기숙사와 같은 곳이었어요.\n명륜당 건너편의 큰 건물은 대성전이에요.",
+      "est_speech_ms": 37600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "존경각(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/a66aaea1c9f7b407/fig_030.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/a66aaea1c9f7b407/fig_038.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.6667
+        },
+        {
+          "path": "assets/history/images/a66aaea1c9f7b407/fig_039.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "성균관은 유생들이 공부하는 곳이에요",
+      "narration": "공자를 비롯한 여러 유학자들에게 제사를 지내는 곳이지요.\n대성전에는 공자의 위패가 모셔져 있어 음력 2월과 8월에 제사를 지내는데, 이를 ‘석전대제’라 했어요. 그리고 석전대제에 쓰이는 음악을 ‘문묘제례악’ 이라 해요. 대성전에서 제사를 지낼 때는 임금님도 참석했어요.\n제사에 참석하는 임금님은 대성전으로 들어오는 외삼문 앞에 이르면 가마에서 내려 걸어 들어왔어요. 유생들은 매달 1일에 정식으로 의복을 차려입고 문묘인 대성전에 가서 네 번 절을 해야 했어요.\n성균관은 유생들이 공부하는 곳이에요\n조선이 건국한 후에도 성균관의 직제는 고려의 것을 그대로 이어받았어요. 그러다 세조 관제 개혁 때 정비하여 정2품 상당의 대신 가운데 학식이 뛰어난 관리들에게 성균관 교관을 맡겼지요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대성전 석전대제 모습(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/a66aaea1c9f7b407/fig_042.jpg",
+          "caption": "대성전 석전대제 모습(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "성균관은 유생들이 공부하는 곳이에요",
+      "narration": "그런 성균관에는 아무나 들어가지 못하고 대체로 양반 가문의 남자들에게 기회가 주어졌어요. 다른 경로를 통해 들어오기도 했지만, 대개 성균관의 학생이 되려면 소과인 생원시와 진사시라는 시험에 합격해야 했지요.\n생원시는 경전을 읽고 해석하는 시험이고, 진사시는 글을 짓는 시험이에요. 초시와 복시의 두 단계로 이루어진 시험을 통과하면 각각 ‘생원’과 ‘진사’라는 일종의 학위가 주어져요. 매년 각 100명밖에 뽑지 않아서, 여기에 합격하는 것도 매우 힘든 일이었어요.\n이렇게 생원, 진사가 된 사람들이 성균관에 입학할 수 있었어요. 이밖에 결원이 있을 경우 향교나 4부 학당의 추천을 통하거나 문음 자제들도 입학할 수 있었어요.",
+      "est_speech_ms": 50600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "성균관 유생들은 이렇게 공부하였어요",
+      "narration": "성균관에 다니는 학생을 유생이라 하였어요. 성균관 유생들은 유교 경전을 공부하면서 열심히 과거 시험 준비에 매달렸어요. 관리가 되기 위해서는 ‘대과’라는 과거 시험을 봐야 했기 때문이에요.\n과거 시험은 문제도 엄청 어렵고, 경쟁률도 매우 높아 합격하기 무척 힘들었어요. 유생들은 대과에서 합격하기 위해 성균관에서 열심히 공부하였어요.\n공부는 정말 힘들었지만, 학비와 기숙사비는 모두 나라에서 대줘 마음 놓고 공부할 수 있었어요.\n성균관 유생들은 이렇게 공부하였어요\n100명이 넘는 유생들은 북소리에 따라 움직였어요. 이른 새벽 북소리가 한번 울리면 잠자리에서 일어나야 했지요. 북소리가 두 번 울리면 새벽 공부로 하루를 시작하였지요. 북소리가 세 번 울리면 밥 먹으러 식당에 갔어요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "성균관 유생들은 이렇게 공부하였어요",
+      "narration": "성균관 유생들은 아침저녁으로 식당에 가서 꼭 이름을 적어야 했어요. 식당 입구에는 출석부가 있어서, 여기에 동그랗게 표시를 해야 했어요. 이것을 ‘원점’이라고 해요. 날마다 아침과 저녁, 하루 두 번 출석을 표시하면 원점 1점을 딸 수 있어요. 원점이 300점이 넘어야 대과를 볼 수 있었어요.\n원점 300점이란 곧 성균관에서 300일을 공부했다는 뜻이지요. 꼭 몇 년을 다녀야 한다는 제한은 없었어요.\n성균관에서 원점 300점을 따면 바로 졸업할 수 있었지요.\n밥을 먹고 나서 북소리가 한 번 더 들리면, 수업을 시작했어요. 유생들은 강의실로 가 스승에게 인사하고 자리에 앉지요. 유생 가운데 누가 질문을 하면, 스승은 답을 해 주고, 나머지 유생들은 배운 것을 복습하지요.",
+      "est_speech_ms": 53400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "성균관 유생들은 이렇게 공부하였어요",
+      "narration": "다시 북소리가 두 번 울리면 한 사람씩 스승 앞으로 나아가 공부한 것을 점검받아요. 통과하면 새로운 것을 공부하고, 그러지 못하면 다시 공부해야 했지요.\n유생들은 논어, 맹자, 시경 등 유교 경전 9과목을 공부하였어요.",
+      "est_speech_ms": 17200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "성균관 유생들은 이렇게 공부하였어요",
+      "narration": "모두 공부하는 데 걸리는 기간은 기본적으로 3년이었어요. 해마다 3월과 9월에는 시험을 치렀는데, ‘통, 약, 조, 불’ 4단계로 평가를 받았어요.\n오늘날의 ‘잘함, 보통, 부족함, 아주 부족함’이라고 할 수 있지요. ‘통’을 받으면 합격이고, ‘불’을 받으면 낙제였어요.\n조선 후기 들어 성균관의 위상은 점차 약화되었어요. 지방 곳곳에 서원이 생겨나고 과거 제도 문제점이 깊어지면서 성균관에서 머물며 공부하는 학생의 수도 점차 줄어들었지요.\n하지만 나라의 유교 의례를 여는 장소라는 점에서 나름대로 기능을 계속 유지하였어요. 또한 성균관 학생들을 대상으로 각종 특별 시험이 시행되어 여전히 과거 시험 준비하는 데 유리한 점이 많았지요.",
+      "est_speech_ms": 50000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "지방에는 향교가 있어요",
+      "narration": "지방에는 향교가 있어요\n성균관이 한양에 있는 공교육 기관이라면 지방에는 향교가 있었어요. 향교는 지금의 국립 중·고등학교라 할 수 있어요.\n향교에 입학한 16세 이상의 학생을 교생이라 불렀어요. 교생 가운데 생원시, 진사시를 치러 합격한 사람이 성균관에 입학할 수 있었지요. 향교는 성균관으로 가기 위한 일종의 징검다리였던 셈이지요.\n향교에서는 소학과 사서오경 등을 배웠어요. 소학은 일상생활에서의 예의범절과 충신과 효자의 도리를 담은 도덕 교과서였어요. 사서오경은 논어, 맹자, 중용, 대학의 기본 유학 경전과 시경, 서경, 주역, 예기, 춘추의 유학 책을 말해요.",
+      "est_speech_ms": 45600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "나주향교 대성전과 내부 모습((전남 나주시), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/a66aaea1c9f7b407/fig_077.jpg",
+          "caption": "나주향교 대성전과 내부 모습((전남 나주시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "지방에는 향교가 있어요",
+      "narration": "나라에서는 지방 곳곳에 유학 이념을 퍼뜨리기 위해 실력 있는 선생을 파견하고, 절에서 빼앗은 노비와 토지를 향교에 주었어요. 또 향교에서 공부하면 군역을 면제해주었어요.\n향교에는 성균관과 마찬가지로 문묘가 있었어요. 지방마다 설치된 향교 덕분에 삼강오륜 같은 유교의 윤리가 널리 퍼질 수 있었지요.",
+      "est_speech_ms": 24600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 4,
+      "section_title": "지방에는 향교가 있어요",
+      "narration": "역사 속 작은 이야기: 성균관 유생들이 수업을 거부하였다고요?\n성균관 유생들은 정치 문제에도 관심이 많았어요. 나랏일이 잘못되어 간다고 생각하면 상소로 자신들의 뜻을 적극 알렸어요. 상소가 받아들여지지 않으면 단체 행동으로 나설 때도 많았어요.\n어느 날이었어요. 다른 때와 마찬가지로 성균관 유생들은 열심히 공부하고 있었지요. 그런데 몇몇 유생들이 심각한 얼굴로 삼삼오오 모여 이야기를 나누고 있었어요.\n“아니, 백성들도 함부로 아내를 내치지 않는데, 어찌 나라의 어머니라 할 수 있는 중전마마를 내쫓을 수 있단 말인가?”",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "장수향교 대성전(전북 장수군), 문화재청",
+        "성주향교 명륜당(경북 성주군), 문화재청",
+        "강릉향교 대성전(강원 강릉시), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/a66aaea1c9f7b407/fig_084.jpg",
+          "caption": "장수향교 대성전(전북 장수군), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/a66aaea1c9f7b407/fig_086.jpg",
+          "caption": "성주향교 명륜당(경북 성주군), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/a66aaea1c9f7b407/fig_089.jpg",
+          "caption": "강릉향교 대성전(강원 강릉시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 4,
+      "section_title": "지방에는 향교가 있어요",
+      "narration": "“그러게 말일세. 더군다나 지금의 중전마마께서는 덕이 높고 바른 분이지 않은가? 도무지 쫓아내려는 이유가 이해되지 않는다네.”\n중전을 내쫓는다는 소문이 돌자 성균관 분위기도 시끌벅적했지요.\n숙종은 중전 인현왕후를 탐탁지 않게 생각하고 있었어요. 더구나 왕의 사랑을 듬뿍 받고 있던 후궁 장희빈이 왕자를 낳았어요. 그러자 장희빈은 중전을 몰아내고 자기가 그 자리를 차지하고자하였지요.\n장희빈과 그를 따르던 무리들은 인현왕후를 쫓아내기 위해 계속 모함을 했어요. 결국 숙종은 인현왕후를 쫓아내기로 결정했어요.\n“우리가 누군가? 이대로 가만히 보고 있을 수만은 없네. 이제는 나라를 바르게 이끌기 위해 성균관 유생들이 나서야 할 때일세. 임금님께 우리의 바른 뜻을 알리세.”",
+      "est_speech_ms": 54600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "다음날 아침, 성균관 유생들은 아침도 먹지 않고 성균관 마당으로 몰려갔어요. 그리고 왕이 있는 쪽을 향해 꿇어앉아 자신들의 뜻을 크게 외쳤어요.\n“전하, 중전마마를 내쫓으실 수는 없습니다.”\n공부 시간을 알리는 북소리가 울렸지만, 성균관 유생들은 아무로 명륜당으로 들어가지 않았어요.\n성균관 유생들은 이렇게 수업을 거부하거나 밥을 굶는 방법으로 임금님과 조정 대신들에게 자신들의 확고한 뜻을 알렸어요.\n이를 ‘권당’이라 하였어요.\n여러분이 만약 조선시대로 돌아가 성균관이나 향교에 공부한다면 어떨까요? 지금의 학교에서 열심히 공부하는 것이 더 낫겠지요?",
+      "est_speech_ms": 45200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

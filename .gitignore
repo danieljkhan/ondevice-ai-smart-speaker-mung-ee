@@ -1,0 +1,282 @@
+# Secrets / API keys
+vertexai.md
+*.secret
+*.credentials
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+pytest-of-*/
+.pytest_tmp_*/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Orchestrator-local one-off scripts (audit probes, inspection helpers,
+# Stage-2 ad-hoc generators). Survive across sessions for reuse but never
+# committed.
+.tmp_*.py
+.tmp_*.sh
+
+# Virtual environments
+.venv/
+venv/
+
+# Local env and secrets
+.env
+.env.*
+*.secret
+
+# Editors and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Personal notes
+SSH접속.md
+
+# Logs and temp output
+logs/
+tmp/
+temp/
+*.log
+
+# Runtime data
+conversations/
+data/
+reports/
+
+# Test artifacts (raw data, WAV files, JSONL logs)
+docs/runbooks/weekly/artifacts/
+
+# E2E voice pilot inputs (gitignored except manifests for reproducibility)
+assets/e2e_voice_inputs/**
+!assets/e2e_voice_inputs/*/
+!assets/e2e_voice_inputs/manifest.json
+!assets/e2e_voice_inputs/*/manifest.json
+!assets/e2e_voice_inputs/*.md
+!assets/e2e_voice_inputs/*/*.md
+
+# External illustrator asset shipment (large *.mp4/*.png) stays ignored.
+# Phase 2 B-2 follow-up mapping was deferred in Session 82; see
+# 2026-05-27-session82-close-handoff.md section 6.2.
+# The 340 KB CSS/HTML animation source + guide ARE tracked because frames
+# are derived from them.
+assets/emoji/*
+!assets/emoji/HTML/
+!assets/emoji/CSS-CHARACTER-ANIMATION-GUIDE.md
+
+# Raw upstream Pretendard release; committed badge builds use assets/fonts/ subset only.
+assets/font/
+
+# Generated CSS/HTML emoji frame sequences (derived; deployed to Jetson separately).
+assets/character/frames/
+
+# Generated Korean history image derivatives (JSON manifests remain tracked).
+assets/history/images/
+assets/funny_english/images/
+assets/funny_english/audio/
+assets/funny_english/music/
+
+# Licensed TTS voice assets (Supertone Voice Builder, paid per-product license).
+# Local files live outside repo; this directory MUST NOT be committed.
+assets/voice/
+
+# Training data (large files — local only)
+assets/training/*.jsonl
+assets/training/validation_report_v2.json
+# AI-Hub STT command-voice dataset (children/infants) is local only.
+# It has about 218k WAV files and is regenerable via AI-Hub download.
+assets/training/명령어 음성(소아, 유아)/
+
+# Model artifacts
+ai_models/*
+!ai_models/.gitkeep
+*.gguf
+*.onnx
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Claude Code local state
+.claude/settings.local.json
+.claude/verification-status.json
+.claude/worktrees/
+.claude/agent-memory/
+
+# Agent message board (ephemeral inter-agent communication)
+docs/agents/board/assignments/*.md
+docs/agents/board/handoffs/*.md
+docs/agents/board/reports/*.md
+
+# Agent ephemeral files
+.codex/current-task.md
+.codex/chat/trigger.json
+.codex/chat/status.json
+.codex/chat/handoff.md
+.codex/chat/history.jsonl
+.codex/chat/.last-msg.md
+.codex/chat/__pycache__/
+.gemini/review-request.md
+.gemini/review-result.md
+
+# Packaging and caches
+wheelhouse/
+dist/
+build/
+*.egg-info/
+
+# Scratch/debug files (underscore-prefix convention)
+/_*.txt
+/_*.json
+Dev_Plan/_*.py
+Dev_Plan/_*.json
+
+# Codex non-ephemeral runtime artifacts
+.codex/chat/jobs/
+.codex_tmp/
+
+# RAG batch pipeline artifacts (regenerable, large)
+assets/rag/wiki_*.jsonl
+assets/rag/wiki_*.npy
+assets/rag/wiki_*.index
+assets/rag/simplewiki/
+assets/rag/wiki_batch_parts/
+assets/rag/wiki_batch_jobs.json
+assets/rag/wiki_vertex_batch_job.json
+assets/rag/_batch_custom_ids.txt
+
+# Safety filter batch artifacts (Anthropic Batches API results)
+assets/filters/safety_template_batch_*.jsonl
+assets/filters/safety_template_results_*.jsonl
+
+# Voice experiment outputs (local experiments, regenerable)
+assets/voice_experiments/
+
+# E2E test artifacts (rounds.jsonl, summaries, thermal logs - regenerable)
+.e2e_results/
+
+# Local dev tool scratch (gcloud, release notes, lock files)
+.tmp-gcloud-config/
+.tmp-release-body.md
+.claude/scheduled_tasks.lock
+
+# Local sub-agent definitions (per Session 11 handoff)
+.claude/agents/
+
+# RAG / training batch pipeline scratch (Anthropic Batches API artifacts, regenerable)
+assets/batch_results/
+assets/rag/_*.json
+assets/rag/simple_wiki_*.jsonl
+assets/rag/simple_wiki_*.npy
+assets/rag/simple_wiki_*.index
+assets/rag/new_rag_dataset/
+assets/rag/anthropic_keep_*.jsonl
+artifacts/anthropic-batch-childfilter/*/batch_results_*.jsonl
+# Phase A raw HuggingFace dataset downloads (1.8 GB; reproducible from HF; never committed)
+assets/rag/raw material/
+# Phase A pipeline intermediate cache (regenerable; never committed)
+assets/rag/raw material/_cache/
+assets/rag/batch_info_msgbatch_*.json
+assets/rag/spot_check_samples.json
+assets/rag/e5_small_onnx/
+assets/training/_*.json
+assets/training/batch_results_*.json
+assets/training/batch_results_retry_*.json
+assets/training/batch_merged_all_raw.json
+assets/training/retry_batch_info_msgbatch_*.json
+assets/training/spot_check_samples.json
+
+# Scripts: underscore-prefix scratch (matches Dev_Plan/_*.py convention)
+scripts/_*.py
+scripts/_*.ipynb
+scripts/_*.ps1
+
+# Root-level scratch handoff (proper handoffs live under docs/runbooks/weekly/)
+/handoff.md
+
+# Session temp files (PM workflow)
+.p0_ts
+
+# Phase A pipeline: regenerable large intermediates (never commit)
+artifacts/phaseA-a*/*/01_ingested/
+artifacts/phaseA-a*/*/04_*/batch_requests_*.jsonl
+artifacts/phaseA-a*/*/04_*/submitted_input.jsonl
+artifacts/phaseA-a*/*/04_*/batch_results_*.jsonl
+
+# Regenerable artifacts/ test + demo + benchmark outputs (Session 87 cleanup)
+artifacts/live-demo-20260524/
+artifacts/phase0-cuda/
+artifacts/phase0-gguf/
+artifacts/phase0-llm-q4q5/
+artifacts/pr5-100-results-20260510_215838/
+artifacts/pr5-100-results-20260510_215838.zip
+artifacts/pr5-100-results-fixed-20260510_221658/
+artifacts/pr5-100-results-fixed-20260510_221658.zip
+artifacts/pr5-100-runner/
+artifacts/pr5-100-voice-20260511_204700/
+artifacts/pr5-100-voice-rerun-20260512_073312/
+artifacts/pr5-100-voice-rerun2-20260512_090436/
+artifacts/pr5-100-voice-rerun3-20260512_091010/
+artifacts/session30-handoff-v4.0.4/
+artifacts/session30-handoff-v4.0.4.zip
+artifacts/voice-fixtures-pr5-100/*.wav
+artifacts/voice-fixtures-pr5-100/manifest.json
+artifacts/voice-fixtures-pr5-100/stt-spot-check.json
+artifacts/phaseA-a1/dispatch_20260517T011625/02_filtered/
+artifacts/phaseA-a1/dispatch_20260517T011625/03_tagged/ko_chunks/
+artifacts/phaseA-a1/dispatch_20260517T011625/03_tagged/ko_chunks_12/
+artifacts/phaseA-a1/dispatch_20260517T011625/03_tagged/ko_tagged.jsonl
+artifacts/phaseA-a1/dispatch_20260517T011625/04_option_a_en/
+artifacts/phaseA-baseline/*/rescored_*
+artifacts/phaseA-baseline/*/rescored2_*
+artifacts/phaseA-baseline/*/rescored3_*
+
+# PM utility scripts (one-time orchestration, not production code)
+.codex/chat/*.py
+
+# Unrelated bulk PDF data (children's history reference material, ~888MB) — not a code/runtime asset
+assets/아동우리역사/
+
+# 재미있는 우리역사 raw build dataset (285MB; local/dev-PC build input — derived assets/history/ is what ships)
+assets/dateset_korean history/
+assets/dataset_korean history/
+assets/korean_history/
+
+# 재미있는 우리역사 source PDFs (888MB; anchor-build input for scripts/history_image_anchors.py — derived assets/history/ is what ships)
+assets/우리역사/
+
+# Upstage Document Parse raw-response cache + manifest (local/dev-PC; keyed one-shot build input — committed assets/history/docs/ is what ships)
+.upstage_cache/
+assets/FE/
+
+# ── Public-release hardening (do not commit runtime secrets or model binaries) ──
+# Runtime secrets / device-local config (PIN, env, device config)
+portal.json
+**/portal.json
+mungi.env
+**/mungi.env
+config.json
+/var/lib/mungi/**
+# Model weights & large binaries (obtained from upstream, see NOTICE)
+ai_models/**
+!ai_models/.gitkeep
+*.gguf
+*.onnx
+*.bin
+*.safetensors
+*.pt
+*.pth
+# Local agent/orchestration tooling (kept out of the public tree)
+.codex/
+.codex_tmp/
+.gemini/
+.claude/
+
+# scripts/ is an importable package — keep its __init__ despite scripts/_*.py above
+!scripts/__init__.py

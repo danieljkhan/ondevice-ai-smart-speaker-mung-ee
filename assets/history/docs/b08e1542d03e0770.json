@@ -1,0 +1,193 @@
+{
+  "schema_version": 2,
+  "doc_hash": "b08e1542d03e0770",
+  "source_file": "eh_n0540_0010.pdf",
+  "title": "안용복, 우리땅 독도를 지키다",
+  "kind": "people",
+  "era": "조선",
+  "era_source": "docnum",
+  "scene_count": 7,
+  "section_count": 3,
+  "image_count": 5,
+  "est_total_ms": 307300,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "안용복, 울릉도에서 일본인 어부를 만나다",
+      "scene_indices": [
+        0,
+        1
+      ],
+      "scene_seq": [
+        1,
+        2
+      ],
+      "image_captions": [
+        "독도(경북 울릉군)",
+        "일본인 어부와 맞서 싸우는 안용복"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "일본 관리에 맞선 안용복",
+      "scene_indices": [
+        2
+      ],
+      "scene_seq": [
+        3
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "계속된 안용복의 싸움",
+      "scene_indices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "image_captions": [
+        "일본 관리에게 항의하는 안용복",
+        "원록구병자년 조선주착안 일권지각서",
+        "울릉도와 독도의 위치"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "안용복, 울릉도에서 일본인 어부를 만나다",
+      "narration": "안용복, 우리땅 독도를 지키다\n“긴급 속보입니다. 오늘 서해에 중국 선박이 불법으로 우리 영토를 침범하여 물고기를 잡고 있다고 합니다. 우리 해양 경찰은 긴급 출동하여 이들을 쫓아내고 있습니다.”\n“쯧쯧. 남의 나라 영토까지 침범하여 물고기를 잡다니, 우리 어민들의 피해가 크겠어. 이런 일이 없어야 될 텐데.”\n조선 시대에도 이와 똑같은 일들이 있었어요. 어디에서 일어났을까요?\n안용복, 울릉도에서 일본인 어부를 만나다\n우리나라 동쪽 바다에는 울릉도와 독도가 있어요. 지금과 달리 조선시대 조정에서는 울릉도가 왜구의 근거지가 될 수 있다고 우려해 섬에 사는 사람들을 육지로 보내는 정책을 폈어요. 하지만 울릉도와 독도 부근 바다에는 어업 자원이 풍부했어요. 때문에 많은 조선 어부들이 이곳에서 고기잡이를 하였어요.",
+      "est_speech_ms": 57600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "독도(경북 울릉군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b08e1542d03e0770/fig_001.jpg",
+          "caption": "독도(경북 울릉군)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "안용복, 울릉도에서 일본인 어부를 만나다",
+      "narration": "1693년(숙종 19년) 봄 어느 날이었어요. 부산 동래 사람 안용복은 울산 어부 40여 명과 함께 고기잡이를 하러 울릉도에 갔지요. 그런데 이곳에 조선의 어부들이 아닌 일본의 어부들이 버젓이 고기잡이를 하고 있는게 아니겠어요? 안용복은 화가 났어요.\n“어이~ 그대들은 왜 남의 나라 바다에 와서 고기잡이를 하는가? 이곳은 조선의 바다이니 썩 물러가라”\n일본의 어부들은 안용복의 꾸지람에 아랑곳하지 않았어요. 물고기가 잘 잡히는 이곳을 일본의 어부들도 포기할 순 없었겠지요. 오히려 일본의 바다에 서 고기잡이를 하는데 그대가 무슨 상관이냐며 우겼지요.",
+      "est_speech_ms": 44800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "일본인 어부와 맞서 싸우는 안용복"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b08e1542d03e0770/fig_013.jpg",
+          "caption": "일본인 어부와 맞서 싸우는 안용복",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "일본 관리에 맞선 안용복",
+      "narration": "안용복은 더 이상 두고 볼 수 없었어요. 일본 어부들과 떳떳이 맞서 싸웠어요. 하지만 일본 어부들의 수가 너무 많았어요. 안용복은 그만 그들에게 사로잡히고 말았어요. 그들은 안용복을 일본 땅으로 끌고 갔지요.\n일본 관리에 맞선 안용복\n일본땅에 도착한 안용복은 다시 막부(당시 일본을 지배하고 있던 군사 정권)로 끌려갔어요. 안용복의 죄목은 일본 영토에서 고기를 잡았다는 이유였어요. 방귀 뀐 놈이 성낸다고 정말 기가 찰 노릇이었지요.\n“내가 무슨 죄가 있는가? 오히려 조선의 바다를 침범하여 불법으로 고기잡이를 한 그대들 나라의 어부들이 잘못한 것이요. 나는 이를 항의하고 꾸짖었을 뿐이오.”\n안용복은 기죽지 않고 정정당당하게 항의하였어요. 일본 막부에 울릉도와 독도가 조선의 영토이며, 자신을 납치한 처사는 부당하다고 주장했어요.",
+      "est_speech_ms": 59200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "계속된 안용복의 싸움",
+      "narration": "안용복 사건을 계기로 조선 정부는 대마도를 통해 일본 막부와 이 문제를 교섭하게 되었어요. 결국 일본 막부는 울릉도와 독도는 일본 땅이 아니므로 일본 어민들의 고기잡이를 금지하겠다는 문서를 안용복에게 주었어요. 막부는 안용복을 후하게 대접하고 대마도를 거쳐 조선으로 돌려보내주었지요.\n안용복의 주장에 할 말을 잃은 일본 막부는 그를 대마도를 거쳐 조선으로 돌려보냈어요. 물론 울릉도와 독도가 조선의 영토임을 일본 막부로부터 확인을 받은 후였죠.\n계속된 안용복의 싸움\n1696년(숙종 22년) 봄 안용복은 32척의 배를 이끌고 울릉도로 다시 고기잡이를 하러 갔어요. 예상대로 또 일본 고기잡이 배들이 있는 거였어요.",
+      "est_speech_ms": 51000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "일본 관리에게 항의하는 안용복"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b08e1542d03e0770/fig_024.jpg",
+          "caption": "일본 관리에게 항의하는 안용복",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "계속된 안용복의 싸움",
+      "narration": ": 안용복이 두 번째로 일본에 갔을 때 일본 오키 섬 관리가 안용복 일행을 심문한 조사기록 문서에 요.이 문서에 울릉도와 독도가 강원도에 속해 있다고 적혀 있지요.(동북아역사재단)\n“어이~ 그대들은 잘못을 뉘우치지 않고 왜 조선의 바다를 침범하여 불법으로 고기잡이를 하는가?”\n안용복은 큰 소리로 호통을 쳤어요. 안용복의 소리를 들은 일본 어선들은 도망가기 시작했어요. 안용복은 도망가는 그들을 독도까지 쫓아가 조선의 영토를 침범한 사실을 항의하였지요.\n이번에는 아예 울릉도를 감독하는 관리라 스스로 일컫고, 일본돗토리현에 가서 수령에게 항의하고 사과를 받고 돌아왔어요. 이때 안용복은 조선팔도지도를 가지고 가 보여주면서 울릉도와 독도가 강원도에 속한 섬이라는 것을 설명하고 확인을 받아오기까지하였어요.",
+      "est_speech_ms": 58200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "원록구병자년 조선주착안 일권지각서"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b08e1542d03e0770/fig_031.jpg",
+          "caption": "원록구병자년 조선주착안 일권지각서",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "계속된 안용복의 싸움",
+      "narration": "이때 이미 일본 막부에서는 울릉도로 가는 것을 금지하는 명령을 해 놓았어요.",
+      "est_speech_ms": 6200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "계속된 안용복의 싸움",
+      "narration": "“앞으로 울릉도로 일본인이 가서 고기잡이 하는 것을 허락하지 않는다.”\n조선 시대 안용복이 없었다면 우리 땅인 울릉도나 독도가 어떻게 되었을까요? 안용복이 비록 어부 출신이지만 정확한 지식과 근거를 갖고 일본에 울릉도와 독도가 우리 땅임을 주장하였어요. 안용복의 용기와 기개가 우리의 영토인 울릉도와 독도를 지켜낸 것이지요.",
+      "est_speech_ms": 26800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "울릉도와 독도의 위치"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/b08e1542d03e0770/fig_039.jpg",
+          "caption": "울릉도와 독도의 위치",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

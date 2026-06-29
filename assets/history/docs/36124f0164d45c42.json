@@ -1,0 +1,254 @@
+{
+  "schema_version": 2,
+  "doc_hash": "36124f0164d45c42",
+  "source_file": "eh_n0050_0010.pdf",
+  "title": "김수로왕, 금관가야를 세우다",
+  "kind": "people",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 10,
+  "section_count": 4,
+  "image_count": 6,
+  "est_total_ms": 395899,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "김수로왕비릉(경남 김해시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "수로왕의 탄생",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "수로왕, 허황옥을 만나 결혼을 하다",
+      "scene_indices": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "image_captions": [
+        "구간과 여섯 개의 황금알",
+        "여섯 가야의 위치",
+        "가야의 마을과 배(합천박물관)",
+        "김수로왕릉(경남 김해시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "철의 나라, 가야",
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [
+        "가야인의 철기 생산",
+        "금관가야의 철기(부산 복천박물관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "김수로왕, 금관가야를 세우다\n“이보게, 알에서 아기가 나왔다며?”\n“글쎄 한 명도 아니고 여섯 명이나 나왔다는군.”\n“신기한 일일세.”\n“하늘이 우리에게 보낸 귀한 인물일터. 귀하게 모셔야겠어.”\n신라의 박혁거세처럼 알에서 태어난 인물이 가야의 건국 이야기에도 등장해요. 그것도 한 명이 아닌 여섯 명이요.\n건국 이야기에 등장하는 알은 어떤 의미를 담고 있을까요? 또 알에서 태어난 인물들은 어떤 일을 했을까요?",
+      "est_speech_ms": 31800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "김수로왕비릉(경남 김해시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/36124f0164d45c42/fig_001.jpg",
+          "caption": "김수로왕비릉(경남 김해시)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "수로왕의 탄생",
+      "narration": "수로왕의 탄생\n한반도의 남쪽 김해지역에는 아직 나라의 이름이 없었고 임금 또한 없었어요. 다만 아홉 명의 추장(구간)이 아홉 마을을 다스리고 있었지요. 백성들은 대부분은 산과 들에 모여 우물을 파서 물을 마시고 밭을 갈아 곡식을 기르며 살고 있었지요.\n그러던 어느 날 구지봉에서 이상한 소리가 들려왔어요. 백성 수백 명이 산봉우리에서 들리는 소리를 따라 모여들었어요. 그 소리는 사람이 말하는 것 같았지만 소리만 들릴 뿐 그 모습은 볼 수 없었어요.\n“여기에 사람이 있느냐?”\n아홉 추장이 하늘의 소리에 답했어요.",
+      "est_speech_ms": 40800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "수로왕의 탄생",
+      "narration": "“우리들이 있습니다.”\n“내가 있는 곳이 어디인가?”\n“구지봉입니다.”\n“하늘 임금이 나에게 명하시기를 이곳에 가서 나라를 세우고 임금이 되라 고 하시기에 여기에 왔다. 너희들은 산봉우리 꼭대기의 흙을 파면서 춤을 추고 노래를 부르라! 그러면 곧 대왕을 맞이하게 될 것이다.”\n아홉 추장은 하늘 소리의 명령에 따라 춤을 추며 구지가를 부르기 시작했어요.\n“거북아 거북아, 머리를 내밀어라. 만일 내밀지 않으면 구워먹으리”\n그들이 기뻐하며 춤을 춘지 얼마 지나지 않은 때였어요. 하늘을 우러러 쳐다보니 자줏빛 줄이 하늘에서 내려와 땅에 닿았어요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "수로왕의 탄생",
+      "narration": "줄이 내려온 곳을 따라갔더니 붉은 보자기에 싸인 금빛 상자가 보였어요. 상자 속에는 해처럼 둥근 황금 알 여섯 개가 들어 있었지요.\n사람들은 모두 놀라고 기뻐하며 함께 백 번 절한 후 상자를 안아 한 촌장의 집으로 옮겼어요.\n이튿날 아침 사람들이 다시 모여서 그 상자를 열어보니 여섯 아이가 알을 깨고 태어났어요. 사람들은 아기들을 평상 위에 나란히 앉혀 절하고 극진히 모셨어요.",
+      "est_speech_ms": 30199,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "수로왕, 허황옥을 만나 결혼을 하다",
+      "narration": "아기들은 날마다 자라 10여 일이 지나자 얼굴은 용처럼 변했고, 키가 아홉 자( 약 2m)나 되었어요. 그달 보름이 되자 알 중에서 가장 먼저 깨어난 사람이 왕의 자리에 올랐어요. 세상에 처음 나타났다고 해서 이름을 수로라고 했지요.\n그리고 새로 세운 나라 이름을 가야(가락국)라고 했는데, 이 나라가 여러 가야 중의 하나인 금관가야였어요. 나머지 다섯 사람도 각각 다섯 가야의 임금이 되었어요(건국 이야기 속 여섯 가야 이외에도 여러 개의 가야국이 있었다고 해요.).\n수로왕, 허황옥을 만나 결혼을 하다",
+      "est_speech_ms": 39300,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "구간과 여섯 개의 황금알"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/36124f0164d45c42/fig_030.jpg",
+          "caption": "구간과 여섯 개의 황금알",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "수로왕, 허황옥을 만나 결혼을 하다",
+      "narration": "수로왕이 나라를 다스린 지 수십 년이 지났어요. 아홉 신하가 임금을 만나 아뢰었어요.\n“대왕께서 하늘에서 내려오신지 많은 시간이 흘렀지만 아직 좋은 배필을 얻지 못하셨습니다. 청컨대 신들의 집에 있는 처녀 중에서 가장 예쁜 아이를 골라 왕비로 삼으시는 것이 어떠실지요?”\n김수로왕이 말하였어요.\n“내가 여기에 내려온 것은 하늘의 명이니 나에게 짝을 지어 왕비로 삼게 하는 것도 역시 하늘의 명일 것이다. 경들은 크게 염려하지 말라”\n그리고 왕은 신하에게 좋은 말을 가지고 바닷가에 가서 기다리게 했어요. 신하들이 왕의 명을 받고 바닷가에서 기다린 지 얼마 되지 않아서남쪽 바다에서 붉은 색 돛을 단 배가 다가오고 있는 것이 아니겠어요.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "여섯 가야의 위치"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/36124f0164d45c42/fig_037.jpg",
+          "caption": "여섯 가야의 위치",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "수로왕, 허황옥을 만나 결혼을 하다",
+      "narration": "배가 육지에 가까이 오자 신하들이 먼저 산 위에 횃불을 켜서 길을 밝혔어요. 배에 탄 사람들이 횃불을 보자 앞을 다투어 육지로 내렸어요.\n왕은 이때 궁궐 밖의 산 주변에 천막을 쳐서 임시 궁전을 만들어 기다리고 있었어요. 20여 명의 일행과 함께 배에서 내린 공주는 비단, 금, 은, 그리고 구슬로 된 장신구를 하고 있었어요.\n가지고 온 비단과 보물은 이루 셀 수 없을 만큼 많았지요. 공주가 점점 왕이 있는 곳에 가까이 다가오자 왕은 직접 나아가 그녀를 맞이하고 함께 궁으로 들어갔어요.\n왕은 신하에게 명하였어요.",
+      "est_speech_ms": 40200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "가야의 마을과 배(합천박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/36124f0164d45c42/fig_045.jpg",
+          "caption": "가야의 마을과 배(합천박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "수로왕, 허황옥을 만나 결혼을 하다",
+      "narration": "“먼 길을 오느라 고생한 공주 일행에게 난초로 만든 음료와 혜초로 만든 술을 내주도록 하라.”\n주변이 조용해지자 공주가 왕에게 말하였어요.\n“저는 아유타국의 공주 허황옥이라 합니다. 나이는 16살입니다.”\n“먼 길 오느라 고생하셨소.”\n“올해 아버지께서 꿈에 하늘 임금님을 만나셨어요. 하늘 임금께서는 가락국의 왕 수로라는 사람을 찾아 공주를 보내서 배필로 삼으라는 말을 마치고 하늘로 올라가셨답니다.”",
+      "est_speech_ms": 32000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "김수로왕릉(경남 김해시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/36124f0164d45c42/fig_051.jpg",
+          "caption": "김수로왕릉(경남 김해시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "철의 나라, 가야",
+      "narration": "“나는 공주가 멀리서 올 것을 미리 알고 있어 신하들에게 왕비를 맞이하라 고 하였소. 이제 현명한 공주가 스스로 왔으니 이 사람에게는 매우 다행한 일이오.”\n철의 나라, 가야\n먼 나라에서 온 허황옥 공주와 수로왕은 결혼을 하였어요. 그리고 그들은 오랫동안 나라를 평화롭게 다스렸다고 해요.\n지금의 김해 지방을 중심으로 발전한 금관가야는 질이 좋은 철을 많이 생산했어요. 가야의 무덤에서는 어김없이 많은 양의 덩이쇠(철정), 철로 만든 갑옷과 투구, 말갖춤새(마구) 등이 나왔어요.\n같은 시기의 백제나 신라 유적에서는 이런 철제 유물이 많이 않은 걸 보면 금관가야가 일찍부터 철기문화를 발전시킨 것으로 보여요.",
+      "est_speech_ms": 48400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "가야인의 철기 생산",
+        "금관가야의 철기(부산 복천박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/36124f0164d45c42/fig_060.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "철의 나라, 가야",
+      "narration": "가야의 철은 당시 여러 주변국들에게 그 가치를 인정받아 주요 교역품이 되었어요. 가야는 철을 바탕으로 중국 및 일본과 국제무역을 활발히 전개했어요.\n김수로왕과 허황옥의 결혼 이야기에 나오는 아유타국은 지금의 인도에 있던 나라에요. 진짜로 허황옥이 인도에서 왔는지는 모르지만 가야가 제법 먼 나라와 바닷길로 교류한 것으로 보여요.\n먼 옛날 가야 사람과 인도에서 온 사람이 만났다면 어떤 일들이 벌어졌을지 한번 상상해 볼까요?",
+      "est_speech_ms": 35000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

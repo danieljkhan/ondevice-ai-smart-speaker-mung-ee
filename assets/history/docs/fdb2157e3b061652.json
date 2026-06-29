@@ -1,0 +1,386 @@
+{
+  "schema_version": 2,
+  "doc_hash": "fdb2157e3b061652",
+  "source_file": "eh_r0295_0010.pdf",
+  "title": "명분와 현실 사이의 전쟁, 정묘·병자호란",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 15,
+  "section_count": 7,
+  "image_count": 10,
+  "est_total_ms": 684300,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "남한산성 서문 전망대에서 바라본 서울 시내(경기 광주시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "동아시아 여러 나라 국력의 변화",
+      "scene_indices": [
+        1
+      ],
+      "scene_seq": [
+        2
+      ],
+      "image_captions": [
+        "동아시아 여러 나라의 변화"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "정묘호란, 후금의 형제 나라가 되다",
+      "scene_indices": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "정묘호란 당시 후금의 침입로와 의병의 활약"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "병자호란, 청의 신하 나라가 되다",
+      "scene_indices": [
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "남한산성(유네스코한국위원회, 경기문화재연구원)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        9,
+        10
+      ],
+      "scene_seq": [
+        10,
+        11
+      ],
+      "image_captions": [
+        "홍이포와 서울 삼전도비(실학박물관, 송파구청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기 : 근왕군의 승리, 광교산 전투",
+      "scene_indices": [
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "조선 근왕군과 청군의 전투",
+        "호준포와 조총(국립중앙박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": null,
+      "scene_indices": [
+        14
+      ],
+      "scene_seq": [
+        15
+      ],
+      "image_captions": [
+        "광교산 전투"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "명분와 현실 사이의 전쟁, 정묘·병자호란\n“청의 홍타이지가 군신관계를 요구하는데 어찌하면 좋겠소?” “전하! 명을 버리고 청과 군신관계를 맺을 수는 없습니다. 임진왜란 때 우릴 도운 명의 은혜를 잊으셨사옵니까?” “아닙니다. 청이 강성하니 지금은 요청을 받아들여 방어할 시간을 벌어야 합니다.”\n정묘호란, 병자호란에 들어간 한자 ‘호(胡)’자는 오랑캐를 뜻해요. 그래서 호란은 오랑캐와 싸웠던 전쟁을 말해요.\n조선은 여진족을 오랑캐로 여겼거든요. 하지만 그런 여진족이 청이라는 나 라를 세우고 조선을 위협했어요. 결국 청은 조선을 침략했지요. 그들에 맞서 조선은 어떻게 싸웠을까요?",
+      "est_speech_ms": 46000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "남한산성 서문 전망대에서 바라본 서울 시내(경기 광주시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fdb2157e3b061652/fig_001.jpg",
+          "caption": "남한산성 서문 전망대에서 바라본 서울 시내(경기 광주시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "동아시아 여러 나라 국력의 변화",
+      "narration": "동아시아 여러 나라 국력의 변화\n여진족은 임진왜란 무렵부터 강해지기 시작했어요.\n임진왜란은 조선과 명 연합군과 일본 사이에 벌어진 동아시아 국제전쟁이었어요. 그런데 임진왜란을 겪으며 조선과 명의 국력이 약해졌고, 그 틈을 타 여진족이 세력을 키웠지요. 이때, 누르하치라는 인물이 나타나 만주의 여러 여진족을 통합하여 ‘후금’을 세웠어요.\n후금은 명을 위협하며 서쪽으로 영토를 넓혀갔어요. 후금의 위협을 받은 명은 조선에 군사 지원을 요청했지요. 광해군은 그런 명과 후금 사이의 전쟁에 휘말리고 싶지 않았어요. 조정의 신하들은 임진왜란 때 조선을 도운 명에 의 리를 지키는 것이 중요하다며 군대를 보내자고 주장했어요.",
+      "est_speech_ms": 50600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "동아시아 여러 나라의 변화"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fdb2157e3b061652/fig_010.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/fdb2157e3b061652/fig_011.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 2,
+      "section_title": "정묘호란, 후금의 형제 나라가 되다",
+      "narration": "광해군은 일단 지원군을 보내기로 했어요. 하지만 조선의 지휘관인 강홍립 장군에게 전투 상황에 따라 적절하게 행동하라는 비밀 명령을 내렸어요.\n강홍립은 광해군의 명령대로 처음에는 명을 도와 후금에 맞서 싸웠어요. 하지만 명이 불리해지자 후금에 항복하고 싸울 뜻이 없음을 전했어요. 그 결과 조선 군대는 피해를 줄이고 전쟁을 마무리할 수 있었어요.\n정묘호란, 후금의 형제 나라가 되다\n하지만 조선의 여론은 정반대였어요. 신하들은 광해군이 명에 대한 의리를 저버렸다며 거세게 비난했어요. 그리고 광해군은 다른 사건으로도 신하들의 비난을 받았어요.",
+      "est_speech_ms": 44800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "정묘호란, 후금의 형제 나라가 되다",
+      "narration": "계모인 인목대비를 폐위시키고 이복동생 영창대군을 죽였거든요. 광해군은 영창대군의 존재가 자신의 위치를 위협할 것으로 여겼어요. 결국 광해군을 반대하는 신하들은 군사를 일으켰어요. 광해군을 왕위에서 끌어내리고 인조를 새 국왕으로 받들었어요.\n인조는 신하들의 의견을 따라야 했어요. 광해군과는 다른 외교 정책을 취했지요. 북방 오랑캐라 멸시하던 여진족이 세운 후금을 멀리하고, 명을 큰 나 라로 받들며 가깝게 지냈어요.\n만주 대부분을 차지한 후금은 명을 물리치고 중국 대륙까지 차지하고 싶었어요. 후금은 명의 편에 선 조선이 자신의 뒤를 공격할 수 있다고 생각했어요.",
+      "est_speech_ms": 46800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "정묘호란, 후금의 형제 나라가 되다",
+      "narration": "후금은 명과의 전쟁을 준비하면서 먼저 눈엣가시와 같은 조선을 굴복시키고자했어요. 겨울이 오고 압록강이 얼자 후금은 3만의 병력으로 조선으로 쳐들어왔어요. 이때가 1627년으로 인조가 왕위에 오른 지 5년째 되던 해에요. 임진왜란 후 30여 년 만에 조선은 다시 전쟁에 휘말리게 되었지요.\n후금의 군대가 압록강을 건너왔어요. 조선군의 기본 방어 전략은 성에 들어가서 성문을 닫고 굳게 지키는 것이었지요. 그러나 후금군은 성을 공격하는 것도 잘했어요. 하루 만에 의주성이 함락되었고, 열흘 만에 국경 주변의 성과 평양성을 빼앗겼어요. 북쪽을 점령한 후금군은 빠르게 남쪽으로 내려왔어요.",
+      "est_speech_ms": 48200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "정묘호란, 후금의 형제 나라가 되다",
+      "narration": "인조는 신하들과 강화도로 피신하였어요. 여러 곳에서 의병이 일어나 후금군의 보급로를 공격하였지요. 빠른 진격으로 보급로가 막힌 후금군은 협상을 제안했어요. 후금의 원래 목적도 조선의 영토를 점령하려는 것이 아니었어요. 명과 전쟁을 벌이던 상황에서 조선이 명에 협력할 것을 막고자했던 것이 지요.",
+      "est_speech_ms": 24600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정묘호란 당시 후금의 침입로와 의병의 활약"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fdb2157e3b061652/fig_030.jpg",
+          "caption": "정묘호란 당시 후금의 침입로와 의병의 활약",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "병자호란, 청의 신하 나라가 되다",
+      "narration": "“조선 국왕은 후금과 더불어 굳은 약속을 한다. 만약 조선이 후금을 적대시하여 약속을 어기고 군사를 일으켜 침범한다면 하늘이 재앙을 내릴 것이 며, 만약 후금이 불량한 마음을 품고 화친을 위배하고 군사를 일으켜 침범한다면 역시 하늘이 재앙을 내릴 것이다.”\n한양 코앞까지 진격한 후금군의 위세에 눌린 인조는 후금의 형제 나라가 될 것을 맹세했어요. 목적을 이룬 후금군은 수많은 조선인 포로와 재물을 가지고 만주로 돌아갔어요.\n병자호란, 청의 신하 나라가 되다\n정묘호란 이후 후금은 더욱 강해졌어요. 명과의 전쟁에서 계속 이기고 있었지요. 나라 이름도 ‘청’으로 바꾸고 스스로 황제국이 되었어요. 그리고 조선에 형제의 맹약을 임금과 신하의 관계로 바꿀 것을 요구했어요.",
+      "est_speech_ms": 53800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "병자호란, 청의 신하 나라가 되다",
+      "narration": "명을 황제국으로 받들던 조선으로서는 들어주기 힘든 요구였어요. 신하들은 군사를 일으켜 청을 공격하자고 주장하기도 했어요.\n끝내, 조선이 요구를 받아주지 않고 강경한 태도를 보이자 청은 정묘호란이 발생한 지 약 10년 만인 1636년에 다시 전쟁을 일으켰어요.\n이 전쟁이 바로 병자호란이에요.\n정묘호란 때와 마찬가지로 겨울이 되고 압록강이 얼자 청군은 기병을 앞세워 조선을 침략해 왔어요. 이전과 달리 청 황제 홍타이지가 직접 군사를 이끌고 왔어요.\n홍타이지는 누르하치의 아들로 조선에 좀 더 강경하게 대응하였어요. 조선을 점령해 인조에게 직접 항복을 받고, 명을 공격하기 전에 배후를 안전하게 만들겠다는 계획이었지요.",
+      "est_speech_ms": 51200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "남한산성(유네스코한국위원회, 경기문화재연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fdb2157e3b061652/fig_041.jpg",
+          "caption": "남한산성(유네스코한국위원회, 경기문화재연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "병자호란, 청의 신하 나라가 되다",
+      "narration": "청의 침입을 예상한 조선도 국경 지역 산성을 중심으로 많은 준비를 하고 있었어요. 하지만 청의 선봉 부대는 산성을 점령하지 않고, 바로 지나쳐 한양으로 진격했어요.\n압록강을 건넌 지 엿새 만에 한양에 도착할 만큼 빨랐지요. 청군의 빠른 진격으로 강화도로 가는 길이 막힌 인조는 급히 남한산성으로 피신하였어요. 인조가 남한산성으로 들어가자 청군은 곧바로 산성을 포위했어요.\n남한산성은 높은 산 위에 만들어 적의 공격을 방어하는 데 유리하고, 안쪽으로 넓은 분지가 있어 많은 사람이 머물 수 있는 큰 산성이었어요.",
+      "est_speech_ms": 41400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "하지만 포위된 상태로 많은 사람이 오랜 기간을 버티기는 어려웠어요. 식량도 부족했을 뿐만 아니라 한겨울의 매서운 추위는 군사와 백성들을 더욱 힘들게 했어요.\n왕이 포위된 상태에서도 조선군은 크고 작은 전투를 계속했어요. 하지만 충청도와 경상도에서 올라온 구원군이 청군에 패하자 항복하자는 사람이 늘어났어요.\n“죽고 망하는 것은 참을 수 있으나 잘못된 길을 따를 수 없습니다.”\n“우리나라를 지켜 보전할 생각은 하지 않고 절개를 지키겠다는 것은 개울에 빠져 죽는 것과 다름이 없습니다.”\n끝까지 싸워야 한다는 신하들과 항복하더라도 나라를 보전하자는 신하들의 논쟁이 계속되었어요.",
+      "est_speech_ms": 47400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "홍이포와 서울 삼전도비(실학박물관, 송파구청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fdb2157e3b061652/fig_056.jpg",
+          "caption": "홍이포와 서울 삼전도비(실학박물관, 송파구청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "청군은 남한산성보다 높은 곳에 홍이포를 설치하고 산성 안으로 포격을 가 했어요. 그 와중에 강화도가 함락되어 왕자들이 붙잡혔다는 소식이 전해졌어요. 결국 인조는 47일간의 항전을 끝내고 항복할 수밖에 없었지요.\n그는 남한산성을 나와 삼전도까지 가서 청 홍타이지에게 머리를 조아리며 절을 해야 했어요.\n두 달 정도의 짧은 전쟁이었으나 항복의 조건은 가혹했어요.",
+      "est_speech_ms": 29800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기 : 근왕군의 승리, 광교산 전투",
+      "narration": "조선은 청의 신하 나라가 되었고, 수많은 백성이 청으로 끌려가 노예가 되었어요.\n인조 이후 임금이 된 효종은 병자호란의 치욕을 갚기 위해 북벌을 준비했어요. 그러나 청은 명을 물리치고 끝내 중국 대륙의 주인이 되었어요. 조선이 병자호란의 원한을 풀 수 있는 길도 멀어졌어요.\n역사 속 작은 이야기: 근왕군의 승리, 광교산 전투\n인조가 청군에 포위당해 고립되었을 때 지방군과 의병, 승병이 근왕군이 되어 남한산성으로 몰려왔어요. 근왕군은 ‘왕을 구하기 위한 군대’란 뜻이에요.\n전국 각지에서 올라온 근왕군에 맞서 청군은 기병을 이용해 하나씩 격파하는 작전을 폈어요.",
+      "est_speech_ms": 45200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기 : 근왕군의 승리, 광교산 전투",
+      "narration": "남한산성을 향하던 수천의 근왕군과 수백의 청군 기병이 맞서 싸우는 전투가 벌어졌지요. 재빠른 기병에 맞서 조선군은 조총병을 중심으로 맞섰으나 강원도 근왕군을 시작으로 경상도, 충청도 근왕군이 차례로 남한산성 구원에 실패했어요.\n하지만 김준용 장군이 이끌었던 전라도 근왕군은 달랐어요. 북방에서 근무했던 김준용 장군은 여진족을 잘 알고 있었거든요.\n부족한 병력과 화력을 보완하기 위해 김준용은 2천여 명의 근왕군을 광교산 기슭 높은 곳에 네모난 진을 만들고 전투를 준비했어요. 근왕군이 광교산에 자리를 잡자 청군은 홍타이지의 동생과 매형(양구리)이 이끄는 3,500여 명의 정예병을 보냈어요.\n“진 밖에다 방패를 줄지어 세워 놓고 호준포를 연달아 발사하니 화살과 돌이 비같이 쏟아졌다.”",
+      "est_speech_ms": 56800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "조선 근왕군과 청군의 전투"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fdb2157e3b061652/fig_071.jpg",
+          "caption": "조선 근왕군과 청군의 전투",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기 : 근왕군의 승리, 광교산 전투",
+      "narration": "청군이 조선군의 조총을 막기 위해 방패를 세우고, 높은 곳의 조선군 진영을 향해 포와 활을 쏘며 일제히 공격해 왔어요. 김준용 장군은 검을 빼 들고 군사들을 독려하며 조총과 활로 청군을 공격했어요.\n여러 차례의 공격에도 조선군의 진영이 무너지지 않자 청군은 다른 방향으로 돌아 높은 곳에서 조선군을 공격하기 시작했어요. 언덕 위에 깃발을 든 적장이 보였어요.\n“말 타고 깃발 잡은 자를 쏘아라! 저놈을 죽이지 못하면 적들이 물러나지 않을 것이다.”\n조선군은 조총을 일제히 쏘아 적장을 쓰러뜨렸어요. 이 공격으로 적장 양구리와 부하 장수 여럿이 목숨을 잃었어요. 우두머리를 잃은 청군은 광교산에서 급히 물러났어요.",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "호준포와 조총(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fdb2157e3b061652/fig_079.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/fdb2157e3b061652/fig_080.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "전라도 근왕군은 전투에서 승리했지만, 탄약과 화약이 모두 떨어져 남한산성으로 더 진격하지 못했어요.\n병자호란 당시 조선군의 승전은 많지 않았어요. 그러나 홍타이지가 아꼈던 장수를 꺾은 광교산 전투는 조선군의 힘을 보여준 전투였어요. 하지만 승전은 계속되지 못했고, 결국 인조는 홍타이지에게 항복하고 말았어요.\n김준용의 광교산 전투와 같이 근왕군이 좀 더 많은 전투에서 승리했다면 병자 호란은 어떻게 되었을까요? 인조가 남한산성에서 빠져나와 좀 더 멀리 피신했다면 전쟁의 결과가 달라졌을까요?",
+      "est_speech_ms": 41000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "광교산 전투"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/fdb2157e3b061652/fig_088.jpg",
+          "caption": "광교산 전투",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

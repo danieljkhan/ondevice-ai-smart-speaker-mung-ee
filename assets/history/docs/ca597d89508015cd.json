@@ -1,0 +1,222 @@
+{
+  "schema_version": 2,
+  "doc_hash": "ca597d89508015cd",
+  "source_file": "eh_n0040_0010.pdf",
+  "title": "온조, 한강 유역에 백제를 열다",
+  "kind": "people",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 8,
+  "section_count": 3,
+  "image_count": 7,
+  "est_total_ms": 389200,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "유리, 아버지 주몽을 찾아오다",
+      "scene_indices": [
+        0,
+        1
+      ],
+      "scene_seq": [
+        1,
+        2
+      ],
+      "image_captions": [
+        "한성백제박물관(서울 송파구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "비류와 온조, 고구려를 떠나다",
+      "scene_indices": [
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        3,
+        4,
+        5
+      ],
+      "image_captions": [
+        "유리와 일곱 모난 돌",
+        "한강가 높은 산에 오른 비류와 온조(한성백제박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "온조, 백제를 세우다",
+      "scene_indices": [
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8
+      ],
+      "image_captions": [
+        "백제의 건국과 확장",
+        "풍납토성(한성백제박물관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "유리, 아버지 주몽을 찾아오다",
+      "narration": "온조, 한강 유역에 백제를 열다\n“어마마마, 저는 바다와 가까운 곳에 터를 잡고 싶습니다.”\n“비류 형님, 큰 강 옆으로 넓은 평야가 있고, 주변이 높은 산으로 둘러싸인 이곳이 나라를 세우기에 더욱 좋은 곳이 아닐까요?”\n“아니다. 너는 어머니를 모시고 뜻한 대로 하거라. 나는 나를 따르는 백성들과 함께 미추홀(인천)로 갈 것이다.”\n비류는 그를 따르는 백성들과 함께 미추홀로 떠났어요. 미추홀로 향하는 비류와 백성들의 뒷모습을 보면서 온조는 어떤 생각을 했을까요?\n유리, 아버지 주몽을 찾아오다\n부여에서 도망쳐 온 주몽은 졸본부여에 살고 있던 소서노의 도움을 받아 고 구려를 세웠어요. 주몽이 고구려의 왕이 되자 소서노도 왕비가 되었고, 소서노의 두 아들 비류와 온조도 고구려의 왕자가 되었지요.",
+      "est_speech_ms": 54600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "한성백제박물관(서울 송파구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ca597d89508015cd/fig_001.jpg",
+          "caption": "한성백제박물관(서울 송파구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "유리, 아버지 주몽을 찾아오다",
+      "narration": "주몽은 나라를 세우는데 많은 도움을 준 소서노를 귀하게 대했어요. 물론 비류와 온조도 자기 자식처럼 아꼈지요. 소서노는 주몽을 이을 왕은 첫째 아들인 비류가 될 것이라 생각했어요.\n나라의 기틀을 잡아가던 어느 날이었어요. 부여에서 한 젊은 청년이 주몽을 찾아왔어요.\n“폐하! 저를 알아보시겠는지요? 소자유리옵니다.”\n“뭐시라! 네가 내 아들이라면 증표를 가져왔을 터. 어머니께 증표 이야기는 들었느냐?”\n주몽은 부여에 있을 때 예씨 성을 가진 여인과 결혼을 했었어요. 예씨 부인은 임신을 하고 있었는데, 주몽이 갑작스럽게 부여를 떠나면서 부인을 혼자 두고 올 수 밖에 없었지요. 주몽은 부여를 떠나면서 일곱 모난 돌 위의 소나 무 아래에 증표를 숨겨두고 왔어요.",
+      "est_speech_ms": 52400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "비류와 온조, 고구려를 떠나다",
+      "narration": "유리는 주몽에게 부러진 칼날을 전하며 말했어요.\n“네, 폐하께서 숨겨놓으신 부러진 칼날을 찾아왔습니다.”\n주몽이 가지고 있던 나머지 반쪽 칼날을 서로 맞춰보니 두 조각이 딱 맞았어요. 주몽은 부여에서 힘겹게 아버지를 찾아온 아들을 보게 되어 무척이나 기뻤어요. 그리고 유리를 고구려의 태자로 삼았지요.\n비류와 온조, 고구려를 떠나다\n비류와 온조는 주몽의 결정에 크게 실망했어요. 주몽이 부여에서 대소를 비롯한 여러 왕자들에게 목숨의 위협을 받은 것처럼 비류와 온조도 태자가 된 유리에게 위협을 받을 수도 있었어요. 고민 끝에 비류와 온조는 어머니에게 말했어요.",
+      "est_speech_ms": 45600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "유리와 일곱 모난 돌"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ca597d89508015cd/fig_018.jpg",
+          "caption": "유리와 일곱 모난 돌",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "비류와 온조, 고구려를 떠나다",
+      "narration": "“유리 형님이 왕이 된다면 저희는 하루하루 고통 속에 살게 될 것입니다. 고구려에 남아 구차하게 살 바에는 차라리 남쪽으로 내려가 나라를 세우는 것이 어떻겠습니까?”\n“나도 너희와 생각이 같다. 우리를 따르는 백성들과 함께한다면 새로운 나 라를 세우는 것이 뭐가 어렵겠는가!”\n주몽에게 허락을 받은 비류, 온조는 어머니와 함께 고구려를 떠났어요.\n비류와 온조를 믿고 의지하던 많은 백성들도 뒤를 따랐지요. 많은 사람들이 꼬리에 꼬리를 물고 남으로 향했어요.\n고구려를 떠난 온조의 무리는 한참을 지나 한산에 이르렀어요. 온조와 신하들은 한산의 높은 산에 올라 백성들이 살만한 곳을 살펴보았어요. 장남인 비류가 말했어요.",
+      "est_speech_ms": 49600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "비류와 온조, 고구려를 떠나다",
+      "narration": "“나라를 세우고 나면 주변에 있는 여러 나라들과 교류를 해야 합니다. 그러려면 바닷가에 나라를 세우는 것이 좋을 듯합니다.”\n비류의 말에 열 명의 신하가 반대하며 말했어요.\n“이곳도 북으로 큰 강을 띠처럼 두르고 있고 동으로는 높은 산에 의지하고 있습니다. 남으로는 비옥한 벌판을 바라보고, 서로는 큰 바다에 막혔으니 이렇게 험준하다면서도 이점이 많은 땅은 다시 얻기 어렵습니다. 여기에 도 읍을 세우는 것이 좋지 않겠습니까?”\n“형님, 신하들의 말이 틀리지 않습니다. 그들의 말을 따르시지요?”\n“생각이 서로 다르다면 가는 길도 달라야 하지 않겠느냐? 원하는 곳에 각자 나라를 세우도록 하자.”",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "한강가 높은 산에 오른 비류와 온조(한성백제박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ca597d89508015cd/fig_033.jpg",
+          "caption": "한강가 높은 산에 오른 비류와 온조(한성백제박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "온조, 백제를 세우다",
+      "narration": "온조, 백제를 세우다\n비류는 온조와 신하들의 말을 듣지 않고 백성을 나누어 바다와 가까운 미추홀로 떠나 버렸어요. 온조는 강 남쪽 위례에 도읍을 정하고 나라를 세웠어요. 나라 이름은 열 명의 신하의 도움을 받아 세웠다고 십제(十濟)라 하였지요.\n비류가 도착한 미추홀은 땅이 습하고 물이 짜서 곡식이 잘 자라지 않는 곳이었어요. 오래지 않아 비류는 백성들이 편안히 살 수 없음을 깨닫게 되었지요. 온조가 있던 위례에 돌아와 도읍은 안정되고 백성들도 평안하게 살고 있는 모습을 보았어요.\n비류는 자신의 선택을 몹시 후회하고 부끄러워하다 죽었어요. 그러자 그의 신하와 백성들은 모두 위례로 돌아와 온조와 함께 하기를 청했어요. 물론 온조는 이들을 백성으로 받아들였지요.",
+      "est_speech_ms": 53800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "온조, 백제를 세우다",
+      "narration": "인구가 늘어나자 온조는 나라 이름을 십제에서 백제로 바꾸었어요. 나라가 전보다 커지자 모든 백성들이 즐거워했기 때문이지요. 그리고 고구려를 세운 양아버지 주몽이 부여에서 왔다고 하여 부여를 성씨로 삼았지요.\n백제의 왕들은 왕위에 오른 뒤 가장 먼저 부여의 시조인 동명왕을 모신 사당에 제사를 지냈어요. 제사를 통해 자신의 뿌리가 부여라는 점을 강조하고, 왕실과 귀족 간의 단결을 꾀했던 것이지요.\n온조가 백제의 도읍으로 삼은 한성(위례성)은 현재 풍납토성으로 추측하고 있어요. 풍납토성은 한강가들판에 있어 적의 침입을 막기에는 불리하였어요. 그래서 산 위에 절벽이나 능선을 이용하여 쌓은 산성과 달리 평지부터 높게 성벽을 쌓아 적의 침입에 대비했어요.",
+      "est_speech_ms": 53800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "백제의 건국과 확장"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ca597d89508015cd/fig_047.jpg",
+          "caption": "백제의 건국과 확장",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "온조, 백제를 세우다",
+      "narration": "풍납토성의 성벽은 흙과 진흙을 차례로 다지고 중간에 나뭇가지와 짚을 넣어서 튼튼하게 만들었어요.\n한성(위례성)은 한강과 서해 바다를 통해 중국과 일본을 비롯한 먼 지역과 교류했어요. 바다 건너편 나라들과 활발하게 교류하면서 한성에는 다양한 사람들이 모여들었어요. 다양한 사람과 문물을 바탕으로 백제는 점점 풍요롭고 부강한 나라가 되어갔답니다.",
+      "est_speech_ms": 28800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "풍납토성(한성백제박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ca597d89508015cd/fig_054.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/ca597d89508015cd/fig_057.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.25
+        },
+        {
+          "path": "assets/history/images/ca597d89508015cd/fig_058.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    }
+  ]
+}

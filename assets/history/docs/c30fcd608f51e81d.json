@@ -1,0 +1,236 @@
+{
+  "schema_version": 2,
+  "doc_hash": "c30fcd608f51e81d",
+  "source_file": "eh_n0070_0010.pdf",
+  "title": "광개토대왕, 요동의 주인이 되다",
+  "kind": "people",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 9,
+  "section_count": 4,
+  "image_count": 6,
+  "est_total_ms": 403700,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0,
+        1
+      ],
+      "scene_seq": [
+        1,
+        2
+      ],
+      "image_captions": [
+        "광개토 대왕비(중국 지린성)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "백제를 공격하고 신라를 돕다",
+      "scene_indices": [
+        2,
+        3
+      ],
+      "scene_seq": [
+        3,
+        4
+      ],
+      "image_captions": [
+        "고구려군의 모습",
+        "호우명 그릇(국립중앙박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "북쪽으로 영토를 넓히다",
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "광개토 대왕릉비에 기억되다",
+      "scene_indices": [
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "광개토 대왕 시절 고구려의 영토",
+        "광개토 대왕릉비(중국 지린성), 국립중앙박물관"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "광개토대왕, 요동의 주인이 되다\n“폐하! 왜가 우리신라를 쳐들어왔습니다. 난폭한 왜의 기세에 나라의 운명이 위태롭습니다. 급히 구원병을 보내주십시오.”\n“바다 건너 왜라? 고구려 정예병 5만을 줄 터이니 어서 가서 신라를 구하라!”\n신라는 왜 고구려에 구원을 요청하였을까요?\n신라를 도와 신라에 침입한 왜를 물리친 고구려 왕은 누구일까요?\n고구려, 사방으로 어려움을 겪다\n주몽이 부여에서 나와 졸본에 고구려를 세운 이후 차츰 고구려는 나라의 기틀이 잡혔어요. 유리왕 때에는 도읍을 국내성으로 옮겼어요.",
+      "est_speech_ms": 40200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "광개토 대왕비(중국 지린성)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c30fcd608f51e81d/fig_001.jpg",
+          "caption": "광개토 대왕비(중국 지린성)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "고구려의 힘이 점점 커지면서 이웃 나라들과 외교관계도 맺고 때로는 전쟁도 벌였어요. 북서쪽으로는 중국 대륙에 있던 여러 나라들과 충돌하였고, 남쪽으로는 백제와 경쟁하게 되었지요. 점차 고구려는 강력한 세력으로 성장했어요.\n그러나 그런 고구려도 시련을 겪을 때가 있었어요. 342년 요동 지방을 차지하고 있던 전연이란 나라가 고구려를 기습 공격하였어요. 전연의 군대는 고구려의 수도 국내성의 궁궐을 불태우고 왕의 어머니와 왕비, 그리고 5만 명의 백성들을 포로로 잡아갔어요.\n371년에는 백제의 근초고왕이 평양까지 밀고 올라와서 광개토대왕의 할아버지인 고국원왕이 전투 중에 죽기도 했어요. 그래서 광개토대왕에게 전연과 백제는 원수의 나라가 되었어요. 그래서 그는 요동과 한반도 남쪽으로 진출하는 것을 최대의 과제로 삼았어요.",
+      "est_speech_ms": 60800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "백제를 공격하고 신라를 돕다",
+      "narration": "백제를 공격하고 신라를 돕다\n광개토 대왕은 18세에 왕이 되었어요. 왕이 되고 얼마 되지 않아 광개토대왕은 남쪽으로 백제를 공격해서 10여 개의 성들을 함락하고 임진강 일대를 차지했어요.\n백제의 진사왕은 광개토대왕이 군사 작전을 잘 펼친다는 소문을 듣고는 감히 나가서 싸우지 못했다고 해요.\n진사왕을 이어 아신왕이 백제의 왕이 되었어요. 아신왕은 왕이 되자마자 빼앗긴 성을 되찾기 위해 계속해서 고구려를 공격했지만 번번이 패하였어요.\n거듭된 백제의 공격에 광개토대왕은 직접 군사를 거느리고 백제를 공격하였어요. 한강 이북의 여러 성을 점령하고 마침내 한성(위례성)을 포위하였지요.\n광개토 대왕은 백제의 아신왕에게 ‘영원히 노객(신하)이 되겠다’는 항복의 맹세를 받았어요. 그리고 왕의 동생과 대신들을 인질로 잡아왔어요.",
+      "est_speech_ms": 59600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "고구려군의 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c30fcd608f51e81d/fig_017.jpg",
+          "caption": "고구려군의 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "백제를 공격하고 신라를 돕다",
+      "narration": "경주호우총에서 발굴된 것으로 이 그릇 밑바닥에 ‘을묘년국강상광개토지호태왕’이라는 글자가 새겨져 있다. 이 그릇을 통해 당시 고구려와 신라의 관계를 엿볼 수 있다.\n이 때 고구려는 북한강, 남한강 주변의 영토를 차지하였어요.\n백제는 고구려에 항복을 했지만 가만히 있지는 않았어요. 아신왕은 세력을 확장하기 위해 왜, 가야와 연합하여 당시 고구려와 친했던 신라를 공격했어요.\n평양에 머물고 있던 광개토대왕에게 신라 사신이 다급히 와서 구원을 청했어요.\n“왜가 우리신라 성들을 함락시키고 신라인들을 백성으로 삼으려고 합니다. 왕께 구원을 청합니다.”",
+      "est_speech_ms": 44600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "호우명 그릇(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c30fcd608f51e81d/fig_026.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/c30fcd608f51e81d/fig_027.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "북쪽으로 영토를 넓히다",
+      "narration": "400년, 광개토대왕은 보병과 기병 5만을 신라에 보내어 백제·가야·왜 연합군을 낙동강 유역까지 추격하여 물리쳤어요.\n북쪽으로 영토를 넓히다\n고구려가 신라를 도와 백제·가야·왜 연합군을 물리치고 있을 무렵 후연이 요동을 공격해 왔어요. 후연은 고국원왕 때 국내성까지 쳐들어왔던 전연에서 나온 나라였어요. 남쪽의 걱정거리를 없앤 광개토 대왕은 할아버지의 원한을 갚고 요동 땅을 고구려 땅으로 확실하게 만들기 위해 후연을 공격하지요.\n402년, 광개토대왕은 후연의 숙군성을 공격했어요. 숙군성은 후연의 수도 용성과 매우 가까운 곳에 있는 성이지요. 고구려군의 공격에 후연군은 숙군성을 버리고 달아났어요. 이에 맞서 이어서 후연의 연군도 공격하였어요.",
+      "est_speech_ms": 53800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "북쪽으로 영토를 넓히다",
+      "narration": "고구려군의 공격에 후연도 고구려 요동성을 다시 공격하지만 고구려군의 강한 저항에 부딪혀 실패하고 되돌아갔어요. 당시 후연왕은 사치가 심하고 궁궐을 곳곳에 만들어서 백성들의 원성을 샀어요. 결국 풍발이라는 사람이 반란을 일으켰어요. 풍발은 고구려 출신 고운을 황제로 추대했고, 고운은 북연을 세웠어요.\n광개토 대왕은 북연왕 고운을 같은 고구려 왕실 사람으로 대우하였고, 두 나라는 친한 관계를 맺었어요. 이제 고구려는 맞설 나라가 없는 동북아시아의 강대국이 되었지요.",
+      "est_speech_ms": 38800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "광개토 대왕릉비에 기억되다",
+      "narration": "고구려는 사방으로 뻗어나갔어요. 서쪽의 후연을 격파하여 요동 지역을 땅을 차지하였어요. 그리고 동북쪽의 동부여와 숙신을 굴복시켰지요. 광개토 대왕은 남북으로 가는 곳마다 승리를 거두어 남쪽으로 한강 이북 지역을, 서쪽으로 요동 지역을, 북쪽으로는 쑹화강까지, 동북쪽으로는 오늘날의 연해주 지역까지 영토를 넓혀 큰 나라를 건설하였답니다.\n광개토대왕릉비에 기억되다\n412년, 광개토대왕이 갑작스럽게 세상을 떠났어요. 광개토 대왕 비문에는 그의 죽음을 애석해하는 내용이 새겨져 있어요.\n국강상광개토경평안호태왕이 18세에 왕위에 올라 칭호를 영락대왕이라 하였다. (왕의) 은혜로움이 하늘에까지 미쳤고 위엄이 사방에 떨쳤다.",
+      "est_speech_ms": 52200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "광개토 대왕 시절 고구려의 영토"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c30fcd608f51e81d/fig_042.jpg",
+          "caption": "광개토 대왕 시절 고구려의 영토",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "광개토 대왕릉비에 기억되다",
+      "narration": "(나쁜 무리를) 쓸어 없애니, 백성이 각기 그 생업에 힘쓰고 편안히 살게 되었다. 나라는 부강하고 백성은 유족해졌으며, 오곡이 풍성하게 익었다.\n(그런데) 하늘이 (이 백성을) 어여삐 여기지 아니하여 39세에 세상을 버리고 떠나시니 갑인년(414) 9월 29일을유에 산릉으로 모시었다.",
+      "est_speech_ms": 22400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "광개토 대왕릉비에 기억되다",
+      "narration": "우리나라 역사에서 고구려는 잊어서는 안 될 나라가 되었어요.\n특히 광개토대왕 때의 고구려는 더 이상 맞설 나라가 없는 동북아시아의 강대국이 되었다는 점에서 말이지요. 어때요?\n광개토 대왕을 생각하면 우리나라의 강인함이 느껴지지 않나요?\n그러나 이 점도 잊지 말아야 해요.\n전쟁을 치르면서 수많은 사람이 희생되었다는 사실을요.",
+      "est_speech_ms": 26800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "광개토 대왕릉비(중국 지린성), 국립중앙박물관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c30fcd608f51e81d/fig_061.jpg",
+          "caption": "광개토 대왕릉비(중국 지린성), 국립중앙박물관",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

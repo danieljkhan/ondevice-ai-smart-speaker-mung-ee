@@ -1,0 +1,513 @@
+{
+  "schema_version": 2,
+  "doc_hash": "1494c81a5f6be08e",
+  "source_file": "eh_r0401_0010.pdf",
+  "title": "시간 속에 변화해온 현대 생활 문화",
+  "kind": "artifact",
+  "era": "현대",
+  "era_source": "keyword",
+  "scene_count": 19,
+  "section_count": 8,
+  "image_count": 18,
+  "est_total_ms": 840400,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "1970년대 교실 풍경(서울교육박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "우리 생활 문화는 어떻게 변해왔나?",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "콩나물 교실에서 공부하다",
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "1970년대 초등학교 교실 풍경(서울사진아카이브)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "지금과 다른 점심시간 풍경",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "혼분식을 검사하는 모습"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "반공 포스터 그리기 대회가 열렸어요",
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [
+        "반공 포스터(대한민국역사박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "논과 밭에 아파트가 들어서기 시작하다",
+      "scene_indices": [
+        10,
+        11
+      ],
+      "scene_seq": [
+        11,
+        12
+      ],
+      "image_captions": [
+        "반공 포스터와 교련복(대한민국역사박물관)",
+        "반포 아파트 전경(국가기록원)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "마을에 전화 한 대가 있던 시절도 있어요",
+      "scene_indices": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "scene_seq": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "image_captions": [
+        "촌락의 모습",
+        "다이얼식 전화와 삐삐, 시티폰(국립민속박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": null,
+      "scene_indices": [
+        16,
+        17,
+        18
+      ],
+      "scene_seq": [
+        17,
+        18,
+        19
+      ],
+      "image_captions": [
+        "비둘기호(철도박물관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "시간 속에 변화해온 현대 생활 문화\n“주번은 양동이 들고 가서 조개탄 받아오렴.”\n“네 알겠습니다.”\n“땔감도 좀 얻어오면 좋겠구나!”\n난로에 조개탄을 넣어 불을 피워 교실을 따뜻하게 하던 때가 있었어요. 학생들은 집에서 땔감으로 쓸 나무를 가져오기도 했지요. 이런 모습을 볼 수 있었던 것은 지금으로부터 40여 년 전 일이에요. 지금과는 무척 다르지요.\n지금부터 조부모님과 부모님의 어렸을 때 이야기를 들어보고, 이후 변화된 생활 문화를 알아볼까요?",
+      "est_speech_ms": 35400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "1970년대 교실 풍경(서울교육박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_001.jpg",
+          "caption": "1970년대 교실 풍경(서울교육박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "우리 생활 문화는 어떻게 변해왔나?",
+      "narration": "우리 생활 문화는 어떻게 변해왔나?\n1960~1970년대 교실 모습은 지금과는 무척 달랐어요. 한 반에 60~70여 명의 학생들이 모여 생활했어요. 책상과 의자도 지금과 달라 웃지 못할 일들도 벌어졌어요. 점심시간 풍경도 지금과 달랐지요.\n학교만 달랐던 게 아니에요. 마을 풍경도 많이 달랐어요. 지금은 도시마다 높은 아파트들이 들어서 있고, 촌락에도 현대식 건물들이 들어섰지만, 몇십 년 전에는 이런 모습이 있던 곳이 많지 않았어요.\n우리의 일상생활에도 많은 변화가 생겼어요. 성능 좋은 가전제품들이 나 오면서 생활에 변화가 일어났지요. 수돗가에 쪼그리고 앉아 빨래하지 않고, 세탁기를 돌려 빨래를 하게 되었지요.",
+      "est_speech_ms": 49800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "우리 생활 문화는 어떻게 변해왔나?",
+      "narration": "연탄불이나 곤로불에 밥을 짓던 모습은 점점 사라지고 전기밥솥으로 밥을 짓게 되었어요. 그러면서 남녀의 역할도 변화되었어요.\n통신기술 발달로 사람들의 관계도 변했어요. 먼 곳에 있는 친척들에게 안부를 묻는 일이 쉽지 않았던 시대도 있었는데, 지금은 실시간 화상 통화도 가능하지요.\n도로와 교통의 발달도 생활의 변화를 가져왔지요. 넓은 길이 놓이고, 아스팔트가 깔렸어요. 전국을 연결하는 고속도로와 철로가 놓였지요. 자동차 보급률도 높아졌어요. 지금은 전국 어디든 빠른 시간 안에 갈 수 있게 되었지요.\n대중문화 또한 큰 변화와 발전을 이루었어요. 특별한 날에만 볼 수 있었던 영화를 다양한 매체로 쉽게 볼 수 있게 되었어요.\n지금부터 6·25 전쟁 이후 현대의 생활 문화는 어떻게 변화·발전해 왔는지 더 자세히 알아볼까요?",
+      "est_speech_ms": 58200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_025.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_026.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.1667
+        },
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_027.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.3333
+        },
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_028.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_029.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.6667
+        },
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_030.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.8333
+        },
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_031.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "콩나물 교실에서 공부하다",
+      "narration": "콩나물 교실에서 공부하다\n6·25 전쟁이 끝나고, 우리나라는 전쟁으로 인한 피해를 복구하기 위해 많은 노력을 기울였어요. 건물을 새로 짓고, 파괴된 도로와 철도를 건설했어요. 경제 개발 5개년 계획을 세워 경제를 일으키기 위한 장기적인 노력도 기울였지요.\n전쟁으로 인해 인구도 많이 줄어든 상태였어요.\n그러자 아이를 많이 낳는 ‘베이비붐’ 현상이 나타났어요. 1960~1970년에 출산율이 급격히 늘었지요. 때문에 학교에 다니는 아이들은 늘었는데 학교 수는 턱없이 부족했어요.\n출산율이 낮아 학생 수가 줄어든 지금과는 상당히 다른 모습이었지요.",
+      "est_speech_ms": 44600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "콩나물 교실에서 공부하다",
+      "narration": "그러다 보니 한 학급 학생 수가 거의 60~70여 명에 이르렀어요. 교실이 지금보다 넓었냐고요? 그렇지 않아요. 예나 지금이나 교실의 크기는 비슷했어요. 좁디좁은 교실에서 학생들은 어떻게 생활했을까요?\n지금보다 아이들의 신체는 작았지만, 교실에 60~70여 명의 학생들이 모여 생활하기란 결코 쉬운 일이 아니었겠죠? 의자와 책상도 붙어 있어, 가운데 금을 그어 놓고, 넘어오지 못하게 하는 일까지 있었어요.\n여러 명이 붙어 앉아 있어야 하니 자유롭게 이동하기 쉽지 않았어요. 교실에서 모둠활동은 전혀 할 수 없었지요. 교실 마루에 초를 발라 윤을 내는 것은 아이들의 몫이었어요. 반들반들 빛나는 복도에서 미끄럼을 타는 아이들도 있었어요.",
+      "est_speech_ms": 51400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "1970년대 초등학교 교실 풍경(서울사진아카이브)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_040.jpg",
+          "caption": "1970년대 초등학교 교실 풍경(서울사진아카이브)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "콩나물 교실에서 공부하다",
+      "narration": "학생 수가 많은 도시 학교에서는 오전반과 오후반으로 나누어 수업을 진행하기도 했어요.\n오후가 되면 복도에는 오전반 학생들이 교실 밖으로 나오기를 기다리는 오후반 학생들로 가득했지요. 하지만 예나 지금이나 아이들은 교실에서 열심히 공부하며 즐겁게 생활했어요.",
+      "est_speech_ms": 21800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "지금과 다른 점심시간 풍경",
+      "narration": "지금과 다른 점심시간 풍경\n학교생활 중 아이들이 가장 기다리는 시간은 무슨 시간일까요? 바로 점심시간이에요. 하지만 옛날 점심시간 풍경은 지금과는 많이 달랐어요.\n“네 도시락만 아래 놓으면 어떻게? 나도 누룽지 먹고 싶단 말이야.”\n“알았어. 오늘만 내가 바꿔줄게.”\n겨울철 점심시간이 가까워 오면 아이들은 난로 위에 도시락을 올려놓고 데웠지요. 발 빠른 아이가 맨 밑에 놓을 기회를 얻었어요. 맨 밑에 놓인 도시락은 맛있는 누룽지가 만들어져 아이들이 부러워했어요.\n아이들은 점심시간이 되길 무척 기다렸어요. 반찬이 특별했냐고요? 그렇지 않아요. 김치와 단무지 정도가 대부분이었지요.",
+      "est_speech_ms": 46800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "지금과 다른 점심시간 풍경",
+      "narration": "계란말이나 멸치볶음, 소시지, 장조림을 싸 오는 아이는 부잣집 아이였어요. 반찬 가짓수가 많지 않았지만 밥맛은 꿀맛이었어요. 반면 도시락을 싸 오지 못해 운동장 수돗가에서 물로 배를 채우는 아이도 있었어요.\n“도시락 검사할 테니 책상 위에 올려놓으세요.”\n어떤 날은 갑자기 도시락 혼분식 검사를 했어요. 혼분식이 뭐냐고요?\n쌀이 부족했던 1970년대 정부에서는 보리와 쌀을 섞어 먹도록 장려했어요. 학교에서도 그것을 잘 지키고 있는지 검사를 했어요. 쌀밥을 싸 온 친구들은 도시락에 있는 보리밥을 빌려 재빨리 자기 도시락에 심기도 했어요.",
+      "est_speech_ms": 43600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "혼분식을 검사하는 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_059.jpg",
+          "caption": "혼분식을 검사하는 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "반공 포스터 그리기 대회가 열렸어요",
+      "narration": "반공 포스터 그리기 대회가 열렸어요\n6·25 전쟁으로 남과 북은 분단이 되었어요. 그러면서 나라에서 공산주의를 반대하는‘반공 정책’을 실시했어요. 곳곳에 공산주의 세력과 북한을 적대시하는 포스터와 표어가 나붙었어요.\n‘광복절을 맞이하여 멸공 정신을 새롭게 하자.’\n‘북괴 남침 예고 없고, 자나 깨나 총력안보’\n공산주의를 없애야 한다는‘멸공’이라는 말과 북한을 북한‘괴뢰’로 표현한 표어나 포스터를 쉽게 찾아볼 수 있었지요.\n아이들은 ‘무찌르자 공산당’으로 시작되는 노래에 맞추어 고무줄놀이를 했어요. 간첩 신고에 대한 교육이 실시되기도 했어요.",
+      "est_speech_ms": 44000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "반공 포스터 그리기 대회가 열렸어요",
+      "narration": "새벽에 산에서 내려오는 사람이나 수상한 사람을 보면 얼른 신고해야 한다고 했지요. 심지어 사람들은 내 이웃이 혹시 간첩이 아닐지 의심하기도 했어요.\n6월이 되면 학교에서는 반공 포스터 그리기, 글짓기, 웅변대회 등이 열렸어요. 학생들은 하나 같이 공산주의는 나쁜 것이고, 북한은 무찔러야 하는 대상이라고 주장하는 글을 썼지요.\n북한 사람들을 그리라고 하면 뿔 달린 도깨비로 그리는 것이 당연했어요. 학교에서는 공산당을 무찌르는 활약을 펼치는 똘이 장군이라는 영화를 함께 보기도 했어요.",
+      "est_speech_ms": 39800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "반공 포스터(대한민국역사박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_072.jpg",
+          "caption": "반공 포스터(대한민국역사박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "논과 밭에 아파트가 들어서기 시작하다",
+      "narration": "고등학교에서 군사 훈련을 받기도 했어요. 교련 시간이 따로 있어 총을 쏘는 훈련을 받고, 응급 상황에 대비해 붕대 감는 방법 등도 배웠지요.\n논과 밭에 아파트가 들어서기 시작하다\n대부분의 어린이들은 현재 아파트나 빌라와 같은 여러 가구가 함께 사는 공동주택에 살고 있어요. 하지만 몇십 년 전에는 아파트에 사는 친구들이 손에 꼽히는 정도였어요. 대부분 양옥집과 같은 단독주택에서 살았지요.\n전통적인 주택은 한 가구가 사는 형태였지요. 하지만 1960년대 이후 산업화가 진행되고 도시로 사람들이 몰려들면서 공동 주택인 아파트가 들어서기 시작했어요.",
+      "est_speech_ms": 45000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "반공 포스터와 교련복(대한민국역사박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_077.jpg",
+          "caption": "반공 포스터와 교련복(대한민국역사박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "논과 밭에 아파트가 들어서기 시작하다",
+      "narration": "1960년대에 지어진 서울특별시 마포구의 마포아파트는 최초의 단지형 아파트예요. 10개 동 규모의 6층짜리 아파트로 엘리베이터도 없었답니다. 연탄보일러를 이용해 난방을 했지요.\n1980년대 들어 도시 모습은 더욱 변해갔어요. 논과 밭에 대단지 아파트가 들어서기 시작했어요. 쟁기로 밭을 가는 농부 모습과 높은 아파트 모습이 같이 찍힌 사진을 볼 수도 있었던 시절이지요. 이후 경제가 성장하면서 높은 건물들이 여기저기 들어서기 시작했고, 한국 도시는 빌딩 숲으로 변해갔어요.",
+      "est_speech_ms": 39600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "반포 아파트 전경(국가기록원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_085.jpg",
+          "caption": "반포 아파트 전경(국가기록원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 6,
+      "section_title": "마을에 전화 한 대가 있던 시절도 있어요",
+      "narration": "촌락에서도 스레트 지붕이 얹어진 집 대신 현대식 벽돌집들이 지어졌어요. 사람의 일손 대신 농기계를 이용해 농사를 짓게 되었지요.\n마을에 전화 한 대가 있던 시절도 있어요\n지금은 어린이들도 대부분 핸드폰을 가지고 있어 언제든 어디서든 연락을 할 수 있어요.\n하지만 시골 마을에 한 대의 전화만 있던 시절이 있었다는 사실을 아세요?\n6·25 전쟁으로 전신선이 파괴되고 훼손되었어요. 하지만 1960년대 경제가 발전하면서 통신 분야도 눈에 띄게 성장했어요. 도시에는 전화를 가진 가정이 많았지만 촌락 마을에까지 널리 보급되지는 못했어요.",
+      "est_speech_ms": 43800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "촌락의 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_090.jpg",
+          "caption": "촌락의 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 6,
+      "section_title": "마을에 전화 한 대가 있던 시절도 있어요",
+      "narration": "한 마을에 전화 한 대가 있는 마을도 있었어요. 서울로 돈 벌러 나간 자식들에게 안부 전화가 걸려오면 마을 방송 시설을 통해 안내방송이 나왔어요.\n“○○○ 어머니는 전화가 왔으니 마을 이장 집으로 와 전화 받으세요.”\n안내방송이 나가면 부모님들은 맨발로 뛰어오셨어요. 정보통신 기술이 발달하고 각 가정에 전화가 놓이면서 이런 방송은 사라지게 되었어요.\n1980년대에는 무선호출기, 즉 삐삐라고 불리는 기기가 등장했어요. 기기에 전화번호가 찍히면, 공중전화로 달려가 상대방에게 전화를 하지요. 공중전화를 이용하기 위해 긴 줄이 늘어서 있는 모습을 곳곳에서 볼 수 있었어요.",
+      "est_speech_ms": 46000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 6,
+      "section_title": "마을에 전화 한 대가 있던 시절도 있어요",
+      "narration": "1990년대 들어서 개인 휴대전화를 일반 대중들도 이용할 수 있게 되었어요.\n지금은 많은 사람들이 개인 휴대전화를 가지고 있지만 당시만 해도 그렇지 않았어요. 처음 등장한 휴대폰은 시티폰으로 이동통신 서비스가 이루어지는 지역 안에서만 기지국을 통해 통화가 가능했었어요. 지금은 높은 산에 올라가서도 쉽게 전화를 걸고 받을 수 있는데 말이죠.\n이후 이동통신사업은 눈부시게 발전해 어디서든 전화를 걸고 받을 수 있으며, 문자 메시지, 사진, 동영상도 주고받을 수 있는 4세대 휴대폰 시대가 열렸지요.\n고속 철도 시대가 열렸어요",
+      "est_speech_ms": 43000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "다이얼식 전화와 삐삐, 시티폰(국립민속박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_106.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_107.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.25
+        },
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_109.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 6,
+      "section_title": "마을에 전화 한 대가 있던 시절도 있어요",
+      "narration": "비둘기호라는 열차를 들어본 적이 있나요? 이 철도는 1967년부터 운행된 열차에요. 열차 중 최하위 등급 열차지요. 이 열차는 거의 모든 역에 정차해요. 서울에서 부산까지 12시간가량 걸렸어요.\n천천히 달리는 완행열차지요. 지금은 고속열차(KTX)로 부산까지 2시간 30분이면 갈 수 있는데, 5배나 더 걸렸던 거예요.\n비둘기호는 당시 잘살아보려는 사람들의 희망을 안고 달리는 열차였어요. 열차가 잠시 플랫폼에 멈추면 얼른 내려가락국수를 사먹었지요. 잠시 짬을 내 후루룩 먹는 가락국수 맛은 너무도 맛있었대요.",
+      "est_speech_ms": 41500,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 17,
+      "section_index": 7,
+      "section_title": null,
+      "narration": "1980년대 기차는 특급에 해당하는 새마을호, 우등에 해당하는 무궁화호, 보통인 통일호가 있었고, 최하위 등급이 비둘기호였어요.\n비둘기호는 2000년까지만 운행하고 역사 속으로 사라졌어요. 특급열차였던 새마을호도 고속철도 시대가 열리면서 사라졌답니다.\n역사 속 작은 이야기: 프로야구와 프로축구가 인기를 끌었어요\n“야구장에 가서 프로야구 경기 보고 싶어요.”\n주말이면 야구장에 가자고 조르는 아이들이 많지요. 우리나라에서 프로 야구가 시작된 것은 언제부터일까요? 1982년이에요. 프로야구팀이 생기기 전 이미 프로 축구팀도 생겼지요.\n그런데 프로야구와 프로축구팀이 만들진 것이 전두환 정부의 정책이었다는 사실을 아세요?\n광주 민주화 운동을 탄압했던 전두환이 1981년 대통령이되어 국민들의 관심을 돌리려는 의도로 프로야구와 축구팀을 창단했어요.",
+      "est_speech_ms": 63400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "비둘기호(철도박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/1494c81a5f6be08e/fig_118.jpg",
+          "caption": "비둘기호(철도박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 18,
+      "section_index": 7,
+      "section_title": null,
+      "narration": "프로야구팀은 롯데자이언츠에서부터 OB베어스까지 6개 팀이 창단되었어요. 창단 당시 140만 명의 관중이 경기장을 찾아왔어요.\n1984년에 8개의 프로팀과 실업팀이 참가한 '축구 대제전'이 열렸어요. 집집마다 TV를 통해 경기를 관람하며 열광했지요. 전두환 정부의 의도대로 프로야구와 프로축구에 열광하며 국민들은 정치에 관심을 덜 갖게 되었어요. 이렇게 시작된 프로야구와 프로축구는 지금도 꾸준히 인기를 끌고 있어요.\n6・25 전쟁 이후 우리 생활 문화가 어떻게 변화해왔는지 살펴보니 어떤 생각이 드나요?\n타임머신을 타고 과거로 여행을 다녀온 듯하지요?",
+      "est_speech_ms": 46000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 19,
+      "section_index": 7,
+      "section_title": null,
+      "narration": "전쟁 이후 현재의 모습으로 변화 발전하는데 그리 많은 시간이 걸리지 않았어요. 경제 성장과 기술의 발전이 가져온 변화는 우리에게 편리함을 가 져다주었지요. 하지만 인구의 도시 집중, 환경오염 등 여러 가지 문제를 남겼어요.\n우리 함께 여러 가지 문제를 어떻게 해결해야 할지 생각해 보고 앞으로 펼쳐질 미래는 어떤 모습일지 상상해 보아요.",
+      "est_speech_ms": 27200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

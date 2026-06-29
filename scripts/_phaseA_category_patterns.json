@@ -1,0 +1,265 @@
+{
+  "category_patterns": {
+    "ko": {
+      "animal": [
+        {"topic": "동물", "pattern": "동물|동물원"},
+        {"topic": "강아지", "pattern": "강아지|개"},
+        {"topic": "고양이", "pattern": "고양이"},
+        {"topic": "공룡", "pattern": "공룡"},
+        {"topic": "고래", "pattern": "고래|돌고래"}
+      ],
+      "nature": [
+        {"topic": "바다", "pattern": "바다|대양"},
+        {"topic": "호수", "pattern": "호수"},
+        {"topic": "산", "pattern": "산|산맥"},
+        {"topic": "강", "pattern": "강|하천"}
+      ],
+      "plant": [
+        {"topic": "식물", "pattern": "식물"},
+        {"topic": "꽃", "pattern": "꽃|해바라기|장미"},
+        {"topic": "나무", "pattern": "나무|소나무|대나무"},
+        {"topic": "과일", "pattern": "사과|바나나|포도"}
+      ],
+      "story": [
+        {"topic": "동화", "pattern": "동화|전래동화|우화"},
+        {"topic": "신데렐라", "pattern": "신데렐라"},
+        {"topic": "피노키오", "pattern": "피노키오"},
+        {"topic": "인어공주", "pattern": "인어공주"}
+      ],
+      "science": [
+        {"topic": "우주", "pattern": "우주|태양계|행성"},
+        {"topic": "중력", "pattern": "중력"},
+        {"topic": "전기", "pattern": "전기|자기장"},
+        {"topic": "빛", "pattern": "빛|소리"}
+      ],
+      "culture": [
+        {"topic": "설날", "pattern": "설날|추석"},
+        {"topic": "한글", "pattern": "한글"},
+        {"topic": "한복", "pattern": "한복"},
+        {"topic": "박물관", "pattern": "박물관|과학관"}
+      ],
+      "music": [
+        {"topic": "피아노", "pattern": "피아노"},
+        {"topic": "바이올린", "pattern": "바이올린|첼로"},
+        {"topic": "드럼", "pattern": "드럼"},
+        {"topic": "악기", "pattern": "악기|가야금|리코더"}
+      ],
+      "sports": [
+        {"topic": "축구", "pattern": "축구"},
+        {"topic": "야구", "pattern": "야구"},
+        {"topic": "농구", "pattern": "농구"},
+        {"topic": "수영", "pattern": "수영|체조"}
+      ],
+      "vehicle": [
+        {"topic": "자동차", "pattern": "자동차"},
+        {"topic": "기차", "pattern": "기차|열차"},
+        {"topic": "비행기", "pattern": "비행기|헬리콥터"},
+        {"topic": "소방차", "pattern": "소방차|구급차"}
+      ],
+      "weather": [
+        {"topic": "날씨", "pattern": "날씨|기후|계절"},
+        {"topic": "비", "pattern": "비|장맛비"},
+        {"topic": "눈", "pattern": "눈|눈보라"},
+        {"topic": "태풍", "pattern": "태풍|번개|천둥"}
+      ],
+      "body_health": [
+        {"topic": "심장", "pattern": "심장"},
+        {"topic": "치아", "pattern": "치아|양치질"},
+        {"topic": "뼈", "pattern": "뼈|근육"},
+        {"topic": "건강", "pattern": "건강|위생|예방접종"}
+      ],
+      "math": [
+        {"topic": "숫자", "pattern": "숫자|자연수"},
+        {"topic": "분수", "pattern": "분수"},
+        {"topic": "삼각형", "pattern": "삼각형|사각형|도형"},
+        {"topic": "색깔", "pattern": "빨강|파랑|노랑|초록|보라|갈색|회색"}
+      ],
+      "world_geography": [
+        {"topic": "대륙", "pattern": "대륙|아시아|유럽|아프리카|북아메리카|남아메리카|오세아니아|남극"},
+        {"topic": "수도", "pattern": "수도|도쿄|서울|런던|파리|카이로"},
+        {"topic": "강과 산맥", "pattern": "나일강|아마존강|히말라야|알프스"},
+        {"topic": "시간대", "pattern": "시간대|표준시|시차"}
+      ],
+      "world_history_light": [
+        {"topic": "고대 문명", "pattern": "이집트|피라미드|로마|그리스"},
+        {"topic": "조선", "pattern": "조선|훈민정음|세종"},
+        {"topic": "산업 혁명", "pattern": "산업 혁명|증기 기관"},
+        {"topic": "발견과 발명", "pattern": "발견|발명|건국|즉위"}
+      ],
+      "technology_intro": [
+        {"topic": "컴퓨터", "pattern": "컴퓨터|마이크로프로세서"},
+        {"topic": "인터넷", "pattern": "인터넷|웹|브라우저"},
+        {"topic": "프로그래밍", "pattern": "코딩|프로그래밍|변수|반복문"},
+        {"topic": "로봇", "pattern": "로봇|센서|알고리즘"}
+      ],
+      "science_intro_deeper": [
+        {"topic": "원자", "pattern": "원자|분자"},
+        {"topic": "세포", "pattern": "세포|DNA|염색체"},
+        {"topic": "진화", "pattern": "진화|자연 선택"},
+        {"topic": "파동", "pattern": "음파|파동|전류|회로"}
+      ],
+      "arts_appreciation_intro": [
+        {"topic": "미술관", "pattern": "미술관|박물관"},
+        {"topic": "명화", "pattern": "모나리자|별이 빛나는 밤|수련"},
+        {"topic": "건축", "pattern": "건축|성당|궁전"},
+        {"topic": "예술 사조", "pattern": "인상주의|르네상스|바로크"}
+      ]
+    },
+    "en": {
+      "animal": [
+        {"topic": "dog", "pattern": "\\bdog\\b"},
+        {"topic": "cat", "pattern": "\\bcat\\b"},
+        {"topic": "dinosaur", "pattern": "\\bdinosaur\\b"},
+        {"topic": "whale", "pattern": "\\bwhale\\b|\\bdolphin\\b"}
+      ],
+      "nature": [
+        {"topic": "ocean", "pattern": "\\bocean\\b|\\bsea\\b"},
+        {"topic": "river", "pattern": "\\briver\\b|\\blake\\b"},
+        {"topic": "mountain", "pattern": "\\bmountain\\b|\\bvolcano\\b"},
+        {"topic": "forest", "pattern": "\\bforest\\b|\\bdesert\\b"}
+      ],
+      "plant": [
+        {"topic": "flower", "pattern": "\\bflower\\b|\\brose\\b|\\bsunflower\\b"},
+        {"topic": "tree", "pattern": "\\btree\\b|\\boak\\b|\\bbamboo\\b"},
+        {"topic": "fruit", "pattern": "\\bapple\\b|\\bbanana\\b|\\bgrape\\b"},
+        {"topic": "vegetable", "pattern": "\\bcarrot\\b|\\bpotato\\b|\\bpumpkin\\b"}
+      ],
+      "story": [
+        {"topic": "fairy tale", "pattern": "\\bfairy tale\\b|\\blegend\\b"},
+        {"topic": "dragon", "pattern": "\\bdragon\\b"},
+        {"topic": "princess", "pattern": "\\bprincess\\b|\\bcinderella\\b"},
+        {"topic": "hero", "pattern": "\\bhero\\b|\\badventure\\b"}
+      ],
+      "science": [
+        {"topic": "space", "pattern": "\\bspace\\b|\\bplanet\\b|\\bmoon\\b"},
+        {"topic": "gravity", "pattern": "\\bgravity\\b"},
+        {"topic": "electricity", "pattern": "\\belectricity\\b|\\bmagnet\\b"},
+        {"topic": "light", "pattern": "\\blight\\b|\\bsound\\b"}
+      ],
+      "culture": [
+        {"topic": "festival", "pattern": "\\bfestival\\b|\\bholiday\\b"},
+        {"topic": "museum", "pattern": "\\bmuseum\\b|\\blibrary\\b"},
+        {"topic": "tradition", "pattern": "\\btradition\\b|\\bfolklore\\b"},
+        {"topic": "origami", "pattern": "\\borigami\\b|\\bpuppet\\b"}
+      ],
+      "music": [
+        {"topic": "piano", "pattern": "\\bpiano\\b"},
+        {"topic": "violin", "pattern": "\\bviolin\\b|\\bcello\\b"},
+        {"topic": "drum", "pattern": "\\bdrum\\b"},
+        {"topic": "instrument", "pattern": "\\bguitar\\b|\\bflute\\b|\\borchestra\\b"}
+      ],
+      "sports": [
+        {"topic": "soccer", "pattern": "\\bsoccer\\b|\\bfootball\\b"},
+        {"topic": "baseball", "pattern": "\\bbaseball\\b"},
+        {"topic": "basketball", "pattern": "\\bbasketball\\b"},
+        {"topic": "swimming", "pattern": "\\bswimming\\b|\\bgymnastics\\b"}
+      ],
+      "vehicle": [
+        {"topic": "car", "pattern": "\\bcar\\b|\\bbus\\b"},
+        {"topic": "train", "pattern": "\\btrain\\b|\\btram\\b"},
+        {"topic": "airplane", "pattern": "\\bairplane\\b|\\bhelicopter\\b"},
+        {"topic": "fire truck", "pattern": "\\bfire truck\\b|\\bambulance\\b"}
+      ],
+      "weather": [
+        {"topic": "weather", "pattern": "\\bweather\\b|\\bclimate\\b|\\bseason\\b"},
+        {"topic": "rain", "pattern": "\\brain\\b|\\brainbow\\b"},
+        {"topic": "snow", "pattern": "\\bsnow\\b|\\bhail\\b"},
+        {"topic": "storm", "pattern": "\\bstorm\\b|\\bthunder\\b|\\blightning\\b"}
+      ],
+      "body_health": [
+        {"topic": "heart", "pattern": "\\bheart\\b"},
+        {"topic": "teeth", "pattern": "\\btooth\\b|\\bteeth\\b"},
+        {"topic": "bone", "pattern": "\\bbone\\b|\\bmuscle\\b"},
+        {"topic": "health", "pattern": "\\bhealth\\b|\\bhygiene\\b|\\bvaccine\\b"}
+      ],
+      "math": [
+        {"topic": "number", "pattern": "\\bnumber\\b|\\bcounting\\b"},
+        {"topic": "fraction", "pattern": "\\bfraction\\b"},
+        {"topic": "shape", "pattern": "\\btriangle\\b|\\bcircle\\b|\\bsquare\\b|\\bgeometry\\b"},
+        {"topic": "color", "pattern": "\\bred\\b|\\bblue\\b|\\byellow\\b|\\bgreen\\b|\\bbrown\\b"}
+      ],
+      "world_geography": [
+        {"topic": "continent", "pattern": "\\bAsia\\b|\\bEurope\\b|\\bAfrica\\b|\\bOceania\\b"},
+        {"topic": "capital", "pattern": "\\bcapital\\b|\\bSeoul\\b|\\bTokyo\\b|\\bLondon\\b|\\bParis\\b"},
+        {"topic": "rivers and mountains", "pattern": "\\bNile\\b|\\bAmazon\\b|\\bHimalaya\\b|\\bAlps\\b"},
+        {"topic": "time zone", "pattern": "\\btime zone\\b|\\bUTC\\b|\\bdaylight saving\\b"}
+      ],
+      "world_history_light": [
+        {"topic": "ancient civilizations", "pattern": "\\bEgypt\\b|\\bpyramid\\b|\\bRome\\b|\\bGreece\\b"},
+        {"topic": "Joseon", "pattern": "\\bJoseon\\b|\\bHangul\\b|\\bSejong\\b"},
+        {"topic": "Imjin War", "pattern": "\\bImjin War\\b"},
+        {"topic": "Industrial Revolution", "pattern": "\\bIndustrial Revolution\\b|\\bsteam engine\\b"},
+        {"topic": "discovery and invention", "pattern": "\\bfounded\\b|\\binvented\\b|\\bdiscovered\\b"}
+      ],
+      "technology_intro": [
+        {"topic": "computer", "pattern": "\\bcomputer\\b|\\bhardware\\b"},
+        {"topic": "internet", "pattern": "\\binternet\\b|\\bweb\\b|\\bbrowser\\b"},
+        {"topic": "coding", "pattern": "\\bcoding\\b|\\bprogramming\\b|\\bvariable\\b|\\bloop\\b"},
+        {"topic": "robot", "pattern": "\\brobot\\b|\\bsensor\\b|\\balgorithm\\b"}
+      ],
+      "science_intro_deeper": [
+        {"topic": "atom", "pattern": "\\batom\\b|\\bmolecule\\b"},
+        {"topic": "cell", "pattern": "\\bcell\\b|\\bDNA\\b|\\bchromosome\\b"},
+        {"topic": "evolution", "pattern": "\\bevolution\\b|\\bnatural selection\\b"},
+        {"topic": "waves", "pattern": "\\bsound wave\\b|\\belectric current\\b|\\bcircuit\\b"}
+      ],
+      "arts_appreciation_intro": [
+        {"topic": "museum", "pattern": "\\bart museum\\b|\\bgallery\\b"},
+        {"topic": "masterpiece", "pattern": "\\bMona Lisa\\b|\\bStarry Night\\b|\\bWater Lilies\\b"},
+        {"topic": "architecture", "pattern": "\\barchitecture\\b|\\bcathedral\\b|\\bpalace\\b"},
+        {"topic": "art movement", "pattern": "\\bImpressionism\\b|\\bRenaissance\\b|\\bBaroque\\b"}
+      ]
+    }
+  },
+  "exclude_terms": {
+    "ko": {
+      "violence": ["전쟁", "학살", "살인", "테러", "폭력", "전투"],
+      "adult": ["성행위", "포르노", "음란", "강간"],
+      "crime": ["마약", "도박", "범죄", "자살", "담배"],
+      "politics": ["정치", "선거", "대통령", "정당"],
+      "finance": ["주식", "금융", "투자", "경제"],
+      "law": ["법률", "재판", "헌법", "소송"],
+      "military": ["군사", "무기", "미사일", "군함"],
+      "medical_sensitive": ["자폐", "말기암", "호스피스"]
+    },
+    "en": {
+      "violence": ["war", "battle", "murder", "terrorism", "violence", "massacre"],
+      "adult": ["sex", "sexual", "porn", "rape"],
+      "crime": ["drug", "gambling", "crime", "suicide"],
+      "politics": ["politics", "election", "president", "parliament"],
+      "finance": ["stock", "finance", "investment", "inflation"],
+      "law": ["law", "court", "constitution", "lawsuit"],
+      "military": ["military", "weapon", "missile", "warship"],
+      "medical_sensitive": ["psychiatric trauma"]
+    }
+  },
+  "cross_language_translations": {
+    "ko": {
+      "violence": ["massacre", "war", "battle"],
+      "adult": ["pornography", "nude"],
+      "crime": ["drug", "gambling"],
+      "politics": ["government", "senate"],
+      "finance": ["banking", "interest rate"],
+      "law": ["legal", "judge"],
+      "military": ["army", "navy"]
+    },
+    "en": {
+      "violence": ["전쟁", "폭력", "학살"],
+      "adult": ["음란", "성행위"],
+      "crime": ["마약", "도박"],
+      "politics": ["정치", "선거"],
+      "finance": ["주식", "금융"],
+      "law": ["법률", "재판"],
+      "military": ["군사", "무기"],
+      "medical_sensitive": ["자폐", "말기암", "호스피스"]
+    }
+  },
+  "world_history_light_whitelist": {
+    "ko": "(\\d{3,4})\\s*년\\s*(시작|건국|발견|발명|반포|즉위)",
+    "en": "(?:in\\s+)?(\\d{3,4})\\b.*(?:founded|established|invented|discovered|proclaimed|started|crowned)"
+  },
+  "violence_saturation_terms": {
+    "ko": ["전쟁", "전투", "폭력", "군사", "학살"],
+    "en": ["war", "battle", "violence", "military", "massacre"]
+  }
+}

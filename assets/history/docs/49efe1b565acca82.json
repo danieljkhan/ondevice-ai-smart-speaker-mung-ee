@@ -1,0 +1,381 @@
+{
+  "schema_version": 2,
+  "doc_hash": "49efe1b565acca82",
+  "source_file": "eh_r0291_0010.pdf",
+  "title": "조선 시대 지방 사립 학교, 서원",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 14,
+  "section_count": 6,
+  "image_count": 12,
+  "est_total_ms": 599800,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "조선 시대 지방 사립 학교, 서원",
+      "scene_indices": [
+        0,
+        1
+      ],
+      "scene_seq": [
+        1,
+        2
+      ],
+      "image_captions": [
+        "도산 서원 전교당(경북 안동시), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "우리나라 최초의 서원이 세워지다",
+      "scene_indices": [
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        3,
+        4,
+        5
+      ],
+      "image_captions": [
+        "소수 서원(경북 영주시), 문화재청",
+        "소수 서원 현판(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "사림의 밑거름이 된 서원",
+      "scene_indices": [
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "서원에서는 무엇을 공부하였을까요",
+      "scene_indices": [
+        8
+      ],
+      "scene_seq": [
+        9
+      ],
+      "image_captions": [
+        "이황의 학문과 덕행을 기리기 위해 세워진 도산 서원(경북 안동시), 문화재청",
+        "이언적의 학문과 덕행을 기리기 위해 세운 옥산 서원(경북 경주시), 문화재청",
+        "김장생의 학문과 덕행을 기리기 위해 세운 돈암 서원(충남 논산시), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "붕당의 근거지가 된 서원",
+      "scene_indices": [
+        9,
+        10
+      ],
+      "scene_seq": [
+        10,
+        11
+      ],
+      "image_captions": [
+        "최치원과 신잠을 모시고 제사를 지냈던 무성 서원(전북 정읍시), 문화재청",
+        "김굉필의 학문과 덕행을 기리기 위해 세운 도동 서원(대구 달성군), 문화재청",
+        "김인후의 학문과 덕행을 기리기 위해 세운 필암 서원(전남 장성군), 문화재청",
+        "유네스코에 등재된 한국의 서원(사진출처 : 유네스코와 유산)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 설마 서원에서 이런 일이…",
+      "scene_indices": [
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "화양 서원이 있었던 터(충북 괴산군), 문화재청)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "조선 시대 지방 사립 학교, 서원",
+      "narration": "조선 시대 지방 사립 학교, 서원\n“난 이번에 우리 고장에 생긴 서원으로 가서 공부할 생각이네.”\n“나도 마찬가지네. 내가 존경하는 유학자를 마음에 기리며 공부를 하면 학문이 더 깊어질 것이라 생각하네.”\n조선 시대 최고의 인재들이 모여 공부하는 곳은 성균관이에요. 그런데 시간이 지나면서 지방에는 사립 학교인 서원이 생기기 시작했고, 이곳에서 많은 인재가 열심히 학문을 배웠어요. 그럼 서원은 어떤 학교였을까요?\n조선, 서원을 세우다\n서원은 교육기관이지요. 그래서 공부하기 좋은 한적한 곳에 세워졌어요. 또 서원에서는 뛰어난 업적을 남긴 유학자들의 제사를 지내기도 했지요. 이황은 서원을 세우며 이렇게 말했어요.",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "도산 서원 전교당(경북 안동시), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/49efe1b565acca82/fig_001.jpg",
+          "caption": "도산 서원 전교당(경북 안동시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "조선 시대 지방 사립 학교, 서원",
+      "narration": "“서원은 성균관이나 향교와 달리 산천이 아름답고 한적한 곳에 있어 유혹에서 벗어나기 쉽고, 교육적 성과도 크다.”\n서원은 쇠퇴하여 허물어진 사찰이나 절터, 뛰어난 옛 유학자의 고향 등에도 세워졌어요. 예컨대 순흥의 소수 서원은 중국의 성리학을 우리나라에 소개한 안향의 고향 마을인 영주 순흥면에 세워졌어요. 또 이름난 유학자가 살아 있을 때 세웠던 서당이 발전하여서원이 된 경우도 있어요.\n도산 서당은 퇴계 이황이 제자들에게 글을 가르쳐 주던 곳이었어요. 이황의 제자들은 스승이 세상을 떠나자 도산 서당 옆에 사당을 세우고 교육 시설을 갖춘 뒤 도산 서원을 세운 것이지요.",
+      "est_speech_ms": 46400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "우리나라 최초의 서원이 세워지다",
+      "narration": "서원은 조선 중기 이후 크게 늘어났어요. 선조 때부터 빠르게 늘더니, 숙종 때에는 전국의 도마다 80~90개가 될 정도로 포화 상태가 되었어요.\n정약용도 그의 저서 목민심서에 ‘고을마다 수십 개의 서원이 있었다.’라고 적으며 지나치게 많은 서원을 염려할 정도였지요.\n우리나라 최초의 서원이 세워지다\n우리나라 최초의 서원은 조선 중종 때 주세붕이 세운 백운동 서원이에요. 주세붕은 경상도 풍기 군수로 부임하면서 그곳 출신인 성리학자 안향을 기리기 위해 사당을 지었어요.\n그리고 사당 옆에 공부할 수 있는 강당을 세워 지방 양반 자제들에게 성리학을 교육하였지요.",
+      "est_speech_ms": 45400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "소수 서원(경북 영주시), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/49efe1b565acca82/fig_021.jpg",
+          "caption": "소수 서원(경북 영주시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "우리나라 최초의 서원이 세워지다",
+      "narration": "이렇게 제사 지내는 장소인 사당과 학문을 배우는 장소인 강당이 합쳐진 공간인 ‘서원’이 만들어지게 되었지요.\n백운동 서원은 이황이 풍기 군수로 있을 때 소수 서원으로 이름이 바꾸었어요. 이황은 서원을 통해 성리학을 널리 알리고자하였어요. 그래서 나라에 서원을 지원해 달라고 요청하였지요.\n이에 명종은 ‘소수 서원’이라고 쓴 현판을 내려 주었어요. 이렇게 왕이 직접 이름을 지어 현판을 내려 준 서원을 ‘사액 서원’이라고 해요. 사액 서원은 나라에서 인정한 서원이죠.\n나라에서는 토지, 서적, 노비를 줄 뿐만 아니라 세금과 군역(군대 가는 의무)을 면제해 주는 등 여러 가지 특권을 주었어요. 서원을 유지하는 데 필요한 위세를 높여주고 경제력을 보충해 준 것이지요.",
+      "est_speech_ms": 52600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "소수 서원 현판(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/49efe1b565acca82/fig_026.jpg",
+          "caption": "소수 서원 현판(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "우리나라 최초의 서원이 세워지다",
+      "narration": "이황은 그 고장 사람들이 스스로 규칙을 세우고 서원을 관리하고 운영해야 한다고 강조했어요. 나라에서 세운 지방 국립 학교인 향교와는 달랐죠. 그는 서원을 과거 준비 장소가 아닌 성리학을 연구하고 교육에 집중할 장소로 만들고자했어요.\n이렇게 해서 서원은 덕망이 높은 이름난 유학자를 기리며 학문을 연구하고 가르치며 인재들을 기르기 시작하였지요.",
+      "est_speech_ms": 28600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/49efe1b565acca82/fig_037.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "사림의 밑거름이 된 서원",
+      "narration": "사림의 밑거름이 된 서원\n명종 때는 훈구 세력이 권력을 잡고 있었어요. 훈구 세력은 세조의 즉위에 공을 세운 이후 권력을 확대해 나갔던 사람들이었죠. 이들은 주요 관직을 독점하고 권력을 이용하여 자신들의 재산을 늘렸어요. 이 과정에서 적잖은 비리와 부정이 일어나기도 하였지요.\n이와 달리 사림 세력은 지방에서 학문 연구와 교육에 힘썼던 학자들로 도덕과 의리에 바탕을 둔 정치를 추구하였지요.\n사림은 적극적인 언론 활동으로 훈구 세력의 비리를 비판하였지요. 그러다 사림은 정치적 반대 세력인 훈구 세력에게 몰려 큰 화를 입게 되지요. 이 사건을 사화라고 해요.",
+      "est_speech_ms": 45400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "사림의 밑거름이 된 서원",
+      "narration": "사림은 중앙 정치에서 쫓겨나 지방으로 물러난 뒤에도 곳곳에 서원과 향약을 세워 향촌에서 자신들의 세력을 키워나갔어요.\n향약은 고을의 자치규약이에요. 유교의 가르침을 바탕으로 고을의 주민들이 지켜야 할 규범을 정해 놓은 것이죠.\n사림들은 지방에서 인재들을 모아 학문을 가르치는 한편 중앙 정치에 대한 여론을 형성하며 관직에 나아갈 기회를 기다렸어요. 사림이 서원의 기능을 확대시켜 나가자 지방의 양반 자제들은 대부분 서원에 입학했지요.\n다행히 서원이 교육 기관이라 훈구 세력의 견제를 피할 수 있었어요. 조정에서도 적극적으로 서원 설립을 지원해 주었어요. 그 결과 명종 말기에는 많은 서원들이 세워졌지요.",
+      "est_speech_ms": 50200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "사림의 밑거름이 된 서원",
+      "narration": "향교는 나라에서 선정한 유학자만을 제사 지냈어요. 이와 달리 서원은 저마다 이름난 유학자를 선택해 그의 학문을 계승하며 제사를 지냈지요.\n특히 매우 유명한 유학자는 여러 서원에서 그의 학문을 본받으려했어요.\n이를테면 이황은 40여 곳, 이이는 20여 곳의 서원에서 각각 제사를 지내며 받들었답니다.",
+      "est_speech_ms": 24600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "서원에서는 무엇을 공부하였을까요",
+      "narration": "서원에서는 무엇을 공부하였을까요\n서원에서는 어떻게 공부를 하였을까요? 대체로 소학, 대학, 논어, 맹자, 중용, 시경, 춘추 등의 유학 경전을 공부했어요. 독서와 제술(글쓰기), 강송(글의 뜻을 밝히며 읽음)과 같은 공부 방법으로 말이지요. 서원에는 오늘날처럼 학생들의 출석 확인도 하였고, 성적을 평가하는 생활기록부도 있었어요.\n서원에는 원장을 비롯한 임원이 있었어요. 원생을 가르치는 책임자를 훈장 또는 강장이라 불렀어요. 동재와 서재의 사무를 담당하는 재장, 원생의 훈육을 담당하는 집강 등이 있었지요.",
+      "est_speech_ms": 40600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "이황의 학문과 덕행을 기리기 위해 세워진 도산 서원(경북 안동시), 문화재청",
+        "이언적의 학문과 덕행을 기리기 위해 세운 옥산 서원(경북 경주시), 문화재청",
+        "김장생의 학문과 덕행을 기리기 위해 세운 돈암 서원(충남 논산시), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/49efe1b565acca82/fig_053.jpg",
+          "caption": "이황의 학문과 덕행을 기리기 위해 세워진 도산 서원(경북 안동시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/49efe1b565acca82/fig_055.jpg",
+          "caption": "이언적의 학문과 덕행을 기리기 위해 세운 옥산 서원(경북 경주시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/49efe1b565acca82/fig_058.jpg",
+          "caption": "김장생의 학문과 덕행을 기리기 위해 세운 돈암 서원(충남 논산시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "붕당의 근거지가 된 서원",
+      "narration": "붕당의 근거지가 된 서원\n선조 때 사림파가 중앙 정계에 진출하기 시작하면서 서원은 더욱 늘어났어요. 점차 서원은 교육하고 제사 지내는 것을 넘어, 양반들이 모여 국가의 중요한 문제를 의논하는 곳이 되었어요.\n이렇게 서원은 조선 후기 붕당 정치의 중심이 되었어요. 서원에서는 스승을 중심으로 학파를 형성하였어요. 같은 학파에서도 정치적인 입장에 따라 서로 다른 세력을 형성했지요.\n또 그들은 저마다 자신들의 세력을 넓히기 위해서원을 이용했어요. 같은 서원에서 공부한 사람들은 벼슬길에 나가서도 자기들끼리 무리를 형성하기 일쑤였지요. 각 세력은 자주 의견 대립을 일으켰어요.",
+      "est_speech_ms": 47200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "붕당의 근거지가 된 서원",
+      "narration": "17세기 이후 붕당 간의 다툼이 심해지고 문벌과 학벌이 점차 강조되자 서원의 수는 엄청나게 늘어났어요. 사림들이 자기 쪽의 인물들을 제사 지내는 서원을 많이 세웠기 때문이에요.\n심지어 특정 가문의 위세를 드러내기 위한 목적으로 서원을 세우기도 했어요.",
+      "est_speech_ms": 20800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "최치원과 신잠을 모시고 제사를 지냈던 무성 서원(전북 정읍시), 문화재청",
+        "김굉필의 학문과 덕행을 기리기 위해 세운 도동 서원(대구 달성군), 문화재청",
+        "김인후의 학문과 덕행을 기리기 위해 세운 필암 서원(전남 장성군), 문화재청",
+        "유네스코에 등재된 한국의 서원(사진출처 : 유네스코와 유산)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/49efe1b565acca82/fig_071.jpg",
+          "caption": "최치원과 신잠을 모시고 제사를 지냈던 무성 서원(전북 정읍시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/49efe1b565acca82/fig_073.jpg",
+          "caption": "김굉필의 학문과 덕행을 기리기 위해 세운 도동 서원(대구 달성군), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.6667
+        },
+        {
+          "path": "assets/history/images/49efe1b565acca82/fig_078.jpg",
+          "caption": "김인후의 학문과 덕행을 기리기 위해 세운 필암 서원(전남 장성군), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.8333
+        },
+        {
+          "path": "assets/history/images/49efe1b565acca82/fig_081.jpg",
+          "caption": "유네스코에 등재된 한국의 서원(사진출처 : 유네스코와 유산)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 설마 서원에서 이런 일이…",
+      "narration": "역사 속 작은 이야기: 설마 서원에서 이런 일이…\n서원은 향촌 사람들이 모이는 일종의 공공장소였어요. 언제나 사람들의 발길이 끊이지 않았으며, 지역 안팎의 여러 소식이 모여드는 곳이었지요.\n향촌에 어떤 문제가 생겼을 때 서원에는 유학을 공부하는 선비들이 모여 논의를 거친 후 결정하곤했지요.\n또한 효자·열녀(남편이 죽은 후에도 죽을 때까지 혼자 살며 시부모를 모시거나, 남편을 따라 스스로 목숨을 끊은 여인)를 표창하고 윤리에 어긋나는 짓을 한 자를 바로잡아 향촌의 기풍을 바로잡기도 하였어요.\n그러나 조선 후기 들어 일부 서원은 권위를 앞세워 무고한 백성을 괴롭히기도 하였어요. 백성에게 묵패라는 문서를 보내 여러 종류의 금품을 요구하였어요. 서원의 도장에 먹을 찍어 보내서 묵패라는 명칭이 붙었던 건데요.",
+      "est_speech_ms": 57600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 설마 서원에서 이런 일이…",
+      "narration": "원래 묵패는 서원의 일을 하기 위한 문서였지만 점차 공포의 문서가 되었지요. 대표적 사례가 화양 서원에서 발행한 화양 묵패 사건이었어요.\n화양 서원에서 일어난 화양 묵패 사건은 대표적인 서원의 횡포였어요. 화양 서원은 나라로부터 많은 토지와 노비를 받아 경제적으로 풍요했지요.\n게다가 송시열의 제자들이 권력을 잡게 되면서 공자를 받든 문묘에 그들의 스승을 모시면서 서원의 힘은 날로 커졌지요.\n그러나 화양동 서원은 점점 타락해 갔어요. 화양묵패는 주로 제사에 쓸 비용을 걷는다는 명목으로 발급되었는데요. 한번 묵패가 발행되면 지방관이라도 감히 거역하지 못할 정도였어요.",
+      "est_speech_ms": 47200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 설마 서원에서 이런 일이…",
+      "narration": "백성들도 묵패를 받으면 논밭을 팔아서라도 바쳐야 했지요. 만약 돈을 구하지 못하면 서원에 끌려가서 갇히거나 형벌을 받기도 했대요.\n서원은 유교 교육을 통해 향촌의 풍속과 질서를 바로잡는 역할을 하였지만, 그러나 점점 시간이 지나며 본래의 교육 기능보다는 양반들의 이익을 대변하는 곳으로 변해 갔어요.\n여러분은 존경하는 인물이 있나요?\n누구나 좋아하고 본받고 싶은 인물이 있을 거예요. 여러분이 존경하는 인물을 생각하면서 공부해 보는 것은 어떨까요?",
+      "est_speech_ms": 37000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "화양 서원이 있었던 터(충북 괴산군), 문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/49efe1b565acca82/fig_101.jpg",
+          "caption": "화양 서원이 있었던 터(충북 괴산군), 문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "total": 17797,
+  "passed": 17776,
+  "rejected": 21,
+  "flagged": 0,
+  "pass_rate": 99.9,
+  "reject_reasons": {
+    "Too many sentences: 5": 15,
+    "English detected: 'AI'": 3,
+    "Token truncation pattern: '는\\s+요'": 1,
+    "English detected: 'calls'": 1,
+    "English detected: 'TV'": 1
+  },
+  "per_category": {
+    "A": {
+      "total": 2880,
+      "passed": 2878,
+      "rejected": 2,
+      "flagged": 0,
+      "pass_rate": 99.9,
+      "reject_reasons": {
+        "English detected: 'AI'": 2
+      }
+    },
+    "B": {
+      "total": 1200,
+      "passed": 1192,
+      "rejected": 8,
+      "flagged": 0,
+      "pass_rate": 99.3,
+      "reject_reasons": {
+        "Too many sentences: 5": 8
+      }
+    },
+    "C": {
+      "total": 2050,
+      "passed": 2050,
+      "rejected": 0,
+      "flagged": 0,
+      "pass_rate": 100.0,
+      "reject_reasons": {}
+    },
+    "D": {
+      "total": 940,
+      "passed": 934,
+      "rejected": 6,
+      "flagged": 0,
+      "pass_rate": 99.4,
+      "reject_reasons": {
+        "Too many sentences: 5": 6
+      }
+    },
+    "E": {
+      "total": 2229,
+      "passed": 2229,
+      "rejected": 0,
+      "flagged": 0,
+      "pass_rate": 100.0,
+      "reject_reasons": {}
+    },
+    "F": {
+      "total": 5298,
+      "passed": 5294,
+      "rejected": 4,
+      "flagged": 0,
+      "pass_rate": 99.9,
+      "reject_reasons": {
+        "Too many sentences: 5": 1,
+        "English detected: 'AI'": 1,
+        "Token truncation pattern: '는\\s+요'": 1,
+        "English detected: 'calls'": 1
+      }
+    },
+    "G": {
+      "total": 1320,
+      "passed": 1320,
+      "rejected": 0,
+      "flagged": 0,
+      "pass_rate": 100.0,
+      "reject_reasons": {}
+    },
+    "H": {
+      "total": 960,
+      "passed": 960,
+      "rejected": 0,
+      "flagged": 0,
+      "pass_rate": 100.0,
+      "reject_reasons": {}
+    },
+    "I": {
+      "total": 920,
+      "passed": 919,
+      "rejected": 1,
+      "flagged": 0,
+      "pass_rate": 99.9,
+      "reject_reasons": {
+        "English detected: 'TV'": 1
+      }
+    }
+  },
+  "rejected_count": 21
+}

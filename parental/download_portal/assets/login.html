@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="same-origin">
+  <title>뭉이 대화 데이터 포털</title>
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <main>
+    <form class="login" method="post" action="/login" autocomplete="off">
+      <h1>뭉이 대화 데이터 포털</h1>
+      <p class="sub">보호자 PIN을 입력하세요.</p>
+      {error_block}
+      <label for="pin">PIN</label>
+      <input type="password" id="pin" name="pin" inputmode="numeric"
+             autocomplete="off" required autofocus>
+      <button type="submit">로그인</button>
+    </form>
+  </main>
+</body>
+</html>

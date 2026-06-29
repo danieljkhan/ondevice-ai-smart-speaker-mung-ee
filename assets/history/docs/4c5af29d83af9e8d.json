@@ -1,0 +1,352 @@
+{
+  "schema_version": 2,
+  "doc_hash": "4c5af29d83af9e8d",
+  "source_file": "eh_r0020_0010.pdf",
+  "title": "신석기 시대 마을을 찾아서, 서울 암사동 유적",
+  "kind": "artifact",
+  "era": "선사",
+  "era_source": "keyword",
+  "scene_count": 13,
+  "section_count": 6,
+  "image_count": 11,
+  "est_total_ms": 543299,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "서울 암사동 유적지(서울 강동구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "집 짓기를 고민하다",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "움집을 짓다",
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "움집(복원), 문화재청",
+        "움집 사람들의 생활 모습",
+        "움집 내부 모습(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "여러 가지 생활 도구를 사용하다",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "갈돌과 갈판의 사용 모습",
+        "신석기 시대 여러 가지 생활 도구(서울암사동유적박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "빗살무늬토기를 발명하다",
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [
+        "빗살무늬 토기(국립중앙박물관)",
+        "빗살무늬 토기 사용 모습"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 신석기 시대 사람들의 터전이 발견되다",
+      "scene_indices": [
+        10,
+        11,
+        12
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "신석기 시대 마을을 찾아서, 서울 암사동 유적\n“여긴 정말 살기 좋은 것 같아. 햇빛도 잘 들고. 무엇보다 근처에 강이 있어 먹을거리 걱정을 덜 수 있을 것 같아.”\n“그래 맞아. 난 다시는 동굴로 가기 싫어. 그런데 이제 날이 추워질 것 같은데 잠자리는 어떻게 하지?”\n구석기 시대 사람들은 먹을 것을 찾아 여기저기 옮기며 살았어요.\n신석기 시대에는 날씨가 따뜻해지면서 먹을거리가 늘어났어요. 그래서 먹을 거리를 구하기 쉬운 강가에 머물러 살기 시작했어요.\n그런데 추운 겨울날 잠자리는 어떻게 해결하였을까요?",
+      "est_speech_ms": 39600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "서울 암사동 유적지(서울 강동구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4c5af29d83af9e8d/fig_001.jpg",
+          "caption": "서울 암사동 유적지(서울 강동구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "집 짓기를 고민하다",
+      "narration": "집 짓기를 고민하다\n신석기 시대 초기에는 사람들은 여전히 동굴에서 살기도 했어요.\n그런데 매번 사냥하기가 쉽지 않았어요. 겨울엔 나무 열매 구하기도 어렵고요.\n강가에는 물고기 등의 먹을거리가 많지만, 동굴과 너무 멀리 떨어져 있어 불편했어요. 또 동굴은 불을 피워도 바닥이 너무 차가웠어요.\n“벌써 며칠째 아무것도 잡지 못했으니 걱정이야. 내일은 멀지만 물고기를 잡으러 강가에 가보아야 하겠어.”\n“물고기를 잡기 쉬운 강가에 살 수 있으면 얼마나 좋을까?”\n신석기 사람들은 고민하기 시작하였어요.\n강가에 동굴은 없었어요.",
+      "est_speech_ms": 41800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "집 짓기를 고민하다",
+      "narration": "그리고 바닥이 차갑고 어두운 동굴이 이제는 싫었어요.\n그들은 궁리 끝에 여기 강가에 동굴을 만들기로 하였어요.\n강도 가깝고 햇빛도 잘 들고, 추위를 막아 주며 불안에 떨지 않고 잠을 잘 수 있는 공간을 말이지요. 바로 인류 역사상 집이 탄생하는 순간이지요.\n신석기 사람들은 어떻게 집을 지었을까요? 그 질문의 실마리는 서울 암사동 유적을 통해 알 수 있어요.\n한강과 가까운 암사동에서 둥글게 혹은 네모나게 땅을 파낸 수십 개의 흔적이 발견되었지요. 이 흔적들이 바로 신석기 시대 사람들이 살았던 집터였어요.\n서울 암사동 유적에서 발견된 신석기 사람들의 집은 ‘움집’이었어요.\n움집은 어떤 집일까요?\n움집에서 신석기 시대 사람들은 어떻게 생활하였을까요?",
+      "est_speech_ms": 52200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/4c5af29d83af9e8d/fig_031.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "움집을 짓다",
+      "narration": "움집을 짓다\n신석기 사람들은 이제 자신들만의 안락한 집을 짓기 시작했어요.\n땅을 파고, 주로 생활할 자리인 바닥은 평평하게 다졌어요. 그런 다음 주변에 나무 기둥을 세우고, 도리를 얹고, 서까래를 올린 뒤, 나뭇잎이나 짚을 엮어 지붕을 덮었어요. 이렇게 신석기 시대 사람들의 집이 완성되었어요.\n이렇게 만든 집을 ‘움집’이라고 해요. 움(움푹 파인 구덩이)을 파고 지은 집이란 뜻이에요.\n움집은 햇볕이 잘 들도록 남향으로 지었어요.\n나무와 풀만으로 지은 집이지만 땅을 파서 지었기 때문에 바람과 추위를 피할 수 있었어요. 집 한가운데에는 음식을 조리하고 집안을 따뜻하게 해 주는 화덕 즉 불 피우는 자리를 만들었어요.",
+      "est_speech_ms": 48800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "움집(복원), 문화재청",
+        "움집 사람들의 생활 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4c5af29d83af9e8d/fig_034.jpg",
+          "caption": "움집(복원), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/4c5af29d83af9e8d/fig_041.jpg",
+          "caption": "움집 사람들의 생활 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "움집을 짓다",
+      "narration": "화덕은 신석기 사람들이 추위를 이기게 해 준 고마운 도구에요.\n전 시대에는 불 피우기가 힘들었지만 신석기 시대에 와서는 불 피우기가 훨씬 쉬워졌어요. 화덕 덕분에 추위를 막고, 음식을 조리하고 사나운 짐승들의 침입도 막을 수 있었어요.",
+      "est_speech_ms": 19000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "움집을 짓다",
+      "narration": "“신석기 사람들은 드나들기도 불편한데 왜 굳이 땅바닥을 파고 집을 지었어요? 지붕도 낮아 집안에서 생활하기도 불편하겠어요.”\n땅을 파면 우선 공간이 더 넓어지지요.\n땅속은 바깥 공기보다 온도 변화가 적어 바닥을 파 놓으면 여름에는 시원하고 겨울에는 따뜻했어요.\n또 지붕이 낮아 강가의 센 바람도 견딜 수 있었지요. 이 정도면 동굴보다는 훨씬 살기 좋겠지요?\n“저기 가운데 푹 파인 구덩이는 무엇일까요?”\n집 바닥의 가운데에는 돌을 둥근 모양이나 네모난 모양으로 돌려놓아 불을 피우는 자리를 만들었어요.\n이 자리에 불을 피워 움집 안을 따뜻하게 덥히거나 어둠을 밝혔어요. 또한 물을 끓이거나 음식을 만들기도 하였지요.",
+      "est_speech_ms": 49400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "움집 내부 모습(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4c5af29d83af9e8d/fig_053.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/4c5af29d83af9e8d/fig_054.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "여러 가지 생활 도구를 사용하다",
+      "narration": "움집은 바람과 비도 피할 수 있었고, 갑작스럽게 들이닥치는 맹수들의 침입도 재빨리 막을 수 있었어요.\n뿐만 아니라 여름에는 시원하고 겨울에는 따뜻하였으니, 생각해보면 신석기 사람들에게 움집은 살기에 편한 최첨단 고급 주거지가 아니었을까요?\n여러 가지 생활 도구를 사용하다\n서울 암사동 유적에서는 자갈로 만든 도끼, 화살촉, 그물추, 괭이, 돌낫, 보습, 갈돌과 갈판따위 같은 석기 유물들이 나왔어요.",
+      "est_speech_ms": 32199,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "여러 가지 생활 도구를 사용하다",
+      "narration": "이런 유물을 통해 당시 사람들이 어떻게 살았는지 알 수 있지요.\n특히 땅을 파는 데 쓰는 괭이와 보습, 낟알의 껍질을 벗기거나 도토리 등을 가는 데 쓰는 갈돌과 갈판은 신석기 시대에 농경이 시작되었음을 알려 주는 중요한 유물이지요.\n화살촉과 그물추 등을 보면 사냥과 고기잡이를 했다는 것을 알 수 있어요.\n①돌괭이와 돌보습 ②돌도끼 ③돌화살촉 ④돌그물추",
+      "est_speech_ms": 27800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "갈돌과 갈판의 사용 모습",
+        "신석기 시대 여러 가지 생활 도구(서울암사동유적박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4c5af29d83af9e8d/fig_069.jpg",
+          "caption": "갈돌과 갈판의 사용 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/4c5af29d83af9e8d/fig_073.jpg",
+          "caption": "신석기 시대 여러 가지 생활 도구(서울암사동유적박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "빗살무늬토기를 발명하다",
+      "narration": "빗살무늬토기를 발명하다\n서울 암사동 유적에서는 또 하나의 중요한 유물이 나왔어요. 끝이 뾰족한 진흙으로 만든 그릇이었어요. 빗의 가느다란 살 같은 무늬가 새겨 있어 이 토기를 ‘빗살무늬 토기’라 부르게 되었어요.\n토기는 흙으로 빚은 다음 불에 구워 만든 그릇을 말해요.\n토기는 신석기 사람들이 음식을 저장하거나 음식을 조리하였다는 사실을 알 수 있게 해줘요.\n신석기 시대에는 먹을거리가 늘어나면서 이것을 보관할 그릇이 필요해졌어요.\n토기를 발명함으로써 식량을 저장할 수 있게 되었을 뿐만 아니라 음식을 끓여 먹을 수도 있게 되었어요.\n“그런데 빗살무늬 토기는 지금의 그릇들과는 좀 다르게 생겼어요. 그릇 밑이 뾰족하게 생겨 바닥에 세우기도 어렵겠는데요?”",
+      "est_speech_ms": 53400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "빗살무늬 토기(국립중앙박물관)",
+        "빗살무늬 토기 사용 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4c5af29d83af9e8d/fig_079.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/4c5af29d83af9e8d/fig_080.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.25
+        },
+        {
+          "path": "assets/history/images/4c5af29d83af9e8d/fig_083.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "빗살무늬토기를 발명하다",
+      "narration": "밑이 뾰족한 것은 그릇을 모래나 땅에 박아 움직이지 않게 하기 위해서였어요.\n신석기 시대 사람들이 주로 살았던 강가의 흙은 부드러워서 토기를 땅에 쉽게 꽂아 사용할 수 있었어요. 또 움집 안의 바닥 구멍을 잘 살펴보세요.\n빗살무늬 토기를 이 구멍자리에 얹어 보면 딱 들어맞아 세울 수 있어요.\n신석기 시대에는 자연에서 구할 수 있는 먹을거리가 늘어나고 점차 농사를 짓게 되면서 더 이상 떠돌아다닐 필요 없이 한 곳에 머물러 살 수 있게 되었어요.\n특히 사람들은 농사를 지으면서 먹을 것을 직접 생산할 수 있는 능력을 갖게 되었어요. 더구나 남는 식량들을 토기에 저장할 수 있게 되어 구석기 시대와는 전혀 다른 생활을 했어요.",
+      "est_speech_ms": 49600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 신석기 시대 사람들의 터전이 발견되다",
+      "narration": "빗살무늬 토기는 농사와 식량 저장, 그리고 정착생활과 같은 생활모습을 엿볼 수 있는 신석기 시대의 가장 대표적인 유물이랍니다.\n역사 속 작은 이야기: 신석기 시대 사람들의 터전이 발견되다\n서울 암사동 유적지에는 신석기 시대부터 사람들이 살았어요. 그러나 신석기 시대 사람들이 집을 짓고 먹고 살았던 흔적들은 오랜 세월이 흐르면서 모래와 흙으로 덮여 버리고 말았지요.\n어느덧 사람들은 이곳에 사람들이 살았다는 기억조차 잊은 채 아무 생각 없이 지나다녔지요. 그렇게 시간이 흐르고 흘렀어요.\n1925년에 서울 주변 지역에 엄청나게 많은 양의 비가 내렸어요. 한강에는 큰 홍수가 일어났지요. 강물은 넘치고 거센 물줄기는 주변 지역을 휩쓸었어요.",
+      "est_speech_ms": 52400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 신석기 시대 사람들의 터전이 발견되다",
+      "narration": "이때 한강변에 위치에 해 있던 암사동 지역의 흙들도 쓸려 나가기 시작했어요. 그러자 수천 년 동안 땅속에 묻혀 있던 집터와 유물들이 모습을 드러냈어요.\n“이것 보세요. 옛날 사람들이 살았던 흔적 같아 보여요.”\n“여기도 보세요. 그릇과 도구들도 있어요.”",
+      "est_speech_ms": 19600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 신석기 시대 사람들의 터전이 발견되다",
+      "narration": "수십 년의 시간이 흐른 1971년부터 고고학자들은 호기심 가득한 표정으로 옛 사람들의 흔적들과 물건들이 조금도 훼손되지 않도록 조심스럽게 발굴해 나갔어요.\n여러 차례 발굴하고 조사한 결과 서울 암사동 유적지는 신석기 시대의 사람들이 살았던 마을로 판명되었어요.\n우연히 신석기 시대의 집터와 유물이 발견되었던 것이지요.\n서울 암사동 유적지는 한반도에서 발견된 가장 큰 신석기 시대 마을이에요.\n서울 암사동 유적의 발견으로 우리는 신석기 시대 사람들의 모습을 더욱 생생하게 살펴볼 수 있게 되었지요.\n이번 주말에는 가족과 함께 서울 암사동 유적지에 가서 신석기 사람들의 생활 모습을 상상하며 체험해 보면 어떨까요?",
+      "est_speech_ms": 51000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

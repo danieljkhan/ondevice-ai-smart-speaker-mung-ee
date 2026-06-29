@@ -1,0 +1,509 @@
+{
+  "schema_version": 2,
+  "doc_hash": "c4cab4bf93e74f45",
+  "source_file": "eh_r0220_0010.pdf",
+  "title": "조선의 수도를 지켜온 한양도성",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 22,
+  "section_count": 8,
+  "image_count": 13,
+  "est_total_ms": 963398,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "한양도성(서울 종로구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "유교 이념을 담은 한양도성",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "한성도성 내 주요 건물"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "백악 구간",
+      "scene_indices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "image_captions": [
+        "창의문(서울 종로구), 문화재청",
+        "숙정문(서울 종로구), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "흥인지문 옆 각자성석(서울 종로구), 서울특별시청 문화본부 한양도성도감",
+        "흥인지문(서울 종로구), 문화재청",
+        "광희문(서울 중구), 문화재청",
+        "남산 봉수대(서울 중구), 국사편찬위원회"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": null,
+      "scene_indices": [
+        14,
+        15,
+        16
+      ],
+      "scene_seq": [
+        15,
+        16,
+        17
+      ],
+      "image_captions": [
+        "숭례문(서울 중구), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": null,
+      "scene_indices": [
+        17,
+        18
+      ],
+      "scene_seq": [
+        18,
+        19
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 한양도성박물관",
+      "scene_indices": [
+        19,
+        20,
+        21
+      ],
+      "scene_seq": [
+        20,
+        21,
+        22
+      ],
+      "image_captions": [
+        "한양도성박물관 내부(서울 종로구)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "조선의 수도를 지켜온 한양도성\n“전하! 함경도 북청부 백성들이 쌓았던 한양도성 구간이 얼마 전 무너져 내렸습니다. 당시 감독관에게 명하여 다시 쌓도록 하소서.”\n“알았소. 당시 감독관과 성을 쌓은 백성들을 한양으로 오게 해서 보수하게 하시오.”\n조선 시대 한양도성은 도읍지의 경계를 표시하는 동시에 외적의 침입을 막기 위해 쌓은 성이었어요. 태조 이성계의 명으로 전국에서 백성들을 뽑아 쌓았으며, 이후에도 여러 차례 보수를 했지요.\n600년 넘게 조선의 수도를 지켜온 한양도성의 이모저모를 한 번 살펴볼까요?",
+      "est_speech_ms": 41000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "한양도성(서울 종로구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_001.jpg",
+          "caption": "한양도성(서울 종로구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "유교 이념을 담은 한양도성",
+      "narration": "유교 이념을 담은 한양도성\n1392년 조선을 건국한 태조 이성계는 옛 고려의 수도인 개경을 떠나 새로운 도읍지를 정하고 싶었어요. 그래서 신하들에게 전국의 명당으로 소문난 곳을 두루 살펴보게 했어요.\n태조 이성계가 직접 가서 명당들을 둘러보기도 했답니다. 1393년에는 계룡산을 도읍지로 정하고 1년 가까이 궁궐을 짓기도 했어요. 그러나 하륜이라는 신하가 계룡산이 너무 남쪽에 치우쳐져 있다고 반대하여 계룡산의 도읍지 건설은 무산되었답니다.\n그럼 이제 도읍지를 다른 곳으로 정해야겠죠? 태조와 신하들은 여러 곳을 고심한 끝에 결국 한양을 도읍지로 정했어요.",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "유교 이념을 담은 한양도성",
+      "narration": "한양은 나라의 중앙에 위치하고 있으며, 한강이 흐르고 있어 교통이 편리했어요. 또 주변이 높은 산으로 둘러싸여 방어에 유리하였지요. 게다가 한양은 고려 때부터 풍수지리설에서 명당으로 꼽히던 곳이었어요.\n한양을 도읍지로 정한 뒤 1394년부터 공사가 시작되었어요.\n제일 먼저 임금이 거처하는 궁궐을 짓고 ‘만년토록 큰 복을 누려라.’라는 뜻을 따라 ‘경복궁’이라 이름 지었어요. 경복궁을 중심으로 왼쪽, 즉 동쪽에는 왕과 왕비를 제사 지내기 위한 종묘를 두었고, 오른쪽, 즉 서쪽에는 토지신과 곡식신에게 제사 지내는 사직단을 두었어요.",
+      "est_speech_ms": 43200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "한성도성 내 주요 건물"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_017.jpg",
+          "caption": "한성도성 내 주요 건물",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "유교 이념을 담은 한양도성",
+      "narration": "이어 1396년 1월 9일부터 2월 28일까지 49일 간, 이어서 8월 6일부터 9월 24일까지 49일 간, 모두 98일 동안 전국 백성 19만 7천 4백여 명을 동원하여 한양도성을 쌓았어요.\n한양 주위에는 백악산(북악산), 인왕산, 목멱산(남산), 낙산이 있어요. 이 산들은 아름다운 풍경을 이루면서 군사적으로는 한양을 지키는 훌륭한 방어선 구실을 하였지요. 이 네 산의 능선을 따라 빙 둘러 성곽을 쌓은 것이 한양 도성이에요.\n당시 전체 공사구간(총 5만 9,500척, 현재 거리 18.627km)을 600척씩 97개의 구간으로 나누고 각 구간을 천자문 순서에 따라 ‘천(天)’, ‘지(地)’, ‘현(玄)’ 등의 이름을 붙인 뒤 전국 각지의 군현(마을)에 있는 백성들을 동원해서 지정된 구간을 맡아 성을 쌓게 했어요.",
+      "est_speech_ms": 54800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "당시 한양에 살고 있는 인구가 10만 명 내외였다고 하는데, 도성을 짓기 위해 전국에서 동원된 백성이 20만 명에 이르렀던 거예요. 한양도성 공사의 규모가 엄청나게 컸다는 것을 짐작할 수 있겠죠?\n한양도성 공사를 하면서 동서남북 방향에 4대문을 세우고, 중간 중간에 4 소문(혜화문, 광희문, 소의문, 창의문)을 만들었어요.\n4대문중 동대문은 흥인지문, 서대문은 돈의문, 남대문은 숭례문, 북대문은 숙정문이라고 하였는데, 이는 유교에서 중시하는 인, 의, 예, 지의 글자와 뜻을 담아 이름 지은 것이에요.",
+      "est_speech_ms": 39800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "즉, 유교의 통치 이념을 반영하여 한양도성이 만들어졌다는 것을 알 수 있어요. 이와 같이 태조 때 만들어진 한양도성은 이후 세종, 숙송, 순조 때 보수 공사를 하면서 600년 이상 조선의 수도 한양을 지키는 든든한 울타리가 되어 주었죠.\n지금부터 한양도성을 돌아보며 주변에 있는 문화유산에 대해서 하나씩 살펴볼까요?",
+      "est_speech_ms": 25400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_035.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "백악 구간",
+      "narration": "백악 구간\n조선 시대 한양 사람들은 봄과 여름, 두 차례에 걸쳐 성 안팎을 구경하였는데, 이를 순성놀이라고 했어요. 순성놀이 때 사람들은 짝을 지어 성을 한 바퀴 돌면서 꽃과 버들을 구경하고 소원도 빌었어요.\n한양도성 순성길은 조선시대 성곽을 따라 걸으며 풍경을 감상하던 순성 놀이에서 유래된 총 6개 구간으로 총 25.7㎞에 이르는 길이에요.\n6개 구간은 백악 구간, 낙산 구간, 흥인지문 구간, 남산 구간, 숭례문 구간, 인왕산 구간으로 이루어져 있어요. 각 구간별로 살펴보도록 해요.\n백악 구간은 창의문에서 백악을 넘어 혜화문까지 4.7㎞에 이르는 구간이 에요. 창의문은 인왕산과 백악이 만나는 지점에 있는 문으로 사소문 중 유일하게 조선시대 문루(성문 위에 지은 집)가 그대로 남아 있어요. 이 문루는 임진왜란 때 불타 없어졌던 것을 영조 때 다시 지은 것이에요.",
+      "est_speech_ms": 60399,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "창의문(서울 종로구), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_037.jpg",
+          "caption": "창의문(서울 종로구), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "백악 구간",
+      "narration": "현재는 자하문으로 더 많이 불리는데, 이 문 부근의 경치가 개경의 빼어난 경치를 자랑하던 자하동과 비슷하다고 하여 붙여진 별명이에요.\n창의문을 지나 좀 더 올라가면 백악마루가 나와요. 백악마루는 1396년 태조 이성계의 명으로 처음 한양도성을 쌓을 때, 천자문의 순서에 따라 97개의 공사구간을 나눌 당시 ‘천(天)’자 구간이 붙여진 곳이에요. 즉, 한양도성 공사의 첫 구간이 시작된 곳이지요.",
+      "est_speech_ms": 31599,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "숙정문(서울 종로구), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_047.jpg",
+          "caption": "숙정문(서울 종로구), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "백악 구간",
+      "narration": "숙정문은 한양도성의 북쪽에 있는 성문인데, 원래 이름은 숙청문이었다가 후대에 와서 바뀌었어요.\n북대문, 북문이라고도 불린 숙정문은 도성의 다른 성문과는 달리 산속에 있어서 평상시에는 문을 닫아두었다가, 국가 행사가 있을 때만 사용하였다고 해요.\n혜화문은 한양도성의 동북쪽 문으로 4소문 중의 하나인데, 처음 세워졌을 때 이름은 홍화문이었어요. 이후 창경궁을 만들고 정문을 홍화문으로 이름 붙이면서 기존에 있던 한양도성의 홍화문과 이름이 헷갈리게 되었지요.\n그래서 ‘홍화문’의 이름을 ‘혜화문’으로 바꾸었지요. 이후 혜화문은 일제 강점기에 헐렸다가 1994년에 본래 자리보다 조금 북쪽에 세워졌어요.",
+      "est_speech_ms": 49800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "백악 구간",
+      "narration": "본래 자리에는 이미 도로가 있어서 어쩔 수 없었지요.\n낙산 구간\n낙산 구간은 혜화문에서 낙산을 지나 흥인지문까지 2.1㎞에 이르는 구간이에요. 낙산은 생긴 모양이 낙타 등처럼 생겨서 낙타산 또는 타락산이라 고 불리다가 일제 강점기 이후 낙산으로 이름이 굳어졌어요.\n경사가 완만해서 산책하듯 걷기 좋아요.\n성을 쌓을 때 글자를 새겨 넣은 돌을 각자성석(刻字城石)이라고 해요. 한양도성 전체 구간 중에서 흥인지문 공원 옆에 가장 많이 있어요.",
+      "est_speech_ms": 35200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "태조와 세종 때의 각자성석에는 한양 도성의 구간 이름과 해당 구간을 담당한 군현(마을)의 이름이 새겨졌고, 이후에는 감독관과 책임을 맡았던 기술자의 이름, 공사 날짜 등이 새겨졌어요.\n사진의 각자성석은 낙산 구간이 끝나는 흥인지문 옆쪽에 있어요.\n흥인지문 구간\n흥인지문 구간은 흥인지문에서 광희문을 지나 장충체육관까지 2.1㎞에 이르는 구간이에요. 흥인지문은 한양도성의 동대문이에요.\n현재의 흥인지문은 고종 때인 1869년에 다시 지은 것이에요.\n조선 후기 건축의 특징을 잘 보여주고 있는 것으로 평가를 받아 보물 제1호로 지정되었어요. 조선 시대 한양의 지세는 서쪽이 높고 동쪽이 낮았어요.",
+      "est_speech_ms": 48800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "흥인지문 옆 각자성석(서울 종로구), 서울특별시청 문화본부 한양도성도감",
+        "흥인지문(서울 종로구), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_063.jpg",
+          "caption": "흥인지문 옆 각자성석(서울 종로구), 서울특별시청 문화본부 한양도성도감",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_071.jpg",
+          "caption": "흥인지문(서울 종로구), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "그래서 동쪽 지역에 해당하는 흥인지문 방향이 군사적으로는 가장 약했다고 해요. 그래서 다른 성문과 달리 흥인지문 바깥쪽으로 옹성을 하나 더 쌓았어요.\n광희문은 한양도성의 동남문이에요. 도성 안에서 성 안의 물이 나가는 곳 근처에 있어서 수구문(水口門)이라고 불렸어요. 일제 강점기에 일부 무너지고 1960년대에 도로를 내면서 반쯤 헐렸던 것을 1975년에 원위치에서 남쪽으로 15m 떨어진 현 위치에 다시 만들었어요.",
+      "est_speech_ms": 34700,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "한편, 광희문 성벽을 따라 장충동 주택가로 들어서면 한양도성은 옛 모습을 찾을 수 없어요. 일본이 세운 동양척식주식회사가 일제 강점기에 이 일대에 문화주택 단지를 조성하면서 한양도성의 상당 부분을 훼손했거든요.\n뿐만 아니라 광복 이후 1960~70년대에는 많은 주택들이 새로 지어지면서 기존의 성벽을 파괴했어요.\n성돌이 주택의 담장이나 축대로 사용되고 있기도 해요.\n남산 구간\n남산 구간은 장충체육관부터 백범광장까지 4.2㎞에 이르는 구간이에요.\n목멱산으로도 불린 남산은 안산(풍수지리상 집터 맞은편에 있는 산)으로 여겨졌어요. 그리고 남산 정상에는 봉수대를 설치하였어요. 봉수대는 국경 지방의 상황이나 외적의 동태를 살필 수 있게 한 것인데, 남산의 봉수대는 조선시대 국경 지역에서 올리는 봉수의 종착지였어요.",
+      "est_speech_ms": 59200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "광희문(서울 중구), 문화재청",
+        "남산 봉수대(서울 중구), 국사편찬위원회"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_078.jpg",
+          "caption": "광희문(서울 중구), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_086.jpg",
+          "caption": "남산 봉수대(서울 중구), 국사편찬위원회",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "봉수란 낮에는 연기로, 밤에는 불빛으로 변방의 정세를 알리는 신호를 말해요.\n평상시에는 1개의 봉수를 올렸으며, 전쟁이나 반란 등 위급한 정도에 따라 2개부터 5개까지 올렸어요. 남산의 봉수대는 1423년에 설치되어 1895년까지 500여 년 동안 이어졌어요. 이후 훼손되었다가 1993년에 현재의 모습으로 복원하였어요.",
+      "est_speech_ms": 27200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "①태조 때 쌓은 성벽 ②세종 때 쌓은 성벽 ③ 숙종 때 쌓은 성벽 ④ 순조 때 쌓은 성벽 (한양도성박물관)\n태조 때 쌓은 성벽은 600여 년이 지났음에도 불구하고 처음 쌓았을 때 모습이 제법 남아 있어요. 특히 남산의 동쪽 능선을 따라 조성된 나무계단길 옆에 태조 때 성벽이 길게 이어져 있어요.\n사진에 나타나 있듯이 태조 때 쌓은 성벽은 비교적 작은 돌을 사용하였음을 알 수 있어요. 세종 때 보수하거나 새로 쌓은 성벽의 아랫부분은 큰 돌을 반듯하게 다듬지 않고 둥글둥글한 모습 그대로 쌓았어요.\n한편, 조선 후기 숙종 때 쌓은 성곽은 사진에서 볼 수 있듯이 정사각형으로 다듬어 벽돌 쌓듯이 반듯하고 가지런하게 쌓아 올렸어요.",
+      "est_speech_ms": 48600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_093.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_094.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "숭례문 구간\n숭례문 구간은 백범 광장에서 숭례문을 지나 돈의문 터까지 1.8㎞에 이르는 구간이에요. 한양도성의 정문인 숭례문은 사람과 물자의 통행이 가장 많았어요. 개항 이후에는 숭례문 근처의 정동에 외국 공사관과 외교관의 집, 선교사들이 세운 교회와 학교들이 들어섰어요.\n한편, 1899년 전차가 개통된 이후부터 숭례문은 이전처럼 문의 구실을 제대로 못하게 되었어요. 더욱이 1907년에는 교통 불편을 이유로 숭례문의 양쪽 성벽이 철거되었고, 이후 숭례문 주변에 대형 건축물이 들어섰어요. 이 때문에 숭례문 주변의 옛 성벽은 거의 흔적이 없어졌다고 할 수 있어요.",
+      "est_speech_ms": 46400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "숭례문(서울 중구), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_100.jpg",
+          "caption": "숭례문(서울 중구), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 17,
+      "section_index": 5,
+      "section_title": null,
+      "narration": "숭례문은 서울에서 가장 오래된 건물이었으나 2008년 2월 화재로 나무로 만든 2층 문루 대부분과 1층 일부가 훼손되었어요.\n이후 복구공사에 착수하여 2013년 5월 완공되었어요. 이때 서측으로는 16m, 동측으로는 53m까지 성벽을 복원하였어요.\n숭례문 구간에는 한양도성의 흔적을 발견할 수 있는 곳이 두 군데 있어요.\n대한상공회의소에서 올리브 타워까지 이어지는 곳에 성벽의 일부가 담장처럼 남아있고, 창덕여자중학교 담장 아랫부분에서 50m 정도 네모반듯한 성벽의 일부를 볼 수 있어요.\n인왕산 구간\n순성길의 마지막 구간에 해당하는 인왕산 구간은 돈의문 터에서 시작해서 인왕산을 넘어 창의문까지 4㎞에 이르는 구간이에요. 돈의문 터는 한양도 성의 서대문인 돈의문이 있던 자리에요. 돈의문은 태조 때 만들어졌으나, 태종 때에 서전문이 새로 지어져 도성의 출입문으로 사용되면서 그 문으로 서의 기능을 하지 못했어요.",
+      "est_speech_ms": 67900,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 18,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "이후 세종 때 다시 서전문을 헐고 새로운 돈의문을 세웠는데, 현재 돈의문 터가 그 위치에 해당돼요. 그러나 일제 강점기인 1915년에 조선총독부가 새로운 도로를 건설한다는 구실로 돈의문을 허물었어요. 그리고 문에 사용된 건축자재를 일반인들에게 판매하는 만행을 저질렀어요.\n현재 돈의문 터에는 공공미술품인 ‘보이지 않는 문’이 설치되어 있어요.\n인왕산은 풍수상 우백호에 해당하는 바위산으로 치마바위, 선바위, 기차바위 등 기암괴석이 많아요. 인왕산 구간의 특징 중의 하나는 시기별로 다른 축성 기법을 확인할 수 있다는 것이에요.",
+      "est_speech_ms": 43400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 19,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "태조, 세종, 숙종, 순조, 그리고 그 이후에 쌓은 성돌이 함께 쌓인 구간이 꽤 길게 이어지고 있어서 과거와 현재가 공존하는 느낌을 받을 수 있지요.\n순성길 6개 구간을 걷다보면 태조 때 쌓은 한양도성이 군데군데 잘려진 모습을 쉽게 발견할 수 있어요.\n이는 일제 강점기 때 일제에 의해 파괴된 곳도 있고, 광복 이후 길을 내고 건물을 세우면서 훼손한 부분도 있어요.",
+      "est_speech_ms": 28200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 20,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 한양도성박물관",
+      "narration": "또한 숙정문, 광희문, 혜화문은 새로 만들어졌지만 광희문과 혜화문은 부득이 원래 자리가 아닌 곳에 새로 세워졌어요. 돈의문은 아직까지 복원 사업을 추진하지도 못했어요.\n한양도성은 2019년 현재 대략 70% 정도 옛 모습을 복원했다고 해요. 앞으로 한양도성의 원래 모습을 되찾기 위해 우리 모두 지혜를 모아야 할 거에요.\n역사 속 작은 이야기: 한양도성박물관\n한양도성 순성길 중 낙산 구간에 한양도성박물관이 자리잡고 있어요. 2014년에 개관한 한양도성박물관은 조선시대부터 현재에 이르기까지 한양도성의 역사와 문화를 담고 있어요.",
+      "est_speech_ms": 44000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 21,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 한양도성박물관",
+      "narration": "내부에는 상설전시실, 기획전시실, 도성 정보센터와 학습실을 갖추고 있지요. 전시실에 들어가면 조선의 한양 천도와 수도 건설, 한양도성의 축조까지의 상황을 보여주는 자료를 볼 수 있어요.\n한양도성의 성문을 열고 닫는 시간, 도성의 관리 방법 등을 비롯해 당시 한양 사람들의 생활 모습을 짐작할 수 있는 자료들도 관람할 수 있어요.\n또한 일제 강점기 일제의 파괴와 광복 이후 정부의 개발 정책에 따른 훼손, 복원 사업과 발굴, 도성 개방을 통해 시민의 품으로 돌아오기까지의 과정 등 한양도성의 근현대사를 한눈에 살펴볼 수 있어요.",
+      "est_speech_ms": 42200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 22,
+      "section_index": 7,
+      "section_title": "역사 속 작은 이야기: 한양도성박물관",
+      "narration": "한양도성박물관을 관람하고 나면 조상이 물려준 훌륭한 문화유산을 잘 지키고 보존하는 것이 얼마나 소중한 것인지 새삼 느낄 수 있어요.\n여러분들도 주말에 한양도성박물관을 관람한 후 순성길 6개 구간 중에서 한 곳을 선택해서 둘러보세요.\n한양도성이 수도 서울을 지키는 든든한 버팀목이 되어 주었다는 사실을 직접 눈으로 확인할 수 있을 거에요. 뿐만 아니라 서울이 참으로 전통 있고 멋진 도시라는 것을 알 수 있을 겁니다.",
+      "est_speech_ms": 34000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "한양도성박물관 내부(서울 종로구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c4cab4bf93e74f45/fig_010.jpg",
+          "caption": "한양도성박물관 내부(서울 종로구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

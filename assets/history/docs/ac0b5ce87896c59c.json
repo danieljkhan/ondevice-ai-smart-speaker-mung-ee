@@ -1,0 +1,442 @@
+{
+  "schema_version": 2,
+  "doc_hash": "ac0b5ce87896c59c",
+  "source_file": "eh_r0065_0010.pdf",
+  "title": "평양의 문화유산",
+  "kind": "artifact",
+  "era": "삼국",
+  "era_source": "docnum",
+  "scene_count": 17,
+  "section_count": 7,
+  "image_count": 13,
+  "est_total_ms": 733400,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "평양의 문화유산",
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "대동문(국립문화유산연구원)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "주몽의 무덤으로 알려진 동명왕릉",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "동명왕릉(국립문화유산연구원)",
+        "고구려의 초기 무덤(돌무지무덤 양식의 산성하고분군)과 굴식 돌방무덤의 구조",
+        "(동북아역사재단, 국사편찬위원회)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "안학궁터와 대성산성",
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [
+        "안학궁터와 안학궁 복원 모형",
+        "평양의 문화유적",
+        "대성산성 성벽(평양직할시 대성구역), 동북아역사재단"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "평양성의 정문 역할을 한 대동문",
+      "scene_indices": [
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "대동문과 조선 시대 그림 속의 대동문"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "양성의 서쪽에 있는 보통문",
+      "scene_indices": [
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "보통문(국립문화유산연구원)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "평양 최고의 경치를 볼 수 있는 을밀대",
+      "scene_indices": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "scene_seq": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "image_captions": [
+        "을밀대(국립문화유산연구원)",
+        "을밀대(국립문화유산연구원)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": null,
+      "scene_indices": [
+        16
+      ],
+      "scene_seq": [
+        17
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "평양의 문화유산",
+      "narration": "평양의 문화유산\n“폐하! 지난번에 논의하신 것처럼 평양은 대동강 유역의 평야를 끼고 있어서 생산물이 풍부한 곳이고, 대동강을 통해 바다로 진출하기에도 유리한 곳이라고 생각됩니다.”\n“내 뜻도 그러하다. 이제 수도를 국내성에서 평양으로 옮기도록 하라.”\n평양은 고구려의 세 번째 수도였어요. 장수왕 때 국내성을 대신해 새로운 수도가 된 이후 약 240여 년 동안 고구려의 수도로 번성했지요. 그래서 평양에는 고구려의 문화유산이 많이 남아 있어요.\n당장은 가기가 어렵지만 통일이 된다면 많은 사람들이 찾는 여행 명소가 될 거에요. 우리 그때를 기다리며 평양의 여러 문화유산을 살펴보도록 해요.",
+      "est_speech_ms": 47600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대동문(국립문화유산연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_001.jpg",
+          "caption": "대동문(국립문화유산연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "주몽의 무덤으로 알려진 동명왕릉",
+      "narration": "주몽의 무덤으로 알려진 동명왕릉\n평양시 남쪽 역포구역용산리에 위치한 동명왕릉은 고구려 시조 주몽의 무덤으로 알려져 있어요. 부여에서 남쪽으로 내려온 주몽은 졸본(현재의 중국 랴오닝성 환런 지역)에 터를 잡고 기원전 37년에 고구려를 세웠어요. 이후 나라의 발전을 위해 노력하던 주몽은 기원전 19년에 세상을 떠났어요.\n그런데 졸본에 있어야 할 주몽의 무덤이 왜 평양에 있을까요? 졸본에서 평양까지는 수백 킬로미터가 넘는 먼 거리거든요.\n역사학자들은 5세기에 고구려가 두 번째 수도였던 국내성에서 평양으로 수 도를 옮길 때 시조 주몽의 무덤도 함께 옮긴 것으로 추정하고 있어요. 왜냐하면 현재 동명왕릉의 무덤 형식을 볼 때 4∼5세기의 것으로 보이거든요.",
+      "est_speech_ms": 54000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "동명왕릉(국립문화유산연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_011.jpg",
+          "caption": "동명왕릉(국립문화유산연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "주몽의 무덤으로 알려진 동명왕릉",
+      "narration": "고구려의 무덤은 초기에 돌무지무덤이 유행하다가 나중에는 굴식 돌방무덤으로 바뀌었어요. 동명왕릉은 이 두 가지 요소가 다 있어서 두 무덤 양식이 바뀌는 과도기에 만들어진 것으로 추정하고 있어요.\n무덤의 구조를 좀 더 구체적으로 살펴보면 2단의 돌로 만든 기단 위에 흙을 쌓아 올린 돌기단 흙무덤이에요. 기단돌의 높이는 1.5m, 현재 남아 있는 봉분(흙으로 덮인 부분)의 높이는 6.5m로서 무덤의 높이가 8.15m에 이 르는데, 원래는 1m 정도 더 높았던 것으로 보고 있어요.",
+      "est_speech_ms": 38000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "고구려의 초기 무덤(돌무지무덤 양식의 산성하고분군)과 굴식 돌방무덤의 구조",
+        "(동북아역사재단, 국사편찬위원회)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_020.jpg",
+          "caption": "고구려의 초기 무덤(돌무지무덤 양식의 산성하고분군)과 굴식 돌방무덤의 구조",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_021.jpg",
+          "caption": "(동북아역사재단, 국사편찬위원회)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "주몽의 무덤으로 알려진 동명왕릉",
+      "narration": "무덤의 내부는 널길을 거쳐 앞돌방, 널(관)이 있는 널방으로 되어 있어요. 널방의 벽과 천장에는 연꽃무늬의 벽화가 그려져 있는데, 안타깝게 도 대부분 떨어지거나 지워져 없어지고 지금은 흔적만 남아 있어요.\n비록 고구려는 7세기에 나당 연합군의 공격으로 멸망했지만, 동명왕릉은 그 이후에도 많은 사람들에 의해 보호받았어요. 기록에 따르면 고려 시대와 조선 시대에도 고구려 시조의 무덤이라고 하여 매년 후하게 제사를 지냈다고 해요.\n유엔(UN)의 산하기구인 유네스코(UNESCO)에서는 보존할 가치가 있는 세계적인 문화유산을 매년 지정하고 있어요. 이를 유네스코 세계유산이라 고 하지요. 북한에는 2개의 유네스코 세계유산이 있는데, 첫 번째가 2004년에 지정된 ‘고구려 고분군’이고, 두 번째가 2013년에 지정된 ‘개성의 역사 기념물과 유적’이에요. 동명왕릉은 ‘고구려 고분군’에 속한 약 30개의 무덤 중 하나랍니다.",
+      "est_speech_ms": 66000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "안학궁터와 대성산성",
+      "narration": "안학궁터와 대성산성\n475년 고구려 장수왕이 수도를 국내성에서 평양으로 옮겼을 때 궁궐이었던 안학궁은 우리 역사에서 가장 큰 궁궐로 알려져 있어요.\n궁궐 전체는 마름모꼴로 한 변이 622m, 전체 둘레는 2,488m로 조선시대 첫 번째 궁궐로 꼽히는 경복궁보다 넓었어요.\n특히 안학궁터 발굴 조사에 따르면 안학궁에서 왕이 업무를 보던 중궁 1호 궁전은 전면 길이는 87m로 경복궁의 근정전보다 두 배 이상 큰 규모였어요. 안학궁은 567년 평원왕 때 장안성(평양성)으로 성을 옮길 때까지 왕이 거주하던 궁성으로 사용되었는데, 현재는 궁터만 남아있어요.",
+      "est_speech_ms": 45300,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "안학궁터와 안학궁 복원 모형"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_032.jpg",
+          "caption": "안학궁터와 안학궁 복원 모형",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "안학궁터와 대성산성",
+      "narration": "고구려는 주변 나라의 침략에 대비한 방어 체제가 독특했어요. 평소에는 평지성에서 생활을 하다가 전쟁이 나면 평지성 옆에 있는 산성으로 주민들을 대피시키고 이곳에서 침략 세력에 맞서 장기전을 하였어요.\n이처럼 고구려는 평지성-산성을 짝을 지어 방어 체제를 만들었지요. 평양 천도 후에도 이러한 체제는 계속 유지되었어요. 평소에는 안학궁에서 생활하다가 외적이 침입해 오면 맞서 싸우기 위해 옆에 대성산성을 쌓았어요.",
+      "est_speech_ms": 34400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "평양의 문화유적",
+        "대성산성 성벽(평양직할시 대성구역), 동북아역사재단"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_037.jpg",
+          "caption": "평양의 문화유적",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_043.jpg",
+          "caption": "대성산성 성벽(평양직할시 대성구역), 동북아역사재단",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "평양성의 정문 역할을 한 대동문",
+      "narration": "평양성의 정문 역할을 한대동문\n국립문화유산연구원, 동북아역사재단\n고구려는 6세기 양원왕 때 군사적으로 방어에 훨씬 더 유리한 지형에 새로운 도성을 건설하기 시작했어요. 약 30년의 공사 끝에 기존 안학궁에서 남서쪽으로 약 8km 떨어진 장안성으로 새로 도성을 옮겼어요. 이 장안성이 바로 고구려의 마지막 도성으로 현재 평양성이라 불리는 곳이에요.\n대동문은 현재 평양시 대동문동에 있는데, 대동강변에 위치해서 붙여진 이름이에요. 고구려 평양성의 동쪽에 있는 문으로 대동강 남쪽을 연결하는 주요한 교통로였기 때문에 평양성의 여러 성문 가운데 가장 중요하게 여겨졌어요.",
+      "est_speech_ms": 47400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대동문과 조선 시대 그림 속의 대동문"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_047.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_048.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "평양성의 정문 역할을 한 대동문",
+      "narration": "대동문 누각에는 ‘읍호루(揖灝樓)’라고 씌어 있는 현판이 붙어 있는데, ‘문의 누각에서 손을 내밀어 대동강의 맑은 물을 떠올린다.’라는 뜻을 갖고 있어요. 주변 경치와 어울리는 멋진 이름이지요. 하지만 현판의 멋진 뜻과는 달리 대동문은 여러 차례 전쟁으로 인해 불타는 아픔을 겪었어요.\n고려 시대 거란의 침입으로 불탔다가 다시 지어졌고, 조선시대 병자호란 때에도 불탔어요. 그래서 지금의 문은 조선 후기 인조 때 다시 지어진 것 이에요. 이 뿐만이 아니었어요. 6ㆍ25 전쟁 때 폭격을 맞아 허물어졌는 데, 그 이후에 보수 공사를 해서 지금에 이르고 있어요.",
+      "est_speech_ms": 43600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "평양성의 정문 역할을 한 대동문",
+      "narration": "고려 시대 기록에 따르면 문 앞에 반원 형태의 옹성이 있었다고 하는데, 현재는 남아 있지 않아요. 다시 지어질 때 생략된 것이지요. 조선 시대에 그려진 ‘평양성도’ 그림에서는 옹성이 갖춰진 형태의 대동문을 볼 수 있어요.",
+      "est_speech_ms": 17200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "양성의 서쪽에 있는 보통문",
+      "narration": "양성의 서쪽에 있는 보통문\n보통문은 대동문과 함께 옛 평양성을 지키던 문이었는데, 건립 초기의 모습을 엿볼 수 있는 오래된 성문 중 하나에요. 대동강변에 있어서 대동문이 라고 불린 것처럼 보통문도 보통강가에 있어서 붙여진 이름이에요.\n보통강은 평양 시내를 가로지르는 강으로 대동강으로 흘러들어가는 작은 강(지류)이에요.\n지금의 성문은 조선 전기인 1473년 고쳐 지은 것인데, 평양성 서북쪽 방향으로 통하는 관문으로서 국방상ㆍ교통상 중요한 위치에 있어서 고구려 시대부터 조선시대에 이르기까지 매우 중요시되었어요.",
+      "est_speech_ms": 42800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "보통문(국립문화유산연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_059.jpg",
+          "caption": "보통문(국립문화유산연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "양성의 서쪽에 있는 보통문",
+      "narration": "보통문은 고려 시대 건축 양식을 보여주고 있어요. 그 이유는 조선시대 이후 여러 차례의 전쟁을 거치면서도 불타지 않고 기존 모습을 유지한 덕분이지요.\n보통문은 광덕문으로도 불리거나 아침해를 다시 본다는 뜻을 지닌 ‘우양관 (又陽關)’이라는 별명도 있었어요. 또 조선시대에는 ‘신문(神門)’, 즉 귀신 같은 문이라고도 불렸대요.\n왜냐하면 임진왜란 당시 조선과 명의 연합군이 왜군으로부터 평양성을 되찾기 위한 전투를 벌일 때 불화살이 문에 어지러울 정도로 날았으나 끝내 불에 타지 않아서 그때부터 사람들이 귀신같은 문이라고 불렀다는 이야기가 전해 와요. 이뿐만이 아니었어요.",
+      "est_speech_ms": 46400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "양성의 서쪽에 있는 보통문",
+      "narration": "6•25 전쟁 때 심하게 폭격을 당한 평양에서 전쟁이 끝났을 때 시내에 온전한 건물이 딱 두 채뿐이었는데, 하나가 은행 건물이고 나머지 하나가 바로 이 보통문이었다고 해요. 정말 귀신같은 문이라고 할 수 있겠죠?",
+      "est_speech_ms": 16800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "평양 최고의 경치를 볼 수 있는 을밀대",
+      "narration": "평양 최고의 경치를 볼 수 있는 을밀대\n현재 평양시 중구역 금수산을밀봉 지역에 있는 을밀대는 6세기에 장안성 (평양성)이 지어질 때 함께 지어진 정자랍니다. 을밀대는 언덕 벼랑 위에 지어졌는데, 11m 정도 높이의 돌로 쌓은 축대가 정자를 견고히 받치고 있어요.\n현재의 건물은 조선 후기 숙종 때 축대를 보수하면서 고쳐 지은 것이지만, 경사면을 정리하여 돌로 석축을 쌓고 그 안쪽을 흙과 돌로 채워 넣는 고구려성의 특징을 볼 수 있답니다.\n을밀대라는 이름의 유래는 다양해요. 을밀이라는 이름을 가진 선녀가 이 곳의 아름다운 경치에 반해 하늘에서 내려와 놀았다는 설화가 있고, 또 다른 설화에 따르면 6세기 무렵 고구려 을지문덕 장군의 아들인 을밀 장군이 이곳을 지키며 싸웠다는 이야기가 있어요.",
+      "est_speech_ms": 55900,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "을밀대(국립문화유산연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_072.jpg",
+          "caption": "을밀대(국립문화유산연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": "평양 최고의 경치를 볼 수 있는 을밀대",
+      "narration": "아직까지 확실한 이름의 유래는 알려진 바 없지요. 을밀대가 유명한 것은 그곳에서 바라보는 평양의 경치가 정말 아름답기 때문이에요. 그래서 예부터 ‘평양 8경(평양의 아름다운 경치 여덟 가지)’의 하나로 꼽히는 곳이었지요.\n그중에서도 우리 조상들은 을밀대의 봄 풍경을 평양 8경 중 으뜸으로 쳤다고 해요. 봄날을밀대에 오르면 대동강가의 풍경은 물론 평양의 넓은 평야와 주변의 봉우리에 만발한 꽃을 한눈에 볼 수 있지요.",
+      "est_speech_ms": 33800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 5,
+      "section_title": "평양 최고의 경치를 볼 수 있는 을밀대",
+      "narration": "역사 속 작은 이야기: 강주룡은 을밀대에 왜 올라갔을까?\n평양이라고 하면 고구려의 수도로서 평양성을 비롯해 대동문, 보통문, 을 밀대 등 여러 문화유산이 떠오르지요. 그렇지만 문화유산뿐만 아니라 우리가 기억해야 할 인물이 있어요. 바로 강주룡이라는 여성인데, 일제 강점기에 노동자 탄압에 맞서 싸웠던 인물이에요.\n1901년 평안북도 강계에서 태어난 강주룡은 14세 때 가난에 쫓겨 가족과 함께 서간도로 이주했어요. 이후 결혼을 했지만 남편이 독립군 활동을 하다가 세상을 떠나면서 국내로 돌아왔어요. 강주룡은 부모 형제의 생계를 위해 평양의 고무 공장에서 일하였는데, 어느 날 갑자기 공장 사장이 공장 노동자들의 임금을 깎겠다고 일방적으로 통보했어요.",
+      "est_speech_ms": 53600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "을밀대(국립문화유산연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_083.jpg",
+          "caption": "을밀대(국립문화유산연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 16,
+      "section_index": 5,
+      "section_title": "평양 최고의 경치를 볼 수 있는 을밀대",
+      "narration": "그래서 강주룡은 동료들과 함께 사장의 부당한 행위를 반대하며 일을 그만두고 항의하는 파업 시위를 했어요. 그러자 공장 사장은 일본 경찰을 동원해 이들을 쫓아냈어요.\n“평원고무공장 사장이 이 앞에 와서 임금을 내리겠다는 선언을 취소하기 전까지 결코 내려가지 않겠습니다.”",
+      "est_speech_ms": 22200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 17,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "1931년 5월 29일 아침, 평양의 대표 유적지인 을밀대 지붕 위에서 한 여성이 소리쳤어요. 바로 강주룡이었어요. 그녀는 공장 사장의 부당한 행위를 여러 사람들에게 알리고 도움을 요청하기 위해 12m나 되는 높은 을밀대 지붕까지 올라갔던 것이죠.\n목이 터져라 노동자의 권리를 지켜달라는 그녀의 외침도 결국 9시간 만 에 끝나게 되었어요. 일본 경찰에 의해 끌려 내려오고 말았지요.\n비록 을밀대 지붕 위에서의 저항 운동은 일본 경찰에 의해 중단되었지만 그녀는 결코 멈추지 않았어요. 계속해서 단식을 이어나가며 임금 깎은 것 을 되돌릴 것을 요구했지요.\n며칠 뒤 그녀는 건강이 악화되어서 풀려났지만, 몇 달 만에 사망했어요. 비록 그녀의 노력은 당장은 성공하지 못했지만 그녀의 외침은 큰 울림이 되어 이후의 노동 운동에 큰 영향을 미쳤어요.",
+      "est_speech_ms": 59900,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/ac0b5ce87896c59c/fig_097.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

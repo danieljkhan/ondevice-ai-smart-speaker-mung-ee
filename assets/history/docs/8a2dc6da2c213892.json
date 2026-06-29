@@ -1,0 +1,350 @@
+{
+  "schema_version": 2,
+  "doc_hash": "8a2dc6da2c213892",
+  "source_file": "eh_r0210_0010.pdf",
+  "title": "나라와 백성의 안녕을 기원한 종묘와 사직",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 15,
+  "section_count": 5,
+  "image_count": 9,
+  "est_total_ms": 596100,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "종묘 정전(서울 종로구), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "조선, 종묘와 사직을 세우다",
+      "scene_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "image_captions": [
+        "『동국여도』의 도성도의 일부(서울대학교 규장각한국학연구원)",
+        "『종묘친제규제도설병풍』 중 오향친제반차도 :\n임금이 종묘에서 제사를 지내는 모습(국립고궁박물관)",
+        "종묘 제례를 재현하는 모습(문화유산채널)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "사직단과 환구단 모형(문화재청, 서울역사박물관)",
+        "종묘와 사직의 신로"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": null,
+      "scene_indices": [
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "종묘 정전의 모습(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "역사 속 작은 이야기: 조선의 운명과 함께 한 종묘",
+      "scene_indices": [
+        12,
+        13,
+        14
+      ],
+      "scene_seq": [
+        13,
+        14,
+        15
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "나라와 백성의 안녕을 기원한 종묘와 사직\n“도성의 남쪽에 큰불이 나 많은 집이 불타고 있다하옵니다.”\n“뭣이라! 돈과 식량이 있는 창고는 구하지 못하더라도, 종묘와 창덕궁은 온 힘을 다하여 구하도록 하라.”\n세종 때 조선의 도읍 한성(한양)에서 큰 화재가 일어났어요.\n많은 백성이 목숨을 잃었고 민가 2천여 채가 불에 타 없어졌어요. 큰 화재로 인한 위기 속에서 소헌왕후는 종묘를 가장 먼저 지키라고 명령했어요.\n조선 왕실이 도성의 무엇보다 가장 중요하게 여긴 종묘는 어떤 곳일까요? 종묘를 중요시한 까닭은 무엇일까요?",
+      "est_speech_ms": 41000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "종묘 정전(서울 종로구), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a2dc6da2c213892/fig_001.jpg",
+          "caption": "종묘 정전(서울 종로구), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "조선, 종묘와 사직을 세우다",
+      "narration": "조선, 종묘와 사직을 세우다\n고려를 멸망시키고 조선을 세운 태조 이성계는 도읍을 옮기고 싶었어요.\n한반도의 가운데 한강을 품은 한성이 이성계의 눈에 쏙 들어왔는데요.\n이성계는 새로운 수도를 건설하면서 종묘와 사직을 제일 먼저 만들었어요.\n경복궁을 중심으로 서쪽에는 사직을, 동쪽에는 종묘를 배치했어요.\n사직은 땅의 신(사社)과 곡식의 신(직稷)에게 제사를 지내는 제단이에요.\n농업을 국가의 근본이라고 여겼던 조선에서 땅과 곡식의 신에게 제사를 지내며 풍년을 기원하는 것은 매우 중요한 일이었어요.\n오랜 가뭄이 들어 백성들이 힘든 생활을 하면, 사직단에서 비를 간청하는 기우제를 올리기도 했어요.",
+      "est_speech_ms": 48800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "『동국여도』의 도성도의 일부(서울대학교 규장각한국학연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a2dc6da2c213892/fig_015.jpg",
+          "caption": "『동국여도』의 도성도의 일부(서울대학교 규장각한국학연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "조선, 종묘와 사직을 세우다",
+      "narration": "옛 사람들은 사람이 죽으면 귀신이 되고, 귀신도 사람처럼 먹고 마시며 잠을 잔다고 믿었어요. 그래서 귀신이 생활하는 집을 짓고 음식을 차려 주었는데, 조상신을 모신 집을 사당이라 불렀어요.\n조선시대 양반가에서는 집집마다 사당을 지어 조상신을 모셨어요.\n종묘는 왕실의 조상신을 모신 사당이에요. 종묘에서는 매년 계절마다 조상의 이름을 쓴 나무 조각(위패, 신주)을 모시고 제사를 지냈어요.",
+      "est_speech_ms": 31400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "조선, 종묘와 사직을 세우다",
+      "narration": "왕비를 뽑거나 세자를 결정하는 등 왕실의 중요한 일이 생겨도 종묘에 가서 조상신에게 알리고 좋은 일이 계속되기를 기원했어요. 왕실 사람에게 큰 병이 나거나 나쁜 일이 생겨도 종묘를 찾았지요.\n조상신의 도움으로 어려움을 해결할 수 있다고 믿었던 거예요.\n조선은 불교를 배척하고, 유교를 중요하게 여겼던 나라였어요. 유교에서는 하늘과 땅을 공경하고, 조상과 부모를 정성을 다해서 섬기라고 강조했어요.\n그래서 도성을 만들 때도 유교의 원리에 따라 종묘와 사직을 제일 먼저 만든 것 이에요. 종묘와 사직은 조선이 유교 국가임을 나타내는 대표적인 건물이었어요. 종묘는 동양의 파르테논이라고 불릴 정도로 가치가 큰 건축물이예요.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "『종묘친제규제도설병풍』 중 오향친제반차도 :\n임금이 종묘에서 제사를 지내는 모습(국립고궁박물관)",
+        "종묘 제례를 재현하는 모습(문화유산채널)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a2dc6da2c213892/fig_027.jpg",
+          "caption": "『종묘친제규제도설병풍』 중 오향친제반차도 :\n임금이 종묘에서 제사를 지내는 모습(국립고궁박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/8a2dc6da2c213892/fig_032.jpg",
+          "caption": "종묘 제례를 재현하는 모습(문화유산채널)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "조선, 종묘와 사직을 세우다",
+      "narration": "파르테논은 그리스 아테네의 아크로폴리스에 있는 신전이지요. 종묘는 조선의 국왕들이 신처럼 모셔져 있는 곳이랍니다. 1995년에는 유네스코 세계유산에 등재되어 전 세계에서 그 가치를 인정받고 있어요.",
+      "est_speech_ms": 17000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/8a2dc6da2c213892/fig_041.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "사직의 제단은 왜 두 개일까?\n‘하늘은 둥글고 땅은 네모나다’는 옛 사람들의 생각에 따라 땅에 제사를 지내는 사직의 제단은 네모 모양으로 만들었어요. 훗날 대한제국 시기 하늘에 제사를 지내기 위해 덕수궁 가까이에 쌓은 환구단은 둥근 모양으로 제단을 만들었죠.\n사직은 토지의 신에게만 제사를 지내던 곳은 아니었어요. 땅에서 자라나는 곡식의 신에게도 제사를 지냈어요. 한 곳에서 두 신을 섬겨야 하니 제단도 두 개를 만든거죠.\n백성들이 평안하게 살기 위해서는 먼저 나라의 영토가 안정되고, 곡식이 잘 자라 먹을거리가 풍부해야 했어요. 임금들은 사직에서 토지와 곡식의 신에게 제사를 올리며 매년 풍년이 들어 백성들이 평안하기를 기원했어요.",
+      "est_speech_ms": 51600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "사직단과 환구단 모형(문화재청, 서울역사박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a2dc6da2c213892/fig_043.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/8a2dc6da2c213892/fig_044.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "종묘와 사직의 길은 왜 3개로 나눠져 있을까?\n종묘와 사직은 유교에서 중요하게 받들었던 신들에게 제사를 지내던 신성한 장소였어요. 사람들은 제사를 지낼 때면 하늘과 땅의 신, 곡식의 신, 조상신들이 이곳으로 찾아온다고 믿었어요.",
+      "est_speech_ms": 18600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "종묘와 사직의 신로"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a2dc6da2c213892/fig_053.jpg",
+          "caption": "종묘와 사직의 신로",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "신이 온다면 당연히 신이 다닐 수 있는 길도 있어야겠지요. 가운데의 신이 다니는 길(신로神路)은 다른 길과 달리 조금 높게 만들었어요. 그리고 양쪽으로 각각 왕과 세자의 길을 만들었어요.\n신의 길은 왕도 함부로 밟지 않았어요. 왕과 세자는 신을 공경하는 마음으로 신의 길을 따라 발걸음을 옮겼어요.\n나란히 이어지던 신의 길과 왕의 길은 재궁에서 갈라져요. 재궁은 왕과 세자가 제사 전에 몸과 마음을 청결하게 준비하던 곳이었어요.\n왕은 제사 기간 동안 슬픈 일을 묻거나 듣지 않았고, 즐거운 행사를 열지도 않았어요.",
+      "est_speech_ms": 40800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "종묘 정전에 들어갈 수 있는 문은 세 개가 있어요.\n동문은 재궁을 통해 왕이 드나드는 문, 서문은 악공과 무용수들이 드나드는 문, 그리고 남문은 오직 신만이 드나드는 문이었어요. 그래서 남문을 통해 정전으로 곧게 뻗은 신의 길은 네모반듯한 검은 돌로 만들었어요.\n신을 위한 길과 문이 따로 있을 정도로 종묘는 신에 대한 최고의 예를 다해 만들었어요.\n제사에 참여하는 모든 사람들이 지켜야할 예의규범도 있었어요.\n제사가 있는 일주일 동안은 가까운 사람이 죽어도 상가에 갈 수 없었고, 아픈 사람에게 문병을 갈 수도 없었어요. 잔치도 열지 못했고, 술이나 매운 음식을 먹지 않았어요. 죄인을 처벌하는 것도 멈추는 등 더럽고 부정한 일을 멀리했어요.",
+      "est_speech_ms": 51200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "제사 3일 전부터는 오직 제사와 관련된 일만 할 수 있었어요.\n종묘로 가는 길을 따라 걸으며 신에 대한 최고의 예를 다했던 옛 조상들의 마음가짐을 생각해 보아요.\n종묘 정전은 왜 길게 만들었을까?\n종묘에는 여러 건물이 있지만 그중에 돌아가신 왕과 왕비의 위패를 모신 정전(正殿)이 가장 중요한 건물이에요.",
+      "est_speech_ms": 24200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "수평으로 길게 뻗은 정전은 우리나라 목조 건축물로는 가장 길어요. 정전은 울긋불긋한 단청 대신에 붉은색 위주로 칠해져 있어요.\n화려한 장식도 거의 사용하지 않고 단순하게 만들었지만, 길게 뻗은 정전 앞에 서면 엄숙하고 웅장한 분위기를 느낄 수 있어요.\n정전이 처음부터 길게 만들어진 것은 아니에요. 태조 이성계는 종묘 정전을 유교의 원칙에 따라 5명의 조상신을 모실 수 있게 7칸으로 만들었어요.\n왕이 죽고 새로 위패를 정전에 모시게 되면 조선을 건국한 태조 이성계를 제외한 가장 오래된 조상의 위패는 땅에 묻거나 정전 옆의 영녕전으로 옮겨야 했어요. 그러나 경우에 따라 공덕이 높았던 왕의 위패는 영녕전으로 옮기지 않고 정전에서 계속 모실 수 있었어요.",
+      "est_speech_ms": 53200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "종묘 정전의 모습(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/8a2dc6da2c213892/fig_073.jpg",
+          "caption": "종묘 정전의 모습(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "시간이 지나면서 정전에 영원히 모셔야 할 왕의 숫자는 점점 늘어났지요.\n늘어나는 왕의 위패를 모시기 위해 광해군과 영조는 정전을 각각 4칸씩 연장해서 지었어요. 헌종 때 4칸을 더 지으면서 지금의 19칸 정전이 완성되었어요. 조선의 왕은 모두 27명이 있었는데요, 그중 공덕이 높은 19명의 왕과 그의 왕비들은 정전에 모셔져 있어요.\n이렇게 기존의 건물을 늘려 이어짓는 방식은 우리나라 건축물 중에서 찾아보기 힘든 독특한 방식이에요.\n정전의 기둥들을 잘 살펴보면 서로 조금씩 달라요.\n서쪽에 있는 건물이 나중에 지은 것이라 동쪽의 기둥보다 더 새것임을 알 수 있을 거예요.",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 4,
+      "section_title": "역사 속 작은 이야기: 조선의 운명과 함께 한 종묘",
+      "narration": "역사 속 작은 이야기: 조선의 운명과 함께 한 종묘\n1592년, 일본이 조선을 침략했어요. 일본군의 빠른 진격에 선조는 한성을 버리고 북쪽으로 피난을 떠났어요. 피난길에 오르면서 선조가 가장 먼저 챙긴 것은 종묘에 모셨던 선왕들의 신주(위패)였어요.\n선조가 피난을 가고 보름 만에 한성은 일본군이 차지하고 말았어요. 한성을 점령한 일본군은 궁궐이 모두 불타버리고 머물 곳이 마땅치 않자 종묘에 거처를 마련했어요.\n그런데 이때 종묘에 머물던 일본군에게 이상한 일이 벌어졌어요. 밤마다 정전 안에서 괴이한 일이 많이 생기고, 죽는 병사들도 생겨난 것이에요.",
+      "est_speech_ms": 44800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 4,
+      "section_title": "역사 속 작은 이야기: 조선의 운명과 함께 한 종묘",
+      "narration": "“여기가 어디길래 해괴한 일이 계속 일어난다 말인가?”\n“이곳은 종묘입니다. 조선 왕들의 혼을 모신 곳이지요.”\n이 말을 들은 일본군 대장은 두려움이 앞섰어요.\n게다가 조선을 지켜온 왕들의 혼이 담긴 곳이라면 그대로 남겨둘 수가 없었어요. 일본군 대장은 거처를 옮기면서 종묘를 모두 불태우게 했어요.\n이 이야기는 조선왕조실록에 기록되어 있어요. 갑자기 죽는 병사들이 있었다는 이야기를 그대로 믿기 힘들지만 분명한 점은 임진왜란 때 일본군에 의해 종묘가 불탔다는 것이예요. 신주는 간신히 지켜냈지만, 종묘는 전쟁으로 큰 화를 입고 말았어요.",
+      "est_speech_ms": 43400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 4,
+      "section_title": "역사 속 작은 이야기: 조선의 운명과 함께 한 종묘",
+      "narration": "‘신줏단지 모시듯한다’는 말을 들어본 적이 있나요?\n신줏단지는 신주를 모신 항아리를 말해요. 유교를 믿던 조선에서 종묘사직과 신주는 전쟁 속에서도 목숨을 걸고 지켜야 할 정도로 중요했어요.\n현재를 살고 있는 우리가 목숨을 걸고 지켜야 할 것은 무엇일까요?\n그것을 지키기 위해 어떤 일을 하고 있는지 생각해 보아요.",
+      "est_speech_ms": 25200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

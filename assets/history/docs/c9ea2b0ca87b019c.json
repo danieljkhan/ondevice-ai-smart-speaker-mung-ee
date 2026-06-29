@@ -1,0 +1,504 @@
+{
+  "schema_version": 2,
+  "doc_hash": "c9ea2b0ca87b019c",
+  "source_file": "eh_r0120_0010.pdf",
+  "title": "고구려 문화를 계승한 발해 문화",
+  "kind": "artifact",
+  "era": "통일신라·발해",
+  "era_source": "keyword",
+  "scene_count": 21,
+  "section_count": 7,
+  "image_count": 14,
+  "est_total_ms": 795100,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "발해의 문화",
+      "scene_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "국립중앙박물관 내부(서울 용산구)",
+        "상경성 터 항공사진(동북아역사재단)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "발해의 온돌 유적",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "발해 온돌 터(연해주 크라스키노 성터 유적), 동북아역사재단"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "발해 치미",
+      "scene_indices": [
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "발해 치미(국립중앙박물관)",
+        "발해 수막새와 고구려 수막새(국립중앙박물관)",
+        "귀면와(중국 헤이룽장성 닝안 출토), 국립중앙박물관"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "발해의 이불병좌상",
+      "scene_indices": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "scene_seq": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "image_captions": [
+        "이불병좌상(중국 지린성 훈춘 팔련성 출토), 국립중앙박물관"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "정혜 공주 묘와 정효 공주 묘",
+      "scene_indices": [
+        15,
+        16,
+        17
+      ],
+      "scene_seq": [
+        16,
+        17,
+        18
+      ],
+      "image_captions": [
+        "발해 석등(중국 헤이룽장성 닝안), 동북아역사재단",
+        "정혜 공주 묘(중국 지린성 돈화현 육정산), 동북아역사재단",
+        "정효 공주 묘의 내부 모습 상상도"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 발해의 유학",
+      "scene_indices": [
+        18,
+        19,
+        20
+      ],
+      "scene_seq": [
+        19,
+        20,
+        21
+      ],
+      "image_captions": [
+        "정효 공주 묘의 벽화(중국 지린성 허룽), 동북아역사재단",
+        "정효 공주 묘비(중국 지린성 룽터우 산 출토), 한국학중앙연구원"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "발해의 문화",
+      "narration": "고구려 문화를 계승한 발해 문화\n“먼 곳까지 오느라 수고 많았소. 발해는 나라가 세워진 뒤 이번에 처음 우리 일본에 사신을 보내왔소. 발해는 어떤 나라입니까?”\n“우리나라는 고구려의 영토를 회복하고 풍속을 이어받았습니다. 우리 국왕께서는 이웃 나라 일본과 친하게 지내길 희망하십니다.”\n발해는 일본에 사신을 보내 고구려를 계승한 나라임을 밝혔어요. 이처럼 주변 나라에 고구려를 계승했다고 당당히 밝힌 발해는 어떤 문화를 발전시켰을까요? 그들이 남긴 문화유산에는 어떤 것들이 있을까요?\n발해의 문화\n고구려 유민 출신인 대조영은 698년에 고구려 유민과 말갈인을 이끌고 발해를 세웠어요. 발해가 세워지면서 우리 역사는 남쪽의 신라와 북쪽의 발해가 함께 발전해가는 남북국의 형세를 이루었지요.",
+      "est_speech_ms": 56600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "국립중앙박물관 내부(서울 용산구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_001.jpg",
+          "caption": "국립중앙박물관 내부(서울 용산구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "발해의 문화",
+      "narration": "발해는 고구려 유민들이 중심이 되어 세워진 나라였어요. 그래서 발해 사람들은 자신들이 고구려를 계승했다는 의식을 지니고 있었어요. 발해의 무왕이 일본에 보낸 편지에도 고구려를 계승하고 풍속을 이어받았다는 내용이 들어 있지요.",
+      "est_speech_ms": 19000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "발해의 문화",
+      "narration": "이처럼 발해는 고구려의 전통을 이어받으면서도 중국의 당나라 문화도 받아들였어요. 또한 나라를 세우는 데 함께 힘을 보탠 말갈인들의 문화도 자연스럽게 섞이게 되었어요. 이렇게 해서 발해는 자신들의 독자적인 문화를 발전시키며 다채로운 모습을 보여 주었어요.\n현재 중국의 헤이룽장성 닝안은 발해의 수도였던 상경이 있던 곳이에요. 발해는 수도를 네 번 옮겼는데 그중 상경은 가장 오랜 기간 수도로서 번영한 곳이에요. 상경성은 당시 중국 당나라의 장안성과 같은 모양을 갖춘 계획도시였어요.\n현재 옛 상경성 자리에는 많은 궁궐 터와 사찰 터, 집터 그리고 다양한 유물의 자취가 남아 있어요. 이를 통해 발해의 문화를 짐작할 수 있어요.",
+      "est_speech_ms": 51000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 0,
+      "section_title": "발해의 문화",
+      "narration": "발해의 수도였던 상경성 유적의 궁궐 터에서 발견된 온돌 장치, 절터에서 나온 치미와 연꽃무늬 막새기와, 토기 등을 살펴보면 고구려 양식을 따랐음을 알 수 있어요. 또한 상경성 유적에서만 무려 10여 개의 대규모 절터가 발견되어서 당시 발해에서 불교가 널리 유행했음을 알 수 있어요.\n발해에서는 불교가 유행하면서 불교 미술이 발달하였어요.\n수도였던 상경성 유적과 동경성 유적에서는 절터와 함께 많은 불상이 발견되었어요. 또한 일부 지역에서는 탑과 석등을 볼 수 있지요.\n발해 불상에는 흙을 구워 만든 것이 많으며, 두 명의 부처가 나란히 앉아 있는 이불병좌상, 돌로 조각한 석불 등도 있어요.",
+      "est_speech_ms": 47600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "상경성 터 항공사진(동북아역사재단)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_017.jpg",
+          "caption": "상경성 터 항공사진(동북아역사재단)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "탑은 당의 양식을 따라 벽돌로 만들었는데 그중에는 무덤 위에 세운 것도 있어 발해만의 특색을 보여 주고 있지요.\n한편, 절에 세운 석등은 높이가 6m에 이를 만큼 웅장하여 발해인의 기상을 엿볼 수 있답니다.",
+      "est_speech_ms": 16300,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "발해는 불교 외에 유교 문화도 발달했어요.\n유학을 가르치는 교육 기관으로 주자감을 설치하기도 하였고, 당나라로 유학을 간 학생들이 당나라에서 빈공과라고 불리는 외국인을 위한 과거 시험에도 많이 합격했어요. 그중에는 신라 유학생들과 1등 자리를 다투기도 했어요.\n한편, 발해의 무덤은 대개 고구려 양식으로 만든 것이 많으며, 당나라 양식을 따른 것도 발견되었어요.\n발해의 정혜 공주 무덤은 고구려 무덤 양식을 계승한 굴식 돌방무덤이에요. 정혜 공주 무덤보다 늦게 만들어진 정효공주 무덤은 당나라 양식을 따른 벽돌무덤으로, 무덤 안에 그려진 벽화도 당나라의 영향을 받은 그림으로 알려져 있어요.\n이제부터 발해의 주요 문화유산을 살펴보면서 어떤 특징이 있는지 알아볼까요?",
+      "est_speech_ms": 55000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_031.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "발해의 온돌 유적",
+      "narration": "발해의 온돌 유적\n오늘날 연해주 크리스키노 성터 유적은 발해의 영토였던 곳인데, 이곳에 서 발해의 온돌 터가 발견되어서 발해가 고구려의 생활 문화를 계승했다는 것을 알 수 있게 되었어요.\n온돌이란 아궁이에 불을 때서 그 열기로 방바닥인 구들을 데우는 우리나라 고유의 난방 방식이에요.\n김치의 영문 표기 방식인 ‘kimchi’와 함께 세계 유명 사전에 ‘ondol’이라는 명칭이 그대로 올라가 있을 정도로 우리 문화의 독창성을 자랑하지요.\n온돌은 일찍부터 우리 민족이 한반도 북부와 만주 지역의 매서운 추위를 이겨 내기 위해 개발한 것이에요. 온돌은 점차 남쪽 지역으로 퍼져 나가 고려 시대에는 전국적으로 사용된 것으로 짐작돼요.",
+      "est_speech_ms": 50100,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "발해의 온돌 유적",
+      "narration": "고구려와 발해의 여러 건물 유적에서 발견되는 온돌 장치는 방 전체가 아닌 일부에만 ‘ㄱ’자나 ‘ㄷ’자, ‘一’자 모양으로 온돌을 놓은 것들이에요.\n이 방식이 개선되어 조선시대에는 방 전체에 온돌을 깔았지요. 이러한 온돌 문화는 우리 민족의 고유한 풍속으로 오늘날에도 이어지고 있답니다.",
+      "est_speech_ms": 22200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "발해 온돌 터(연해주 크라스키노 성터 유적), 동북아역사재단"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_040.jpg",
+          "caption": "발해 온돌 터(연해주 크라스키노 성터 유적), 동북아역사재단",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "발해 치미",
+      "narration": "발해 치미\n솔개의 꼬리 모양을 딴 치미는 지붕 꼭대기에 올려놓은 장식물로, 망새라고도 해요. 발해 상경성터에서 발견된 치미는 높이가 87센티미터이고 표면에 연한 초록빛이 나는 유약이 칠해져 있어요.\n고구려치미가 발해치미보다 두 배 남짓 크고 형태도 차이가 있지만, 기본적인 구조와 선의 흐름 등을 볼 때, 발해 치미는 고구려 치미의 영향을 받았음을 알 수 있어요.\n발해 기와\n왼쪽은 발해 기와(수막새)이고, 오른쪽은 고구려 기와(수막새)인데, 이 두 기와는 원주위에 꽃잎이 둘러싼 형태가 닮아 있어요. 이처럼 발해의 기와는 무늬가 뚜렷하고 힘 있는 고구려 양식을 계승했다고 할 수 있어요.",
+      "est_speech_ms": 47000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "발해 치미(국립중앙박물관)",
+        "발해 수막새와 고구려 수막새(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_047.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_053.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.25
+        },
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_054.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "발해 치미",
+      "narration": "한편 발해 기와의 무늬가 고구려 양식을 따랐다는 사실은, 건축물을 세운 장인(기술자)들이 고구려 출신이거나 고구려 후손들일 가능성이 높다는 사실을 말해주지요.\n또한 발해 지배층이나 불교 사찰의 승려 가운데 고구려 계통의 사람들이 꽤 많았다는 것도 짐작할 수 있게 해줘요. 발해 상경성 유적에서는 10곳의 사찰터가 확인되었는데, 이중 두 곳의 사찰 터에서 귀면와(도깨비 얼굴 모양의 기와)가 각각 8점씩 출토되었어요.",
+      "est_speech_ms": 34000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": "발해 치미",
+      "narration": "건물의 추녀마루를 장식하는 기와로 사용된 귀면와는 대략 길이 33~34㎝, 너비 31~37㎝, 높이 23~27㎝이에요.\n귀면와의 모양을 보면, 모두 커다란 눈망울을 부라린 채 입을 크게 벌려 기다란 혓바닥과 툭 튀어나온 이빨이 드러나 있어요. 코는 입 위에 뭉툭하게 드러나 있고, 귀는 커다란 고리처럼 표현되어 있지요.\n또한 뒤쪽으로 뿔처럼 생긴 갈기가 돋아 있어서 정말로 귀신이 얼씬거리지 못할 것 같은 사나운 모습이에요.\n또한 전면에 녹색, 녹갈색의 유약을 바르고, 눈에는 갈색, 눈동자에는 녹갈색, 이빨에는 황백색, 입술에는 녹색유약을 발라 더욱 생동감이 있어요.",
+      "est_speech_ms": 44800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "귀면와(중국 헤이룽장성 닝안 출토), 국립중앙박물관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_062.jpg",
+          "caption": "귀면와(중국 헤이룽장성 닝안 출토), 국립중앙박물관",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "발해의 이불병좌상",
+      "narration": "이러한 귀면와는 초자연적인 힘으로부터 건축물을 보호하려는 염원이 반영된 것으로 생각돼요.\n더불어 여러 가지 유약을 시유하여 도깨비기와를 제작했다는 점을 통해, 당시 발해 지배층이 사찰 건물을 화려하게 지었다는 것을 알 수 있지요.\n발해의 이불병좌상\n발해의 불교에 관한 기록은 거의 남아 있지 않아서 발해의 불교가 얼마나 발달했는지는 자세히 알 수 없어요.\n다만 수도였던 상경성 터에서 10여 곳의 절터가 발굴되었고, 발해의 주요 도시에 절터가 집중적으로 발견되고 있어서 당시 불교가 크게 유행했음을 짐작할 수 있어요.",
+      "est_speech_ms": 42800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 4,
+      "section_title": "발해의 이불병좌상",
+      "narration": "신라나 당나라 등 당시 가까이 있던 나라들과 마찬가지로 발해의 주된 종교는 불교였다고 할 수 있어요.\n지금까지 발견된 발해의 절터는 모두 40여 곳인데, 발해 절터 대부분이 통치의 중심지인 5경, 즉 수도였던 다섯 곳에 에 몰려 있어요.\n아마도 지배층의 종교가 불교였기 때문이겠지요.",
+      "est_speech_ms": 22800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 4,
+      "section_title": "발해의 이불병좌상",
+      "narration": "특히 발해 문왕은 불교를 널리 받아들였고, 자신을 ‘금륜성업대왕’이라고 높여 불렀어요. ‘금륜’은 금륜왕을 가리키는 것으로, 불교 세계에서 절대적인 왕을 가리키는 말이라고 해요.\n이처럼 발해 문왕은 부처님의 힘으로 이 세상을 통치하는 이상적인 나라를 꿈꿨다고 할 수 있지요.\n한때 발해의 수도 중 하나였던 동경용원부 지역은 오늘날에 중국의 훈춘시에 해당돼요. 이곳에서 발견된 이불병좌상을 통해 발해 불교를 엿볼 수 있어요.\n높이는 10.8cm로 작은 크기인데, 두 부처님이 나란히 앉아 있는 모습을 하고 있어요. 부처님을 표현한 방식이나 머리 뒤의 후광, 옷 모양 등에서 고구려의 특색이 나타나 있어요.",
+      "est_speech_ms": 48200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "이불병좌상(중국 지린성 훈춘 팔련성 출토), 국립중앙박물관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_079.jpg",
+          "caption": "이불병좌상(중국 지린성 훈춘 팔련성 출토), 국립중앙박물관",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 4,
+      "section_title": "발해의 이불병좌상",
+      "narration": "이 불상 역시 고구려 불상을 계승했다고 할 수 있지요.\n발해 석등\n발해 상경성 유적에서는 많은 절터가 확인되고 있어요.\n특히 이곳에서는 유례가 드물 정도로 거대한 석등이 남아 있어 발해 시기 융성하였던 사찰의 모습을 짐작하게 해주지요.",
+      "est_speech_ms": 19000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 16,
+      "section_index": 5,
+      "section_title": "정혜 공주 묘와 정효 공주 묘",
+      "narration": "발해 석등은 현재는 없어진 윗부분까지 포함하면 원래 높이는 6.3m나 되었을 것이라고 해요. 이는 광개토대왕릉비의 높이 6.39m와 거의 비슷해요. 정말 어마어마하게 크죠?\n석등의 높이를 통해 웅장한 발해 문화의 특징을 짐작할 수 있답니다.\n정혜 공주 묘와 정효공주묘\n발해의 제3대 국왕인 문왕(재위 737~793)에게는 원래 4명의 딸이 있었어요. 그 중 첫째 딸과 셋째 딸은 일찍 죽고, 둘째 딸인 정혜공주 (738~777)와 넷째 딸인 정효공주(757~792)의 묘가 발견되었어요.\n문왕 때 만들어진 두 공주의 무덤은 발해 문화의 특징을 알려주는 중요한 유적으로 평가받고 있어요.",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "발해 석등(중국 헤이룽장성 닝안), 동북아역사재단"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_092.jpg",
+          "caption": "발해 석등(중국 헤이룽장성 닝안), 동북아역사재단",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 17,
+      "section_index": 5,
+      "section_title": "정혜 공주 묘와 정효 공주 묘",
+      "narration": "묘지석과 함께 돌사자상이 출토된 정혜공주묘(둔화류딩산고분군)는 모줄임 천장 구조를 가진 고구려 양식의 굴식 돌방무덤으로 축조되어 있어서 발해 문화가 고구려 문화를 계승하였음을 짐작할 수 있지요.",
+      "est_speech_ms": 16600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정혜 공주 묘(중국 지린성 돈화현 육정산), 동북아역사재단"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_101.jpg",
+          "caption": "정혜 공주 묘(중국 지린성 돈화현 육정산), 동북아역사재단",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 18,
+      "section_index": 5,
+      "section_title": "정혜 공주 묘와 정효 공주 묘",
+      "narration": "한편, 묘지석이 나온 정효공주묘(허룽룽터우산고분군)는 정혜 공주 묘와는 달리 당의 영향을 받아 벽돌무덤 양식으로 축조되고 무덤 벽면에 인물 위주의 벽화가 그려졌어요.\n무덤의 벽화에는 모두 12명의 인물이 있는데, 얼굴에 건강미가 느껴져요. 공주를 시중들던 남장한 여성들도 보이는데, 이는 당시 당에서 유행하던 풍속이었어요.\n또한, 고구려와 당에서는 보기 드물게 무덤 위에 벽돌로 된 탑을 세운 것으로 확인되었어요.\n이는 발해가 고구려 문화를 잇고 중국 당나라 문화를 수용하면서도 발해 나름대로 독자적인 문화를 일구어 갔음을 보여 주는 사례이지요.",
+      "est_speech_ms": 45000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정효 공주 묘의 내부 모습 상상도"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_105.jpg",
+          "caption": "정효 공주 묘의 내부 모습 상상도",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 19,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 발해의 유학",
+      "narration": "역사 속 작은 이야기: 발해의 유학\n발해는 불교뿐만 아니라 유학도 발달하였어요. 나라를 다스릴 때 유학 사상을 반영하였고, 주자감이라는 유학 교육 기관을 세워 인재를 길러냈지요.\n당에 파견된 유학생 중에는 외국인을 위한 과거 시험인 빈공과에 합격한 사람들도 있었는데, 1등 자리를 놓고 신라 유학생과 경쟁을 벌인 일은 유명한 일화예요.",
+      "est_speech_ms": 27200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정효 공주 묘의 벽화(중국 지린성 허룽), 동북아역사재단"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_111.jpg",
+          "caption": "정효 공주 묘의 벽화(중국 지린성 허룽), 동북아역사재단",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 20,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 발해의 유학",
+      "narration": "또 정혜공주와 정효공주의 묘지석에 유학 경전의 내용이 인용될 정도였어요. 이뿐만이 아니라 일본 한시집에 남아 있는 발해 사신 양태사와 왕효렴의 시를 보면 발해의 한문학 수준을 짐작할 수 있어요.\n밤에 다듬이 소리를 듣다\n서리가 차가운 하늘에 달빛이 비치어 은하수 밝은 밤, 나그네는 고향으로 돌아갈 생각에 감회가 남다릅니다. 이 긴 밤을 조용히 앉아 있자니 수심에 애가 타는데, 홀연히 들려오는 것은 이웃 아낙네의 다듬이 소리\n고국 떠난 뒤로는 저 소리 들어보지 못했는데, 이제 타향에 있으면서 고향에서 듣는 것 같습니다. …… 멀리 가녀린 몸은 구슬 같은 땀에 젖어 가련하고, 이미 옥같이 고운 팔은 점점 지쳐 가고 있겠지요.",
+      "est_speech_ms": 49800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "정효 공주 묘비(중국 지린성 룽터우 산 출토), 한국학중앙연구원"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/c9ea2b0ca87b019c/fig_119.jpg",
+          "caption": "정효 공주 묘비(중국 지린성 룽터우 산 출토), 한국학중앙연구원",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 21,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 발해의 유학",
+      "narration": "위 글은 발해의 시인 양태사가 지은 한시에요. 양태사는 발해 문왕 때 일본에 사신으로 갔다가 이 시를 지었는데, 일본에서 편찬한 한시집인 경국집에 전하고 있어요. 귀국을 앞둔 어느 가을밤, 이웃에서 들려오는 다듬이 소리를 듣고 지은 시로 지은이의 고국에 대한 그리움이 느껴져요.\n- 경국집 -",
+      "est_speech_ms": 23000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

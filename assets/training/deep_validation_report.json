@@ -1,0 +1,36 @@
+{
+  "total_samples": 7710,
+  "B": {
+    "sample_count": 980,
+    "echo_samples": 0,
+    "echo_rate": 0.0
+  },
+  "D": {
+    "sample_count": 717,
+    "sad_context_samples": 129,
+    "emotion_keyword_mismatches": 9,
+    "mismatch_rate": 0.0698
+  },
+  "F": {
+    "sample_count": 2260,
+    "truncation_samples": 0,
+    "truncation_rate": 0.0,
+    "pattern_counts": {}
+  },
+  "H": {
+    "sample_count": 254,
+    "unique_user_inputs": 254,
+    "repeated_user_inputs": 0,
+    "avg_unique_responses_per_unique_user_input": 1.0,
+    "avg_unique_responses_per_repeated_user_input": 0.0,
+    "max_unique_responses_for_one_input": 1
+  },
+  "I": {
+    "sample_count": 210,
+    "unique_user_inputs": 210,
+    "repeated_user_inputs": 0,
+    "avg_unique_responses_per_unique_user_input": 1.0,
+    "avg_unique_responses_per_repeated_user_input": 0.0,
+    "max_unique_responses_for_one_input": 1
+  }
+}

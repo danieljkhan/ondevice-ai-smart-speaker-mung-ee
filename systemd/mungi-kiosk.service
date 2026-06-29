@@ -1,0 +1,19 @@
+[Unit]
+Description=Mungi touchscreen kiosk (Weston + animated character UI)
+After=seatd.service systemd-user-sessions.service
+Wants=seatd.service
+
+[Service]
+Type=simple
+User=mungi
+PAMName=login
+TTYPath=/dev/tty1
+Environment=MUNGI_REPO=/opt/mungi-repo
+ExecStartPre=+/opt/mungi-repo/scripts/mungi-ensure-display.sh
+ExecStart=/opt/mungi-repo/scripts/mungi-kiosk-start.sh
+Restart=on-failure
+RestartSec=5
+TimeoutStartSec=120
+
+[Install]
+WantedBy=multi-user.target

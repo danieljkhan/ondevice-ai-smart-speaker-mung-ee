@@ -1,0 +1,424 @@
+{
+  "schema_version": 2,
+  "doc_hash": "18a2628e48caaba1",
+  "source_file": "eh_r0061_0010.pdf",
+  "title": "일본에 전해진 삼국 및 가야의 문화",
+  "kind": "artifact",
+  "era": "삼국",
+  "era_source": "keyword",
+  "scene_count": 16,
+  "section_count": 6,
+  "image_count": 14,
+  "est_total_ms": 694600,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "금동미륵보살반가사유상(국보 제83호)과 고류사 목조미륵보살반가사유상"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "삼국 및 가야의 문화 교류",
+      "scene_indices": [
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "일본 호류사에 있는 백제 관음상(동북아역사재단)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "왜에 전해진 백제 문화",
+      "scene_indices": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "scene_seq": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "image_captions": [
+        "칠지도(일본 나라 이소노카미 신궁), 동북아역사재단",
+        "백제 정림사지 5층 석탑(충남 부여군)",
+        "일본 호류사 5층 목탑(동북아역사재단)"
+      ],
+      "is_infographic": true
+    },
+    {
+      "section_index": 3,
+      "section_title": "왜에 전해진 고구려 문화",
+      "scene_indices": [
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "고구려 수산리 고분 벽화(동북아역사재단)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "왜에 전해진 신라와 가야 문화",
+      "scene_indices": [
+        11,
+        12
+      ],
+      "scene_seq": [
+        12,
+        13
+      ],
+      "image_captions": [
+        "일본 다카마쓰 고분 벽화(동북아역사재단)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 삼국 시대 사람들이 주인공인 일본 축제",
+      "scene_indices": [
+        13,
+        14,
+        15
+      ],
+      "scene_seq": [
+        14,
+        15,
+        16
+      ],
+      "image_captions": [
+        "삼국 시대 금동 미륵보살 반가 사유상(문화재청)과\n일본 고류사 목조 미륵보살 반가 사유상(문화유산채널)",
+        "가야의 토기와 일본의 스에키 토기",
+        "시텐노사[四天王寺] 왓소(ワッソ) 축제 모습(문화체육관광부 해외문화홍보원)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "일본에 전해진 삼국 및 가야의 문화\n문화재청, 문화유산채널\n“우리 백제에서 유행하는 불교를 이웃하고 있는 왜(일본)에도 전하도록 하라.”\n“네. 폐하! 불상과 불경을 전해주어 왜인들도 불교를 믿을 수 있게 하겠습니다.”\n삼국 시대에 백제는 불상이나 절을 짓는 방법 등 다양한 불교 문화를 왜 (일본)에 전해주었어요.\n그래서 일본의 불교 문화 발전에 큰 도움을 주었지요. 고구려, 신라도 왜에 여러 문화를 전해주었어요. 삼국 시대에 삼국이 일본에 전해준 문화에는 어떤 것들이 있는지 살펴볼까요?",
+      "est_speech_ms": 38400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "금동미륵보살반가사유상(국보 제83호)과 고류사 목조미륵보살반가사유상"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_001.jpg",
+          "caption": "금동미륵보살반가사유상(국보 제83호)과 고류사 목조미륵보살반가사유상",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "삼국 및 가야의 문화 교류",
+      "narration": "삼국 및 가야의 문화 교류\n고구려, 백제, 신라의 삼국은 중국 및 서역과 교류하면서 문화를 발전시켰어요. 고구려는 지리적으로 가까운 중국 북조의 문화를 받아들였고, 바다를 통해 남조와도 교류하였어요. 또 중앙아시아의 여러 민족과도 활발히 교류하였지요.\n백제도 중국 동진을 비롯한 남조와 활발하게 교류하였어요. 신라는 초기에 고구려와 백제를 통해 중국 문화를 수용하였다가 한강 유역을 차지한 이후에는 중국과 직접 교류했어요. 가야도 바다를 통해 중국, 왜와 교류하면서 문화를 발전시켰어요.\n삼국은 나라의 발전을 위해 서로 경쟁 또는 협력하는 가운데 왜와도 관계를 맺었어요. 참, 당시에 일본은 ‘왜’라는 이름으로 불렸어요. 고구려, 백제, 신라 등이 왜와 교류하는 과정에서 중국과 삼국의 선진 문물이 일본으로 전해져 일본의 발전에 큰 영향을 끼쳤어요.",
+      "est_speech_ms": 60800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "삼국 및 가야의 문화 교류",
+      "narration": "특히 삼국 가운데 왜와 가장 친밀하게 지냈던 나라는 백제였어요. 그래서 백제가 여러 선진 문물을 일본에 전파하는 데 가장 큰 역할을 하였어요.\n백제는 불교 경전, 불상 등을 전해주는 것은 물론 제작 방법까지 알려주어 일본의 불교 문화 발전에 기여하였지요. 당시 왜에서는 ‘백제 가람’이라는 절 짓는 건축 양식이 유행할 정도였다고 해요.\n이 밖에 아직기, 왕인 같은 학자들이 왜로 건너가 한자와 유교 경전을 가르쳤고, 화가와 공예 기술자들도 왜에서 활동하였어요.",
+      "est_speech_ms": 36600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_017.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "삼국 및 가야의 문화 교류",
+      "narration": "백제의 불교와 미술이 일본에 전파된 것을 알 수 있다.\n고구려에서는 담징이 일본에 종이와 먹을 만드는 방법을 가르쳐 주었어요.\n고구려의 승려 혜자는 왜에서 당시 정치적 실권을 갖고 있던 쇼토쿠 태자의 스승이 되었어요. 쇼토쿠 태자는 일본의 불교 문화를 꽃피운 인물인데, 아무래도 스승이었던 혜자에게 큰 영향을 받았다고 할 수 있지요.\n신라에서는 배 만드는 기술과 제방 쌓는 기술을 왜에 전해주었어요.\n가야 또한 철로 만든 갑옷을 비롯하여 토기 제작 기술을 전하였어요. 이와 같이 삼국과 가야의 문화는 왜의 문화 발전에 큰 영향을 끼쳤지요.\n그러면 왜에 전해진 삼국 및 가야의 문화에는 어떠한 것들이 있는지 구체적으로 살펴볼까요?",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "일본 호류사에 있는 백제 관음상(동북아역사재단)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_021.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_033.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "왜에 전해진 백제 문화",
+      "narration": "왜에 전해진 백제 문화\n삼국은 중국과 서역 외에도 동쪽으로 이웃해 있던 왜, 즉 지금의 일본과 교류했어요. 우리 조상들은 삼국 시대 이전부터 새로운 생활 터전을 개척하기 위해 왜로 건너갔고, 그 이후에는 왜의 요청으로 학자와 승려, 기술자들이 많이 건너갔지요. 그래서 일본 고대 문화의 유적과 유물 중에 는 삼국의 영향을 받은 것들이 많답니다.\n칠지도는 4세기경 백제왕이 왜왕에게 보낸 것으로 추정되는 칼이에요.\n양쪽으로 뻗은 6개의 가지와 가운데 날을 합쳐 모두 7개의 갈래로 나뉘어 있어 칠지도라는 이름이 붙었어요. 길이 74.9cm의 칼 앞뒤 표면에는 62개의 글자가 새겨져 있는데, 주요 내용을 소개하면 다음과 같아요.",
+      "est_speech_ms": 50400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "칠지도(일본 나라 이소노카미 신궁), 동북아역사재단"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_035.jpg",
+          "caption": "칠지도(일본 나라 이소노카미 신궁), 동북아역사재단",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "왜에 전해진 백제 문화",
+      "narration": "“이전에는 이런 칼이 없었는데 백제왕의 어진 지시를 받들어 왜왕에게 만들어 주노니 후세에 길이 전하라.”\n당시 왜는 철기 문화 수준이 낮았기 때문에 백제의 철기 문화에 크게 의존하였어요. 백제에 온 왜의 사신이 돌아갈 때 쇳덩이 40개를 받았고, 그 후에도 백제가 칼과 거울을 왜에 보내 준 기록이 일본서기에 남아 있어요. 칠지도는 철을 매개로 하여 백제와 왜가 교류했다는 사실을 알려 주는 대표적인 유물이에요.\n또한 백제는 4세기에 아직기가 일본 태자에게 한자를 가르쳤고, 왕인은 “논어”와 “천자문”을 전하고 가르쳤어요. 6세기에는 노리사치계를 파견하여 불상과 불경을 전해주며 불교를 전파하였어요.",
+      "est_speech_ms": 48600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "왜에 전해진 백제 문화",
+      "narration": "일본에는 지금 남아 있는 건물 중 세계에서 가장 오래된 목조 건물인 호류사라는 절이 있어요.\n당시 7세기 초에 왜를 실질적으로 다스리던 쇼토쿠 태자가 지은 절인데, 백제와 고구려의 기술자들이 공사에 참여했다는 이야기가 전해지고 있어요. 그래서인지 백제의 정림사지 5층 석탑과 일본의 호류사 5층 석탑을 비교해 보면 재질과 규모는 다르지만 두 탑이 비슷한 모양이라는 것을 알 수 있어요.\n현재호류사에 있는 불상과 공예품 역시 대부분 백제의 기술자들이 만들었다고 전해져요. 일본이 자랑하는 백제관음상도 백제의 영향이 강한 불상이지요. 쇼토쿠 태자는 삼국과 중국의 불교 문화를 받아들여 일본에 아스카 문화라고 불리는 불교 문화를 꽃피웠어요.",
+      "est_speech_ms": 52800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "왜에 전해진 백제 문화",
+      "narration": "그런데, 백제는 왜 자신의 선진 문화를 왜에 전해주었을까요?\n백제가 왜에 각종 문화를 전한 것이 단지 은혜를 베푸는 차원은 아니었어요. 삼국이 서로 나뉘어 다투던 시기에 백제는 왜와 긴밀한 군사적 동맹 관계를 맺고 고구려와 신라에 대항하였지요.",
+      "est_speech_ms": 19800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "백제 정림사지 5층 석탑(충남 부여군)",
+        "일본 호류사 5층 목탑(동북아역사재단)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_053.jpg",
+          "caption": "백제 정림사지 5층 석탑(충남 부여군)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_058.jpg",
+          "caption": "일본 호류사 5층 목탑(동북아역사재단)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "왜에 전해진 고구려 문화",
+      "narration": "이때 왜는 백제가 어려울 때마다 대규모의 군대를 파견하여 도왔어요.\n어떤 이유에서 왜가 백제를 도왔을까요?\n왜가 큰 이득도 없는데 무작정 의리 때문에 백제와 군사적 동맹 관계를 맺지는 않았겠죠?\n즉, 당시 문화 전파의 배경에는 군사적 지원이 필요한 백제와 선진 문물을 받아들일 필요가 있는 왜의 계산이 깔려 있었다고 할 수 있어요.\n왜에 전해진 고구려 문화\n일본 나라 지역에는 고구려가 멸망한 이후인 7세기 말 또는 8세기 초에 만들어진 것으로 추정되는 다카마쓰고분이 있어요.\n이 고분의 벽에는 주름치마를 입은 여성들이 그려져 있어요.",
+      "est_speech_ms": 43400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 3,
+      "section_title": "왜에 전해진 고구려 문화",
+      "narration": "그런데, 허리에 띠를 맨 긴 저고리에 색동 주름치마를 입은 벽화 속 여인들의 모습은 고구려 수산리 고분의 벽화와 매우 비슷해요.\n수산리 고분은 5세기경에 만들어진 것으로 알려져 있어요. 이처럼 왜는 백제뿐 아니라 고구려 문화의 영향도 많이 받았다는 것을 알 수 있어요.\n삼국 시대에 왜로 건너가 문화를 전해준 사람 중에는 승려가 많았어요. 해박한 지식을 갖춘 지식인으로서 높은 수준의 문화를 전파하는 데 적임자였기 때문이지요. 왜로 건너간 삼국의 승려들은 왜 왕실의 융숭한 대접을 받았어요.\n7세기 초에 고구려 승려 담징은 왜에 종이와 먹, 물감, 맷돌을 만드는 방법을 알려 주었어요. 또한호류사라는 절의 금당 벽화는 고구려의 담징이 그렸다고 전하는데, 1949년 화재로 불에 탔으나 현재 일부 복원되어 있어요.",
+      "est_speech_ms": 57600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "고구려 수산리 고분 벽화(동북아역사재단)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_067.jpg",
+          "caption": "고구려 수산리 고분 벽화(동북아역사재단)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 3,
+      "section_title": "왜에 전해진 고구려 문화",
+      "narration": "고구려의 승려 혜자는 6세기 말에 왜로 건너가 요메이 국왕의 맏아들이자 왕위 계승 예정자인 쇼토쿠 태자의 스승이 되었어요.",
+      "est_speech_ms": 10200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 4,
+      "section_title": "왜에 전해진 신라와 가야 문화",
+      "narration": "당시 불교는 동아시아 문화권을 형성하는 중요한 문화적 매개체였기 때문에 쇼토쿠 태자는 혜자에게 불교의 깊은 진리를 배우고자했던 것으로 짐작돼요.\n이 무렵 백제의 혜총도 일본으로 건너가 혜자와 마찬가지로 쇼토쿠 태자의 스승이 되었어요. 혜자와 혜총, 두승려는 쇼토쿠태자가 세운호코사라는 절에 머무르면서 왜의 불교 발전에 큰 역할을 하였어요.\n왜에 전해진 신라와 가야 문화\n신라는 고구려나 백제에 비해 왜와 문화를 교류한 흔적이 많지 않아요. 백제와 아주 친하게 지냈던 왜의 입장에서는 백제와 적대적인 관계에 있던 신라를 대하기가 껄끄러웠을 거예요. 그러나 신라도 배 만드는 기술과 저수지 쌓는 기술 등을 왜에 전해 주었답니다.",
+      "est_speech_ms": 51800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "일본 다카마쓰 고분 벽화(동북아역사재단)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_076.jpg",
+          "caption": "일본 다카마쓰 고분 벽화(동북아역사재단)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 4,
+      "section_title": "왜에 전해진 신라와 가야 문화",
+      "narration": "한편, 우리나라의 국립중앙박물관에는 금동 미륵보살 반가사유상이 있어요. 일본의 국보 1호인 고류사 목조 미륵보살 반가사유상과 생김새가 매우 비슷한 것으로도 유명하죠. 그런데 우리나라의 금동 미륵보살 반가사유상은 어느 나라에서 만든 것인지 확실히 알 수가 없어요.\n그렇지만 역사학자들은 금동 미륵보살 반가사유상이 신라 또는 백제에서 만들었을 것으로 추측하고 있어요.\n특히 일본의 목조 미륵보살 반가사유상이 있는 고류사가 신라계 사람에 의해 세워졌다는 점, 신라에서 온 불상을 고류사에 모셨다는 일본서기의 기록, 한국에서 많이 나는 적송(붉은빛을 띤 소나무)으로 만들어진 사실 등으로 보아 신라에서 만들었을 것으로 추측하고 있어요.",
+      "est_speech_ms": 52800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 삼국 시대 사람들이 주인공인 일본 축제",
+      "narration": "한편 모양이 섬세하고 치밀한 것이 특징인 일본의 토기스에키는 모양이나 제작 기법이 가야의 토기와 비슷해요.\n일본 고분에서 나오는 여러 가지 마구(말을 탈 때 필요한 도구)와 갑옷, 투구 등도 가야 고분에서 출토된 것과 아주 유사하지요.\n이처럼 가야도 삼국과 마찬가지로 왜에 여러 문화를 전해주었답니다.\n(한국교육학술정보원 에듀넷)\n역사 속 작은 이야기: 삼국 시대 사람들이 주인공인 일본 축제\n매년 11월, 일본의 오사카에서는 고대 한반도의 문화가 일본에 전해진 것을 기념하는 지역 축제가 열려요.\n이 축제의 이름은 ‘시텐노사〔四天王寺〕왓소(ワッソ) 축제’이지요. 이 행사는 고대 일본의 국제 교류를 기념하는 의미에서 매년 열리고 있어요.",
+      "est_speech_ms": 50600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "삼국 시대 금동 미륵보살 반가 사유상(문화재청)과\n일본 고류사 목조 미륵보살 반가 사유상(문화유산채널)",
+        "가야의 토기와 일본의 스에키 토기"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_088.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_089.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.1667
+        },
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_095.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.3333
+        },
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_096.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 삼국 시대 사람들이 주인공인 일본 축제",
+      "narration": "‘왓소’는 축제를 할 때 가마를 메고 ‘왓쇼이(ワッショイ)’라고 외치는 힘찬 구령에서 나온 것으로, 이 말의 어원은 한국어의 ‘왔소’라고 해요.\n이 축제는 수천 명의 행렬을 중심으로 이루어져요.",
+      "est_speech_ms": 13600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 16,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 삼국 시대 사람들이 주인공인 일본 축제",
+      "narration": "고구려의 승려 혜자를 선두로 하여 가야의 우륵, 백제의 왕인 등 삼국 시대에 왜로 건너와 선진 문화를 전해준 인물로 분장한 사람들이 시텐노 사라는 절까지 행진하지요.\n장대한 행렬은 쇼토쿠 태자를 비롯한 문무 대신 등 일본을 대표하는 인물로 분장한 사람들의 영접을 받으며 시텐노사에 도착하면 끝이 난답니다.\n이러한 것을 보면 삼국의 문화가 얼마나 많이 왜에 전해졌는지 짐작할 수 있지요. 혹시 여러분이 일본을 여행하게 되면 그 여행지에 한반도에서 건너온 문화가 있는지 살펴보는 것도 의미 있는 추억이 될 수 있어요.\n한번 찾아보면 생각보다 꽤 많은 것들이 일본에 전해졌다는 것을 알 수 있을 거예요.",
+      "est_speech_ms": 48400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "시텐노사[四天王寺] 왓소(ワッソ) 축제 모습(문화체육관광부 해외문화홍보원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/18a2628e48caaba1/fig_109.jpg",
+          "caption": "시텐노사[四天王寺] 왓소(ワッソ) 축제 모습(문화체육관광부 해외문화홍보원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

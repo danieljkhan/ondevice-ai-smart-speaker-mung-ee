@@ -1,0 +1,226 @@
+{
+  "schema_version": 2,
+  "doc_hash": "28e2e6b8ac9ec28e",
+  "source_file": "eh_n0180_0010.pdf",
+  "title": "대조영, 동모산에서 발해를 세우다",
+  "kind": "people",
+  "era": "통일신라·발해",
+  "era_source": "keyword",
+  "scene_count": 9,
+  "section_count": 3,
+  "image_count": 6,
+  "est_total_ms": 378300,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0,
+        1,
+        2
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3
+      ],
+      "image_captions": [
+        "동모산(중국 지린성)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "사람들을 이끌고 당에서 탈출하다",
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "당에 맞선 대조영과 고구려 유민",
+        "천문령 전투"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "나라를 세우고 도읍을 정하다",
+      "scene_indices": [
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "발해 수도의 건설",
+        "발해의 문화",
+        "발해 전성기 영토"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "대조영, 동모산에서 발해를 세우다\n“고구려 유민과 말갈인 여러분, 드디어 끈질긴 당의 추격을 따돌렸습니다.”\n“이 모든 게 다 장군 덕분입니다.”\n“아닙니다. 여러분이 저를 믿고 따라 주셨기 때문이지요. 이제 우리는 이곳 동모산에 새로운 터전을 마련해 고구려를 계승한 나라를 세울 것입니다.”\n698년 고구려 유민과 말갈족들이 동모산에서 나라를 세웠어요. 이들을 이끌고 새로운 나라를 세운 사람은 누구일까요?\n고구려 유민들, 당에 끌려가 살다\n668년, 나당 연합군에게 의해 고구려가 멸망하였어요. 그러나 고구려 땅 곳곳에서는 고구려 부흥을 위한 노력이 계속되었지요.",
+      "est_speech_ms": 45400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "동모산(중국 지린성)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/28e2e6b8ac9ec28e/fig_001.jpg",
+          "caption": "동모산(중국 지린성)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "눈에 가시 같던 고구려를 점령한 당은 고구려 유민들이 다시 나라를 일으킬까 두려워했어요. 그래서 20만 명이 넘는 고구려 백성을 당으로 끌고 갔지요.\n그 중에는 당에 저항하는 핵심 세력들이 대부분 포함되었어요. 이렇게 끌려간 고구려 유민은 가까이는 요서 지역인 영주로, 멀리는 양쯔강 남쪽의 황무지까지 끌려가 가난하고 비참하게 살았어요.\n대조영도 고구려가 멸망하자 많은 고구려 유민과 함께 영주로 끌려왔어요. 당시 영주는 당이 동북방의 이민족을 막기 위해 세운 전진기지가 있던 곳이었어요.\n이곳에는 고구려 유민을 비롯하여 말갈인, 거란인 등 여러 민족이 강제로 끌려와 뒤섞여 살고 있었어요. 이들은 모두 당에 대해 불만과 불신을 가슴속 깊이 품었어요. 그래서 언제든지 반란을 일으킬 기회만을 엿보고 있었어요.",
+      "est_speech_ms": 58200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "이때 영주를 다스리던 당의 관리가 높은 세금을 매겨 자기 재산을 늘렸고, 이를 어기는 자는 가차없이 처벌을 하여 많은 백성들의 원성을 샀어요.\n게다가 수년째 거듭된 가뭄으로 백성들의 고통은 커져 갔지만 당 관리의 수탈은 계속되었지요.\n참다못한 거란족의 추장이진충은 부하를 보내 백성들을 도와 줄 것을 요청했으나 오히려 매를 맞고 반죽음 상태로 돌아왔어요.\n이에 화가 난 이진충은 군사를 모아 반란을 일으켜 당 관리를 죽이고 영주를 점령해 버렸어요. 그리고 당 정부에서 보낸 군대도 매복했다가 전멸시켜 버렸지요.",
+      "est_speech_ms": 41800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "사람들을 이끌고 당에서 탈출하다",
+      "narration": "사람들을 이끌고 당에서 탈출하다\n이 틈을 노려 대조영의 아버지 걸걸중상은 당으로부터 벗어나고자 고구려 유민을 이끌고 말갈 추장 걸사비우와 함께 옛 고구려 땅으로 돌아가려 영주 땅을 탈출했어요(696년).\n걸걸중상과 고구려 유민, 그리고 걸사비우와 말갈 유민들은 요하를 건너 요동 땅에 도착했어요. 당 조정은 처음에는 걸걸중상과 걸사비우에게 관직을 주고 다시 돌아오도록 설득했으나 걸걸중상 등은 이를 받아들이지 않았어요.\n그러자 당 조정은 입장을 바꿔 거란출신 장군이해고에게 군사를 주어 요동으로 이들을 쫓아 공격하도록 명령하였어요.",
+      "est_speech_ms": 44800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "사람들을 이끌고 당에서 탈출하다",
+      "narration": "당군이 추격하는 것을 알고 걸사비우와 걸걸중상은 군대를 모아 당군과 맞서 싸웠어요. 그러나 이 전투에서 고구려와 말갈 연합군은 크게 패했고, 그만 걸사비우는 전사하고 말았지요.\n걸걸중상이 남은 유민들을 이끌고 동쪽으로 발길을 재촉하였는데, 얼마 뒤에 걸걸중상마저 병에 걸려 죽고 말았어요.\n이제 대조영이 고구려 유민뿐만 아니라 추장을 잃은 말갈 유민들을 이끌어야만 했어요. 당군은 나중에 골칫거리가 될지도 모를 고구려와 말갈 유민들을 뒤쫓아서 끈질기게 추격해 왔어요.\n대조영은 유민들을 이끌고 동쪽으로 향했어요. 옛 고구려의 만주 지역으로 가려면 높은 산맥 사이로 난 천문령을 지나야 했어요. 천문령에 도착한 대조영은 높은 산의 험준한 지형을 이용해 이해고의 추격을 막고자했어요.",
+      "est_speech_ms": 56600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "당에 맞선 대조영과 고구려 유민",
+        "천문령 전투"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/28e2e6b8ac9ec28e/fig_027.jpg",
+          "caption": "당에 맞선 대조영과 고구려 유민",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/28e2e6b8ac9ec28e/fig_033.jpg",
+          "caption": "천문령 전투",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": "사람들을 이끌고 당에서 탈출하다",
+      "narration": "대조영은 싸울 수 없는 아녀자와 노인들을 먼저 보내고, 군사들을 이끌고 계곡에서 당군을 기다렸어요.\n당군이 도착하자마자 고구려와 말갈 연합군은 험준한 곳에 의지해 공격을 퍼부었어요. 대조영의 기습 공격을 받은 당군은 크게 패하였고, 이해고는 겨우 도망치고 말았어요.",
+      "est_speech_ms": 22000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "나라를 세우고 도읍을 정하다",
+      "narration": "나라를 세우고 도읍을 정하다\n천문령에서 큰 승리를 거둔 대조영은 고구려와 말갈 유민들을 이끌고 계속 동쪽으로 이동해 마침내 동모산에 도착하였어요.\n동모산 동북쪽으로는 송화강의 지류인 목단강이 흐르고, 주변의 땅은 넓고 비옥했어요. 그리고 큰 산들이 넓은 평야를 병풍처럼 둘러싸 막아주고 있어 외적을 막기에도 좋은 곳이었어요.\n그래서 대조영은 동모산에 성을 쌓고 도읍으로 정하였어요. 이곳에 정착하게 된 대조영은 나라 이름을 ‘진’이라 하였는데, 나중에 나라의 이름을 ‘발해’로 바꾸었지요.\n대조영은 고구려가 멸망한 지 불과 30년 만에 고구려를 계승한 나라를 새로 세웠어요. 대조영이 이제 동북아시아 지역의 새로운 지도자로 등장한 순간이었어요.",
+      "est_speech_ms": 53200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "발해 수도의 건설",
+        "발해의 문화"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/28e2e6b8ac9ec28e/fig_040.jpg",
+          "caption": "발해 수도의 건설",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/28e2e6b8ac9ec28e/fig_047.jpg",
+          "caption": "발해의 문화",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 2,
+      "section_title": "나라를 세우고 도읍을 정하다",
+      "narration": "대조영은 고구려 유민과 여러 말갈족을 이끌며 나라의 기틀을 잡아갔어요. 나라를 세운 후에는 바로 돌궐과 국교를 맺어 당을 견제하였고, 신라, 왜와도 교류하면서 나라를 발전시켜 나갔어요.\n발해는 계속 성장하여 서쪽으로 요동 지역까지 진출했고, 동쪽으로는 동해와 접했으며, 동북쪽으로는 흑수 말갈에 이르는 넒은 영역을 차지했어요.\n국력과 문화가 크게 발전하여 당은 발해를 ‘해동성국’이라 부르기까지했어요.",
+      "est_speech_ms": 33200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 2,
+      "section_title": "나라를 세우고 도읍을 정하다",
+      "narration": "‘해동성국’ 발해! 번성했던 발해가 사라지고 오랜 시간이 지나면서 발해의 모습을 알 수 있는 유적이나 유물이 지금은 거의 남아 있지 않아요. 그렇지만 이들 문화유산을 살펴보면서 대륙을 호령했을 발해 사람들의 모습을 상상해 보아요.",
+      "est_speech_ms": 18600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "발해 전성기 영토"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/28e2e6b8ac9ec28e/fig_055.jpg",
+          "caption": "발해 전성기 영토",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "schema_version": 2,
+  "doc_hash": "24c3f27da6f890bd",
+  "source_file": "eh_r0420_0010.pdf",
+  "title": "대통령 직선제를 이끌어낸 6월 민주 항쟁",
+  "kind": "artifact",
+  "era": "현대",
+  "era_source": "keyword",
+  "scene_count": 14,
+  "section_count": 7,
+  "image_count": 10,
+  "est_total_ms": 614000,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "헌법을 고치고 국민이 대통령을 직접 뽑게 되다",
+      "scene_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "명동성당(서울 중구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        4
+      ],
+      "scene_seq": [
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "한 대학생이 억울하게 죽은 곳, 남영동 치안본부 대공분실",
+      "scene_indices": [
+        5,
+        6
+      ],
+      "scene_seq": [
+        6,
+        7
+      ],
+      "image_captions": [
+        "남영동 치안본부 대공분실 내부(서울 용산구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "민주헌법을 만들기 위한 단체가 만들어진 향린교회",
+      "scene_indices": [
+        7
+      ],
+      "scene_seq": [
+        8
+      ],
+      "image_captions": [
+        "향린교회와 6월 민주 항쟁 기념비(서울 중구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "민주항쟁의 진원지 성공회대성당",
+      "scene_indices": [
+        8
+      ],
+      "scene_seq": [
+        9
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "6일간 시위가 벌어졌던 명동성당",
+      "scene_indices": [
+        9
+      ],
+      "scene_seq": [
+        10
+      ],
+      "image_captions": [
+        "성공회 대성당과 6월 민주 항쟁 진원지 표지석(서울 중구)"
+      ],
+      "is_infographic": true
+    },
+    {
+      "section_index": 6,
+      "section_title": "전국 각지에서 이루어진 집회",
+      "scene_indices": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "이한열 열사의 장례식 모습",
+        "6월 민주 항쟁 당시 시위 모습",
+        "6월 민주 항쟁 전국 지도"
+      ],
+      "is_infographic": true
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "헌법을 고치고 국민이 대통령을 직접 뽑게 되다",
+      "narration": "대통령 직선제를 이끌어낸 6월 민주 항쟁\n“이제 대통령을 국민이 직접 뽑게 되었으니 오늘은 찻값을 받지 않겠습니다.”\n“와! 감사합니다. 잘 마시겠습니다.”\n1987년 서울의 한 카페에서 손님들은 차를 무료로 마실 수 있었어요. 정부가 대통령을 직접 뽑을 수 있도록 헌법을 바꾼다고 발표했기 때문이지요.\n어떻게 국민이 대통령을 직접 뽑을 수 있게 되었을까요?\n헌법을 고치고 국민이 대통령을 직접 뽑게 되다\n국민이 대통령을 직접 뽑을 수 있게 된 것은 6월 민주 항쟁의 결과에요. 요즘은 국민이 직접 대통령 선거에서 투표하는 것이 너무나 당연하지요. 하지만 1972년~1986년까지 우리나라 국민은 대통령을 직접 뽑지 못했어요.",
+      "est_speech_ms": 50400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "명동성당(서울 중구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/24c3f27da6f890bd/fig_001.jpg",
+          "caption": "명동성당(서울 중구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "헌법을 고치고 국민이 대통령을 직접 뽑게 되다",
+      "narration": "독재 정치를 이어가고 싶었던 사람들 때문이지요. 가장 먼저 대통령을 직접 뽑지 못하게 만든 것은 박정희 대통령이에요. 그는 1972년 헌법(유신헌법)을 바꾸어 대통령의 권한을 크게 키우고 대통령도 ‘통일주체국민회의’에서 뽑도록 했어요.",
+      "est_speech_ms": 19400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "헌법을 고치고 국민이 대통령을 직접 뽑게 되다",
+      "narration": "이에 국민들은 대통령을 직접 뽑고, 법과 현실에서 인권이 존중되는 사회를 만들기 위한 민주화운동을 펼쳤어요.\n1979년 10월 26일 박정희 대통령이 죽은 후 많은 국민들은 독재 정치가 끝나고 민주주의가 뿌리내리기를 바랐어요. 그러나 이런 국민의 바람은 12월 12일에 전두환을 비롯한 새로운 군인 세력(신군부)에 의해 무너졌어요.\n그들은 쿠데타를 통해 정권을 잡고 국민의 민주화 운동을 탄압했어요.특히 1980년 5월 광주에서 학생과 시민들이 중심이 되어 민주화 운동을 펼치자, 전두환은 군대를 동원해 이를 진압했어요.",
+      "est_speech_ms": 43400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 0,
+      "section_title": "헌법을 고치고 국민이 대통령을 직접 뽑게 되다",
+      "narration": "그 후 전두환은 박정희처럼 ‘통일주체국민회의’에서 대통령으로 당선되었어요. 대통령이 된 전두환은 독재 정치를 하면서 민주화 운동을 탄압했어요. 언론을 자신의 입맛대로 통제하고 민주화를 요구하는 죄 없는 사람들을 감옥에 가두었어요.\n그러던 중 1987년 국민은 민주주의를 되찾기 위해 힘을 합쳤어요. 6월 민주 항쟁이 일어났던 것이에요.\n당시 사람들은 대통령을 국민이 직접 뽑을 수 있도록 헌법을 고쳐야 한다고 생각했어요. 그러나 전두환 대통령은 국민의 요구를 무시하고 이전 헌법을 그대로 둔 채 대통령을 뽑겠다고 발표했어요(4.13 호헌).",
+      "est_speech_ms": 44600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "국민들은 헌법을 바꾸기 위해 5월 27일 ‘민주헌법쟁취국민운동본부’를 만 들었어요. 보통은 줄여서 ‘국민운동본부’라고 해요. 그러던 중 6월 9일에 연세대학교에서 시위를 벌이던 이한열 학생이 경찰이 쏜 최루탄을 머리에 맞고 혼수상태에 빠지는 사건이 일어났어요.\n다음날 전두환과 집권 여당이었던 민정당은 군인 출신 노태우를 대통령 후보로 뽑았어요. 국민운동본부는 이에 맞서 성공회 대성당에 모여 노태우가 대통령 후보에 선출된 것이 무효라고 선언했어요. 그리고 서울 도심 곳곳에서 시위를 벌였어요.\n국민들의 계속되는 시위에 전두환과 민정당은 마침내 항복했어요. 대통령 후보로 뽑힌 노태우가 6월 29일 대통령을 직접 뽑을 수 있도록 헌법을 고치고 국민들의 민주화 요구를 받아들이겠다고 했어요(6.29선언). 이후부터 국민이 대통령을 직접 뽑을 수 있게 되었고 민주주의는 더욱 발전되었어요.",
+      "est_speech_ms": 65400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/24c3f27da6f890bd/fig_019.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/24c3f27da6f890bd/fig_028.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "한 대학생이 억울하게 죽은 곳, 남영동 치안본부 대공분실",
+      "narration": "한 대학생이 억울하게 죽은 곳, 남영동 치안본부 대공분실\n서울 남영동에 있는 치안본부 대공분실에 한 대학생이 끌려갔어요. 그 대학생은 10시간 동안 물고문과 전기고문을 받다가 끝내 죽음을 맞이했어요. 이 대학생은 서울대학교에 다니던 박종철이에요.\n대공분실은 원래 간첩을 수사하기 위해 만들어진 곳이에요. 그런데 간첩과 아무런 관련이 없는 대학생이 잡혀가 고문을 받다가 죽었다니 국민의 분노는 하늘을 찌를 듯했어요.\n더군다나 경찰은 “책상을 ‘탁’ 치니 대학생이 ‘억’하고 죽었다”라고 거짓말을 했어요.\n“고문으로 사람이 죽는 일이 다시 일어나선 안 됩니다.”",
+      "est_speech_ms": 45200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "한 대학생이 억울하게 죽은 곳, 남영동 치안본부 대공분실",
+      "narration": "국민은 죄 없는 사람들을 가두고 고문해 죽이는 전두환 정부를 더 이상 인정할 수 없었어요. 3월 3일 전국에서 ‘고문추방 민주화 국민평화대행진’이 벌어졌어요. 이날은 박종철 학생이 사망한 지 49일째 되는 날이었어요.\n국민들은 박종철 학생을 추모하고 고문을 추방해야한다는 생각으로 집회를 연 것이죠.",
+      "est_speech_ms": 24600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "남영동 치안본부 대공분실 내부(서울 용산구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/24c3f27da6f890bd/fig_037.jpg",
+          "caption": "남영동 치안본부 대공분실 내부(서울 용산구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "민주헌법을 만들기 위한 단체가 만들어진 향린교회",
+      "narration": "민주헌법을 만들기 위한 단체가 만들어진 향린교회\n“행사장은 향린교회입니다. 각자 흩어졌다가 아침 8시까지 모입시다.”\n5월 27일 새벽 6시 종로에 하나둘씩 모인 사람들이 비밀스럽게 행사장소가 적힌 쪽지를 받았어요. 어떤 행사였나구요?\n헌법을 고쳐 대통령을 직접 뽑기 위해 ‘민주헌법쟁취국민운동본부’를 만드는 것이었어요. 이렇게 사람들이 비밀리에 모인 것은 혹시라도 경찰에 알려지면 일을 그르칠 수 있기 때문이었어요.\n장소는 종로에서 조금 떨어진 ‘향린교회’였어요.\n이 교회는 서울의 명동에 있어요.\n향린교회는 ‘향기 나는 이웃’이란 뜻을 가진 교회에요. 만약에 향린교회에 가게 되면 교회 출입문 왼쪽 기둥을 꼭 살펴보세요. 이 일을 기념하는 ‘6월 민주 항쟁 기념비’가 설치되어 있거든요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "향린교회와 6월 민주 항쟁 기념비(서울 중구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/24c3f27da6f890bd/fig_046.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/24c3f27da6f890bd/fig_047.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "민주항쟁의 진원지 성공회대성당",
+      "narration": "민주항쟁의 진원지 성공회대성당\n“동해물과 백두산이 마르고 닳도록 하느님 보우하사 우리나라 만세…”\n6월 10일 성공회대성당에서 애국가가 흘러나오고 42번의 종소리가 울려 퍼졌어요. 고문을 추방하고 4·13 호헌 조치의 무효를 요구하는 국민대회가 열린 것이에요.\n이날 잠실체육관에서는 민정당 대통령 후보로 노태우를 지명하는 대회가 열리고 있었어요. 여기에 대항하여 서울 곳곳에서 뿐만 아니라 전국 각지에서 학생과 시민들이 집회를 열고 시위를 벌였어요.",
+      "est_speech_ms": 38000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 5,
+      "section_title": "6일간 시위가 벌어졌던 명동성당",
+      "narration": "6·10 국민대회가 열린 것이죠. 성공회대성당 뒤뜰에 가면 이날을 기념한 표지석이 하나 있어요. 표지석에는 ‘유월민주항쟁진원지’라는 글이 새겨져 있어요.\n6일간 시위가 벌어졌던 명동성당\n“경찰을 피해 명동성당으로 갑시다.”\n6월 10일 을지로와 명동 일대에서 시위를 하던 학생과 시민은 경찰을 피해 경찰이 함부로 들어올 수 없는 명동성당으로 들어갔어요. 명동성당은 박종철 학생이 고문으로 죽은 후 국민이 모여 추모행사를 한 곳이기도 했어요.\n명동 성당에 모인 학생과 시민들은 경찰의 진압에 맞서 6일간 농성을 벌였어요.",
+      "est_speech_ms": 42600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "성공회 대성당과 6월 민주 항쟁 진원지 표지석(서울 중구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/24c3f27da6f890bd/fig_059.jpg",
+          "caption": "성공회 대성당과 6월 민주 항쟁 진원지 표지석(서울 중구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 6,
+      "section_title": "전국 각지에서 이루어진 집회",
+      "narration": "이들을 구출하기 위해 서울 시내 대학생들이 속속 명동으로 모여들었고, 일반 시민들인 ‘넥타이부대’가 명동일대를 뒤덮었어요.\n전국 각지에서 이루어진 집회\n6월 민주 항쟁은 6월 10일 집회 이후 계속 이어졌어요. 6월 18일에는 사람을 다치게 하는 경찰의 최루탄 사용에 항의하고 최루탄으로 부상당한 사람들의 회복을 기원하는 최루탄 추방 대회도 개최되었어요.\n특히나 6월 26일에는 전국 33개 시군읍에서 180만여 명이 참석하는 ‘민주 헌법쟁취 국민평화대행진’대회가 열렸어요. 시위는 민정당의 대통령 후보였던 노태우가 ‘6·29 선언’을 할 때까지 계속되었어요.\n6·29 선언의 주요 내용은 국민의 인권을 높이고 대통령을 국민이 직접 뽑을 수 있도록 헌법을 바꾸겠다는 것이에요.",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "이한열 열사의 장례식 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/24c3f27da6f890bd/fig_068.jpg",
+          "caption": "이한열 열사의 장례식 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 6,
+      "section_title": "전국 각지에서 이루어진 집회",
+      "narration": "6월 민주 항쟁을 이끌었던 국민운동본부는 ‘6·29 선언’을 받아들이기로 했어요.\n한편, 7월 5일에는 연세대학교 학생이한열이 끝내 사망했어요.\n연세대학교 총학생회가 주관하여 7월 9일에 장례식이 이루어졌어요.\n‘6·29 선언’결과 새로운 헌법이 10월 12일 국회를 통과하고 10월 27일 국민 투표에서 93.1%의 압도적인 찬성으로 통과되었어요.\n새 헌법이 통과된 후 12월 16일에는 제13대 대통령 선거가 실시되어 노태우가 대통령에 당선되었어요.\n노태우의 대통령 당선으로 민주주의를 바라는 국민의 바람이 완전히 이루어지지는 못했어요. 하지만 6월 민주 항쟁은 많은 학생과 시민이 적극적으로 참여하여 자신들의 정치적 권리를 되찾은 역사적 사건이라 할 수 있어요.",
+      "est_speech_ms": 55600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "6월 민주 항쟁 당시 시위 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/24c3f27da6f890bd/fig_076.jpg",
+          "caption": "6월 민주 항쟁 당시 시위 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 6,
+      "section_title": "전국 각지에서 이루어진 집회",
+      "narration": "역사 속 작은 이야기: 계성여고 학생을 만나볼까요?\n기자: 안녕하세요? 6월 민주 항쟁 당시 명동성당 옆에 있던 계성여고에 다니셨죠?\n당시 여학생: 예, 지금도 당시 일이 생생하게 떠올라요.\n기자: 당시 성당에서 농성을 벌이던 사람들에게 도시락을 준 까닭은 무엇인가요?\n당시 여학생: 그분들이 배가 고프실 것 같아서요.",
+      "est_speech_ms": 24800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 6,
+      "section_title": "전국 각지에서 이루어진 집회",
+      "narration": "기자: 어머니께서 정성껏 싸주신 도시락을 양보하는 것은 쉽지 않았을 텐데요.\n당시 여학생: 맞아요. 그래도 우리나라의 민주주의를 위해 자신의 의견을 적극적으로 표현하신 분들이기에 여고생인 제가 할 수 있는 일을 하고 싶었어요.\n6월 민중 항쟁 관련 유적지를 살펴보니 어떤 생각이 드나요?\n지금 우리가 누리는 민주주의가 저절로 이루어지지 않았다는 것을 알 수 있죠. 6월 민주 항쟁에 대해 좀 더 알고 싶은 친구는 이와 관련된 책을 읽어보세요.\n그리고 부모님과 함께 근처에 6월 민주 항쟁 유적지를 찾아가 보세요.",
+      "est_speech_ms": 41000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "6월 민주 항쟁 전국 지도"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/24c3f27da6f890bd/fig_098.jpg",
+          "caption": "6월 민주 항쟁 전국 지도",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

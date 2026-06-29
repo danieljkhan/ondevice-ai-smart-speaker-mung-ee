@@ -1,0 +1,363 @@
+{
+  "schema_version": 2,
+  "doc_hash": "93c9c5122e5c6591",
+  "source_file": "eh_r0152_0010.pdf",
+  "title": "몽골과 끝까지 싸운 삼별초의 항몽유적",
+  "kind": "artifact",
+  "era": "고려",
+  "era_source": "keyword",
+  "scene_count": 15,
+  "section_count": 7,
+  "image_count": 8,
+  "est_total_ms": 623700,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "용장산성(전남 진도군), 진도군청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "삼별초, 몽골에 맞서 싸우다",
+      "scene_indices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "image_captions": [
+        "용장산성",
+        "항파두리성 복원 모습(문화재청)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": null,
+      "scene_indices": [
+        5
+      ],
+      "scene_seq": [
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "새로운 고려를 볼 수 있는 진도 용장산성",
+      "scene_indices": [
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        7,
+        8,
+        9
+      ],
+      "image_captions": [
+        "용장산성(진도군청)",
+        "용장산성에서 몽골에 항전한 삼별초"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "삼별초의 마지막 모습을 간직한 한라산",
+      "scene_indices": [
+        9
+      ],
+      "scene_seq": [
+        10
+      ],
+      "image_captions": [
+        "항파두리성 내성터 발굴 모습(제주 제주시)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 별초는 특수부대?",
+      "scene_indices": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "별무반의 구성"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": null,
+      "scene_indices": [
+        14
+      ],
+      "scene_seq": [
+        15
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "몽골과 끝까지 싸운 삼별초의 항몽유적\n“조정이 몽골에 항복하고 개경으로 돌아간다고 합니다.”\n“개경으로 돌아가면 우리 삼별초는 사라지고 말 것입니다.”\n“치욕스러운 항복을 하느니 함께 끝까지 싸워봅시다.”\n삼별초는 고려 때 권력을 잡은 무신들이 이끌던 군대를 말해요. 고려가 몽골에 항복하자 삼별초는 이를 따를 수 없었어요. 그리고 삼별초를 따르는 백성과 군사들과 함께 진도로 근거지를 옮겨 몽골군과 계속 맞서 싸웠어요.\n삼별초가 몽골에 항복하지 않고 끝까지 싸운 까닭은 무엇일까요? 그들의 항전은 성공했을까요?",
+      "est_speech_ms": 41600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "용장산성(전남 진도군), 진도군청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/93c9c5122e5c6591/fig_001.jpg",
+          "caption": "용장산성(전남 진도군), 진도군청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "삼별초, 몽골에 맞서 싸우다",
+      "narration": "삼별초, 몽골에 맞서 싸우다\n몽골이 고려를 침략해 왔어요. 강력한 몽골군에 맞서 고려 조정은 수도를 강화도로 옮겨가며 끝까지 맞서 싸웠어요. 오랜 기간 몽골과 맞서 싸우던 고려 조정은 백성들이 많은 피해를 입자 어쩔 수 없이 항복하였어요. 그리고 수도를 다시 개경으로 옮겼어요.\n고려 조정이 몽골에 항복하자 삼별초가 반대하고 나섰어요. 삼별초는 처음에 무신들이 자신을 보호하기 위해 만든 사병 집단을 말해요.\n무신들이 난을 일으켜 권력을 잡고 나라를 통치하면서 삼별초는 도둑을 잡는 경찰 역할과 외적과 맞서 싸우는 특수부대 역할을 했어요. 몽골과의 전쟁에서 가장 큰 역할을 했던 삼별초에게 개경으로 돌아간다는 것은 죽는 것과 같았어요.",
+      "est_speech_ms": 52000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "삼별초, 몽골에 맞서 싸우다",
+      "narration": "특히 몽골군에게 포로로 잡혔다가 돌아와 삼별초가 된 병사들은 누구보다 강하게 반발하였어요.\n“강화도로 몽골군이 쳐들어왔다.”\n“몽골군이 강화도의 백성과 삼별초를 모두 죽일 것이오.”\n삼별초를 이끌던 배중손은 거짓 소문을 퍼트리고 정변을 일으켜 강화도를 점령하였어요. 그리고 1천여 척의 배를 모아 따르는 무리와 함께 진도로 향했어요.\n한반도 남쪽 끝에 있던 진도는 제주도와 거제도에 이어 우리나라에서 세 번째로 큰 섬이에요. 강화도와 마찬가지로 섬 주변의 물살이 빨라 방어에 유리했고, 경상도와 전라도 지역에 접근하기에 편리했어요.",
+      "est_speech_ms": 43800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "삼별초, 몽골에 맞서 싸우다",
+      "narration": "진도에 도착한 배중손은 성을 쌓고 궁을 지어 새로운 고려를 만들려고 했어요. 임금도 새로 모셨어요.\n삼별초가 몽골에 저항하며 진도에 자리를 잡자 많은 백성이 따랐어요. 몽골에 항복할 경우 무자비하게 살육될 것이라는 소문 때문이었죠.\n백성들의 지지를 받은 삼별초는 남해안의 여러 지역을 차지하고 고려․ 몽골 연합군과 맞서 싸웠어요.",
+      "est_speech_ms": 27000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "삼별초, 몽골에 맞서 싸우다",
+      "narration": "삼별초를 없애기 위해 고려․몽골 연합군은 오랜 시간 군사를 모으고, 수군을 키웠어요. 연합군에 맞서 삼별초는 목숨을 걸고 싸웠지만 결국 힘에 밀려 진도 용장산성을 빼앗기고 말았어요.\n삼별초를 따르던 많은 백성도 이때 목숨을 잃거나 포로가 되었어요.\n진도를 빼앗긴 삼별초는 어쩔 수 없이 남은 군사와 백성들을 모아 제주도를 향했어요. 삼별초는 육지에서 멀리 떨어진 더 안전한 곳이 필요했어요.\n제주도는 삼별초가 진도에 자리 잡을 때 이미 군대를 보내 점령한 곳이었어요.\n제주도에 도착한 삼별초는 항파두리성을 쌓고, 고려·몽골 연합군에맞섰어요. 길이가 대략 15㎞이었던 항파두리성은 외성과 내성의 이중성으로 쌓았어요. 외성은 흙으로 성을 쌓았고, 내성은 사각형 모양으로 돌을 쌓아 만들었어요.",
+      "est_speech_ms": 56400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "용장산성",
+        "항파두리성 복원 모습(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/93c9c5122e5c6591/fig_026.jpg",
+          "caption": "용장산성",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/93c9c5122e5c6591/fig_033.jpg",
+          "caption": "항파두리성 복원 모습(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": null,
+      "narration": "삼별초는 항파두리성을 쌓으며 고려 몽골 연합군의 공격을 준비하였어요. 그러나 진도에서 대부분의 군사를 잃은 삼별초에게 많은 여유가 없었어요. 제주도에 발을 내린지 채 일 년이 지나지 않아 고려 몽골 연합군은 다시 공격해 왔어요. 힘이 다한 삼별초는 끝내 패하고 말았어요.",
+      "est_speech_ms": 22200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/93c9c5122e5c6591/fig_041.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "새로운 고려를 볼 수 있는 진도 용장산성",
+      "narration": "새로운 고려를 볼 수 있는 진도 용장산성\n강화도를 떠난 삼별초는 진도의 벽파진에 내렸어요. 벽파진은 예부터 육지와 연결된 나루터가 있던 곳이에요. 조선 시대에는 이순신 장군이 명량대첩을 준비하던 곳이었어요. 물살이 빠른 울돌목에서 벽파진은 배를 안전하게 정박시킬 수 있는 곳이었어요.\n벽파진에 내린 삼별초는 산의 능선을 따라 만들어진 용장산성을 근거지로 삼았어요.\n성을 다시 정비하고, 가장 깊숙한 곳에는 개경의 만월대와 비슷하게 단을 쌓아 궁궐을 지었어요. 그리고 강화도에서 새로 모신 임금을 중심으로 새로운 조정을 만들었어요.",
+      "est_speech_ms": 44000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "용장산성(진도군청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/93c9c5122e5c6591/fig_046.jpg",
+          "caption": "용장산성(진도군청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "새로운 고려를 볼 수 있는 진도 용장산성",
+      "narration": "삼별초는 몽골에 항복하지 않은 고려를 내세웠어요. 그 뜻을 따라 진도를 비롯해 전라도 해안 지역과 멀리는 경상도의 남해와 거제도의 백성들에게도 호응을 얻었어요.\n삼별초는 남해안 지역을 장악하며 해상왕국으로서의 위세를 널리 떨쳤어요.",
+      "est_speech_ms": 19600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "용장산성에서 몽골에 항전한 삼별초"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/93c9c5122e5c6591/fig_052.jpg",
+          "caption": "용장산성에서 몽골에 항전한 삼별초",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "새로운 고려를 볼 수 있는 진도 용장산성",
+      "narration": "멀리 일본에 국서를 보내 자신들이 고려의 정통을 이었음을 알리기도 했어요.\n고려 조정과 몽골은 자신들을 부정하는 삼별초를 가만히 둘 수 없었어요. 몇 차례의 공격에도 삼별초가 꺾이지 않자 고려·몽골 연합군은 100여 척의 함선과 많은 군사를 준비하여 용장산성의 삼별초를 공격하였어요.\n연합군은 군대를 세 개로 나누어 용장산성을 포위하여 공격하였어요. 수적으로 우세한 연합군의 기습 공격에 밀려 삼별초는 크게 패하고 말았어요.\n삼별초가 새로이 세운 임금도 몽골군에 잡혀 목숨을 잃었고, 배중손도 도망을 가며 끝까지 싸우다 목숨을 잃었어요. 진도에 세워진 또 다른 고려가 역사 속으로 사라졌어요.",
+      "est_speech_ms": 49000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "삼별초의 마지막 모습을 간직한 한라산",
+      "narration": "삼별초의 마지막 모습을 간직한 한라산\n1273년, 160척의 배에 약 1만 명의 고려·몽골 연합군이 제주도에 상륙하였어요. 함덕에서 연합군과 삼별초 사이에 치열한 전투가 벌어졌어요.\n항파두리성을 포위한 연합군은 화약 무기를 사용하기도 했어요.\n연합군의 힘에 밀려 삼별초는 결국 패하고 말았어요.\n항파두리성을 탈출한 70여 명의 삼별초는 붉은오름에 올라 끝까지 싸우다 모두 전사하였어요. 삼별초를 이끌던 김통정도 한라산에 들어가 끝내 자결하고 말았어요.",
+      "est_speech_ms": 38000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "항파두리성 내성터 발굴 모습(제주 제주시)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/93c9c5122e5c6591/fig_065.jpg",
+          "caption": "항파두리성 내성터 발굴 모습(제주 제주시)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 별초는 특수부대?",
+      "narration": "세계 최강의 몽골군에 맞서 3년 가까이 항전한 삼별초와 백성들의 의지가 한라산과 오름 곳곳에 담겨 있어요.\n역사 속 작은 이야기: 별초는 특수부대?\n고려 숙종 때 윤관은 별무반이란 특수부대를 만들어 여진족을 정벌하였어요.\n기병인 신기군, 보병인신보군, 스님들로 이루어진 항마군 등 각기 역할을 나눠 조직한 별무반은 여진을 정벌하고 동북 9성을 쌓았어요. 이후 여진 정벌의 필요성이 사라지자 별무반도 해체되었어요.\n별무반은 특수 임무를 위해 임시로 만든 특수부대였어요. 여진 정벌 이후 별무반은 해체되었으나 유사한 성격의 부대가 무신 정권이 세워진 후 다시 만들었는데 그것이 ‘별초’였어요.",
+      "est_speech_ms": 48200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "별무반의 구성"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/93c9c5122e5c6591/fig_073.jpg",
+          "caption": "별무반의 구성",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 별초는 특수부대?",
+      "narration": "최초의 별초는 무신 정권이 도둑을 막기 위해 만든 야별초였어요.\n작은 규모로 시작된 야별초는 그 수가 늘면서 좌별초와 우별초로 나뉘었고, 몽골에 포로로 잡혀갔다가 돌아오거나 탈출한 이들로 이루어진 신의군이 만들어지면서 삼별초라 불렸어요.\n삼별초는 무신 세력의 사병 역할도 하면서 조정으로부터 많은 지원을 받았어요. 많은 지원 속에 삼별초는 고려 최강의 군대로 성장해 갔어요.\n고려에서 가장 강한 군대였던 삼별초는 주로 개경에 있었지만, 일부는 지방에도 있었어요.",
+      "est_speech_ms": 38400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 별초는 특수부대?",
+      "narration": "지방에서 근무하던 별초들은 몽골과의 항쟁에도 큰 역할을 했어요. 그 대표적인 예가 김경손 장군과 12명의 결사대 이야기예요.\n몽골군이 압록강을 넘어 고려를 침략해 왔어요. 여러 성이 함락되었고 예전에 강감찬 장군이 거란군을 크게 물리쳤던 귀주성을 포위했어요.\n귀주성은 북쪽에서 개경으로 가는 길목에 있는 아주 중요한 성이었어요. 몽골군의 공격에 김경손은 성문을 나가 기습할 것을 결심했어요.\n“나라를 위해 몸을 잊고 죽어도 물러서지 않을 자 오른편에 서라.”\n“장군. 죽여주십시오. 그냥 여기서 죽겠습니다.”",
+      "est_speech_ms": 41200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 별초는 특수부대?",
+      "narration": "귀주성을 지키던 별초들은 몽골군의 힘에 모두 겁에 질려 창을 바다에 놓고 엎드려 빌었어요. 어쩔 수 없이 김경손은 이전부터 자신과 함께 싸워왔던 12명의 결사대만을 이끌고 성 밖으로 말을 달려 나갔어요.\n김경손과 12명의 결사대가 처음 노린 것은 검은색 깃발을 든 몽골군이었어요. 결사대가 쏜 화살에 몽골군의 깃발이 하나둘 땅바닥으로 떨어졌어요.\n그리고 허둥대는 몽골군을 향해 계속해서 화살을 날렸어요. 갑작스러운 공격에 정신없이 흩어지는 몽골군을 뒤로 한 채 김경손과 12명의 결사대는 무사히 귀주성으로 돌아왔어요.",
+      "est_speech_ms": 43200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "전열을 정비한 몽골군은 다시 귀주성을 포위하고 공격해 왔어요. 그러나 김경손의 활약으로 성안의 별초들과 백성들은 사기가 올라 죽을 각오로 몽골군과 맞서 싸웠어요.\n몽골군이 수레에 풀과 나무를 싣고 굴려 성을 공격했어요. 고려군은 끓는 쇳물을 쏟아 쌓여있는 풀과 나무를 태워 물리쳤어요. 20여 일 동안 여러 차례 공격을 막아내며 고려군은 귀주성을 지켜냈어요.\n당시 세계에서 가장 강했던 몽골에 항복하는 것을 거부하고 진도와 제주도까지 내려가며 끝까지 항전한 삼별초. 외세의 큰 힘 앞에서도 자신의 뜻을 꺾지 않았던 이들의 힘은 어디에서 나온 것일까요?\n나라의 큰 위험 앞에 우리는 어떤 모습을 보여줄 수 있을지 한번 생각해 보아요.",
+      "est_speech_ms": 51600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "schema_version": 2,
+  "doc_hash": "d0a0e72fcdb4e8c1",
+  "source_file": "eh_n0200_0010.pdf",
+  "title": "장보고, 청해진을 세우다",
+  "kind": "people",
+  "era": "통일신라·발해",
+  "era_source": "keyword",
+  "scene_count": 10,
+  "section_count": 5,
+  "image_count": 4,
+  "est_total_ms": 438800,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "청해진(전남 완도군)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "“통탄할 일이다. 어찌 이를 막을 수 있단 말인가?”",
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [
+        "신라의 무역선(전쟁기념관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "장보고, 반란을 일으키다",
+      "scene_indices": [
+        6
+      ],
+      "scene_seq": [
+        7
+      ],
+      "image_captions": [
+        "해적을 소탕하는 장보고"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "약속을 어긴 신라 조정에 장보고는 몹시 화가 났어요.",
+      "scene_indices": [
+        7
+      ],
+      "scene_seq": [
+        8
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "“경주에 있을 장군이 여기는 무슨 일이오?”",
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [
+        "통일신라 시대 해상 교역로"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "장보고, 청해진을 세우다\n“폐하! 우리 신라 사람들이 당으로 끌려가 노예로 팔리고 있습니다.”\n“우리 백성이 노예로 팔려간다고! 어찌 이런 비참한 일이 있을 수가 있는가!”\n“신에게 군사를 주신다면 청해진을 세워 이를 막아 보겠습니다.”\n임금에게 백성들을 구원할 군사를 요청하고 있는 이 사람은 누구일까요? 이 사람은 백성들을 어떤 방법으로 구원했을까요?\n당에 가서 장수가 되다\n당에서 돌아와 청해진을 만들자고 건의한 사람은 장보고에요. 그는 왜 당에 갔고 왜 돌아왔을까요?",
+      "est_speech_ms": 37400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "청해진(전남 완도군)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/d0a0e72fcdb4e8c1/fig_001.jpg",
+          "caption": "청해진(전남 완도군)",
+          "letterboxed": true,
+          "clean": false,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "9세기 들어 신라는 진골 귀족들의 왕위 다툼으로 사회가 매우 혼란하였어요. 1백여 년간 10명의 왕들이 바뀔 정도로 왕권은 크게 약해졌고, 귀족들의 힘은 커져갔지요.\n힘이 커진 귀족들은 대토지를 소유하고 백성들을 끊임없이 수탈하였어요. 게다가 가뭄과 지진, 병충해 등 자연재해도 계속되어 백성들은 가난하고 비참한 삶을 버티며 살았지요.\n점점 더 사회가 혼란스럽고 하루하루 먹고 살기가 힘들어지자 많은 신라인들이 배를 타고 멀리 당과 왜로 건너가는 일이 생겨났어요. 바다를 건넌 많은 신라인들은 당의 동쪽 해안을 따라 정착하기 시작했어요. 그들은 주로 선박 제작과 무역에 종사하였어요. 이때 신라를 떠나 당으로 건너간 사람 중에 장보고도 있었어요.",
+      "est_speech_ms": 53200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "장보고는 전라남도 완도의 한 섬에서 태어났어요. 어려서부터 무예가 뛰어났고, 특히 활을 잘 쏘아 ‘활보’라 불렸지요\n장보고는 성장하면서 신라에서 잘 살 수 있으리란 희망을 잃어버렸어요.\n귀족들 간의 권력 다툼으로 인한 혼란한 사회, 그리고 궁핍한 생활에서 탈출해 새로운 희망을 찾고자 당으로 이주하였지요.\n20대 초반에 당으로 건너간 장보고는 서주에 있던 ‘무령군’에 입대를 하였어요. 무령군은 당 조정이 돈을 주고 외국인들을 고용해 만든 군대였어요.\n이들은 주로 지방의 반란군을 토벌하는 일을 맡아하였지요. 무령군에 속한 장보고는 산동에서 일어난 반란군을 진압하는 데 참여했어요. 그리고 뛰어난 무예 실력으로 큰 공을 세워 30세에 당의 장수가 되었어요.",
+      "est_speech_ms": 53600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "신라로 돌아와 청해진을 설치하다\n당의 장수가 되어 승승장구하던 장보고의 눈에 띈 것은 신라 출신의 노예들이 었어요. 이들은 해적들에게 붙잡혀 강제로 당에 끌려온 사람들이었어요.\n같은 신라 사람들이 노예가 되어 짐승과 같은 대접을 받으며 비참하게 살아가는 현실에 장보고는 몹시 분노하였어요. 참다못한 장보고는 신라로 귀국하여 왕에게 이를 알렸어요.",
+      "est_speech_ms": 29000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": "“통탄할 일이다. 어찌 이를 막을 수 있단 말인가?”",
+      "narration": "“폐하! 당의 여러 곳을 살펴보니 해적들이 우리 신라 사람들을 잡아다 노예로 팔아넘기는 경우가 많았습니다. 노예가 된 우리 백성들은 하루하루 목숨을 부지하며 비참하게 살고 있습니다.”\n“통탄할 일이다. 어찌 이를 막을 수 있단 말인가?”\n“당으로 가는 길목에 있는 청해에 진영을 설치하여 해적들을 소탕하고, 그들이 백성들을 서쪽으로 데려가는 것을 막아야 합니다.”\n“그대가 청해진을 완성하고 해적들을 소탕하여 백성들을 구하라.”\n“네 폐하! 분부 받들겠습니다.”\n장보고는 왕의 허락을 받고 1만여 명의 군대를 조직하고 청해(완도)에 진을 만들었어요. 육지와 가까이에 있는 섬에 토성을 쌓고, 주변을 관측할 망루를 세웠지요.",
+      "est_speech_ms": 48800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 1,
+      "section_title": "“통탄할 일이다. 어찌 이를 막을 수 있단 말인가?”",
+      "narration": "바닷가에는 방어용 목책과 배가 정박할 수 있도록 선착장을 만들었고, 성 안에는 여러 건물과 제사를 지내는 사당도 세웠어요.\n청해진을 설치한 후 장보고와 군사들이 바다로 나아가 싸우니 1년 만에 해적이 소탕되었어요. 장보고는 청해진을 중심으로 신라 서남해안 일대의 해적을 소탕하면서 한편으로는 신라와 당, 일본을 잇는 해상 무역로를 개척하는데 많은 힘을 썼어요.\n빠르고 튼튼한 배를 만드는 기술과 먼 바다를 건널 수 있는 항해술, 거기에다 강한 군대를 갖게 된 장보고는 점차 동아시아 바다를 장악해 나갔어요.\n해적을 소탕한 장보고는 청해진을 중심으로 각 나라에서 물건을 싸게 사 다른 나라에 비싸게 파는 중계 무역을 하였어요.",
+      "est_speech_ms": 51000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "신라의 무역선(전쟁기념관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/d0a0e72fcdb4e8c1/fig_033.jpg",
+          "caption": "신라의 무역선(전쟁기념관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 2,
+      "section_title": "장보고, 반란을 일으키다",
+      "narration": "청해진은 일본 하카다와 중국의 적산, 영파 등지에 지점을 둔 오늘날의 ‘종합 무역상사’였어요. 또한 당, 일본 등의 여러 나라 상인이 교역하는 무역의 중심지였어요.\n장보고, 반란을 일으키다\n세계와 교류하며 활발하게 활동하던 장보고에게 먹구름이 끼기 시작했어요. 왕위 다툼에서 밀려난 김우징이 청해진으로 피신해 왔어요. 장보고는 청해진으로 몸을 피해 온 김우징과 함께 반란을 일으켜 민애왕을 죽이고, 김우징(신무왕)을 왕위에 앉혔어요.\n김우징이 왕이 되고 얼마 되지 않아 죽고, 그의 아들이 왕이 되었어요. 문성왕은 아버지가 한 약속을 지키기 위해 장보고의 딸을 왕비로 맞이하려하였지요.",
+      "est_speech_ms": 47400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "해적을 소탕하는 장보고"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/d0a0e72fcdb4e8c1/fig_041.jpg",
+          "caption": "해적을 소탕하는 장보고",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "약속을 어긴 신라 조정에 장보고는 몹시 화가 났어요.",
+      "narration": "그러나 진골 귀족들은 가뜩이나 힘이 센 장보고가 왕과 결혼을 통해 더 강해질 것이라며 불안해했어요. 그래서 진골 귀족들은 한 목소리로 천민 출신인 장보고의 딸을 왕비로 맞이할 수 없다고 주장하며 결혼을 막았어요.\n약속을 어긴 신라 조정에 장보고는 몹시 화가 났어요.\n청해진의 군사를 이끌고 다시 반란을 일으켜 복수를 하려고 했지요. 이 소식을 전해들은 문성왕은 장보고를 죽이기로 하고 염장을 청해진에 자객으로 보냈어요. 염장은 이전에 반란을 일으켰을 때 장보고의 부하였어요. 뜻밖에 청해진을 찾아온 염장을 향해 장보고가 물었어요.",
+      "est_speech_ms": 43600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "“경주에 있을 장군이 여기는 무슨 일이오?”",
+      "narration": "“경주에 있을 장군이 여기는 무슨 일이오?”\n“왕의 잘못을 따지다가 왕의 미움을 사게 되었습니다. 옛날처럼 장군 밑에 들어가 해를 면하고자합니다. 받아주십시오.”\n“용감무쌍한 장군을 얻는 것은 우리 군대에 날개를 다는 것과 같소. 청해진에 온 것을 환영하오.”",
+      "est_speech_ms": 20000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "“경주에 있을 장군이 여기는 무슨 일이오?”",
+      "narration": "장보고는 잔치를 열어 염장을 크게 환영했어요. 잔치가 길어지면서 장보고는 술에 취해갔죠. 방심하고 있던 장보고를 염장이 갑작스럽게 덮쳤어요.\n그리고 장보고의 검을 빼앗아 휘둘렀어요. 단칼에 장보고가 쓰러지자 주위의 군사들이 놀라고 무서워서 모두 땅에 엎드려 항복을 하였어요.\n841년, 동아시아 무역의 한 축을 담당하던 해상왕 장보고는 이처럼 허무하게 죽고 말았어요.\n그가 죽자 청해진은 폐쇄되었고, 청해진의 주민들은 벽골군(지금의 김제)으로 강제 이주되었어요.\n장보고와 함께 청해진은 역사 속으로 사라지고 동아시아 해상권은 신라인에게서 중국 상인들과 아라비아 상인들에게 넘어가고 말았답니다.",
+      "est_speech_ms": 49800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "통일신라 시대 해상 교역로"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/d0a0e72fcdb4e8c1/fig_062.jpg",
+          "caption": "통일신라 시대 해상 교역로",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

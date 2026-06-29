@@ -1,0 +1,346 @@
+{
+  "schema_version": 2,
+  "doc_hash": "f90fa76ac967b59b",
+  "source_file": "eh_r0378_0010.pdf",
+  "title": "부산 근현대 역사 유적, 근현대 역사를 고스란히 품고 있는 부산",
+  "kind": "artifact",
+  "era": "현대",
+  "era_source": "keyword",
+  "scene_count": 13,
+  "section_count": 6,
+  "image_count": 10,
+  "est_total_ms": 595299,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "조선 시대에 일본과 무역하던 왜관이 두어지다",
+      "scene_indices": [
+        0,
+        1,
+        2
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3
+      ],
+      "image_captions": [
+        "부산 근현대 역사관(부산광역시 중구), 부산 근현대 역사관",
+        "초량 왜관 전경(국립중앙박물관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "강화도 조약으로 개항하다",
+      "scene_indices": [
+        3
+      ],
+      "scene_seq": [
+        4
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "일제의 한국 침략을 위한 시설이 들어서다",
+      "scene_indices": [
+        4,
+        5
+      ],
+      "scene_seq": [
+        5,
+        6
+      ],
+      "image_captions": [
+        "부산 근대 거리(부산 근현대 역사관)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "6·25 전쟁 때 임시 수도가 되다",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [
+        "40계단을 오르내리는 피난민들",
+        "임시 수도 기념관, 40계단과 기념비 피난민들"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "민주화 운동인 ‘부마항쟁’이 시작되다",
+      "scene_indices": [
+        8,
+        9
+      ],
+      "scene_seq": [
+        9,
+        10
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 부산에 유엔(UN) 기념 공원이 있다고?",
+      "scene_indices": [
+        10,
+        11,
+        12
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13
+      ],
+      "image_captions": [
+        "부마항쟁기념탑",
+        "부마항쟁 시위 모습",
+        "유엔(UN) 기념 공원"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "조선 시대에 일본과 무역하던 왜관이 두어지다",
+      "narration": "부산 근현대 역사 유적, 근현대 역사를 고스란히 품고 있는 부산\n“부산항에는 처음 와 봐요.” “부산은 아주 오래전부터 외국과 교역하던 중요한 도시지. 우리나라에서 일본과 맺은 조약에 따라 첫 번째로 항구를 열었던 지역이기도 하고.”\n부산은 우리나라 제2의 도시예요. 조선 시대에 일본과 무역하던 왜관이 있던 지역이지요. 1876년 개항 이후 우리 역사에서 더욱 중요한 역할을 하게 되었어요. 부산은 근현대사에서 어떤 역할을 하던 곳일까요? 또 부산에는 어떤 유적이 남아 있을까요?\n조선 시대에 일본과 무역하던 왜관이 두어지다\n조선은 일본과 무역을 하기 위해 부산포, 염포(울산), 제포(진해) 세 곳(삼포)에 왜관을 두었어요. 하지만 삼포의 왜관은 1592년 임진왜란이 일어나면 서 문을 닫게 되었지요.",
+      "est_speech_ms": 55800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "부산 근현대 역사관(부산광역시 중구), 부산 근현대 역사관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f90fa76ac967b59b/fig_001.jpg",
+          "caption": "부산 근현대 역사관(부산광역시 중구), 부산 근현대 역사관",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "조선 시대에 일본과 무역하던 왜관이 두어지다",
+      "narration": "7년간에 걸친 전쟁이 끝나고 조선이 일본과 교역을 재개하면서 부산에 왜관이 다시 설치되었어요. 절영도 왜관과 두모포왜관을 거쳐 최종적으로 초량에 왜관이 설치되었지요. 약 200년 동안 부산에는 왜관이 있었던 거예요.\n초량 왜관은 용두산공원 일대 10만여 평에 이르는 넓은 지역에 있었어요. 왜관에는 일본 사절단이나 관리, 상인 등이 머물렀어요. 쓰시마에서 온 약 400~500명이 왜관에 머물며 지냈다고 해요.\n왜관에서는 조선과 일본 두 나라 사이에 외교와 무역이 이루어졌어요. 일본 상인들은 중국에서 들여온 비단과 조선의 인삼을 사 갔고, 일본의 은이 조선을 거쳐 중국으로 전해졌지요. 동남아시아에서 들여온 물소뿔, 후추, 백반 등도 일본 상인에 의해 조선에 수입되었어요.",
+      "est_speech_ms": 55400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "조선 시대에 일본과 무역하던 왜관이 두어지다",
+      "narration": "왜관에서는 문화교류도 활발하게 이루어졌어요. 두 나라 문인들이 만나 글을 짓고, 화가들은 그림을 그려 나누기도 했어요. 왜관을 통해 일본 음식을 비롯한 여러 문화가 전해졌고, 반대로 조선의 풍습이 일본에 전해지기도 했어요.",
+      "est_speech_ms": 18200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "초량 왜관 전경(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f90fa76ac967b59b/fig_016.jpg",
+          "caption": "초량 왜관 전경(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 1,
+      "section_title": "강화도 조약으로 개항하다",
+      "narration": "강화도 조약으로 개항하다\n조선 말기 흥선대원군이 권력을 잡고 있었을 때 프랑스, 미국 등 서양의 여러 나라가 조선에 접근해 왔어요. 프랑스, 미국과 차례로 전투를 치른 조선은 전국 곳곳에 척화비를 세우고 나라의 문을 굳게 닫아버렸어요.\n하지만 곧 나라의 문을 열 수밖에 없었어요. 일본이 운요호 사건을 일으켰고, 1876년 조선은 어쩔 수 없이 일본과 강화도 조약을 맺었거든요. 강화도 조약에는 ‘부산과 이외 두 개의 항구를 열고 무역을 하도록 한다.’라는 내용이 있어요.\n개항 이후 부산에는 많은 변화가 생겼어요. 부산을 통해 낯선 외국 문물이 들어왔고, 일본인들이 건너와 자리를 잡기 시작했지요. 그러면서 부산 거리의 모습도 바뀌었어요.\n부산",
+      "est_speech_ms": 51600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/f90fa76ac967b59b/fig_024.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "일제의 한국 침략을 위한 시설이 들어서다",
+      "narration": "일제의 한국 침략을 위한 시설이 들어서다\n강화도 조약 이후 일제는 부산을 통해 여러 가지 물자를 빼내 갔어요. 이후 우리나라를 식민지로 만들기 위해 각종 기반 시설들을 만들었지요.\n우선 옛 왜관터에 일본식 집과 건물들이 들어섰고 일본인 거리가 만들어졌어요. 나아가 일본은 부산을 자신들이 자유롭게 활동할 수 있는 조계지로 만 들어버렸지요.\n조계지에서는 일본인들이 조선 정부의 간섭을 받지 않고 마음대로 활동할 수 있었어요. 일본인들을 위한 경찰서, 재판소 등의 관공서와 은행도 들어섰어요.\n일제는 부산에서 서울로 이어지는 경부선 철도를 놓은 이후 정치·경제적 침략을 더욱 강화했어요. 일제는 부산항을 거쳐 경부선을 이용해 서울로 갔다가 중국까지 나갈 수 있었지요. 그리고 엄청난 양의 쌀과 물자들이 경부선과 부산항을 거쳐 일본으로 빠져나갔어요.",
+      "est_speech_ms": 61400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "부산 근대 거리(부산 근현대 역사관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f90fa76ac967b59b/fig_031.jpg",
+          "caption": "부산 근대 거리(부산 근현대 역사관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "일제의 한국 침략을 위한 시설이 들어서다",
+      "narration": "앞에서 보았던 부산 근현대사 역사관은 일제가 세웠던 동양척식주식회사의 부산지점 건물이에요. 동양척식주식회사는 1908년 일제가 우리의 토지와 자원을 빼앗기 위해 세운 기구지요. 일제 강점기에 수많은 토지가 이 기구를 통해 일본인들의 손에 넘어갔어요.\n부산에 눈독을 들이던 외국 세력은 일본만이 아니었어요. 부산광역시 영도 구에는 절영도라는 작은 섬이 있는데, 1897년 러시아는 이곳에 석탄 창고 기지를 설치한다며 고종에게 섬을 빌려달라고 요구한 적이 있어요. 러시아는 그들의 목적을 이루기 위해 군함을 부산항에 대고 협박하기도 했지요. 하지만 독립협회 등의 반대 운동으로 그 요구를 막을 수 있었어요.",
+      "est_speech_ms": 50600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "6·25 전쟁 때 임시 수도가 되다",
+      "narration": "6·25 전쟁 때 임시 수도가 되다\n부산은 6·25 전쟁 때도 중요한 지역이었어요. 이승만 정부는 북한군에게 수 도 서울을 빼앗기고 낙동강 남쪽까지 밀려 내려갔지요. 그 결과 이승만 대통령은 부산에 머물렀고, 부산은 임시 수도 역할을 하게 되었어요.\n부산에는 피난민으로 넘쳐났어요. 수십만 명의 피난민들은 곳곳에 움막과 판잣집을 짓고 살았어요. 중앙동 40계단 부근과 흰여울 문화마을 등에는 판잣집이 빼곡히 들어섰지요. 피난민들은 40계단을 오르내리며 물동이에 물을 길어와 겨우 밥을 지어 먹었어요. 노동자들은 아침 일찍이 계단을 지나 부두로 나가 허드렛일을 하며 근근이 살아갔지요.",
+      "est_speech_ms": 48000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "6·25 전쟁 때 임시 수도가 되다",
+      "narration": "40계단은 전쟁 중에 헤어진 이산가족의 슬픔이 있는 장소에요. 잃어버린 자식을 기다리는 부모들의 모습도 종종 볼 수 있었지요. 그래도 살아야겠다는 마음으로 이 부근에서 시장을 열기도 했어요.\n이승만 대통령이 머물며 일을 하던 건물(대통령 관저)이 지금은 임시 수도 기념관으로 활용되고 있어요. 기념관에서는 전쟁 당시의 정치와 외교 관련 상황을 엿볼 수 있지요.",
+      "est_speech_ms": 29400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "40계단을 오르내리는 피난민들",
+        "임시 수도 기념관, 40계단과 기념비 피난민들"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f90fa76ac967b59b/fig_047.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/f90fa76ac967b59b/fig_049.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.75
+        },
+        {
+          "path": "assets/history/images/f90fa76ac967b59b/fig_050.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "민주화 운동인 ‘부마항쟁’이 시작되다",
+      "narration": "민주화 운동인 ‘부마항쟁’이 시작되다\n부산은 1979년에 일어난 부마항쟁이 시작된 곳이기도 해요. 5·16 군사 정변으로 정권을 잡고 대통령이 된 박정희는 유신 헌법을 만들어 국민의 자유를 억압하고 독재를 이어갔어요. 정부에 반대하는 인물들을 가두고 고문을 가 하는 등 인권을 탄압하자 민주화 운동 세력과 야당의 저항이 거세졌어요. 그러자 야당 총재였던 김영삼을 가두고 총재직도 수행하지 못하도록 했지요.\n독재 정치 속에서 경제적인 어려움도 겹쳤어요. 세계 경제 위기로 사람들의 삶은 더욱 어려워졌어요. 시간이 갈수록 박정희 정부에 대한 불만은 더욱 거세졌지요. 결국 독재에 저항해 민주화 운동이 일어났어요. 이 민주화 운동은 제조업이 발달하여 노동자들이 많이 모여 살던 부산과 마산 지역에서 일어났는데, 이를 ‘부마항쟁’이라고 해요.",
+      "est_speech_ms": 60399,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "민주화 운동인 ‘부마항쟁’이 시작되다",
+      "narration": "1979년 10월 16일, 부산대학교 도서관 앞에서 500여 명의 부산대 학생들이 모여 시위를 벌이기 시작했어요.\n“유신 정권 물러가라, 정치적 탄압 중단하라!”\n부산대 학생들은 구호를 외치며 거리로 나가 시위를 벌였고, 시민들도 시위에 동참했어요. 시위는 마산 지역으로도 퍼져나갔어요. 점점 더 많은 시민들이 시위에 참여하며 박정희 독재 체제를 무너뜨리려는 바람을 드러냈어요.\n다급해진 박정희 정부는 부산 일대에 비상계엄을 선포하고 민주화 운동을 탄압했어요. 경찰에 의해 학생과 시민들이 끌려가고 다치기도 했어요.\n독재 정치에 대한 저항이 심해지는 가운데 중앙정보부 부장 김재규가 박정희를 저격하였고, 박정희 유신 독재 체제는 끝이 났어요.",
+      "est_speech_ms": 53000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 부산에 유엔(UN) 기념 공원이 있다고?",
+      "narration": "역사 속 작은 이야기: 부산에 유엔(UN) 기념 공원이 있다고?\n6·25 전쟁은 엄청난 피해를 남겼어요. 군인뿐만 아니라 수많은 민간인이 죽거나 다쳤지요. 건물, 철도, 도로 등도 대부분 파괴되었고요. 이후 전쟁 피해 복구에 오랜 시간이 걸렸어요. 이러한 피해는 전쟁이 무엇을 남겼는지 잘 보여주었지요. 또한 전쟁이 일어나면 안 된다는 사실도 알게 해 주었고요.",
+      "est_speech_ms": 28000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "부마항쟁기념탑",
+        "부마항쟁 시위 모습"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f90fa76ac967b59b/fig_065.jpg",
+          "caption": "부마항쟁기념탑",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/f90fa76ac967b59b/fig_067.jpg",
+          "caption": "부마항쟁 시위 모습",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 부산에 유엔(UN) 기념 공원이 있다고?",
+      "narration": "한편 전쟁에는 북한군과 남한군만 참여했던 건 아니에요. 미국 등 16개국의 군대로 구성된 유엔군도 참여했어요. 또한 북한을 도와 중국군도 참여했지요. 그러면서 전쟁은 세계 여러 나라가 참여한 국제전으로 확대되었어요.\n유엔(UN) 기념 공원은 6·25 전쟁에 참여해 죽음을 맞은 유엔군의 유해가 묻힌 곳이에요. 세계 유일의 유엔 기념 묘지인 이곳에는 11개국 2,300여 명의 유해가 잠들어있어요. 유엔(UN) 기념 공원을 방문한다면 전쟁과 평화의 의미를 생각해 보길 바라요.\n지금까지 근현대 역사를 고스란히 품고 있는 부산에 대해 살펴보았어요. 부산은 개항 이후 외국과의 교역에서 국가의 관문(국경이나 요새 따위를 드나들기 위하여 반드시 거쳐야 하는 길목)이 되었고, 일제 강점기에는 일제가 한국을 침략했던 발판이 되기도 하였어요.",
+      "est_speech_ms": 59400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "역사 속 작은 이야기: 부산에 유엔(UN) 기념 공원이 있다고?",
+      "narration": "또 6·25 전쟁 때는 임시 수도였으며, 민주화 운동 과정에서는 박정희의 유신 독재 체제를 끝내는 도화선이 되었어요.\n여러분들도 부산을 답사하며 구석구석에 녹아 있는 근현대사의 다양한 이 야기들을 만나보길 바라요.",
+      "est_speech_ms": 17600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "유엔(UN) 기념 공원"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f90fa76ac967b59b/fig_079.jpg",
+          "caption": "유엔(UN) 기념 공원",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    }
+  ]
+}

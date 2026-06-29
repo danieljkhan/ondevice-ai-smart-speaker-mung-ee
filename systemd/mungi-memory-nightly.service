@@ -1,0 +1,19 @@
+[Unit]
+Description=Mungi conversation-memory nightly builder
+After=local-fs.target
+
+[Service]
+Type=oneshot
+User=mungi
+WorkingDirectory=/opt/mungi-repo
+EnvironmentFile=-/var/lib/mungi/config/mungi.env
+ExecStart=/opt/mungi-repo/.venv/bin/python -m scripts.nightly_memory_build
+# Type=oneshot ignores RuntimeMaxSec; TimeoutStartSec bounds the ExecStart run.
+TimeoutStartSec=1800
+# 90-day raw-turn retention bounds peak RSS; 512M gives headroom as the corpus
+# grows (run_build materializes prior snippets + one full conversation file)
+# without attempting an out-of-scope streaming refactor.
+MemoryMax=512M
+Nice=10
+IOSchedulingClass=best-effort
+IOSchedulingPriority=6

@@ -1,0 +1,149 @@
+{
+  "total_samples": 7710,
+  "total_before_dedup": 17776,
+  "per_category": {
+    "A": {
+      "count": 1393,
+      "avg_assistant_length": 41.65,
+      "avg_sentences": 3.71,
+      "multiturn_ratio": 0.4745,
+      "response_length_distribution": {
+        "min": 18,
+        "max": 95,
+        "mean": 41.65,
+        "median": 38,
+        "p95": 67.0
+      }
+    },
+    "B": {
+      "count": 980,
+      "avg_assistant_length": 43.88,
+      "avg_sentences": 2.51,
+      "multiturn_ratio": 0.0469,
+      "response_length_distribution": {
+        "min": 19,
+        "max": 111,
+        "mean": 43.88,
+        "median": 44.0,
+        "p95": 63.05
+      }
+    },
+    "C": {
+      "count": 350,
+      "avg_assistant_length": 22.92,
+      "avg_sentences": 2.27,
+      "multiturn_ratio": 0.0571,
+      "response_length_distribution": {
+        "min": 3,
+        "max": 60,
+        "mean": 22.92,
+        "median": 20.0,
+        "p95": 42.0
+      }
+    },
+    "D": {
+      "count": 717,
+      "avg_assistant_length": 44.2,
+      "avg_sentences": 3.75,
+      "multiturn_ratio": 0.2901,
+      "response_length_distribution": {
+        "min": 20,
+        "max": 98,
+        "mean": 44.2,
+        "median": 38,
+        "p95": 78.0
+      }
+    },
+    "E": {
+      "count": 859,
+      "avg_assistant_length": 59.23,
+      "avg_sentences": 2.62,
+      "multiturn_ratio": 0.2643,
+      "response_length_distribution": {
+        "min": 30,
+        "max": 126,
+        "mean": 59.23,
+        "median": 52,
+        "p95": 96.0
+      }
+    },
+    "F": {
+      "count": 2260,
+      "avg_assistant_length": 77.75,
+      "avg_sentences": 2.87,
+      "multiturn_ratio": 0.3549,
+      "response_length_distribution": {
+        "min": 26,
+        "max": 163,
+        "mean": 77.75,
+        "median": 65.0,
+        "p95": 126.0
+      }
+    },
+    "G": {
+      "count": 687,
+      "avg_assistant_length": 58.23,
+      "avg_sentences": 2.88,
+      "multiturn_ratio": 0.3217,
+      "response_length_distribution": {
+        "min": 17,
+        "max": 127,
+        "mean": 58.23,
+        "median": 51,
+        "p95": 105.7
+      }
+    },
+    "H": {
+      "count": 254,
+      "avg_assistant_length": 37.06,
+      "avg_sentences": 3.61,
+      "multiturn_ratio": 0.7244,
+      "response_length_distribution": {
+        "min": 12,
+        "max": 65,
+        "mean": 37.06,
+        "median": 38.0,
+        "p95": 54.0
+      }
+    },
+    "I": {
+      "count": 210,
+      "avg_assistant_length": 37.2,
+      "avg_sentences": 3.63,
+      "multiturn_ratio": 0.6857,
+      "response_length_distribution": {
+        "min": 12,
+        "max": 68,
+        "mean": 37.2,
+        "median": 38.0,
+        "p95": 55.0
+      }
+    }
+  },
+  "response_length_distribution": {
+    "min": 3,
+    "max": 163,
+    "mean": 55.07,
+    "median": 50.0,
+    "p95": 113.0
+  },
+  "sentence_count_distribution": {
+    "1": 22,
+    "2": 3740,
+    "3": 1319,
+    "4+": 2629
+  },
+  "multiturn_ratio": 0.3259,
+  "dedup_removed": 10066,
+  "dedup_removed_per_category": {
+    "A": 1485,
+    "B": 212,
+    "C": 1700,
+    "D": 217,
+    "E": 1370,
+    "F": 3034,
+    "G": 633,
+    "H": 706,
+    "I": 709
+  }
+}

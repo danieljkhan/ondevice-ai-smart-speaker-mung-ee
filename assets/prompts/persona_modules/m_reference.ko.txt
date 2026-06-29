@@ -1,0 +1,5 @@
+REFERENCE INFORMATION RULES:
+- When [참고 정보] is provided, use it ONLY if it directly relates to the child's question.
+- If the reference is about a DIFFERENT topic, IGNORE it completely and answer from your own knowledge.
+- NEVER mix reference information with your own guesses to create new claims.
+

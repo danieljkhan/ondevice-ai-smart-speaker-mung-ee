@@ -1,0 +1,385 @@
+{
+  "schema_version": 2,
+  "doc_hash": "4bd45d643572e94f",
+  "source_file": "eh_n0315_0010.pdf",
+  "title": "지눌",
+  "kind": "people",
+  "era": "고려",
+  "era_source": "keyword",
+  "scene_count": 17,
+  "section_count": 8,
+  "image_count": 8,
+  "est_total_ms": 725100,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "순천 송광사 보조국사감로탑(전남 순천시), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "여덟 살에 승려가 되다",
+      "scene_indices": [
+        1
+      ],
+      "scene_seq": [
+        2
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "불교의 폐단을 보다",
+      "scene_indices": [
+        2,
+        3,
+        4
+      ],
+      "scene_seq": [
+        3,
+        4,
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "부처님의 참뜻을 따르기로 하다",
+      "scene_indices": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "scene_seq": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": null,
+      "scene_indices": [
+        9
+      ],
+      "scene_seq": [
+        10
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "정혜결사운동을 펼치다",
+      "scene_indices": [
+        10,
+        11,
+        12
+      ],
+      "scene_seq": [
+        11,
+        12,
+        13
+      ],
+      "image_captions": [
+        "결사문을 읽고 있는 지눌"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": null,
+      "scene_indices": [
+        13
+      ],
+      "scene_seq": [
+        14
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "분열된 고려 불교를 화합으로 이끌다",
+      "scene_indices": [
+        14,
+        15,
+        16
+      ],
+      "scene_seq": [
+        15,
+        16,
+        17
+      ],
+      "image_captions": [
+        "순천 송광사보조국사감로탑과 지눌 영정(문화재청)",
+        "송광사(전남 순천시), 순천시청"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "지눌,\n고려 후기 불교 개혁을 이끌다\n“불교가 백성들이 기대 쉴 곳이 되어야 하거늘 오히려 이익에 눈이 멀어 백성들을 괴롭히고 있습니다. 또한 부처님 말씀은 하나이거늘 교종과 선종의 두 종파로 나뉘어 서로를 비난하기에 급급하며 수행과 공부를 게을리하고 있습니다. 이제 우리는 진정한 불교의 모습을 찾아야 합니다.”\n1170년(의종 24) 무신정변이 발생하자 고려는 매우 혼란스러웠어요. 고려 백성들의 마음을 달래 주어야 할 불교도 제 기능을 하지 못했지요. 오히려 종파가 분열되고 서로를 비난하는 데 혈안이 되어 있었어요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "순천 송광사 보조국사감로탑(전남 순천시), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4bd45d643572e94f/fig_002.jpg",
+          "caption": "순천 송광사 보조국사감로탑(전남 순천시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "여덟 살에 승려가 되다",
+      "narration": "이때 한 승려가 나타나 분열된 고려 불교를 통합하려고 노력했어요. 또한 불교 본연의 모습을 회복하여 백성에게 도움이 되기를 바랐지요. 이 승려가 바로 지눌이에요. 그의 노력은 결실을 거둘 수 있었을까요?\n여덟 살에 승려가 되다\n지눌은 1158(의종 12)년 황해도 서흥이라는 곳에서 태어났어요. 하지만 태어날 때부터 허약해 병치레가 잦았지요.",
+      "est_speech_ms": 27800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 2,
+      "section_title": "불교의 폐단을 보다",
+      "narration": "그의 부모는 아들의 건강을 위해 부처님께 정성껏 빌었어요.\n“부처님께 비나이다. 제 아들이 병약하여 자리에 누워 있습니다. 불쌍히 여겨 자리에서 일어나게 해 주세요. 만약 제 아이가 건강을 되찾는다면 출가 시키겠습니다.”\n그 후 놀랍게도 지눌은 건강을 찾아 여느 아이처럼 씩씩하게 뛰어놀 수 있었어요. 부모는 부처님께 약속한 대로 아들을 출가시켰어요. 그때 나이는 겨우 여덟 살이었지요.\n불교의 폐단을 보다\n지눌은 부처님의 진정한 가르침을 깨우치기 위해 길을 떠났어요. 그는 한곳에 머물지 않고 여러 사찰을 다니며 공부했어요.",
+      "est_speech_ms": 42400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "불교의 폐단을 보다",
+      "narration": "하지만 지눌이 본 당시의 불교계는 타락한 모습이었어요. 당시 고려 불교계는 교리 탐구를 중시하는 교종, 참선으로 깨달음을 얻으려는 선종으로 나 뉘어 있었는데요.\n문제는 이 두 종파가 끊임없이 서로를 헐뜯으며 마찰을 빚고 있었다는 점이죠. 심지어 백성의 재산을 뺏고 괴롭히는 승려들도 많았지요. 지눌은 불교 본래의 모습을 잃고 혼란에 빠져 버린 불교계에 크게 실망하였어요.\n지눌은 선종 사찰에서 출가했지만 일단 교종 사찰에서 경전 공부를 하기로 했어요. 그는 종파에 얽매이지 않고 진리를 찾고자 노력했어요. 그리고 그 해답을 찾기 위해 누구보다 열심히 경전을 읽으며 공부했어요.\n그러던 1174년(명종 4) 어느 날이었어요. 개경 인근의 교종 사찰이었던 귀 법사의 승려들이 이의방을 습격했다가 죽임을 당한 사건이 일어났어요.",
+      "est_speech_ms": 59200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/4bd45d643572e94f/fig_023.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "불교의 폐단을 보다",
+      "narration": "당시 고려는 무신정변으로 문신은 쫓겨나고 무신이 정권을 장악한 시기였어요. 그래서 문벌 귀족의 후원을 받아 왔던 교종의 승려들이 무신의 집권에 반대해 난을 일으키곤했지요.\n교종은 개경 일대에 기반을 두고 왕실, 문벌귀족 등과 가까웠어요. 반면 선종은 지방에 기반을 두고 다양한 계층의 사람들이 믿었기 때문이었지요.\n권력 싸움에 휩쓸리는 승려들의 모습을 보며 지눌은 또다시 크게 실망하였어요. 결국 그는 깊은 산속 암자에 들어가 참선에 집중하였어요.\n“내 마음을 먼저 다스려야 한다. 분노하지 말고, 올바른 길만 보자.”",
+      "est_speech_ms": 42000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "부처님의 참뜻을 따르기로 하다",
+      "narration": "부처님의 참뜻을 따르기로 하다\n1182년(명종 12) 지눌은 승과 시험에 합격하였어요. 고려의 승려들은 불교를 공부한 뒤 승과 시험을 보았어요. 고려가 불교 사회였던 만큼 과거시험에 승과가 있었던 거죠.\n승과에 합격하면 높은 지위를 얻을 수가 있었는데, 지눌은 25세에 급제하였어요.\n그런데 지눌은 출세에는 관심이 없었어요. 오직 불교의 폐단을 바로잡는 일에만 열정이 넘쳤지요. 그는 어느 법회에서 승려들에게 이렇게 말하였어요.\n“우리 모두 명예와 이익을 쫓지 말고 산속에 은둔해서 참선하고, 스스로 노동과 고행 속에 몸소 실천하는 부처님 제자가 됩시다.”",
+      "est_speech_ms": 45200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "부처님의 참뜻을 따르기로 하다",
+      "narration": "지눌은 승과 합격을 뒤로 하고 불교를 더 깊이 공부하기 위해 개경에서 먼 남쪽으로 갔어요. 담양의 산사인 창평 청원사에 자리를 잡고 매일 참선 수 행을 하고 불경 읽기에 열중했지요.\n그러던 어느 날이었어요. 지눌은 혜능 대사의 가르침이 담긴 육조단경을 공부하고 있었어요. 그러다 문득 깨달음을 얻었어요.\n부처의 참뜻이 선정과 지혜에 담겨 있다고 말이죠.",
+      "est_speech_ms": 28400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "부처님의 참뜻을 따르기로 하다",
+      "narration": "“우선 마음을 비우고 깨끗이 닦아야 또 채울 수 있는 법이다. 그렇게 마음을 정리하는 것이 바로 ‘선정’이다. 마음을 비우면 오히려 모든 걸 알게 된다. 이것이 곧 ‘지혜’이다.”\n1185년(명종 15) 지눌은 깨달음의 공부를 멈추지 않았어요. 이번엔 예천의 하가산에 있는 보문사로 자리를 옮겼어요.\n“선종으로 출가하신 스님께서 어찌 경전을 탐구하십니까?”\n지눌은 대장경을 통한 경전 공부에 집중했어요. 선승 출신의 지눌이 경전을 공부한다는 것은 당시 분위기로서는 쉽게 상상할 수 없는 일이었어요.\n“저는 오래전부터 종파를 구분하지 않고 가르침을 구했습니다. 하지만 선종과 교종이 화합하지 못하는 것을 보고, 이를 해결할 수 있는 부처님의 가 르침을 책 속에서 찾고 있습니다.”",
+      "est_speech_ms": 53200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 3,
+      "section_title": "부처님의 참뜻을 따르기로 하다",
+      "narration": "지눌은 보문사에서 경전을 읽고 또 읽으며 해답을 찾고자했어요. 특히 교종의 대표적인 경전인 화엄경을 탐구했어요. 그러다 알게 되었지요.\n교종의 경전에도 마음이 곧 부처라는 ‘심즉불’의 진리가 숨어 있다는 사실을 말이에요.\n“교종과 선종은 수행 방법이 다를 뿐, 그 진리는 같다! 그런데 어찌하여 우리는 서로 다르다고 비난하는가? 부처님의 말씀을 깨닫기 위해서는 참선과 경전 공부를 동시에 해야 한다!”\n지눌은 교는 부처님의 말씀이고, 선은 부처님의 마음이니, 선과 교과 둘이 아니라 하나임을 깨달았어요. 선종은 참선해야 한다고 하며 책 읽는 것을 소홀히 하였고, 교종은 경전만 중시해 수행을 게을리하였던 것이에요.",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": null,
+      "narration": "지눌은 이때부터 참선과 경전 공부를 동시에 골고루 하는 ‘정혜쌍수(定慧 雙修)’를 세우고 이를 널리 알리기로 마음먹었어요. 불교계의 혁명과도 같은 일이었지요.",
+      "est_speech_ms": 12800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "정혜결사운동을 펼치다",
+      "narration": "정혜결사운동을 펼치다\n1188년(명종 18)의 어느 날이었어요. 지눌은 벗으로부터 한 통의 편지를 받았어요. 같은 뜻을 품은 승려들을 모으고 있으니 와 달라는 내용이었지요. 그는 반가운 마음으로 벗이 있는 영천 팔공산 거조사로 갔어요.\n“지금 고려 불교는 교종과 선종으로 나뉘어 싸우고 있지. 하지만 그건 의미 없는 싸움이라네. 그걸 다른 승려들도 깨닫는다면 불교는 다시 한마음으로 뭉칠 수 있을 거네!”\n지눌은 불교 본연의 모습을 되찾길 간절히 바라며 벗과 함께 참선과 경전 공부를 했어요.\n이들의 노력은 소리소문없이 널리 펴져 나갔어요. 그리고 많은 승려가 종파를 가리지 않고 뜻을 함께하고자 모여들었어요.",
+      "est_speech_ms": 49200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "정혜결사운동을 펼치다",
+      "narration": "“우리의 간절한 마음이 통했는지 도반(함께 불도를 수행하는 벗)이 많이 모였습니다. 이제 우리 뜻이 담긴 글을 지어 세상에 더 널리 알리도록 합시다.”\n1190년(명종 20) 지눌은 정혜결사문(勸修定慧結社文)을 저술하고 이를 공포하였어요. 당시 불교가 보여주던 여러 폐단을 없애고 불교의 진정한 모습으로 돌아가자는 내용이었어요.\n지눌은 뜻있는 동료 승려와 함께 단체를 만들어 ‘정혜결사운동’을 시작하였어요. 이는 ‘정혜쌍수’를 통해 불교를 개혁하자는 운동이에요.",
+      "est_speech_ms": 37400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "결사문을 읽고 있는 지눌"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4bd45d643572e94f/fig_060.jpg",
+          "caption": "결사문을 읽고 있는 지눌",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "정혜결사운동을 펼치다",
+      "narration": "이를 위해 지눌은 승려들이 욕심을 부리거나 나쁜 짓을 하지 말고 몸소 실천하고 수행하자고 강조했지요. 그러자 지눌의 이름은 세상에 널리 알려졌어요. 사람들이 팔공산 거조사로 몰려들기 시작했지요.\n한편 이 무렵 최충헌이 무신 정권의 새로운 권력자로 떠올랐어요. 최충헌은 자신의 권력을 유지하기 위해서는 백성들의 불만을 잠재워야 한다고 생각했어요.\n이를 위해 기존 귀족 세력과 밀접한 교종을 멀리하고 지눌을 중심으로 새롭게 떠오르고 있던 선종을 자신의 세력 아래에 가까이 두려고 했지요.\n“정권이 바뀌어도 달라진 게 없구나. 불교를 여전히 통치의 수단으로만 여기고 있다니.”",
+      "est_speech_ms": 47000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 14,
+      "section_index": 6,
+      "section_title": null,
+      "narration": "지눌은 권력의 손길이 선종에까지 뻗치는 걸 보았어요. 새로운 돌파구가 필요했지요. 정혜결사의 뜻을 굳건히 펼쳐 나가기 위해서는 불교를 더 깊게 공부해야 한다고 생각했어요.\n1198년(신종 1) 지눌은 지리산의 상무주암으로 갔어요. 그는 진정한 깨달음을 얻기 위해 열심히 수행을 거듭해 나갔지요.\n그러던 어느 날 문득 깨달음이 찾아왔어요.\n“참선은 조용한 곳에만 있는 것도 아니고, 시끄러운 곳에만 있는 것도 아니다. 이제는 백성들 속에서 언제나 그들과 함께 수행하리라.”\n지눌은 지리산에서의 은둔 생활을 끝내고 송광산 길상사(지금의 조계산 송광사)로 갔어요. 그리고 이곳에서 정혜결사운동을 본격적으로 벌여 나갔어요. 이 소식을 들은 많은 승려와 학자, 백성이 뜻을 같이 하겠다며 앞다퉈 찾아왔어요.",
+      "est_speech_ms": 56600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/4bd45d643572e94f/fig_074.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 7,
+      "section_title": "분열된 고려 불교를 화합으로 이끌다",
+      "narration": "분열된 고려 불교를 화합으로 이끌다\n1205년(희종 1) 평소 지눌을 존경해왔던 국왕 희종(고려 제21대 왕)은 산의 이름을 조계산으로, 절의 이름을 수선사로 각각 바꾸고 자신이 직접 쓴 ‘조계산수선사’라는 현판을 내려주었어요. 이로써 수선사는 나라가 공식적으로 인정한 고려 선종의 중심 사찰이 되었어요.\n지눌은 열심히 법회를 열었지요. 낮에는 강연하고, 밤에는 사람들과 함께 수행에 전념하였어요. 마치 소의 걸음처럼 묵묵히 결사 운동을 실천해 나갔어요.\n“난 선종을 흥하게 하려고 법회를 여는 것이 아니오. 선종, 교종으로 나누어 구별해서는 아니 되오. 오직 우리 불교가 백성들에게 쉼과 평화가 되길 바라는 마음뿐이오.”",
+      "est_speech_ms": 50000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 16,
+      "section_index": 7,
+      "section_title": "분열된 고려 불교를 화합으로 이끌다",
+      "narration": "지눌은 불교가 폐단에 빠진 것은 승려가 계율을 우습게 여기고 행실을 함부로 했기 때문이라 생각했어요. 그래서 앞으로 승려들이 지켜야 할 규율을 정리했지요.\n지눌의 노력으로 고려의 불교는 분위기가 확 달라졌어요. 명예와 이익을 쫓던 승려들은 부끄러움을 느꼈고, 교종과 선종은 싸움 대신 조화와 화합의 길을 찾아갔어요. 지눌의 수선사는 바로 선교일치 운동의 본고장이 되었고, 고려 불교 개혁의 상징이 되었어요.",
+      "est_speech_ms": 33400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/4bd45d643572e94f/fig_086.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 17,
+      "section_index": 7,
+      "section_title": "분열된 고려 불교를 화합으로 이끌다",
+      "narration": "1210년(희종 6) 지눌은 법당에서 쉰세 살의 나이로 입적하였어요. 지눌의 제자들은 수선사에 탑을 세워 그를 기렸어요. 희종은 그를 추모하여 ‘불일보조’란 시호를 내렸고, 지눌의 사리가 봉안된 탑에 ‘감로탑’이란 이름을 내렸어요.\n보조국사 지눌은 불교의 잘못된 점을 바로 잡기 위해 결사 운동을 일으켰어요. 그리고 교종과 선종으로 분열된 고려 불교를 조화와 화합으로 이끌었지요. 여러분은 지눌의 활동을 통해서 무엇을 배웠나요?\n만약 친구와 사이가 벌어졌다면 지눌처럼 화합을 시도해 보면 어떨까요?",
+      "est_speech_ms": 40400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "순천 송광사보조국사감로탑과 지눌 영정(문화재청)",
+        "송광사(전남 순천시), 순천시청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/4bd45d643572e94f/fig_091.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/4bd45d643572e94f/fig_092.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.5
+        },
+        {
+          "path": "assets/history/images/4bd45d643572e94f/fig_098.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    }
+  ]
+}

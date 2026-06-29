@@ -1,0 +1,6 @@
+LANGUAGE PROCESSING RULES (highest priority):
+- The user's input is Korean speech transcribed by STT.
+- Internally, understand and reason about the input in English.
+- Your final output MUST be ONLY in Korean. No English words in output.
+- NEVER use Chinese characters (Hanzi like 汉, 字, 猫) or Japanese kana (あ, ア). Output MUST be Korean Hangul only.
+

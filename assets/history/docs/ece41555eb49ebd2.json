@@ -1,0 +1,399 @@
+{
+  "schema_version": 2,
+  "doc_hash": "ece41555eb49ebd2",
+  "source_file": "eh_r0314_0010.pdf",
+  "title": "조선 후기에 발달한 서민 문화",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "keyword",
+  "scene_count": 15,
+  "section_count": 7,
+  "image_count": 11,
+  "est_total_ms": 655500,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "안동 하회 별신굿 탈놀이(안동하회마을보존회)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "서민들도 문화 생활을 즐기다",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [
+        "서당(김홍도 필 풍속화첩), 국립중앙박물관"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "한글 소설과 사설시조",
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": null,
+      "scene_indices": [
+        6
+      ],
+      "scene_seq": [
+        7
+      ],
+      "image_captions": [
+        "조선 후기 책을 읽어주는 전기수"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "- 『청구영언』에 수록된 작자 미상의 사설시조 -",
+      "scene_indices": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "scene_seq": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "image_captions": [
+        "「평양도」 중 판소리 모습(문화유산채널)",
+        "안동 하회 별신굿 탈놀이(안동하회마을보존회)",
+        "조선 후기 가면극과 민속놀이"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "서민의 바람이 담겨 있는 그림, 민화",
+      "scene_indices": [
+        11,
+        12
+      ],
+      "scene_seq": [
+        12,
+        13
+      ],
+      "image_captions": [
+        "까치호랑이(국립중앙박물관)",
+        "책거리 그림(국립중앙박물관)",
+        "문자도(한국학중앙연구원)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 판소리를 정리한 신재효",
+      "scene_indices": [
+        13,
+        14
+      ],
+      "scene_seq": [
+        14,
+        15
+      ],
+      "image_captions": [
+        "화조화 병풍(국립중앙박물관)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "조선 후기에 발달한 서민 문화\n조선 후기에는 당시 지배층인 양반의 위선이나 횡포와 같은 사회 모순을 비판하는 탈춤이 유행했어요. 그래서 서민들이 많이 모이는 장터나 양반집 잔치를 중심으로 탈춤이나 판소리와 같은 공연이 자주 펼쳐졌지요.\n그때 탈춤, 판소리가 유행한 까닭은 무엇일까요? 그리고 이런 공연 외에 조선 후기에 유행한 서민 문화에는 어떤 것들이 있을까요?",
+      "est_speech_ms": 29800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "안동 하회 별신굿 탈놀이(안동하회마을보존회)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ece41555eb49ebd2/fig_001.jpg",
+          "caption": "안동 하회 별신굿 탈놀이(안동하회마을보존회)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "서민들도 문화 생활을 즐기다",
+      "narration": "서민들도 문화생활을 즐기다\n조선 후기에는 농업과 상업이 발달하면서 경제적으로 여유가 생긴 중인과 상민이 늘어났어요. 이들이 문학과 예술에 관심을 갖기 시작하면서 기존에 양반만 누리던 문화의 폭이 다양한 계층에 확대되었지요.\n지방 곳곳에 있던 서당의 풍경을 나타낸 그림으로, 조선 후기에 서당 교육이 널리 보급되었음을 짐작할 수 있다.\n이러한 배경에는 당시 형편이 나아진 서민들의 높은 교육열로 서당 교육이 확산되면서 의식 수준이 높아진 덕분이기도 했어요. 그래서 조선 후기에 한글 소설, 사설시조, 탈춤, 판소리, 민화 등 서민 문화가 발달하였어요.",
+      "est_speech_ms": 45000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "서당(김홍도 필 풍속화첩), 국립중앙박물관"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ece41555eb49ebd2/fig_011.jpg",
+          "caption": "서당(김홍도 필 풍속화첩), 국립중앙박물관",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "서민들도 문화 생활을 즐기다",
+      "narration": "지방 곳곳에 있던 서당의 풍경을 나타낸 그림으로, 조선 후기에 서당 교육이 널리 보급되었음을 짐작할 수 있다.\n조선 후기에 발달한 서민 문화는 양반 문화와 달리 체면에 구애받지 않았어요. 또한 자신의 감정을 솔직하게 표현하였지요. 게다가 양반들의 위선을 비판하고 사회의 부정부패를 풍자하는 내용을 많이 담고 있어요.\n이러한 문화 활동을 통해 조선 후기의 서민들은 자기 생각을 과감하게 드러내면서 사회의 잘못된 현상에 대한 비판 의식을 키워나갔어요.",
+      "est_speech_ms": 36800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/ece41555eb49ebd2/fig_022.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "한글 소설과 사설시조",
+      "narration": "한글 소설과 사설시조\n조선 후기 문학에서는 한글 소설이 크게 유행했어요. 한글 소설은 평범한 인물이 주인공으로 등장하여 사회 모순을 비판하거나, 서민들의 솔직한 감정을 표현하였지요.\n허균이 지은 홍길동전은 첩의 자식인 서얼에 대한 차별을 없앨 것과 차별 없는 이상 사회를 건설하려는 염원을 담아 양반 중심의 신분제 사회를 비판하였어요.\n남녀 간의 사랑 이야기를 다룬 춘향전은 춘향이라는 기생을 주인공으로 내세워 신분 차별의 부당함을 주장하였어요. 뿐만 아니라 양반의 횡포에 맞선 백성의 저항 의식도 보여 주었지요.",
+      "est_speech_ms": 42600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "한글 소설과 사설시조",
+      "narration": "한편 심청전은 주인공 심청이가 아버지의 눈을 뜨게 해 준다는 내용을 통해 효의 윤리를 전파하기도 하였어요.\n이 외에도 조선 후기에는 콩쥐팥쥐전, 흥부전, 장화홍련전 등 다양한 한글 소설이 인기를 끌었어요.\n홍길동이 엎드려 절하고서 홍판서에게 아뢰었다.\n“소인은 대감을 정기를 받아 당당한 남자로 태어나 부모님께서 낳아 주시고 길러주신 은 혜를 입었습니다. 그럼에도 불구하고 아버지를 아버지라고 부르지 못하고 형을 형이라고 못하니, 어찌 사람이라 하겠습니까? 모두가 저를 천하게 보고, 친척도 아무개의 천한 소생이라 이 르니 이런 원통한 일이 어디에 있습니까?”",
+      "est_speech_ms": 45600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "한글 소설과 사설시조",
+      "narration": "… 이후 홍길동은 무리의 호칭을 활빈당이라 하였다. 수령이 부정한 재물이 있으면 탈취하였고, 가난하고 의지할 데 없는 자를 구제하였으며, 나라의 것은 손대지 않았다.\n- 홍길동전\n조선 후기에 한글 소설은 서민들로부터 큰 사랑을 받았어요. 당시 수도 한성 (서울)에는 베껴 쓴 책을 돈을 받고 빌려주는 세책점이 많이 생겨났어요.\n또 거리에는 전문 이야기꾼인 전기수(돈을 받고 소설을 읽어 주는 사람)까지 등장하였지요. 그들 중에 어떤 사람은 재미있게 이야기를 들려주다가도 중요한 대목에서 말을 끊어버렸다고 해요.",
+      "est_speech_ms": 40800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": null,
+      "narration": "구경꾼이 돈을 내면 그제서야 이야기를 다시 이어나갔던 거예요. 전기수는 돈을 벌고, 한글을 읽을 줄 모르는 사람들은 소설을 즐길 수 있었답니다. 그리고 글을 아는 사람들도 전기수의 흥미진진한 이야기에 흠뻑 빠지지 않았을까요?\n한편 조선 후기에는 평시조보다 글이 길고 형식이 자유로운 사설시조도 유행했어요. 사설시조는 서민 작가의 참여가 많아지면서 남녀 간의 사랑, 고달픈 일상, 양반에 대한 풍자 등이 솔직하게 표현되었어요.\n특히, 신분 질서를 엄격히 강조하는 양반 중심의 사회 질서를 비판하였지요.\n두꺼비 파리를 물고 두엄 위에 치달아 앉아 건넛산을 바라보니 흰 송골매 떠 있거늘 가슴이 끔찍하여 풀떡 뛰어 내닫다가 두엄 아래 자빠졌구나 마침 날랜 나였기에 망정이지 피멍 들 뻔하였네",
+      "est_speech_ms": 56000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "조선 후기 책을 읽어주는 전기수"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ece41555eb49ebd2/fig_039.jpg",
+          "caption": "조선 후기 책을 읽어주는 전기수",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "- 『청구영언』에 수록된 작자 미상의 사설시조 -",
+      "narration": "- 청구영언에 수록된 작자 미상의 사설시조 -\n위 사설시조에서 두꺼비는 하급 관리, 파리는 백성, 송골매는 중앙의 높은 관리를 상징해요. 백성들을 괴롭히던 하급 관리가 중앙의 높은 관리를 보고 도망가다가 넘어졌지만, 자신이 날랜 덕에 다치지 않았다고 허세를 부리는 모습을 풍자하고 있지요.\n판소리와 탈춤\n조선 후기에는 도시가 성장하고 상업이 발달했어요. 그리고 전국의 주요 도시에서 시장이 열려 상품을 팔고 사기 시작했지요. 시장에서는 상품의 유통뿐 아니라 문화의 교류도 활발하게 이루어졌어요.",
+      "est_speech_ms": 40400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "- 『청구영언』에 수록된 작자 미상의 사설시조 -",
+      "narration": "특히, 시장 한복판에서는 판소리와 탈춤 공연이 행해지곤했답니다.\n판소리는 한 명의 소리꾼이 고수(북치는 사람)의 북장단에 맞추어 창 (노래)과 아니리(말) 등으로 연기하는 공연이에요.\n아마도 영조 임금 이전 시기에 성립되었을 것으로 추정되는데, 19세기에 이르러 신재효가 여러 종류의 판소리를 여섯 마당으로 정리하였어요. 그런데 현재는 춘향가, 심청가, 흥보가, 수궁가, 적벽가의 다섯 마당만 전해지고 있어요.\n판소리에도 서민들의 사회 비판 의식이 잘 나타나 있어요. 춘향가에는 관리가 백성을 괴롭히는 모습, 흥보가에는 큰아들이 모든 재산을 물려받아 동생 가족에게 횡포를 부리는 모습이 담겨 있지요.",
+      "est_speech_ms": 48600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "「평양도」 중 판소리 모습(문화유산채널)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ece41555eb49ebd2/fig_055.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/ece41555eb49ebd2/fig_056.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 4,
+      "section_title": "- 『청구영언』에 수록된 작자 미상의 사설시조 -",
+      "narration": "이를 통해 조선 후기에 농민들이 부자 농민과 가난한 농민 등으로 나뉜 모습과 신분제가 흔들리고 있는 모습 등을 엿볼 수 있어요.\n판소리는 처음에는 서민들이 즐기던 문화였지만, 점차 양반들에까지 인기를 끌면서 그 내용도 변해갔어요.",
+      "est_speech_ms": 18800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "안동 하회 별신굿 탈놀이(안동하회마을보존회)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ece41555eb49ebd2/fig_062.jpg",
+          "caption": "안동 하회 별신굿 탈놀이(안동하회마을보존회)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 4,
+      "section_title": "- 『청구영언』에 수록된 작자 미상의 사설시조 -",
+      "narration": "판소리의 노랫말에 양반들에게 맞는 한문 투의 표현이 많아지기도 했고, ‘임금에 대한 충성, 부모님에 대한 효도, 남편에 대한 아내의 의리’처럼 양반들이 강조하는 유교 윤리가 더 많이 반영되기도 했어요.\n조선 후기에는 탈을 쓰고 공연하는 탈춤(탈놀이)도 전국 각지에서 유행하였어요. 탈춤은 광대라고 불린 놀이꾼들이 탈을 쓰고 재미있는 이야기, 춤, 노래, 연기를 하며 벌이는 공연을 뜻해요. 지금의 연극과 비슷하지요.\n주로 당시 양반에 대한 풍자나 불교에 대한 비판 등이 주제였고, 안동의 하회 별신굿 탈춤, 황해도의 봉산탈춤과 강령탈춤, 북청의 사자놀이 등이 유명하였어요. 한편, 당시 광대들은 상인과 연계하여 장터 마당에서 솟대 타기, 줄타기 등의 공연을 선보이기도 했어요.",
+      "est_speech_ms": 53800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "조선 후기 가면극과 민속놀이"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ece41555eb49ebd2/fig_066.jpg",
+          "caption": "조선 후기 가면극과 민속놀이",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 5,
+      "section_title": "서민의 바람이 담겨 있는 그림, 민화",
+      "narration": "서민의 바람이 담겨 있는 그림, 민화\n민화는 이름이 알려지지 않은 화가들이 그린 것으로, 서민들의 일상생활과 관습을 담고 있어요. 복을 빌고 귀신을 몰아내기 위해 집 안을 장식하기도 했지요. 이러한 민화는 매우 익살스러운 장면들을 많이 그렸어요.\n또한 소박하지만 파격적인 장면들도 많아요.\n민화에서 가장 많이 등장하는 동물은 호랑이로, 집안에 들어오는 나쁜 기운을 막아 주기를 바라는 마음을 담고 있어요. 호랑이는 주로 복되고 좋은 소식을 전해 준다는 까치와 함께 그려졌어요.\n책이나 벼루, 먹 등의 문방구를 그린 책거리 그림에는 학문 존중의 뜻이 담겨 있어요. 또한 자식을 많이 낳기를 바라는 마음, 부자가 되고 싶은 바람 등을 상징하는 여러 물건들을 책과 함께 그리기도 했어요.",
+      "est_speech_ms": 54600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "까치호랑이(국립중앙박물관)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ece41555eb49ebd2/fig_080.jpg",
+          "caption": "까치호랑이(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 5,
+      "section_title": "서민의 바람이 담겨 있는 그림, 민화",
+      "narration": "문자도에는 일상생활에서 지켜야 할 도리가 담겨 있어요. 이러한 조선 후기 문자도는 저렴한 가격으로 대량 보급되어 서민들에게 유교적 도덕관을 가르치는 데 큰 역할을 하였어요.\n문자도는 책거리 그림과 함께 중국과 일본에는 없는 조선만의 독특한 민화로 알려져 있어요.\n한편, 화조화는 꽃이나 새를 그린 것으로, 화려하게 색이 칠해져 있는 것이 특징이며 주로 장식하는 용도로 사용하였어요.",
+      "est_speech_ms": 31400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "책거리 그림(국립중앙박물관)",
+        "문자도(한국학중앙연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/ece41555eb49ebd2/fig_087.jpg",
+          "caption": "책거리 그림(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/ece41555eb49ebd2/fig_090.jpg",
+          "caption": "문자도(한국학중앙연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 판소리를 정리한 신재효",
+      "narration": "역사 속 작은 이야기: 판소리를 정리한 신재효\n조선 후기에 등장한 판소리는 원래 열두 마당이라고 하여 그 수가 많았어요. 열두 마당에는 춘향가, 심청가, 수궁가, 흥보가, 적벽가, 배비장타령, 변강쇠타령, 장끼타령, 옹고집타령, 무숙이타령, 강릉매화타령, 가짜신선타령 등이 있었지요.\n그런데 충성, 효도, 의리 등 조선시대 유교 윤리가 반영되어 춘향가, 심청가, 수궁가, 흥보가, 적벽가 등 다섯 마당으로 정리되었어요.\n여기서 마당은 소리, 춤, 놀이 따위를 헤아리는 데 사용하는 단위를 가리켜요.\n그런데 이렇게 판소리를 정리한 것은 19세기의 활동했던 신재효의 공이 컸어요. 신재효는 전라북도 고창에서 태어나 고을의 관청에서 말단 관리로 일하면서 재산을 아주 많이 모았다고 해요. 그는 자기 재산으로 마을의 병든 사람과 가난한 사람들을 많이 도왔어요.",
+      "est_speech_ms": 59600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "화조화 병풍(국립중앙박물관)"
+      ],
+      "images": []
+    },
+    {
+      "seq": 15,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 판소리를 정리한 신재효",
+      "narration": "또한 그는 판소리 예술가들을 경제적으로 후원해 주었어요. 자신도 판소리 연구에 몰두하여 당시만 하더라도 지역마다, 예술가마다 조금씩 다르게 불리던 판소리를 통일하여 여섯 마당으로 정리를 했어요. 이후 여섯 마당은 다시 다섯 마당으로 정리가 되어 오늘날까지 이어지고 있지요.\n여러분은 K-POP을 즐겨 듣고, 영화나 드라마를 흥미진진하게 시청하지요? 조선 후기 사람들도 지금의 우리들처럼 판소리, 탈춤 등을 보며 아주 즐거워했어요. 인터넷에서 우리 조상들이 즐겼던 판소리나 탈춤 동영상을 검색해 보는 건 어떨까요? 의외로 아주 재미있답니다.",
+      "est_speech_ms": 44200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "schema_version": 2,
+  "doc_hash": "f5783b8e8fb83cba",
+  "source_file": "eh_n0620_0010.pdf",
+  "title": "김정호, 대동여지도를 펼쳐내다",
+  "kind": "people",
+  "era": "조선",
+  "era_source": "docnum",
+  "scene_count": 14,
+  "section_count": 8,
+  "image_count": 10,
+  "est_total_ms": 565400,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": null,
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "국립중앙박물관(서울 용산구)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "지도에 푹 빠진 ‘고산자’",
+      "scene_indices": [
+        1
+      ],
+      "scene_seq": [
+        2
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "“고맙네! 나는 지도를 보면 너무 행복하다네.”",
+      "scene_indices": [
+        2
+      ],
+      "scene_seq": [
+        3
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "김정호는 지도를 보면서 생각했어요.",
+      "scene_indices": [
+        3,
+        4,
+        5
+      ],
+      "scene_seq": [
+        4,
+        5,
+        6
+      ],
+      "image_captions": [
+        "청구도 개성부 지도(국립중앙도서관)",
+        "지형을 측량하는 김정호",
+        "기리고차"
+      ],
+      "is_infographic": true
+    },
+    {
+      "section_index": 4,
+      "section_title": "“좋네, 궁궐에 있는 지리지를 볼 수 있게 도와주겠네.”",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "“소인이 드디어 어르신 덕분에 동여도를 만들었습니다.”",
+      "scene_indices": [
+        8
+      ],
+      "scene_seq": [
+        9
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "“지도를 목판에 새겨보면 어떻겠는가?”",
+      "scene_indices": [
+        9,
+        10,
+        11
+      ],
+      "scene_seq": [
+        10,
+        11,
+        12
+      ],
+      "image_captions": [
+        "목판을 이용한 김정호의 지도 제작",
+        "수선전도(연세대학교박물관)",
+        "수선전도 목판(문화재청)",
+        "병풍처럼 접었다 폈다 할 수 있는 대동여지도(국립중앙박물관)",
+        "대동여지도(서울대학교 규장각한국학연구원)"
+      ],
+      "is_infographic": true
+    },
+    {
+      "section_index": 7,
+      "section_title": "“이렇게 뛰어난 지도가 우리 같은 평민들 손에까지 들어오다니!”",
+      "scene_indices": [
+        12,
+        13
+      ],
+      "scene_seq": [
+        13,
+        14
+      ],
+      "image_captions": [
+        "『대동여지도』와 목판(서울대학교 규장각한국학연구원)"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": null,
+      "narration": "김정호, 대동여지도를 펼쳐내다\n“도대체 이놈의 지도를 누가 만든 거야!”\n“아이쿠, 지도 때문에 낭패를 봤네.”\n“지도가 잘못 그려져 나도 고생을 했네.”\n시장에 모인 사람들이 불만을 한가득 쏟아냈어요. 바삐 짐을 싸서 이동해야 하는데, 지도가 잘못 그려져 있어 제때 약속된 장소에 도착하지 못했기 때문이에요.\n이 이야기를 가만히 들으면서 생각에 잠긴 사람이 있었어요.\n과연 이 사람은 누구일까요?",
+      "est_speech_ms": 30800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "국립중앙박물관(서울 용산구)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f5783b8e8fb83cba/fig_001.jpg",
+          "caption": "국립중앙박물관(서울 용산구)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "지도에 푹 빠진 ‘고산자’",
+      "narration": "지도에 푹 빠진 ‘고산자’\n이 이야기를 유심히 듣고 있는 사람은 바로 김정호에요. 김정호는 신분이 낮고 집안 형편이 넉넉하지 않았어요.\n하지만 시장 가까이에 살던 김정호는 어려서부터 지도에 관심이 많았어요.\n잘못된 지도 때문에 어려움을 겪은 이야기를 들으면서 언젠가는 제대로 된 지도를 만들겠다고 다짐했어요.\n하지만 김정호는 막상 지도를 보고 싶어도 제대로 살펴볼 수 없었어요. 당시 지도는 귀해서 아무나 쉽게 볼 수 없었기 때문이에요. 이 때 김정호를 도 와준 친구가 있었어요.\n생각이 통해서 지도와 지리 등에 관심이 많았던 친구 최한기에요.",
+      "est_speech_ms": 43800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 2,
+      "section_title": "“고맙네! 나는 지도를 보면 너무 행복하다네.”",
+      "narration": "집안이 넉넉했던 최한기는 지도를 좋아하는 김정호를 격려하면서 김정호가 마음껏 다양한 지도들을 보고 또 직접 만들 수 있게 도와주었어요.\n“자네처럼 지도를 좋아하는 사람은 조선 천지에 없을 거야.”\n“고맙네! 나는 지도를 보면 너무 행복하다네.”\n김정호와 최한기는 서로를 격려하면서 지도와 지리에 대해 많은 이야기를 나눴어요.\n김정호는 신분이 높은데도 항상 친절하게 도움을 주는 최한기가 고마웠어요.\n그렇게 시간이 지나고 김정호는 친구 최한기에게 지도를 좋아하는 자신을 ‘ 옛 산과 함께 사는 산의 자식’이라며 ‘고산자’라 불러달라고 했어요.\n“고산자라고? 그래, 지도를 통해 옛 산과 함께하는 자네는 자랑스러운 내 친구, 고산자일세!”\n본격적으로 지도를 만들기 시작하다.\n김정호는 친구 최한기 덕분에 다양한 지도들을 볼 수 있게 되었어요.",
+      "est_speech_ms": 59000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 3,
+      "section_title": "김정호는 지도를 보면서 생각했어요.",
+      "narration": "김정호는 지도를 보면서 생각했어요.\n‘이건 정확하지 않고 대충 그리고 말았구먼. 아, 이 지도는 사람들에게 도 움이 되질 않아.’\n김정호는 정확한 지도를 만들기 위해 밤낮을 가리지 않고 노력했어요.\n지도를 잘 만들기 위해서는 수많은 자료들을 찾아보고, 또 기존에 나온 여러 지도들을 종합적으로 정리하고 때때로 현장에 가서 확인하는 힘든 과정이 필요했어요.\n그렇게 지도에 푹 빠진 채 지낸 김정호는 마침내 우리나라 전국의 모습을 담은 첫 지도 청구도를 완성했어요.\n“드디어 자네가 해냈군!”\n친구 최한기는 김정호가 자랑스러웠어요. 그래서 최한기는 청구도 앞에 어려서 부터 지도와 지리에 많았던 김정호를 칭찬하는 글을 써 주었어요.",
+      "est_speech_ms": 50400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "청구도 개성부 지도(국립중앙도서관)",
+        "지형을 측량하는 김정호"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f5783b8e8fb83cba/fig_033.jpg",
+          "caption": "청구도 개성부 지도(국립중앙도서관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/f5783b8e8fb83cba/fig_035.jpg",
+          "caption": "지형을 측량하는 김정호",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 1.0
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "section_index": 3,
+      "section_title": "김정호는 지도를 보면서 생각했어요.",
+      "narration": "당시 청구도를 본 사람들도 깜짝 놀랐어요. 이제껏 나온 적 없는 지도였기 때문이에요.\n“고맙네, 하지만 청구도로는 부족하네.”\n김정호는 청구도에 만족하지 않았어요.\n힘든 작업이었지만 여전히 고쳐야 할 부분이 많다고 생각했기 때문이에요.\n그래서 김정호는 지도뿐만 아니라 강과 산의 위치, 집의 숫자와 논밭의 크기 등 각 지역에 대한 정보를 모은 책인 지리지를 펼쳐내 청구도에서 모자란 점을 보탤 계획을 세웠어요.\n하지만 막상 조선 팔도의 지역 전체를 김정호 혼자 다 다닐 수는 없었어요.\n지금과 달리 예전에는 교통수단이 발달하지 않았고 또 혼자 힘으로 그 많은 정보를 정리할 수 없었기 때문이에요.",
+      "est_speech_ms": 47800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "김정호는 지도를 보면서 생각했어요.",
+      "narration": "이 때 김정호는 궁궐에서 일하는 관리 신헌을 만났어요.\n“자네가 그린 청구도를 잘 보았네. 그런 지도를 또 만들 수 있겠는가?”\n“예, 소인은 지금 청구도보다 나은 지도를 어떻게 만들까 궁리 중입니다.”\n“듣던 대로 자네는 지도에 푹 빠져 사는 사람이군. 내 그대를 위해 도와 줄 것이 혹시 있는가?”\n1리를 갈 때마다 나무인형이 자동으로 종이나 북을 쳐서 이동 거리를 알려주는 기구로 세종 때 처음 만들어졌다.",
+      "est_speech_ms": 31200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "기리고차"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f5783b8e8fb83cba/fig_057.jpg",
+          "caption": "기리고차",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "section_index": 4,
+      "section_title": "“좋네, 궁궐에 있는 지리지를 볼 수 있게 도와주겠네.”",
+      "narration": "“좀 더 정확한 지도를 만들기 위해서 궁궐에 있는 지리지들을 살펴보면 좋겠습니다. 그것들을 보면 훨씬 더 정확한 조선 팔도의 지도를 마련할 수 있을 것 같습니다.”\n“좋네, 궁궐에 있는 지리지를 볼 수 있게 도와주겠네.”\n김정호는 신헌의 이야기를 들으면서 천군만마를 얻은 것 같았어요. 귀한 자료들을 보면서 원하는 지도를 만들 수 있기 때문이에요. 김정호는 궁궐에 있는 다양한 지리지들을 읽으면서 눈이 번쩍 커졌어요.\n‘아, 조선 팔도의 지리 정보가 이렇게 정리되다니.’\n반갑기도 했지만 아쉽기도 했어요. 잘 정리된 지리 정보도 있었지만 제대로 정리되지 않은 지리 정보도 많았기 때문이에요.",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "“좋네, 궁궐에 있는 지리지를 볼 수 있게 도와주겠네.”",
+      "narration": "김정호는 그래서 미심쩍은 정보가 있는 지역은 직접 자신이 확인하면서 새롭게 지리 정보를 마련해갔어요. 그렇게 온 힘을 다해 노력한 김정호는 마침내 각 지역의 역사와 도로 그리고 군사에 대한 내용을 정리한 지리지인 동여도지를 펼쳐내었어요.\n김정호는 청구도를 만들면서 부족했던 점을 되돌아보며 20여년이라는 긴 시간동안 준비해서 동여도지를 펼쳐내고 이를 바탕으로 우리나라 지도인 동여도를 만들었어요.\n동여도는 기존의 청구도보다 훨씬 정확할 뿐만 아니라 도로에서 십 리마다 점을 찍어 어느 지점에서나 거리를 알 수 있고, 성이나 창고 등은 기호로 나타내어 누구나 쉽고 간편하게 지도를 사용할 수 있게 만들었어요.",
+      "est_speech_ms": 50800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 5,
+      "section_title": "“소인이 드디어 어르신 덕분에 동여도를 만들었습니다.”",
+      "narration": "김정호는동여도와 동여도지를 들고 자신을 돌봐 준 신헌을 찾아갔어요.\n“소인이 드디어 어르신 덕분에 동여도를 만들었습니다.”\n“장하네! 장해! 자네의 이 지도는 조정은 물론이고 백성들에게도 큰 도움이 될 것이네.”\n목판에 새긴 대동여지도를 만들다.\n김정호가 활약한 시대에는 지도를 찾는 사람들이 부쩍 늘었어요. 경제가 발달하고 상업이 발전하면서 지도가 많이 필요했기 때문이에요.",
+      "est_speech_ms": 30600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 6,
+      "section_title": "“지도를 목판에 새겨보면 어떻겠는가?”",
+      "narration": "“지도를 목판에 새겨보면 어떻겠는가?”\n“목판으로 찍으면 많은 사람들이 널리 지도를 찍어내서 펼쳐볼 수 있지 않겠는가?”\n지도의 중요성을 알고 있는 김정호와 최한기는 많은 사람들이 지도를 널리 볼 수 있기를 바랐어요.\n김정호는 최한기의 부탁을 받아 세계지도인 지구전후도를 목판으로 새겼어요. 그리고 몇 해 뒤 서울의 모습을 담은 수선전도를 만들어 목판으로 제작했어요.\n수선전도목판 지도를 성공적으로 찍어낸 김정호는 이번에는 동여도를 목판으로 찍고 싶었어요.\n하지만 큰 문제가 있었어요. 동여도는 복잡해서 목판에 새기면 알아보기가 힘들기 때문이에요.",
+      "est_speech_ms": 45200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "목판을 이용한 김정호의 지도 제작",
+        "수선전도(연세대학교박물관)",
+        "수선전도 목판(문화재청)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f5783b8e8fb83cba/fig_076.jpg",
+          "caption": "목판을 이용한 김정호의 지도 제작",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/f5783b8e8fb83cba/fig_083.jpg",
+          "caption": "수선전도(연세대학교박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.3333333333333333
+        },
+        {
+          "path": "assets/history/images/f5783b8e8fb83cba/fig_085.jpg",
+          "caption": "수선전도 목판(문화재청)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.6666666666666666
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "section_index": 6,
+      "section_title": "“지도를 목판에 새겨보면 어떻겠는가?”",
+      "narration": "고민에 고민을 거듭한 김정호는 마침내 많은 정보가 표시된 동여도를 간단히 만들기로 했어요.\n이를 위해 동여도에 표시된 기호를 줄이고 중요하지 않은 지명 5,500여개를 빼 훨씬 쉽게 살펴볼 수 있는 대동여지도를 완성했어요.",
+      "est_speech_ms": 18400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 12,
+      "section_index": 6,
+      "section_title": "“지도를 목판에 새겨보면 어떻겠는가?”",
+      "narration": "목판으로 만든 덕분에 대동여지도는 수많은 사람들에게 전해졌어요.\n대동여지도는 누구나 쉽게 알아보고 편리하게 휴대할 수 있도록 총 22층으로 구분했고, 각 층을 한 권의 책으로 만들 수 있었어요.\n22권의 책은 모두 접을 수 있게 만들었기 때문에 가지고 다니기에 편리했어요.\n이 책들을 모두 펼쳐 연결하면 사진과 같은 커다란 우리나라 지도가 완성되는 거예요.\n대동여지도는 펼쳐 놓으면 대략 세로 7미터, 가로 4미터로 3층 정도의 건물 높이와 비슷해요.",
+      "est_speech_ms": 36800,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "병풍처럼 접었다 폈다 할 수 있는 대동여지도(국립중앙박물관)",
+        "대동여지도(서울대학교 규장각한국학연구원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/f5783b8e8fb83cba/fig_093.jpg",
+          "caption": "병풍처럼 접었다 폈다 할 수 있는 대동여지도(국립중앙박물관)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.0
+        },
+        {
+          "path": "assets/history/images/f5783b8e8fb83cba/fig_101.jpg",
+          "caption": "대동여지도(서울대학교 규장각한국학연구원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": true,
+          "anchor_ratio": 0.5
+        }
+      ]
+    },
+    {
+      "seq": 13,
+      "section_index": 7,
+      "section_title": "“이렇게 뛰어난 지도가 우리 같은 평민들 손에까지 들어오다니!”",
+      "narration": "“이렇게 뛰어난 지도가 우리 같은 평민들 손에까지 들어오다니!”\n“나는 이번에 강원도 대관령으로 일을 보러 떠나네. 대동여지도중에서 대관령이 나온 제13첩 지도만 뽑아 가지고 가면 길 잃을 걱정이 없다네.”\n이처럼 사람들은 자신의 목적지에 따라 여러 첩으로 나누어진 대동여지도 를 편리하게 이용하며 기뻐했어요.\n김정호는 백성들의 마음을 읽어내고 우리 땅과 지역에 대한 사람을 일깨우며 시대적으로 필요한 새 길을 열어가서 지금도 많은 사람들의 사랑을 받고 있어요.\n오늘날 국립중앙박물관에 가면 대동여지도를 볼 수 있어요. 대동여지도 를 전시하면서 목판을 함께 전시한 까닭이 있어요.",
+      "est_speech_ms": 47600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/f5783b8e8fb83cba/fig_108.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 7,
+      "section_title": "“이렇게 뛰어난 지도가 우리 같은 평민들 손에까지 들어오다니!”",
+      "narration": "지도를 많은 사람들이 쉽고 널리 볼 수 있게 대량으로 찍어내기 위해 목판에 지도를 새겨 넣었던 김정호의 깊은 뜻을 알리기 위해서예요.\n박물관에 가서 눈에 확 띄는 대동여지도뿐만 아니라 그 옆에 전시된 목판에도 관심을 기울여보면 좋겠어요.",
+      "est_speech_ms": 19400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "『대동여지도』와 목판(서울대학교 규장각한국학연구원)"
+      ],
+      "images": []
+    }
+  ]
+}

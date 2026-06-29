@@ -1,0 +1,321 @@
+{
+  "schema_version": 2,
+  "doc_hash": "bb864c3453df1d52",
+  "source_file": "eh_r0184_0010.pdf",
+  "title": "국가의 위급한 상황을 전하던",
+  "kind": "artifact",
+  "era": "조선",
+  "era_source": "docnum",
+  "scene_count": 14,
+  "section_count": 7,
+  "image_count": 6,
+  "est_total_ms": 570600,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "국가의 위급한 상황을 전하던",
+      "scene_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scene_seq": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "image_captions": [
+        "목멱산 봉수대(복원), 서울 남산"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": null,
+      "scene_indices": [
+        4
+      ],
+      "scene_seq": [
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "봉수대의 횃불의 개수가 달랐던 이유",
+      "scene_indices": [
+        5
+      ],
+      "scene_seq": [
+        6
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "각 지역에 연결된 5개의 봉수로",
+      "scene_indices": [
+        6,
+        7
+      ],
+      "scene_seq": [
+        7,
+        8
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "목멱산 다섯 곳에 있었던 봉수대",
+      "scene_indices": [
+        8
+      ],
+      "scene_seq": [
+        9
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "해안선을 따라 설치되었던 연대",
+      "scene_indices": [
+        9,
+        10
+      ],
+      "scene_seq": [
+        10,
+        11
+      ],
+      "image_captions": [
+        "우지연대(제주 제주시), 문화재청"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 봉수군의 하루",
+      "scene_indices": [
+        11,
+        12,
+        13
+      ],
+      "scene_seq": [
+        12,
+        13,
+        14
+      ],
+      "image_captions": [
+        "봉화불을 피우는 봉수군"
+      ],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "국가의 위급한 상황을 전하던",
+      "narration": "국가의 위급한 상황을 전하던\n봉수\n“외적이 국경선을 넘었다. 어서 봉화를 올려라.”\n“네. 즉시 봉홧불을 피우겠습니다.”\n봉수는 전쟁이나 외적의 침입 등 다급한 소식을 전하던 통신 수단이지요. 각 지역의 봉수대를 통해 전해진 소식을 받아 한양 목멱산(남산)에서 마지막 봉수를 올려 조정에 소식을 전했어요.\n그렇다면 언제부터 봉수를 이용해 소식을 전했을까요? 또 어떤 방법으로 서로 다른 상황을 알렸을까요?\n조선 세종 때 자리 잡은 봉수 제도\n교통과 통신이 발달하지 못했던 때에는 어떻게 소식을 전했을까요? 사람이 직접 가거나, 산봉우리에서 횃불이나 연기를 피워 소식을 알렸어요.",
+      "est_speech_ms": 46000,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "목멱산 봉수대(복원), 서울 남산"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/bb864c3453df1d52/fig_002.jpg",
+          "caption": "목멱산 봉수대(복원), 서울 남산",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 0,
+      "section_title": "국가의 위급한 상황을 전하던",
+      "narration": "적이 쳐들어오는 등 위험한 상황이 벌어졌을 때는 빨리 소식을 전하는 것이 중요했거든요. 그래서 이런 소식들을 쉽고 빨리 전달할 수 있도록 제도를 만들었어요. 바로 봉수 제도와 파발 제도에요.",
+      "est_speech_ms": 15400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 0,
+      "section_title": "국가의 위급한 상황을 전하던",
+      "narration": "봉수는 횃불(烽,봉)과 연기(燧,수)를 피워 소식을 알리는 것이고, 파발은 사람이 말을 타고 가거나 빠른 걸음으로 걸어가서 소식을 전하는 것을 말해요.\n그렇다면 언제부터 봉수를 이용했을까요? 정확히는 알 수 없지만 삼국사기와 삼국유사를 보면 삼국 시대에 봉화를 피운 이야기가 등장해요.\n고려 시대에도 봉수 제도가 실시되었어요. 고려에 온서긍이라는 송의 사신이 쓴 고려도경에는 사신이 흑산도에 들어서면 산꼭대기에 있는 봉수대에 횃불을 밝혀 수도 개경까지 소식을 전했다는 기록이 있어요.\n그리고 조선 초기에 고려의 역사를 정리하여 만든 고려사를 보면 고려 말에 왜구가 쳐들어왔을 때 봉수를 이용해 소식을 알렸다고도 해요.",
+      "est_speech_ms": 50600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 4,
+      "section_index": 0,
+      "section_title": "국가의 위급한 상황을 전하던",
+      "narration": "조선은 고려의 봉수제를 이어받아 1394년(태조3) 한양의 목멱산(남산)에 봉수대를 설치했어요. 세종 때에는 봉수 제도가 체계적으로 정비되었지요.\n세종은 국방을 튼튼히 하기 위해 다양한 노력을 기울였어요. 우선 전국의 봉수가 있는 곳에 높은 단을 쌓고 봉수대를 정비하도록 했어요.\n이로써 지방에서 한양까지 전달되는 5개의 봉수로가 마련되었어요. 도읍인 한양에 있던 목멱산에는 5개의 봉수로를 통해 전달된 소식을 받는 중앙 봉수대가 있었어요.\n하지만 봉수 제도가 항상 잘 운영되었던 것은 아니에요. 1592년(선조 25) 임진왜란 때는 봉수가 제대로 올려지지 않아 그 기능을 제대로 하지 못했어요. 게다가 전쟁 통에 봉수대마저 많이 파괴되어 제 기능을 하기 어려워졌지요.",
+      "est_speech_ms": 55000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 1,
+      "section_title": null,
+      "narration": "이에 대한 대비책으로 사람이 직접 소식을 전하는 파발의 필요성이 주장되었어요. 그리고 1597년(선조 30)에 파발 제도를 실시하게 되었지요.\n이후에 다시 봉수대가 점차 복구되고 봉수 제도 운영을 개선하기 위한 노력이 이루어지면서 봉수 제도는 파발 제도와 함께 운영되어 왔어요. 그러다 근대적인 전화 통신이 도입된 다음 해인 1895년(고종 32)에야 폐지되었답니다.\n지금부터 조선시대 대표적인 통신 수단인 봉수를 살펴보고, 봉수 제도 에 대해 자세히 알아볼까요?",
+      "est_speech_ms": 38200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/bb864c3453df1d52/fig_030.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 2,
+      "section_title": "봉수대의 횃불의 개수가 달랐던 이유",
+      "narration": "봉수대의 횃불의 개수가 달랐던 이유\n봉수 제도는 낮에는 연기, 밤에는 횃불을 피워 긴급한 상황을 알리던 제도이지요. 구름이 끼거나 안개가 자욱할 때는 횃불이나 연기는 멀리서 보이지 않기 때문에 병사가 다음 봉수대까지 뛰어가서 소식을 전했어요.\n상황에 따라 봉수의 개수는 달랐어요. 아무 일 없이 평화로운 상태일 때는 1개의 봉수를 피웠어요. 적이 국경 지대에 나타나면 2개의 봉수를 피웠어요. 적이 국경에 가까이 오면 3개, 적이 국경을 넘으면 4개, 국경을 넘어온 적과 우리 병사들 간에 전투가 벌어지면 5개의 봉수를 피웠지요.",
+      "est_speech_ms": 42800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "각 지역에 연결된 5개의 봉수로",
+      "narration": "병조에서는 항상 목멱산의 봉수를 관찰했어요. 그리고 새벽마다 왕에게 상황을 보고했답니다.\n각 지역에 연결된 5개의 봉수로\n조선시대 봉수는 5개의 길로 연결되어 있었어요. 제1 봉수는 북쪽 국경 지대인 함경도 경흥에서 시작해서 강원도를 거쳐 한양의 아차산으로 전해졌어요.\n제2 봉수는 남쪽 끝인 경상도에서 경기도 광주 천림산으로 전해졌어요. 제3 봉수는 서북쪽 끝인 평안도에서 한양 무악산으로 전달되었어요.",
+      "est_speech_ms": 34000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/bb864c3453df1d52/fig_040.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 3,
+      "section_title": "각 지역에 연결된 5개의 봉수로",
+      "narration": "제4 봉수는 서쪽 해안에서 한양 무악산 서쪽으로, 제5 봉수는 전라도와 충청도에서 시작된 봉수가 서울 양천의 개화산으로 전달되었어요.\n이렇게 모든 봉수는 마지막에 목멱산으로 전달되었지요.\n그럼 정보가 출발지에서 마지막 봉수대인 목멱산까지 도착하는 데는 얼마나 걸렸을까요? 12시간이었답니다. 너무 오래 걸린다고요? 당시로써는 매우 빠른 속도였겠죠?\n봉수는 끊기지 않고 끝까지 전달되는 게 중요했어요. 끊기는 일이 있으면 그 지역 수령에게 책임을 물었어요. 그러니 수령들은 항상 봉수의 상황을 잘 살펴야 했답니다.",
+      "est_speech_ms": 42600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "목멱산 다섯 곳에 있었던 봉수대",
+      "narration": "목멱산 다섯 곳에 있었던 봉수대\n목멱산은 조선시대 도읍인 한양의 남쪽에 있던 산으로 경복궁에서도 바라보이는 위치에 있어요.\n목멱산의 동쪽에서 서쪽으로 가는 길목 다섯 곳에 봉수대가 있었어요. 다섯 곳에 봉수대가 있었던 까닭은 다섯 지역에서 오는 소식을 전달받아 궁에 전하기 위해서였지요.\n무악산 동봉수대(복원, 서울 서대문구)와 아차산 봉수대(복원, 서울 중랑구)",
+      "est_speech_ms": 29800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/bb864c3453df1d52/fig_051.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "section_index": 5,
+      "section_title": "해안선을 따라 설치되었던 연대",
+      "narration": "병조의 관리들은 이튿날 새벽마다 봉수대의 상황을 왕의 비서 기관인 승정원에 알렸어요.\n목멱산 봉수대 중 동쪽 제1봉은 함경도와 강원도 지역과 연결되었어요.\n제2봉은 경상도와 충청도로, 제3봉과 제4봉은 평안도와 황해도로, 제5봉은 전라도와 충청도로 연결되었고요.\n지금은 각 봉수대 위치가 어디인지는 정확히 알 수 없어요. 남아 있는 기록을 참고해 한 곳의 봉수대만 복원해 놓은 상황이에요.\n목멱산과 연결된 무악산 동봉수대와 아차산 봉수대도 복원했지요.\n해안선을 따라 설치되었던 연대\n봉수대는 설치되는 곳에 따라 이름이 달랐어요. 목멱산의 봉수는 한양에 있어서 경봉수라고 해요.",
+      "est_speech_ms": 48000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "해안선을 따라 설치되었던 연대",
+      "narration": "바닷가와 국경 지역의 봉수는 연변 봉수라고 하지요.\n연변 봉수와 경봉수를 연결해주는 것은 내지 봉수라고 하고요.\n봉수와 비슷한 역할을 하던 연대도 있어요.\n연대는 해안가를 따라 설치되었지요. 제주도의 경우 봉수가 25개, 연대가 38개소가 있었다고 해요. 봉수가 제주의 오름에 설치되었다면 연대는 해안지역 언덕 지대에 설치되었어요.\n돌로 쌓아진 연대에서 적의 움직임을 살폈지요. 돌을 둘러쌓고, 불을 피울 수 있는 시설을 두었어요. 봉수대와 마찬가지로 횃불이나 연기로 위급한 상황을 알렸어요. 적들이 쳐들어오면 맞서 싸워야하는 곳이기에 요새 시설도 갖추고 있었어요.",
+      "est_speech_ms": 46600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "우지연대(제주 제주시), 문화재청"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/bb864c3453df1d52/fig_063.jpg",
+          "caption": "우지연대(제주 제주시), 문화재청",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 봉수군의 하루",
+      "narration": "역사 속 작은 이야기: 봉수군의 하루\n봉수대와 관련된 여러 가지 일을 담당하던 군인을 봉수군 혹은 봉군, 봉졸이라고 해요. 그들은 봉수대가 있는 마을 주민 중에서 뽑혔어요.\n봉수대가 있는 산 정상에 만들어 놓은 주거 시설에 살며 교대로 임무를 담당했어요.\n봉수군의 임무는 무엇이었을까요?\n당연히 중요한 임무는 봉수를 피우는 것이었지요. 봉수를 피울 소나무나 버드나무, 짐승과 가축의 똥을 모으는 일도 했어요. 비가 오면 땔감을 구할 수 없으니 항상 넉넉하게 봉화를 피울 재료를 마련해 놓는 일도 놓치면 안 되었지요.",
+      "est_speech_ms": 41200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 봉수군의 하루",
+      "narration": "봉수군 홀로 봉수대를 지키는 일은 고되고 힘든 일이었어요.\n겨울에는 추위에 시달렸어요. 이들의 신분은 양인이었지만 고된 일을 하니 천한 취급까지 받았어요.\n너무 힘들어서 도망쳐 머리 깎고 스님이 된 경우까지 있었대요. 그래서 봉수군을 관리하는 사람도 있었죠. 하급 장교인 봉수별장은 봉수군을 지휘하며 봉수 제도가 제대로 운영되도록 하였지요.",
+      "est_speech_ms": 28200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "봉화불을 피우는 봉수군"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/bb864c3453df1d52/fig_081.jpg",
+          "caption": "봉화불을 피우는 봉수군",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 6,
+      "section_title": "역사 속 작은 이야기: 봉수군의 하루",
+      "narration": "봉수군이 해야 할 일을 제대로 하지 않을 때는 곤장을 맞았어요. 적이 쳐들어왔는데도 알리지 않았을 때는 사형을 당하기도 했지요. 벌이 이렇게 무거웠다는 것은 그만큼 그 일이 중요하다는 이야기겠죠? 하지만 봉수군의 업무는 너무 힘들었던 것 같아요.\n초고속 정보 통신망을 갖춘 시대를 살아가는 우리에게 봉수 제도가 그리 특별하게 다가오지 않을 수도 있어요. 하지만 정보 통신의 시작이라고 할 수 있는 봉수 제도는 국가를 지키는 수단으로 오랫동안 그 역할을 톡톡히 해냈어요. 그리고 지금도 곳곳에 흔적이 남아 우리 조상들의 지혜를 엿볼 수 있게 해주고 있답니다.",
+      "est_speech_ms": 45200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}

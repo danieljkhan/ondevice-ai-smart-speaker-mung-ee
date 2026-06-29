@@ -1,0 +1,405 @@
+{
+  "schema_version": 2,
+  "doc_hash": "412c933e4704fc2b",
+  "source_file": "eh_r0382_0010.pdf",
+  "title": "광복 후 대한민국 정부 수립",
+  "kind": "artifact",
+  "era": "현대",
+  "era_source": "keyword",
+  "scene_count": 17,
+  "section_count": 9,
+  "image_count": 8,
+  "est_total_ms": 717700,
+  "sections": [
+    {
+      "section_index": 0,
+      "section_title": "광복 후 대한민국 정부 수립",
+      "scene_indices": [
+        0
+      ],
+      "scene_seq": [
+        1
+      ],
+      "image_captions": [
+        "대한민국 정부 수립 선포식(국가기록원)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 1,
+      "section_title": "광복을 맞이하다",
+      "scene_indices": [
+        1,
+        2
+      ],
+      "scene_seq": [
+        2,
+        3
+      ],
+      "image_captions": [
+        "광복을 맞이하여 기뻐하는 사람들"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 2,
+      "section_title": "신탁 통치 실시를 둘러싸고 갈등이 발생하다",
+      "scene_indices": [
+        3,
+        4
+      ],
+      "scene_seq": [
+        4,
+        5
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 3,
+      "section_title": "미소 공동 위원회가 개최되다",
+      "scene_indices": [
+        5,
+        6
+      ],
+      "scene_seq": [
+        6,
+        7
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 4,
+      "section_title": "미국이 한반도 문제를 유엔(UN)에 넘기다",
+      "scene_indices": [
+        7,
+        8
+      ],
+      "scene_seq": [
+        8,
+        9
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 5,
+      "section_title": "남북 협상이 이루어지다",
+      "scene_indices": [
+        9,
+        10
+      ],
+      "scene_seq": [
+        10,
+        11
+      ],
+      "image_captions": [
+        "남북 협상에 참석하려고 38도선을 넘는 김구 일행(백범김구선생기념사업협회)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 6,
+      "section_title": "5ㆍ10 총선거가 실시되다",
+      "scene_indices": [
+        11
+      ],
+      "scene_seq": [
+        12
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    },
+    {
+      "section_index": 7,
+      "section_title": "대한민국 정부가 수립되다",
+      "scene_indices": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "scene_seq": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "image_captions": [
+        "5·10 총선거에 참여하는 사람들",
+        "대한민국 정부 수립 국민 축하식(국가기록원)",
+        "1945년 해방 직후 청년모임에서 연설하는 여운형(몽양여운형선생기념사업회)"
+      ],
+      "is_infographic": false
+    },
+    {
+      "section_index": 8,
+      "section_title": null,
+      "scene_indices": [
+        16
+      ],
+      "scene_seq": [
+        17
+      ],
+      "image_captions": [],
+      "is_infographic": false
+    }
+  ],
+  "scenes": [
+    {
+      "seq": 1,
+      "section_index": 0,
+      "section_title": "광복 후 대한민국 정부 수립",
+      "narration": "광복 후 대한민국 정부 수립\n“오늘 드디어 대한민국 정부가 세워지는구나!”\n“제헌 국회에서 뽑은 이승만 대통령이 대한민국 정부 수립을 알리는 것을 보니 정말 감격스러워.”\n광복 3년 만에 대한민국 정부가 세워졌어요. 5·10 총선거로 구성된 제헌 국회에서 뽑은 이승만 대통령이 행정부를 구성하고 1948년 8월 15일, 대한민국 정부 수립을 국내외에 선포하였어요.\n대한민국 정부 수립은 우리 민족이 광복을 맞이한 지 꼭 3년 만에 이뤄진 것이었어요. 어떤 과정을 거쳐 대한민국 정부가 수립되었을까요?",
+      "est_speech_ms": 40400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대한민국 정부 수립 선포식(국가기록원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/412c933e4704fc2b/fig_001.jpg",
+          "caption": "대한민국 정부 수립 선포식(국가기록원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "section_index": 1,
+      "section_title": "광복을 맞이하다",
+      "narration": "광복을 맞이하다\n1945년 8월 15일, 마침내 우리나라가 일본의 지배에서 벗어나 광복을 맞이했어요. 이 소식을 들은 우리 민족 모두가 기뻐하며 거리로 뛰쳐나 와 만세를 불렀지요.\n이제 우리 힘으로 나라를 만들고 잘 살아갈 꿈에 부풀었어요. 일제강점기 동안 학교에서 배우지 못했던 우리의 글인 한글과 우리나라의 역사를 다시 배울 수 있게 되었답니다.\n하지만 기쁨도 잠시, 우리나라는 남과 북으로 나뉘게 되었어요. 왜냐하면 미국과 소련이라는 두 강대국이 우리나라를 잠시 나누어 통치하기로 약속을 했기 때문이에요.",
+      "est_speech_ms": 42000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 3,
+      "section_index": 1,
+      "section_title": "광복을 맞이하다",
+      "narration": "그래서 우리나라는 38도선 북쪽은 소련이, 남쪽은 미국이 맡기로 해 나라 가 둘로 나뉜 상태로 광복을 맞이했죠. 더구나 한반도 상황을 잘 몰랐던 미국은 효율적인 통치를 위해 조선총독부에서 일했던 관리들과 경찰들을 그대로 일하게 했어요. 이것은 일제 강점기 동안 우리 민족을 괴롭혔던 친일파 세력에게 다시 힘을 실어주는 결과가 되기도 했답니다.",
+      "est_speech_ms": 28200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "광복을 맞이하여 기뻐하는 사람들"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/412c933e4704fc2b/fig_015.jpg",
+          "caption": "광복을 맞이하여 기뻐하는 사람들",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "section_index": 2,
+      "section_title": "신탁 통치 실시를 둘러싸고 갈등이 발생하다",
+      "narration": "신탁 통치 실시를 둘러싸고 갈등이 발생하다\n1945년 12월, 소련의 모스크바에서 미국, 소련, 영국 세 나라의 외무장관이 모여 회의를 했어요. 제2차 세계 대전이 끝난 후의 세계 질서에 대해 논의를 했던 것이죠.\n이 회의에서 우리나라 문제도 다뤄졌어요. 회의 결과 한반도에 우선 한국인들에 의한 민주주의 임시 정부를 세우겠다는 것, 이를 위해 미국과 소련의 대표가 모여 논의하는 위원회를 개최한다는 것, 새로 수립되는 임시 정부와의 협의를 거쳐 한반도에 통일 정부 수립 전에 미국, 소련, 영국, 중국 네 나라가 일정 기간 동안 우리나라를 대신 맡아 관리하는 신탁 통치를 실시할 것 등을 결정을 했어요.",
+      "est_speech_ms": 48000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 5,
+      "section_index": 2,
+      "section_title": "신탁 통치 실시를 둘러싸고 갈등이 발생하다",
+      "narration": "이 소식이 우리나라에 전해지자 신탁 통치 문제를 둘러싸고 큰 갈등이 발생했어요. 어떤 사람들은 강대국들이 정한 합의를 받아들여야 한다고 생각했고, 또 어떤 사람들은 다른 나라의 간섭 없이 우리 힘으로 즉각 독립해야 한다며 신탁 통치를 강력하게 반대했어요.\n또한 미국과 소련이 합의했던 신탁 통치가 소련측만이 주장한 것으로 국내에 잘못 알려지며 갈등을 증폭시키기도 했습니다. 신탁 통치를 찬성하는 쪽과 반대하는 쪽 사이에 갈등이 커지면서 우리 민족의 힘이 하나로 모이기 어려워졌답니다.",
+      "est_speech_ms": 40200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/412c933e4704fc2b/fig_025.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "section_index": 3,
+      "section_title": "미소 공동 위원회가 개최되다",
+      "narration": "미소공동위원회가 개최되다\n1946년 3월 미국과 소련은 제1차 미소공동위원회를 열었어요. 이 위원회에서는 남북한에 임시 정부를 세우는 문제를 논의했어요.\n하지만 미국과 소련은 임시 정부에 참여시킬 우리나라 대표들을 정하는 문제부터 의견이 달랐어요. 소련은 신탁 통치에 반대하는 사람들을 빼고 논의해야 한다고 주장한 반면, 미국은 모든 정치 세력이 참여해야 한다고 맞섰죠. 결국 두 나라는 서로의 주장을 굽히지 않았고, 미소공동위원회는 아무런 성과를 내지 못하고 잠시 쉬기로 했어요.\n좌우 합작 운동이 전개되다",
+      "est_speech_ms": 42600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 7,
+      "section_index": 3,
+      "section_title": "미소 공동 위원회가 개최되다",
+      "narration": "제1차 미소공동위원회가 성과 없이 중단되자 당시 유력한 정치인이었던 이승만은 통일 정부 수립이 가장 좋지만 그것이 힘들다면 남한 지역만이라 도 정부를 세우자고 주장했어요.\n그러자 남한 지역만 정부를 세우면 남과 북이 분단이 될 수밖에 없으니 사회주의 세력(좌익 세력)과 민족주의 세력(우익 세력)이 힘을 합해 통일 정부를 수립하자는 운동이 일어났어요.",
+      "est_speech_ms": 29000,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": [
+        {
+          "path": "assets/history/images/412c933e4704fc2b/fig_034.jpg",
+          "caption": null,
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "section_index": 4,
+      "section_title": "미국이 한반도 문제를 유엔(UN)에 넘기다",
+      "narration": "이 운동을 좌우 합작 운동이라고 하는데, 여운형과 김규식 등이 이 운동을 주도했어요. 좌우 합작 운동은 이념과 사상의 차이를 넘어 민족의 단결을 이루려는 중요한 시도였어요.\n광복 이전부터 독립운동가들이 여러 이념의 차이를 극복하고 힘을 합치려했던 노력을 이어받은 것이었죠. 좌우합작운동은 비록 성공하지는 못했지만, 갈라진 민족의 마음을 하나로 모으려했던 값진 경험으로 남아, 훗날 남북 사이의 대화로 이어지는 밑거름이 되었답니다.\n미국이 한반도 문제를 유엔(UN)에 넘기다\n한편 1947년 5월에 제2차 미소공동위원회가 열렸어요. 그러나 미국과 소련의 주장이 맞부딪치면서 제2차 회의 또한 제대로 이어지지 못 했어요. 더욱이 이때는 세계적 차원에서 미국과 소련의 갈등이 격화되며 냉전이 본격화되고 있었어요.",
+      "est_speech_ms": 58800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 9,
+      "section_index": 4,
+      "section_title": "미국이 한반도 문제를 유엔(UN)에 넘기다",
+      "narration": "그러자 미국은 우리나라 문제를 국제 연합, 즉 유엔(UN)에 넘기기로 결정했어요. 유엔 총회에서는 우리나라에 정부를 세우기 위해 남한과 북한 모두에서 인구 비례에 따라 총선거를 실시하자는 결정이 내려졌어요. 유엔은 선거가 공정하게 이루어지는지 감시하기 위해 우리나라에 위원단도 보내기로 했답니다.\n유엔 한국 임시 위원단은 통일 정부 수립을 바라던 시민들의 환영을 받으며 서울에 들어왔어요. 그러나 소련과 북한의 반대로 북한 지역에는 들어가지 못했어요.\n왜냐하면 미국이 주도하고 있는 유엔을 신뢰하고 있지 않았던 소련과 북한은 인구 비례에 따라 남북한 총선거를 실시하면 한반도에 사회주의 정권이 아닌 자본주의 정권이 수립될 것을 우려했기 때문이죠.",
+      "est_speech_ms": 53800,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 10,
+      "section_index": 5,
+      "section_title": "남북 협상이 이루어지다",
+      "narration": "남북 협상이 이루어지다\n소련과 북한이 유엔 한국 임시 위원단의 방문을 거절하면서 한반도가 남과 북, 둘로 나뉠지도 모른다고 생각하는 사람들이 늘었어요. 더구나 유엔에서는 유엔 한국 임시 위원단의 접근이 가능한 지역, 즉 남한 지역에 서만 총선거를 실시하기로 결정했어요.\n이러한 상황에서 우리 민족 전체가 참여하는 통일 정부를 세우기 위한 노력이 있었어요. 김구, 김규식 등 남한의 여러 지도자들은 평양에 가서 북한의 지도자들을 만나 우리나라의 통일 문제를 논의하는 남북 협상을 시도하였어요.\n특히 김구는 북한에 이용될 수 있다며 끝까지 말리는 주변의 만류를 무릅쓰고, 통일 국가 수립에 조금이나마 기여하겠다는 각오로 북한으로 향했어요.",
+      "est_speech_ms": 52400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 11,
+      "section_index": 5,
+      "section_title": "남북 협상이 이루어지다",
+      "narration": "1948년 4월 평양에서 남북한 지도자들이 모여 통일 정부 수립을 위해 구체적인 의논을 했어요. 여기서 단독정부 수립 반대, 미군과 소련군의 철수를 요구하는 합의안도 만들어 발표했어요. 그러나 미국과 소련은 합의 안을 받아들이지 않았어요. 결국 남북 협상은 성과 없이 끝나고 말았답니다.",
+      "est_speech_ms": 23600,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "남북 협상에 참석하려고 38도선을 넘는 김구 일행(백범김구선생기념사업협회)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/412c933e4704fc2b/fig_054.jpg",
+          "caption": "남북 협상에 참석하려고 38도선을 넘는 김구 일행(백범김구선생기념사업협회)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "section_index": 6,
+      "section_title": "5ㆍ10 총선거가 실시되다",
+      "narration": "5ㆍ10 총선거가 실시되다\n북한의 평양에서 남북 협상이 이루어지고 있던 시기 제주도에서는 남한만 의 총선거를 반대하는 사람들이 총을 들었어요. 군대와 경찰은 이를 진압하였고, 이 과정에서 25,000여 명이 넘는 사람들이 죽거나 다쳤어요. 이 를 제주 4·3 사건이라고 해요.\n결국 유엔(UN)의 결정에 따라 1948년 5월 10일, 마침내 국회의원을 뽑는 총선거가 남한에서만 실시되었어요. 우리나라 역사상 보통 선거로 국회의원을 뽑은 것은 이때가 처음이었답니다. 많은 사람들이 분단 정부 수립을 안타까워하면서도 소중한 한 표를 행사하며 우리나라의 앞날을 결정하는 데 참여했어요.",
+      "est_speech_ms": 47600,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 13,
+      "section_index": 7,
+      "section_title": "대한민국 정부가 수립되다",
+      "narration": "5·10 총선거를 통해 뽑힌 국회의원들이 모여 제헌 국회를 만들었어요. 제헌 국회는 ‘헌법을 만드는 국회’라는 뜻이에요. 제헌 국회는 우리나라의 이 름을 ‘대한민국’으로 정하고, 모든 법들의 기본이 되는 헌법을 만들고 발표했답니다.\n대한민국 정부가 수립되다\n제헌 국회에서 만든 헌법에 따라 국회의원들이 대통령과 부통령을 뽑았어요. 이승만이 초대 대통령으로, 이시영이 초대 부통령으로 선출되었어요. 그리고 1948년 8월 15일, 광복을 맞이한 지 꼭 3년이 되는 날, 대한민국 정부가 공식적으로 세워졌음을 국내외에 선포하는 기념식이 열렸어요.",
+      "est_speech_ms": 44400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "5·10 총선거에 참여하는 사람들"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/412c933e4704fc2b/fig_063.jpg",
+          "caption": "5·10 총선거에 참여하는 사람들",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 14,
+      "section_index": 7,
+      "section_title": "대한민국 정부가 수립되다",
+      "narration": "이로써 우리 민족은 역사상 처음으로 국민의 대표가 만든 헌법에 따라 운영되는 민주 공화국 정부를 갖게 된 것이랍니다.\n제헌 헌법에는 국민이 나라의 주인이고 모든 권력이 국민에게서 나온다는 내용과 함께, 국민이 잘 살 수 있도록 땅을 나누어주고 중요한 공공 기업은 나라에서 운영한다는 내용도 담겨 있었어요.\n역사 속 작은 이야기: 광복 직후, 우리 스스로 정부 수립을 준비했어요!\n1945년 8월 15일, 마침내 우리나라는 일본의 지배에서 벗어나 광복을 맞이했어요. 오랫동안 기다렸던 광복이었기에 온 나라가 기쁨으로 들썩였죠. 사람들은 이제 우리 힘으로 새로운 나라를 잘 만들어 갈 수 있으리라는 기대와 희망으로 가슴이 벅찼어요.",
+      "est_speech_ms": 51200,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "대한민국 정부 수립 국민 축하식(국가기록원)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/412c933e4704fc2b/fig_070.jpg",
+          "caption": "대한민국 정부 수립 국민 축하식(국가기록원)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 15,
+      "section_index": 7,
+      "section_title": "대한민국 정부가 수립되다",
+      "narration": "하지만 기쁨만으로 모든 문제가 해결되는 것은 아니었어요. 갑작스러운 광복으로 나라의 정치ㆍ행정 체계가 제대로 갖춰지지 않아 앞으로 무엇을 어떻게 해야 할지 스스로 결정해야 하는 막막한 상황이었지요.\n하지만 우리 민족은 누군가가 해결해 주기를 마냥 손 놓고 기다리지 않았어요. 광복 직후부터 우리나라를 어떻게 이끌어 갈지 스스로 준비하기 시작했답니다.",
+      "est_speech_ms": 29200,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    },
+    {
+      "seq": 16,
+      "section_index": 7,
+      "section_title": "대한민국 정부가 수립되다",
+      "narration": "여운형, 안재홍 등 민족운동가들은 나라를 세우기 위한 건국 준비 위원회를 만들었어요. 이 위원회는 전국 곳곳을 돌아다니며 사람들에게 광복 소식을 알리고, 새로운 나라를 만드는 데 함께 힘을 모으자고 이야기했어요.\n갑자기 광복이 되어 혼란스러울 수 있는 상황에서, 우리 스스로 직접 치안을 유지하고 질서를 잡으려는 노력도 했답니다.\n많은 사람들이 이들의 뜻에 함께하며 새로운 나라, 안전하고 질서 있는 나 라를 만들기를 기대했어요.\n중국에서 독립운동을 하던 김구 등 대한민국 임시 정부에서 활동하던 사람들, 미국에서 독립운동을 하던 이승만 등도 고국으로 돌아와 우리나라 의 앞날에 대한 이야기를 나누기 시작했답니다.",
+      "est_speech_ms": 50400,
+      "tail_silence_ms": 500,
+      "image_captions": [
+        "1945년 해방 직후 청년모임에서 연설하는 여운형(몽양여운형선생기념사업회)"
+      ],
+      "images": [
+        {
+          "path": "assets/history/images/412c933e4704fc2b/fig_081.jpg",
+          "caption": "1945년 해방 직후 청년모임에서 연설하는 여운형(몽양여운형선생기념사업회)",
+          "letterboxed": true,
+          "clean": true,
+          "is_infographic": false,
+          "anchor_ratio": 0.0
+        }
+      ]
+    },
+    {
+      "seq": 17,
+      "section_index": 8,
+      "section_title": null,
+      "narration": "비록 미국과 소련 등 강대국들이 한반도의 38도선을 기준으로 나누어 통치하면서 우리 민족의 통일 정부 수립 노력이 원하던 결실을 맺지는 못 했지만 광복 직후부터 우리 민족 스스로 나라를 만들고 지키려했던 뜨거운 마음과 노력이 있었다는 것을 꼭 기억해 주세요!\n그 노력들은 언젠가 남북한의 통일 정부 수립에 큰 바탕이 될 수 있을 거예요.",
+      "est_speech_ms": 27400,
+      "tail_silence_ms": 500,
+      "image_captions": [],
+      "images": []
+    }
+  ]
+}
