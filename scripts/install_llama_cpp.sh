@@ -7,7 +7,7 @@ REPO_ROOT="$(cd -- "${SCRIPT_DIR}/.." && pwd)"
 PYTHON_BIN="${PYTHON_BIN:-python}"
 LEGACY_WHEEL_FILENAME="llama_cpp_python-0.3.17-cp310-cp310-linux_aarch64.whl"
 LEGACY_RELEASE_TAG="v0.3.17-llama"
-GITHUB_RELEASE_DOWNLOAD_BASE="https://github.com/OWNER/ondevice-ai-smart-speaker-mung-ee/releases/download"
+GITHUB_RELEASE_DOWNLOAD_BASE="https://github.com/danieljkhan/ondevice-ai-smart-speaker-mung-ee/releases/download"
 LEGACY_RELEASE_BASE_URL="${GITHUB_RELEASE_DOWNLOAD_BASE}/${LEGACY_RELEASE_TAG}"
 LLAMA_CPP_RELEASE_URL="${LLAMA_CPP_RELEASE_URL:-\
 ${LEGACY_RELEASE_BASE_URL}/${LEGACY_WHEEL_FILENAME}}"

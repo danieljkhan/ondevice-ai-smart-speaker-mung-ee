@@ -108,7 +108,7 @@ If `/opt/mungi-repo` does not exist yet:
 
 ```bash
 cd /opt
-sudo git clone https://github.com/OWNER/ondevice-ai-smart-speaker-mung-ee.git mungi-repo
+sudo git clone https://github.com/danieljkhan/ondevice-ai-smart-speaker-mung-ee.git mungi-repo
 ```
 
 If it already exists:

@@ -373,7 +373,7 @@ ssh -T git@github.com
 
 ```bash
 cd /opt
-sudo git clone git@github.com:OWNER/ondevice-ai-smart-speaker-mung-ee.git mungi-repo
+sudo git clone git@github.com:danieljkhan/ondevice-ai-smart-speaker-mung-ee.git mungi-repo
 sudo chown -R $(whoami):$(whoami) /opt/mungi-repo
 ```
 

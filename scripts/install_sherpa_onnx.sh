@@ -4,7 +4,7 @@ set -euo pipefail
 TARGET_VERSION="1.12.38"
 SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd -- "${SCRIPT_DIR}/.." && pwd)"
-SHERPA_ONNX_RELEASE_URL="${SHERPA_ONNX_RELEASE_URL:-https://github.com/OWNER/ondevice-ai-smart-speaker-mung-ee/releases/download/v1.12.38-sherpa-gpu/sherpa_onnx-1.12.38-cp310-cp310-linux_aarch64.whl}"
+SHERPA_ONNX_RELEASE_URL="${SHERPA_ONNX_RELEASE_URL:-https://github.com/danieljkhan/ondevice-ai-smart-speaker-mung-ee/releases/download/v1.12.38-sherpa-gpu/sherpa_onnx-1.12.38-cp310-cp310-linux_aarch64.whl}"
 SHERPA_ONNX_SHA256="${SHERPA_ONNX_SHA256:-858f730cc605c6289a17fbde22d399e38c239e9e5636d1b8df8825b606857bde}"
 SHERPA_ONNX_WHEEL_PATH="${SHERPA_ONNX_WHEEL_PATH:-wheelhouse/sherpa_onnx-1.12.38-cp310-cp310-linux_aarch64.whl}"
 

@@ -44,7 +44,7 @@ def test_install_script_exposes_expected_release_constants() -> None:
     constants = _load_script_constants()
 
     assert constants["GITHUB_RELEASE_DOWNLOAD_BASE"] == (
-        "https://github.com/OWNER/ondevice-ai-smart-speaker-mung-ee/releases/download"
+        "https://github.com/danieljkhan/ondevice-ai-smart-speaker-mung-ee/releases/download"
     )
     assert constants["LEGACY_RELEASE_TAG"] == "v0.3.17-llama"
     assert (
@@ -86,7 +86,7 @@ def test_install_script_constructs_release_download_urls(
 
     assert release_url.endswith(expected_suffix)
     assert release_url == (
-        f"https://github.com/OWNER/ondevice-ai-smart-speaker-mung-ee/releases/download{expected_suffix}"
+        f"https://github.com/danieljkhan/ondevice-ai-smart-speaker-mung-ee/releases/download{expected_suffix}"
     )
 
 
